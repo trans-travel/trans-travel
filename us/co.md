@@ -65,6 +65,8 @@ etc).
 
 ## Relevant Laws
 
+ * [Colorado Anti-Discrimination Act (CADA)](https://ccrd.colorado.gov/ccrd-home/regulatory-information)
+
 ## General Safety
 
 Because of the rhetoric around trans people in the political and media
