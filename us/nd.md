@@ -88,3 +88,4 @@ officials and public institutions.
 
 ## Resources
 
+ * [2023 legislative resolution for entities to use sex, not gender, in demographic gathering and provision of services](https://legiscan.com/ND/text/HCR3010/2023)
