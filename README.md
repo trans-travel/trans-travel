@@ -22,6 +22,19 @@ this could be seen as child abuse or cause child custody issues.
 
  * [USA](us)
 
+# A Note on Intersectional Oppression
+
+This directory is focused on laws and safety concerns that generally
+impact trans people. However, not all trans people have the same safety
+concerns, which is why I've refrained from saying a state might be
+"safe" or "dangerous" directly, or giving scores/grades/etc.  For
+instance, a wealthy trans person may be able to more safely visit a
+specific jurisdiction than someone without class privilege. Likewise, a
+person with white privilege might be safe in a place where a person who
+does not have that privilege might not.  The intent is to not erase
+these legitimate intersectional concerns, but to be a starting point for
+your research.
+
 # Errors / Omissions
 
 This project welcomes contributions via pull requests or email to
