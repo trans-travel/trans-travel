@@ -66,4 +66,4 @@ officials and public institutions.
 
 ## Resources
 
- * [Alska Human Rights Commission](https://humanrights.alaska.gov/)
+ * [Alaska Human Rights Commission](https://humanrights.alaska.gov/)
