@@ -18,6 +18,8 @@ Kansas does not appear to place child custody at risk.
    showers, locker rooms, homeless accommodations, etc.
  * Non-binary people are required to use facilities based on sex
    assigned at birth.
+ * Some cities have protections against gender-identity discrimination,
+   but it is unclear how that is reconciled with state law.
 
 It is unknown how this would be enforced.
 
@@ -79,3 +81,7 @@ space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to be misgendered by
 officials and public institutions.
+
+## Resources
+
+ * [Movement Advancement Project Kansas Page (lists cities with gender identity protections](https://www.lgbtmap.org/equality-maps/profile_state/KS)

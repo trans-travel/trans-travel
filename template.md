@@ -65,3 +65,8 @@ intersex people, if there is a definition?)
 ## General Safety
 
 (how safe is it, outside of laws? Is trans-bashing common?)
+
+## Resources
+
+ * (List resources for civil rights complaints, relevant discussions of
+   safety, etc)

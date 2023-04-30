@@ -85,3 +85,7 @@ said, attacks still can and do occur in Colorado.  However, rural areas
 may be more swayed by anti-trans political rhetoric, and some jurisdictions
 outside of the Denver/Boulder metro have attempted to restrict the rights
 of trans people, particularly in schools and libraries.
+
+## Resources
+
+ * [Colorado Civil Rights Division](https://ccrd.colorado.gov)
