@@ -4,7 +4,7 @@ Alabama has some negative laws towards trans people. However,
 these laws are, thus far, fairly restricted and do not apply to most
 trans people in most situations.
 
-Alabama does criminalizes trans care for children which may have an
+Alabama does criminalize trans care for children which may have an
 impact on child custody. However, this is currently stayed by judicial
 order pending ongoing legislation.
 

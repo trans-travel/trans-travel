@@ -4,7 +4,7 @@ Arizona has several negative laws towards trans people. However,
 these laws are, thus far, fairly restricted and do not apply to most
 trans visitors.
 
-Arizona does criminalizes some surgical trans care for children, but
+Arizona does criminalize some surgical trans care for children, but
 does not generally criminalize such care, thus it appears that parents
 visiting with trans children will not risk custody.
 
