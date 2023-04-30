@@ -11,6 +11,8 @@ order pending ongoing legislation.
 ## Non-discrimination Law
 
  * Alabama non-discrimination law does not include LGBT people
+ * Some municipalities may have non-discrimination laws, namely
+   Birmingham and Montevallo.
 
 ## Public Accommodations
 
