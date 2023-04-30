@@ -33,11 +33,10 @@ However, it is unknown how this might have an impact on child custody.
 ## Drag / Performance / Cross-dressing Laws
 
  * Exposure of prosthetic genitals or breasts partial or
-   completely, during "performance" (does not need to be paid) is
-   illegal.  These do not need to be attached to a human
-   to be illegal (I.E. Truck Nutz may be illegal now). This applies in
-   public and in any space where minors may be.
-
+   completely, during "performance" intended to appeal to "the prurient
+   interest" is illegal.  These do not need to be attached to a human
+   to be illegal. This applies in public and in any space where minors
+   may be.
 
 ## Air Travel
 
