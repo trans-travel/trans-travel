@@ -51,11 +51,12 @@ at birth and/or chromosomes.
  * Trans medical care is legal for adults
  * A law banning puberty blockers, hormone therapy, and surgery for
    people under 18 has passed and became law, but there is currently a
-   judicial stay preventing enforcement of this law.
+   judicial stay preventing enforcement of this law for puberty blockers
+   and hormone therapy.
  * Parents who allow children to receive trans care including puberty
    blockers, hormone therapy, and surgery are criminalized, although
    there is currently a judicial stay preventing enforcement of this
-   law.
+   law for puberty blockers and hormone therapy.
  * Medical providers can deny some care on the basis of their religious
    beliefs.
 
@@ -64,8 +65,9 @@ at birth and/or chromosomes.
  * Some transition care (puberty blockers, hormone therapy, and surgery)
    for children is illegal, in a law entitled the "Alabama Vulnerable
    Child Compassion and Protection Act."  This law is blocked from
-   enforcement by court while litigation proceeds, but shows the state's
-   view of this care.
+   enforcement (for the puberty blocker and hormone therapy aspects)
+   by court while litigation proceeds, but shows the state's view of
+   this care.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
  
