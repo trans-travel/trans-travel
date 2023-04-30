@@ -33,7 +33,8 @@ civil action, and you may not be allowed through security.
 # Gender Mismatch with ID
 
 In the USA, you should generally not have problems with a gender
-expression that does not match your ID>
+expression that does not match your ID.  Note this does not apply at
+international destinations.
 
 # Pre-Check
 
