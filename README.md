@@ -20,7 +20,7 @@ this could be seen as child abuse or cause child custody issues.
 
 # Directory of Jurisdictions
 
- * (USA)[us]
+ * [USA](us)
 
 # Errors / Omissions
 
