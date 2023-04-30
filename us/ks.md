@@ -19,6 +19,8 @@ Kansas does not appear to place child custody at risk.
  * Non-binary people are required to use facilities based on sex
    assigned at birth.
 
+It is unknown how this would be enforced.
+
 ## Drag / Performance / Cross-dressing Laws
 
  * Currently, no ban on drag performance
