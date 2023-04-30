@@ -15,8 +15,9 @@ care.
 
 ## Public Accommodations
 
- * Trans people are allowed to use the facilities they are safest in,
-   including bathrooms, showers, locker rooms, etc.
+ * Trans people are allowed to use the facilities they are comfortable
+   in, including bathrooms, showers, locker rooms, etc.  Legal
+   documentation of your gender is not required for this protection.
 
 ## Drag / Performance / Cross-dressing Laws
 
