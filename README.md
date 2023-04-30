@@ -18,6 +18,10 @@ a business project for several months in a state may need to utilize
 medical care. Others may travel with children and be concerned about how
 this could be seen as child abuse or cause child custody issues.
 
+# Directory of Jurisdictions
+
+ * (USA)[us]
+
 # Errors / Omissions
 
 This project welcomes contributions via pull requests or email to
