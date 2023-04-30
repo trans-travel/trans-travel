@@ -22,6 +22,13 @@ the most important info)
 
  * (Is there a drag ban?)
 
+## Air Travel
+
+For USA, include:
+See the [USA TSA](../notes/tsa.md) document.
+
+Otherwise, list travel requirements relevant to trans people.
+
 ## Jails / Prisons
 
  * (How are prisoners housed?)

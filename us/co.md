@@ -23,6 +23,10 @@ care.
 
  * Drag performance and cross-dressing is legal in Colorado.
 
+## Air Travel
+
+See the [USA TSA](../notes/tsa.md) document.
+
 ## Jails / Prisons
 
  * While most jails/prisons have regulations that, in theory, would
