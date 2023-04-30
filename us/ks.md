@@ -31,6 +31,9 @@ It is unknown how this would be enforced.
 
 See the [USA TSA](../notes/tsa.md) document.
 
+ * It is illegal to use a bathroom that does not match your sex assigned
+   at birth in Kansas airports.
+
 ## Jails / Prisons
 
  * Trans women would be required to be housed with men
