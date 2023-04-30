@@ -70,8 +70,8 @@ etc).
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
-trans people who report these attacks can expect to be misgendered by
-officials and public institutions.
+trans people who report these attacks can expect to sometimes be misgendered
+by officials and public institutions.
 
 However, much of Colorado is considered reasonably safe, particularly
 the Denver/Boulder metro area where many people are visibly trans. That
