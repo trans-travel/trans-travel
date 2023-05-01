@@ -84,6 +84,9 @@ at birth and/or chromosomes.
 The state has a law that prevents instruction on sexual orientation or
 gender identity (or really any mention) up to grade 5 in schools.
 
+Birmingham has been called out as "the hub of all queerness" in
+Alabama, and may be more welcoming than some other places.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
@@ -93,3 +96,4 @@ officials and public institutions.
 ## Resources
 
  * [Boe v. Marshall, case against 2022 SB184 Tracker (Youth Healthcare)](https://www.courtlistener.com/docket/63252064/eknes-tucker-v-marshall/)
+ * [Birmingham AIDS Outreach](https://www.birminghamaidsoutreach.org/)
