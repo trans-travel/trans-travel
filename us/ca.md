@@ -76,7 +76,7 @@ by officials and public institutions.
 
 However, much of California is considered reasonably safe, particularly
 the major cities where many people are visibly trans. That said, attacks
-still can and do occur in California.  However, rural areas may be more
+still can and do occur in California.  Rural areas may be more
 swayed by anti-trans political rhetoric, and some jurisdictions outside
 of the major metro areas have attempted to restrict the rights of trans
 people, particularly in schools and libraries.
