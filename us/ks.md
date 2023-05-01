@@ -32,7 +32,8 @@ It is unknown how this would be enforced.
 See the [USA TSA](../notes/tsa.md) document.
 
  * It is illegal to use a bathroom that does not match your sex assigned
-   at birth in Kansas airports.
+   at birth in Kansas airports (note that Kansas City Airport - MCI - is
+   in Missouri)
 
 ## Jails / Prisons
 
@@ -78,6 +79,9 @@ and provided accommodations under the Americans with Disabilities Act
  * [2023 SB180](http://kslegislature.org/li/b2023_24/measures/documents/sb180_enrolled.pdf)
 
 ## General Safety
+
+Some communities may be more welcoming than others. For instance,
+Lawrence was indicated as a welcoming city.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
