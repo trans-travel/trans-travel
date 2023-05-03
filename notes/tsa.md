@@ -30,13 +30,13 @@ desired gender, although official policies may not always be followed.
 Behavior seen as aggressive towards the TSA may result in criminal or
 civil action, and you may not be allowed through security.
 
-# Gender Mismatch with ID
+## Gender Mismatch with ID
 
 In the USA, you should generally not have problems with a gender
 expression that does not match your ID.  Note this does not apply at
 international destinations.
 
-# Pre-Check
+## Pre-Check
 
 If you travel frequently and have the money to enroll, you can enroll in
 the "Pre-Check" (or "Global Entry" which includes pre-check) program.
@@ -46,9 +46,22 @@ pre-check lanes at most airports, and typically these will require a
 metal detector but not body scanner, making travel possibly less
 triggering. 
 
-# Note about International Travel
+## Note about International Travel
 
 This only applies to travel from USA-airports.  If you fly
 internationally, airports in other countries will have different
 procedures. Pre-check is a USA program, and does not apply outside the
 USA.
+
+# Airport Bathrooms
+
+Regulations around bathrooms will generally match those of public
+accommodations in the city/state the airport is in, which doesn't
+necessarily match the name the airport uses for itself.  Some US airports
+may be in states you don't expect (Examples: Cincinnati's airport is in
+Kentucky, while Kansas City's airport is on the Missouri side of the
+border).
+
+It is legal for all people to use non-gendered bathrooms.  Major
+airports typically will have a non-gendered bathroom (perhaps labeled as
+a family bathroom).
