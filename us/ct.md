@@ -86,8 +86,14 @@ trans people who report these attacks can expect to sometimes be misgendered
 by officials and public institutions.
 
 However, much of Connecticut is considered reasonably safe.  That said,
-attacks still can and do occur in Connecticut.  Rural areas may be more
-swayed by anti-trans political rhetoric.
+attacks still can and do occur in Connecticut.  Some areas may be more
+swayed by anti-trans political rhetoric. One suggestion from a CT
+resident is to look up the voting districts you will visit to see their
+party affiliation, which may correlate somewhat to LGBT acceptance/tolerance.
+
+People who live in Connecticut state that their government officials
+actively support LGBT pride events publicly and pass good LGBT-related
+legislation.
 
 ## Resources
 
