@@ -23,6 +23,9 @@ have not passed but are currently pending (May 3, 2023).
  * Florida non-discrimination law does not include LGBT people
  * Some Florida municipalities do have non-discrimination laws that
    include trans people.
+ * If signed, 2023 H1069 is signed by the Governor, public school (K12)
+   employees will not be able to be disciplined for using pronouns and
+   titles associated a trans person's sex assigned at birth.
 
 ## Public Accommodations
 
@@ -45,6 +48,16 @@ have not passed but are currently pending (May 3, 2023).
 ## Air Travel
 
 See the [USA TSA](../notes/tsa.md) document.
+ 
+ * There is currently (May 3, 2023) no "bathroom law" in Florida, however
+   legislation is proceeding which would create a bathroom law in
+   Florida (2023 H1521) that, if passed, would take effect on July 1, 2023.
+   This would make it a crime to use a bathroom not associated with your
+   assigned sex at birth, if anyone objected to your presence and you
+   refused to immediately leave.
+ * Should 2023 H1521, this law would apply to airport bathrooms, so
+   trans people and families should use caution connecting through
+   Florida airports.
 
 ## Jails / Prisons
 
@@ -96,7 +109,8 @@ have not passed but are currently pending (May 3, 2023).
 
 ## Relevant Laws
 
- * [2023 H1521 (not yet passed) - Bathroom Bill](https://legiscan.com/FL/text/H1521/id/2764723)
+ * [2023 H1069 (not yet signed) - Pronouns, Don't Say Gay](https://legiscan.com/FL/text/H1069/id/2798335)
+ * [2023 H1521 (not yet signed) - Bathroom Bill](https://legiscan.com/FL/text/H1521/id/2764723)
 
 ## General Safety
 
@@ -104,7 +118,7 @@ Equity Florida has issued a travel warning for the State of Florida.
 
 The state has a law that prevents instruction on sexual orientation or
 gender identity up to grade five in schools. A bill that would ban this
-at higher grades is currently under consideration as of May 3, 2023.
+at higher grades is pending governor signature as of May 4, 2023.
 
 The State considers exposure of children to sexual orientation or gender
 identity information to be "grooming," I.E. something done in
