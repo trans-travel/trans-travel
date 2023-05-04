@@ -36,7 +36,7 @@ See the [USA TSA](../notes/tsa.md) document.
 Non-binary people are recognized, at least by some aspects of
 government, such as in the ability to change birth certificates,
 driver licenses, and data gathering. However, non-binary recognition
-may still be in-complete in DC.
+may still be incomplete in DC.
 
 ## Medical Care
 

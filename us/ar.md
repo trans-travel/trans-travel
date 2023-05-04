@@ -64,7 +64,8 @@ at birth and/or chromosomes.
  * A 2023 law banning medical transition (with extremely narrow
    exceptions) for people under 18 has passed and became law. This goes
    into effect during summer of 2023.
- * There is a 2021 but there is currently a judicial stay preventing
+ * There is a 2021 anti-trans youth medical ban but there is currently
+   a judicial stay preventing
    enforcement of this law for puberty blockers and hormone therapy.
    The 2023 law mentioned above is to get around this block.
  * Medical providers can deny some care on the basis of their religious

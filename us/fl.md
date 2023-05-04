@@ -1,11 +1,11 @@
 # USA - Florida
 
-Equality Florida, an LGBT advocacy group, has issued an advisory
+Equality Florida, an LGBT advocacy group, has issued an advisory travel
 warning for the State of Florida.
 
-Florida negative laws and executive orders towards trans people. Some of
+Florida has negative laws and executive orders towards trans people. Some of
 these laws place trans people at risk. In addition, new laws, such as a
-bathroom law, are in the process of being passed
+bathroom law, are in the process of being passed.
 
 Florida does criminalize trans care for children, and elected officials
 in both the executive and legislative branch consider transition of
