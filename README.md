@@ -35,6 +35,21 @@ does not have that privilege might not.  The intent is to not erase
 these legitimate intersectional concerns, but to be a starting point for
 your research.
 
+# About "Bad Countries" and "Bad States"
+
+Trans people have always existed, and still do exist across all
+cultures. A jurisdiction may be unsafe or have bad laws, but there will
+still be trans people within that jurisdiction, and it's important to
+consider them before fully writing off a state or country as not worth a
+fight. In addition, there are accepting, open-minded allies in every
+jurisdiction as well.
+
+In addition, in both good and bad jurisdictions, there will be good and
+bad treatment of trans people. The summaries in this project attempt to
+summarize the situation for people, but they are just summaries. Any one
+individual's situation may be different than what others face, both good
+and bad.
+
 # Errors / Omissions
 
 This project welcomes contributions via pull requests or email to
