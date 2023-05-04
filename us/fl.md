@@ -14,6 +14,10 @@ child abuse or to be "grooming" for child abuse. This could have custody
 implications for families with children and transgender family members,
 should children enter Florida's jurisdiction.
 
+Florida legislators have proposed the use of state courts to remove custody
+from parents in the event of gender transition of a child. These bills
+have not passed but are currently pending (May 3, 2023).
+
 ## Non-discrimination Law
 
  * Florida non-discrimination law does not include LGBT people
@@ -81,7 +85,11 @@ assigned at birth.
    custody removal.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
- 
+
+Florida legislators have proposed the use of state courts to remove custody
+from parents in the event of gender transition of a child. These bills
+have not passed but are currently pending (May 3, 2023).
+
 ## Relationship Recognition
 
  * Same-sex marriage (and thus all trans marriage) is recognized
