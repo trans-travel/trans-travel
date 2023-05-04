@@ -5,7 +5,7 @@ place trans people at risk. Trans people should particularly consider
 the bathroom law. While it requires "arousing or gratifying a sexual
 desire," how that will be enforced is a gray area.
 
-Alabama does criminalize trans care for children, although the current
+Arkansas does criminalize trans care for children, although the current
 law that is not stayed by judicial order does not have parental
 penalties and has some exceptions (when it goes into effect this summer).
 However, it is unknown how this might have an impact on child custody.
