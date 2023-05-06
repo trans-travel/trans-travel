@@ -12,10 +12,12 @@ in both the executive and legislative branch consider transition of
 children (or even exposure to transgender information) to either be
 child abuse or to be "grooming" for child abuse. This could have custody
 implications for families with children and transgender family members,
-should children enter Florida's jurisdiction.
+should children enter Florida's jurisdiction, although it is not yet (or
+proposed to be under pending legislation) legally considered child
+abuse.
 
-Florida legislators have proposed the use of state courts to remove custody
-from parents in the event of gender transition of a child. These bills
+Florida legislators have proposed the use of state courts to adjust custody
+agreements in the event of gender transition of a child. These bills
 have not passed but are currently pending (May 3, 2023).
 
 ## Non-discrimination Law
@@ -101,8 +103,8 @@ assigned at birth.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
 
-Florida legislators have proposed the use of state courts to remove custody
-from parents in the event of gender transition of a child. These bills
+Florida legislators have proposed the use of state courts to adjust custody
+agreements in the event of gender transition of a child. These bills
 have not passed but are currently pending (May 3, 2023).
 
 ## Relationship Recognition
@@ -122,8 +124,8 @@ The state has a law that prevents instruction on sexual orientation or
 gender identity up to grade five in schools. A bill that would ban this
 at higher grades is pending governor signature as of May 4, 2023.
 
-The State considers exposure of children to sexual orientation or gender
-identity information to be "grooming," I.E. something done in
+Some state officials consider exposure of children to sexual orientation or
+gender identity information to be "grooming," I.E. something done in
 preparation to abuse a child. Thus trans people in the presence of
 children may be at risk of state action and/or hostile interactions with
 others who believe that your presence may be a prelude to child abuse.
