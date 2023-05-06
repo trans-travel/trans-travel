@@ -34,7 +34,8 @@ have not passed but are currently pending (May 3, 2023).
  * There is currently (May 3, 2023) no "bathroom law" in Florida, however
    legislation is proceeding which would create a bathroom law in
    Florida (2023 H1521) that, if passed, would take effect on July 1, 2023.
-   This would make it a crime to use a bathroom not associated with your
+   This would make it a crime to use a bathroom in government facilities
+   (any level of government) not associated with your
    assigned sex at birth, if anyone objected to your presence and you
    refused to immediately leave.
  * Florida has wide-reaching religious freedom laws that allow denial of
@@ -52,7 +53,8 @@ See the [USA TSA](../notes/tsa.md) document.
  * There is currently (May 3, 2023) no "bathroom law" in Florida, however
    legislation is proceeding which would create a bathroom law in
    Florida (2023 H1521) that, if passed, would take effect on July 1, 2023.
-   This would make it a crime to use a bathroom not associated with your
+   This would make it a crime to use a bathroom in government facilities
+   not associated with your
    assigned sex at birth, if anyone objected to your presence and you
    refused to immediately leave.
  * Should 2023 H1521, this law would apply to airport bathrooms, so
