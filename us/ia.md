@@ -74,3 +74,4 @@ officials and public institutions.
 
 ## Resources
 
+ * [Iowa Civil Rights Commission](https://icrc.iowa.gov/)
