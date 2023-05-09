@@ -2,7 +2,8 @@
 
 North Dakota has several negative laws towards trans people. However,
 these laws are, thus far, fairly restricted and do not apply to most
-trans people in most situations.
+trans people in most situations, although government employees are
+entitled to misgender trans people under the law.
 
 North Dakota does criminalizes trans care for children which may have an
 impact on child custody.
@@ -15,9 +16,16 @@ impact on child custody.
 
  * Trans people are required to use bathrooms/showers associated with their
    sex assigned at birth when visiting public educational dormitories
+ * Trans students are required to use bathrooms/showers associated with their
+   sex assigned at birth when using school bathrooms.
+ * Use of single-occupancy bathrooms by trans students (as an exception) in
+   schools requires parental permission in writing.
  * Trans people are required to use bathrooms associated with their sex
    assigned at birth when visiting jails, prisons, youth correctional
    centers, etc.
+ * Government employees (including school) can not be be disciplined for
+   misgendering others.
+ * Students in schools cannot be disciplined for misgendering others.
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -77,6 +85,7 @@ at birth and/or chromosomes.
  * [2023 HB1254 - Child Medical Care](https://legiscan.com/ND/text/HB1254/id/2771423)
  * [2023 HB1333 - Ban on Display of Prosthetic Gentials/Breast/Buttocks](https://legiscan.com/ND/text/HB1333/id/2785668)
  * [2023 HB1473 - Bathrooms in Some State Institutions](https://legiscan.com/ND/text/HB1473/id/2789744)
+ * [2023 HB1522 - Bathrooms in Schools and Pronouns](https://legiscan.com/ND/text/HB1522/id/2797884)
 
 ## General Safety
 
