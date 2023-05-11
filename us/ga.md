@@ -72,7 +72,7 @@ officials and public institutions.
 
 However, there are visible LGBT communities in some cities (Atlanta,
 Savannah) which may have some degree of safety.  However this is
-in-spite of the law, not because of the law. Atlanta's leaders, in particularly,
+in-spite of the law, not because of the law. Atlanta's leaders, in particular,
 has given [public support to trans
 people](https://www.fox5atlanta.com/news/atlanta-mayor-dickens-transgender-community-funding)
 

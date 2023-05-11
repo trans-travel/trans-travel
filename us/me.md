@@ -9,7 +9,7 @@ Maine does not appear to place child custody at risk.
 
 ## Non-discrimination Law
 
- * Maine non-discrimination law includes trans people specifically
+ * Maine non-discrimination law includes trans people specifically.
 
 ## Public Accommodations
 
