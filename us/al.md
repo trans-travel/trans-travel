@@ -84,8 +84,13 @@ at birth and/or chromosomes.
 The state has a law that prevents instruction on sexual orientation or
 gender identity (or really any mention) up to grade 5 in schools.
 
-Birmingham has been called out as "the hub of all queerness" in
-Alabama, and may be more welcoming than some other places.
+Birmingham has been called out as welcoming by a contributor ("hub of
+all queerness"), and may be more welcoming than some other places.
+Likewise, Mobile has also been noted for having Decadence, the first
+Mardi Gras parade, the Prancing Elites, has the Fruit Loop which
+includes on of the only lesbian bars in the country, and politicians and
+organizations who have supported gay people historically.  That said,
+municipalities have limited power and cannot override state laws.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
