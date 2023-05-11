@@ -89,6 +89,11 @@ at birth and/or chromosomes.
 
 ## General Safety
 
+While the laws in ND impact trans people negatively, there is some signs
+of resistance.  For instance the [Fargo School Board has indicated they
+will ignore a law that requires outing students to their
+(potentially non-supportive) parents](https://www.valleynewslive.com/2023/05/10/fargo-public-schools-superintendent-speaks-out-recent-lgbtq-related-legislation/).
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
