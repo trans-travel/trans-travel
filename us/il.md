@@ -43,7 +43,9 @@ Non-binary people are recognized, at least by some aspects of
 government, such as in the ability to change birth certificates,
 However, non-binary recognition is still in-complete in Illinois.
 For example, "X" gender markers are not available on driver's licenses
-in Illinois.
+in Illinois due to [bureaucratic reasons](https://chicago.suntimes.com/2019/8/25/20832644/pritzker-approves-non-binary-state-id-cards-drivers-licenses)
+(the law allows this but the
+company the state's current contract is with does not allow it).
 
 ## Medical Care
 
