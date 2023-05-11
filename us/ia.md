@@ -10,7 +10,7 @@ visiting with trans children will not risk custody.
 
 ## Non-discrimination Law
 
- * Trans people are specifically named in Illinois non-discrimination laws.
+ * Trans people are specifically named in Iowa non-discrimination laws.
 
 ## Public Accommodations
 
