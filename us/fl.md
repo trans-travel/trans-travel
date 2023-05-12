@@ -93,7 +93,7 @@ assigned at birth.
    risk.
  * Medical transition for people under age 18 is illegal.
  * Medical providers can deny some care on the basis of their religious
-   beliefs.
+   or ethical beliefs.
 
 ## Child Custody / Abuse
 
