@@ -83,7 +83,7 @@ Non-binary people are not legally recognized.
 ## Relevant Laws
 
  * [Adminstrative Order Banning Trans Care (currently stayed)](https://ago.mo.gov/docs/default-source/press-releases/2023-04-13---emergency-reg.pdf?sfvrsn=7f78d4fc_2)
- * [2023 SB49 (not yet signed by the governor)](https://legiscan.com/MO/text/SB49/id/2755107)
+ * [2023 SB49 (not yet signed by the governor) Trans Medical Ban](https://legiscan.com/MO/text/SB49/id/2755107)
  * [Kansas City Safe Haven for Transgender Residents](https://www.kcmo.gov/Home/Components/News/News/2040/1746)
 
 ## General Safety
