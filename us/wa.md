@@ -100,4 +100,5 @@ the protection of the law may not be enough there.
 
 ## Contributors
 
- * Awaiting citation for author's name
+ * Gwendolyn Young [@KindlyWizard@strangeobject.space](https://strangeobject.space/@KindlyWizard)
+
