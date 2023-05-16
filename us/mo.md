@@ -2,7 +2,7 @@
 
 Missouri negative laws towards trans people. However, these laws
 are, while horrible for residents of Missouri, do not generally
-apply to most trans people traveling to Mississippi in most
+apply to most trans people traveling to Missouri in most
 situations.
 
 Missouri does have an administrative order that bans nearly all trans medical
