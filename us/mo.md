@@ -29,7 +29,7 @@ an impact on child custody.
 
 ## Drag / Performance / Cross-dressing Laws
 
- * Kentucky does not have a drag/cross-dressing law.
+ * Missouri does not have a drag/cross-dressing law.
 
 ## Air Travel
 
