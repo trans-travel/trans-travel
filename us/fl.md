@@ -92,8 +92,8 @@ assigned at birth.
  * Trans medical care is legal for adults, but this is potentially at
    risk.
  * Medical transition for people under age 18 is illegal.
- * Medical providers can deny some care on the basis of their religious
-   or ethical beliefs.
+ * Medical providers can deny most care on the basis of their religious
+   or ethical beliefs (emergency care is required to be provided).
 
 ## Child Custody / Abuse
 
@@ -113,6 +113,7 @@ have not passed but are currently pending (May 3, 2023).
 
 ## Relevant Laws
 
+ * [2023 H1580 - Health Denial Law](https://www.flsenate.gov/Session/Bill/2023/1580/BillText/er/PDF)
  * [2023 H1069 (not yet signed) - Pronouns, Don't Say Gay](https://legiscan.com/FL/text/H1069/id/2798335)
  * [2023 H1521 (not yet signed) - Bathroom Bill](https://legiscan.com/FL/text/H1521/id/2764723)
 
