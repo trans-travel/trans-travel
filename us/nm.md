@@ -40,11 +40,6 @@ See the [USA TSA](../notes/tsa.md) document.
    consider gender identity in housing decisions, these regulations are
    often ignored and trans people are often housed according to sex
    assigned at birth.
- * A widely publicized and sensationalized (including propaganda that
-   was blatantly incorrect) case of consensual sex involving a trans woman in
-   a state women's prison has been used to justify policy changes that
-   make it easier to house a trans woman improperly due to "reproductive
-   concerns."
 
 ## Legal Definition of Sex
 
