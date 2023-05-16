@@ -5,15 +5,13 @@ are, while horrible for residents of Missouri, do not generally
 apply to most trans people traveling to Missouri in most
 situations.
 
-Missouri does have an administrative order that bans nearly all trans medical
-care for all ages, although this is stayed in court until July 20, 2023
-(thus it is currently unenforceable).  This ban does not directly penalize
-trans individuals or parents, but the providers that provide the care.
+Transgender medical care for adults is legal (see notes below in medical
+care section)
 
 While Missouri does not currently have a law against youth medical care
 (at least not one distinct from the above-mentioned administrative
 order), one was passed by the legislature and is awaiting governor
-signature as of May 11, 2023.  However, it is unknown how this might have
+signature as of May 16, 2023.  However, it is unknown how this might have
 an impact on child custody.
 
 ## Non-discrimination Law
@@ -59,8 +57,8 @@ Non-binary people are not legally recognized.
 
 ## Medical Care
 
- * An administrative order that is currently stayed (thus unenforceable)
-   until July 20, 2023 prohibits almost all trans medical care.
+ * Trans medical care is legal for adults.  There was a short-lived
+   administrative ban order that was withdrawn on May 16, 2023.
  * If Missouri SB49 is signed by the governor (current it is not
    signed, as of May 11, 2023), it would ban most trans medical care for
    youth, including puberty blockers, hormones, and surgery, although
@@ -68,9 +66,9 @@ Non-binary people are not legally recognized.
 
 ## Child Custody / Abuse
 
- * Trans medical care under the stayed executive order and unsigned
-   SB49, neither of which is currently in effect (as of May 11, 2023)
-   will apply to doctors providing the care and not to parents.
+ * Trans medical care for children would be banned under the 
+   unsigned SB49, which is not currently in effect (as of May 16, 2023).
+   This will apply to doctors providing the care and not to parents.
  * It is unknown if transition might be used by the state to justify
    custody removal.
  * There is no sanctuary law preventing cooperation with other
@@ -82,7 +80,6 @@ Non-binary people are not legally recognized.
 
 ## Relevant Laws
 
- * [Adminstrative Order Banning Trans Care (currently stayed)](https://ago.mo.gov/docs/default-source/press-releases/2023-04-13---emergency-reg.pdf?sfvrsn=7f78d4fc_2)
  * [2023 SB49 (not yet signed by the governor) Trans Medical Ban](https://legiscan.com/MO/text/SB49/id/2755107)
  * [Kansas City Safe Haven for Transgender Residents](https://www.kcmo.gov/Home/Components/News/News/2040/1746)
 
