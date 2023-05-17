@@ -61,6 +61,9 @@ etc).
 ## Relationship Recognition
 
  * Same-sex marriage (and thus all trans marriage) is recognized
+ * Same-sex marriage is recognized by the Leech Lake Band of Ojibwe.
+ * It is unknown whether same-sex marriages are recognized in the White
+   Earth Indian Reservation.
 
 ## Relevant Laws
 

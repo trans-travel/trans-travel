@@ -8,6 +8,9 @@ Arizona does criminalize some surgical trans care for children, but
 does not generally criminalize such care, thus it appears that parents
 visiting with trans children will not risk custody.
 
+Note that same-sex marriage may not be recognized within some indigenous
+nations.
+
 ## Non-discrimination Law
 
  * Arizona non-discrimination law does not include LGBT people specifically
@@ -63,10 +66,25 @@ Intersex people have some limited recognition.
 ## Relationship Recognition
 
  * Same-sex marriage (and thus all trans marriage) is recognized
+ * The White Mountain Apache Tribe, Chiricahua Apache tribe, Hopi, and
+   Arizona Tewa people recognize same-sex marriage.
+ * Within the Navajo Nation, the Diné Marriage Act prohibits recognition
+   of same-sex marriage. It is unknown how the "sex" of trans people
+   would be seen under this law, potentially placing all trans/cis
+   marriages at risk (straight or queer) as well as most queer
+   marriages.
+ * Within the Gila River Indian Reservation, same-sex marriage is not
+   recognized.  It is unknown how the "sex" of trans people
+   would be seen under this law, potentially placing all trans/cis
+   marriages at risk (straight or queer) as well as most queer
+   marriages.
+ * It is unknown wheter same-sex marriage is recognized within the
+   Tohono O'odham Indian Reservation.
 
 ## Relevant Laws
 
  * [2022 SB1138 Gender Surgery for Youth](https://legiscan.com/AZ/text/SB1138/id/2562394)
+ * [Diné Marriage Act (Applicable in the Navajo Nation)](https://courts.navajo-nsn.gov/Resolutions/29-05%20Marriage%20Act.pdf)
 
 ## General Safety
 

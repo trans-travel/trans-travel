@@ -62,12 +62,14 @@ still incomplete in New Mexico.
 
 ## Relationship Recognition
 
- * Same-sex marriage (and thus all trans marriage) is recognized
+ * Same-sex marriage (and thus all trans marriage) is recognized.
  * Within the Navajo Nation, the Diné Marriage Act prohibits recognition
    of same-sex marriage. It is unknown how the "sex" of trans people
    would be seen under this law, potentially placing all trans/cis
    marriages at risk (straight or queer) as well as most queer
    marriages.
+ * It is unknown wheter Zuni Pueblo recognizes same-sex marriages
+   performed elsewhere.
 
 ## Relevant Laws
 
