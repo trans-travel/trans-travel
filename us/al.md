@@ -63,11 +63,12 @@ at birth and/or chromosomes.
 ## Child Custody / Abuse
 
  * Some transition care (puberty blockers, hormone therapy, and surgery)
-   for children is illegal, in a law entitled the "Alabama Vulnerable
-   Child Compassion and Protection Act."  This law is blocked from
-   enforcement (for the puberty blocker and hormone therapy aspects)
-   by court while litigation proceeds, but shows the state's view of
-   this care.
+   for youth and teens (note this applies to people who are 18-years-old
+   as the age of majority in Alabama is 19) is illegal, in a law entitled
+   the "Alabama Vulnerable Child Compassion and Protection Act."  This law
+   is blocked from enforcement (for the puberty blocker and hormone
+   therapy aspects) by court while litigation proceeds, but shows the
+   state's view of this care.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
  
