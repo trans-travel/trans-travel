@@ -35,9 +35,10 @@ procedures," similar to how the courts have jurisdiction over abuse.
    Florida.
  * There is a "bathroom law" in Florida that takes effect on July 1, 2023.
    This would make it a crime to use a bathroom in government facilities
-   (any level of government) not associated with your
-   assigned sex at birth, if anyone objected to your presence and you
-   refused to immediately leave.
+   (any level of government) not associated with your assigned sex at
+   birth, if anyone objected to your presence and you refused to
+   immediately leave. This also covers health care facilities, massage
+   parlors, jails, pharmacies, etc.
  * Florida has wide-reaching religious freedom laws that allow denial of
    some services on the basis of gender identity.
 
