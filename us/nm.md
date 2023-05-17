@@ -72,7 +72,7 @@ still incomplete in New Mexico.
 ## Relevant Laws
 
  * [2019 HB388 - Non-Gendered Bathrooms](https://www.nmlegis.gov/Sessions/19%20Regular/final/HB0388.pdf)
- * [Diné Marraige Act (Applicable in the Navajo Nation)](https://courts.navajo-nsn.gov/Resolutions/29-05%20Marriage%20Act.pdf)
+ * [Diné Marriage Act (Applicable in the Navajo Nation)](https://courts.navajo-nsn.gov/Resolutions/29-05%20Marriage%20Act.pdf)
 
 ## General Safety
 
