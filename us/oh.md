@@ -79,3 +79,4 @@ officials and public institutions.
 
  * [Transgender Woman Not Guilty for Using Women's Locker Room](https://www.advocate.com/news/transgender-woman-locker-not-guilty)
  * [Some Trans People are Denied Birth Certificate Changes](https://www.news5cleveland.com/news/politics/ohio-politics/birth-certificate-gender-changes-for-trans-ohioans-are-at-discretion-of-judges-in-each-county)
+ * [Movement Advancement Project's Ohio Page, listing Cities with Non-Discrimination Laws](https://www.lgbtmap.org/equality_maps/profile_state/OH)
