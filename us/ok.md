@@ -1,6 +1,6 @@
 # USA - Oklahoma
 
-Oklahoma negative laws towards trans people. Some of these laws may
+Oklahoma has negative laws towards trans people. Some of these laws may
 place trans visitors at risk.
 
 Oklahoma does criminalize trans care for children, but does not penalize
