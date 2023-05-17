@@ -74,8 +74,8 @@ at birth and/or chromosomes.
 
 On July 1, 2023, Florida will define sex largely consistent with sex
 assigned at birth for a large number of interactions trans travelers
-may have. If passed, birth certificates, IDs, genital configurations,
-etc, would not take priority over sex assigned at birth.
+may have. Birth certificates, IDs, genital configurations, etc, will
+not take priority over sex assigned at birth.
 
 ## Medical Care
 
