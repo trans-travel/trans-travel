@@ -61,13 +61,9 @@ See the [USA TSA](../notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women would typically be housed with men. A pending bill, not
-   yet passed, could require this of all jails/prisons in Florida if it passes.
- * Trans men would typically be housed with women. A pending bill, not
-   yet passed, could require this of all jails/prisons in Florida if it
-   passes.
- * Nonbinary people would typically be housed according to sex
-   assigned at birth
+ * As of July 1, 2023, trans women must be housed with men.
+ * As of July 1, 2023, rans men must be housed with women.
+ * Nonbinary people are housed according to sex assigned at birth.
 
 ## Legal Definition of Sex
 
