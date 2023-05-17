@@ -14,28 +14,26 @@ child abuse or to be "grooming" for child abuse. This could have custody
 implications for families with children and transgender family members,
 should children enter Florida's jurisdiction, although it is not yet (or
 proposed to be under pending legislation) legally considered child
-abuse.
-
-Florida legislators have proposed the use of state courts to adjust custody
-agreements in the event of gender transition of a child. These bills
-have not passed but are currently pending (May 3, 2023).
+abuse.  Florida's youth care ban also allows the Florida courts to have
+emergency jurisdiction over a child if "it is necessary in an emergency
+to protect the child because the child has been subjected to or is
+threatened with being subjected to sex-reassignemnt prescriptions or
+procedures," similar to how the courts have jurisdiction over abuse.
 
 ## Non-discrimination Law
 
  * Florida non-discrimination law does not include LGBT people
  * Some Florida municipalities do have non-discrimination laws that
    include trans people.
- * If signed, 2023 H1069 is signed by the Governor, public school (K12)
-   employees will not be able to be disciplined for using pronouns and
-   titles associated a trans person's sex assigned at birth.
+ * Public school (K12) employees will not be able to be disciplined
+   after July 1, 2023 for using pronouns and titles associated a trans
+   person's sex assigned at birth.
 
 ## Public Accommodations
 
  * Public accommodation access is not protected for trans people in
    Florida.
- * There is currently (May 3, 2023) no "bathroom law" in Florida, however
-   legislation is proceeding which would create a bathroom law in
-   Florida (2023 H1521) that, if passed, would take effect on July 1, 2023.
+ * There is a "bathroom law" in Florida that takes effect on July 1, 2023.
    This would make it a crime to use a bathroom in government facilities
    (any level of government) not associated with your
    assigned sex at birth, if anyone objected to your presence and you
@@ -52,16 +50,13 @@ have not passed but are currently pending (May 3, 2023).
 
 See the [USA TSA](../notes/tsa.md) document.
  
- * There is currently (May 3, 2023) no "bathroom law" in Florida, however
-   legislation is proceeding which would create a bathroom law in
-   Florida (2023 H1521) that, if passed, would take effect on July 1, 2023.
+ * There is a "bathroom law" in Florida that takes effect on July 1, 2023.
    This would make it a crime to use a bathroom in government facilities
-   not associated with your
+   (any level of government) not associated with your
    assigned sex at birth, if anyone objected to your presence and you
    refused to immediately leave.
- * Should 2023 H1521, this law would apply to airport bathrooms, so
-   trans people and families should use caution connecting through
-   Florida airports.
+ * This law would apply to airport bathrooms, so trans people and families
+   should use caution connecting through Florida airports.
 
 ## Jails / Prisons
 
@@ -81,11 +76,10 @@ been issued, Florida does not generally recognize non-binary gender.
 Some laws specify male, female, and similar words based on sex assigned
 at birth and/or chromosomes.
 
-If Florida 2023 H1521 is passed, on July 1, 2023, Florida will define
-sex largely consistent with sex assigned at birth for a large number of
-interactions trans travelers may have. If passed, birth certificates,
-IDs, genital configurations, etc, would not take priority over sex
-assigned at birth.
+On July 1, 2023, Florida will define sex largely consistent with sex
+assigned at birth for a large number of interactions trans travelers
+may have. If passed, birth certificates, IDs, genital configurations,
+etc, would not take priority over sex assigned at birth.
 
 ## Medical Care
 
@@ -99,13 +93,14 @@ assigned at birth.
 
  * Trans medical care is illegal for youth in Florida
  * It is unknown if transition might be used by the state to justify
-   custody removal.
+   custody removal.  However, Florida's youth care ban also allows the
+   Florida courts to have emergency jurisdiction over a child if "it
+   is necessary in an emergency to protect the child because the child
+   has been subjected to or is threatened with being subjected to
+   sex-reassignemnt prescriptions or procedures," similar to how the
+   courts have jurisdiction over abuse.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
-
-Florida legislators have proposed the use of state courts to adjust custody
-agreements in the event of gender transition of a child. These bills
-have not passed but are currently pending (May 3, 2023).
 
 ## Relationship Recognition
 
@@ -114,8 +109,9 @@ have not passed but are currently pending (May 3, 2023).
 ## Relevant Laws
 
  * [2023 H1580 - Health Denial Law](https://www.flsenate.gov/Session/Bill/2023/1580/BillText/er/PDF)
- * [2023 H1069 (not yet signed) - Pronouns, Don't Say Gay](https://legiscan.com/FL/text/H1069/id/2798335)
- * [2023 H1521 (not yet signed) - Bathroom Bill](https://legiscan.com/FL/text/H1521/id/2764723)
+ * [2023 H1069 - Pronouns, Don't Say Gay](https://legiscan.com/FL/text/H1069/id/2798335)
+ * [2023 H1521 - Bathroom Bill](https://legiscan.com/FL/text/H1521/id/2764723)
+ * [2023 SB254 - Trans Youth Medical Ban](https://www.flsenate.gov/Session/Bill/2023/254/BillText/er/PDF)
 
 ## General Safety
 
