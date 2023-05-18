@@ -55,6 +55,12 @@ and bad.
 This project welcomes contributions via pull requests or email to
 jmaslak@antelope.net.
 
+Particularly interesting is general information from people that know
+the location, beyond just what the laws say. If you know a city has a
+great neighborhood for trans people, or that there is a disparity
+between how one area of the country or state treats people and another,
+this is extremely valuable information!
+
 To add a new jurisdiction, please utilize the template in template.md if
 you can.
 
