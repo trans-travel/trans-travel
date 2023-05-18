@@ -120,8 +120,7 @@ not take priority over sex assigned at birth.
 Equity Florida has issued a travel warning for the State of Florida.
 
 The state has a law that prevents instruction on sexual orientation or
-gender identity up to grade five in schools. A bill that would ban this
-at higher grades is pending governor signature as of May 4, 2023.
+gender identity through grade twelve in schools.
 
 Some state officials consider exposure of children to sexual orientation or
 gender identity information to be "grooming," I.E. something done in
