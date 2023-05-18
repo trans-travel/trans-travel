@@ -45,6 +45,11 @@ procedures," similar to how the courts have jurisdiction over abuse.
 
  * Florida has shown willingness to conduct criminal investigations into
    drag performances where minors were present.
+ * Florida has a "protection of children" law that bans "lewd conduct"
+   and similar activities outside of venues such as strip clubs that are
+   licensed for the purpose and only permit adults. This has been
+   labeled a drag ban, and depending on how courts interpret various
+   phrases may or may not actually be one.
 
 ## Air Travel
 
@@ -108,6 +113,7 @@ not take priority over sex assigned at birth.
  * [2023 H1069 - Pronouns, Don't Say Gay](https://legiscan.com/FL/text/H1069/id/2798335)
  * [2023 H1521 - Bathroom Bill](https://legiscan.com/FL/text/H1521/id/2764723)
  * [2023 SB254 - Trans Youth Medical Ban](https://www.flsenate.gov/Session/Bill/2023/254/BillText/er/PDF)
+ * [2023 SB1438 - Adult Performance Law](https://www.myfloridahouse.gov/Sections/Documents/loaddoc.aspx?FileName=_s1438er.DOCX&DocumentType=Bill&BillNumber=1438&Session=2023)
 
 ## General Safety
 
