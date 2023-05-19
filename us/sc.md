@@ -56,7 +56,7 @@ Non-binary people are not recognized.
  * South Carolina's domestic violence statutes only apply to straight
    couples, not gay couples. However, a court has declared that this
    is unconstitutional and it cannot be enforced in a discriminatory
-   way.
+   way.  Attempts to amend the law have failed.
 
 ## Relevant Laws
 
