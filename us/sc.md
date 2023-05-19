@@ -54,8 +54,9 @@ Non-binary people are not recognized.
 
  * Same-sex marriage (and thus all trans marriage) is recognized
  * South Carolina's domestic violence statutes only apply to straight
-   couples, not gay couples. It is unknown how this would be applied in
-   relationships with one or more trans person.
+   couples, not gay couples. However, a court has declared that this
+   is unconstitutional and it cannot be enforced in a discriminatory
+   way.
 
 ## Relevant Laws
 
