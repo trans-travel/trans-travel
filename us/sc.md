@@ -70,3 +70,4 @@ officials and public institutions.
 
 ## Resources
 
+ * [Movement Advancement Project South Carolina Page (lists cities with non-discrimination law)](https://www.lgbtmap.org/equality_maps/profile_state/SC)
