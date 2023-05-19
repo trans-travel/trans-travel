@@ -3,10 +3,10 @@
 Oklahoma has negative laws towards trans people. Some of these laws may
 place trans visitors at risk.
 
-Under a law that is currently stayed (so it is not being enforced by the
-state), Oklahoma does criminalize trans care for children, but does not
-penalize parents (the law applies to medical providers).  However, it is
-unknown how this might have an impact on child custody.
+Under a law that is currently stayed as of May 18, 2023 (so it is not being
+enforced by the state), Oklahoma does criminalize trans care for children,
+but does not penalize parents (the law applies to medical providers).
+However, it is unknown how this might have an impact on child custody.
 
 Note that some indigenous nations within the boundaries of Oklahoma may
 ban same-sex marriage recognition for people receiving services from
@@ -65,9 +65,10 @@ at birth and/or chromosomes.
 
 ## Child Custody / Abuse
 
- * Under a law that is currently stayed (so it is not being enforced in
-   the state), trans medical care is illegal for youth in Oklahoma, although
-   parents are not penalized by the law (it applies to medical providers).
+ * Under a law that is currently stayed as of May 18, 2023, (so it is not
+   being enforced in the state), trans medical care is illegal for youth
+   in Oklahoma, although parents are not penalized by the law (it applies
+   to medical providers).
  * It is unknown if transition might be used by the state to justify
    custody removal.
  * There is no sanctuary law preventing cooperation with other
@@ -93,7 +94,7 @@ at birth and/or chromosomes.
 
 ## Relevant Laws
 
- * [2023 SB613 - Trans Youth Healthcare Ban (Temporarily not being enforced)](https://legiscan.com/OK/text/SB613/id/2795559)
+ * [2023 SB613 - Trans Youth Healthcare Ban (Temporarily not being enforced as of May 18, 2023)](https://legiscan.com/OK/text/SB613/id/2795559)
  * [2023 SB615 - Trans School Bathroom Ban](https://legiscan.com/OK/text/SB615/id/2586890)
  * [2022 SB1100 - Birth Certificate Change Ban](https://legiscan.com/OK/text/SB1100/id/2573918)
  * [Executive Order 2021-24 Banning Birth Certificate Changes](https://www.sos.ok.gov/documents/executive/2014.pdf)
