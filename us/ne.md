@@ -5,10 +5,10 @@ law is, thus far, fairly restricted and do not apply to most
 trans travelers in most situations.
 
 Nebraska does not currently, as of May 12, 2023, ban trans care for
-children.  However, a bill, 2023 LB574 is progressing which would, if
-enacated, ban trans youth medical care and which has an unknown impact
-on child custody, although it should be noted that the law applies to
-medical providers and not parents.
+children.  However, a bill, 2023 LB574 is awaiting the governor's
+signature and will ban trans youth medical care. It will have an unknown
+impact on child custody, although it should be noted that the law applies
+to medical providers and not parents.
 
 ## Non-discrimination Law
 
@@ -47,10 +47,10 @@ Intersex people have some limited recognition.
 
  * Trans medical care is legal for adults.
  * As of May 12, 2023, trans medical care is legal for children.
- * Should 2023 LB574 be enacted, trans medical care (other than therapy)
-   would not legal for people under 19. (Note that this would include
-   18-year-olds).  However, parents would not be criminalized (the bill
-   would apply to medical providers)
+ * Should 2023 LB574 be signed by the governor, trans medical care (other
+   than therapy) would not legal for people under 19. (Note that this
+   would include 18-year-olds).  However, parents would not be
+   criminalized (the bill would apply to medical providers)
 
 ## Child Custody / Abuse
 
