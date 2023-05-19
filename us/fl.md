@@ -138,3 +138,4 @@ officials and public institutions.
 ## Resources
 
  * [Equity Florida Travel Advisory Warning](https://www.eqfl.org/florida-travel-advisory)
+ * [Doe v. Ladapo - Lawsuit Challenging Trans Care Ban](https://www.glad.org/cases/doe-v-ladapo/)
