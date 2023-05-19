@@ -86,6 +86,11 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to sometimes be misgendered
 by officials and public institutions.
 
+Politically, New Jersey has felt it appropriate to utilize the law when
+political subdivisions attempt to violate the rights of transgender
+students by, for example, [suing a discriminatory school
+district](https://www.njoag.gov/ag-platkin-announces-filing-of-civil-rights-complaint-and-application-seeking-to-immediately-prohibit-implementation-of-hanover-township-board-of-educations-lgbtq-parental-notification-policy/)
+
 ## Resources
 
  * [New Jersy Division on Civil Rights](https://www.njoag.gov/about/divisions-and-offices/division-on-civil-rights-home/)
