@@ -12,12 +12,16 @@ Kansas does not appear to place child custody at risk.
 
 ## Public Accommodations
 
- * Trans women are required to use male facilities such as bathrooms,
-   showers, locker rooms, homeless accommodations, etc.
- * Trans men are required to use women's facilities such as bathrooms,
-   showers, locker rooms, homeless accommodations, etc.
- * Non-binary people are required to use facilities based on sex
-   assigned at birth.
+ * Because of Kansas's law defining sex legally (note that the law does
+   not mention bathrooms directly), it may be interpreted by courts, in
+   combination with other laws, to ban trans people from appropriate
+   bathrooms.
+ * Some believe trans women are required to use male facilities such
+   as bathrooms, showers, locker rooms, homeless accommodations, etc.
+ * Some believe Trans men are required to use women's facilities such
+   as bathrooms, showers, locker rooms, homeless accommodations, etc.
+ * Some believe non-binary people are required to use facilities
+   based on sex assigned at birth.
  * Some cities have protections against gender-identity discrimination,
    but it is unclear how that is reconciled with state law.
 
@@ -31,9 +35,9 @@ It is unknown how this would be enforced.
 
 See the [USA TSA](../notes/tsa.md) document.
 
- * It is illegal to use a bathroom that does not match your sex assigned
-   at birth in Kansas airports (note that Kansas City Airport - MCI - is
-   in Missouri)
+ * It may be illegal to use a bathroom that does not match your sex
+   assigned at birth in Kansas airports (note that Kansas City
+   Airport - MCI - is in Missouri)
 
 ## Jails / Prisons
 
@@ -76,7 +80,7 @@ and provided accommodations under the Americans with Disabilities Act
 
 ## Relevant Laws
 
- * [2023 SB180](http://kslegislature.org/li/b2023_24/measures/documents/sb180_enrolled.pdf)
+ * [2023 SB180 - Trans-exclusionary Definition of Sex](http://kslegislature.org/li/b2023_24/measures/documents/sb180_enrolled.pdf)
 
 ## General Safety
 
