@@ -72,6 +72,8 @@ at birth and/or chromosomes.
    the Attorney General).
  * There is no sanctuary law preventing cooperation with other
    jurisdictions.
+ * Child welfare agencies are covered by a law that allows them to
+   refuse services for religious reasons.
 
 ## Relationship Recognition
 
