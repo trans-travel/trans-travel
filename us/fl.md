@@ -66,7 +66,7 @@ See the [USA TSA](../notes/tsa.md) document.
 ## Jails / Prisons
 
  * As of July 1, 2023, trans women must be housed with men.
- * As of July 1, 2023, rans men must be housed with women.
+ * As of July 1, 2023, trans men must be housed with women.
  * Nonbinary people are housed according to sex assigned at birth.
 
 ## Legal Definition of Sex
