@@ -3,7 +3,7 @@
 Tennessee has negative laws and executive orders towards trans people. Some of
 these laws place trans visitors at risk.
 
-South Dakota does ban trans care for children which has an unknown impact on
+Tennessee does ban trans care for children which has an unknown impact on
 child custody, however parents are not penalized under this law (it
 applies to healthcare providers), except possibly if one parent provides
 hormones or puberty blockers without the other parent's consent.
