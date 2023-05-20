@@ -25,6 +25,11 @@ hormones or puberty blockers without the other parent's consent.
    services on the basis of gender identity.
  * Tennessee bans trans people from school bathrooms and locker rooms
    that do not align with sex assigned at birth.
+ * Tennessee previously had a bathroom ban that applied to private
+   businesses, that required offensive signage if a business allowed
+   trans people to enter the appropriate bathroom. However, that ban was
+   found to violate the US Constitution's 1st Amendment and was struck
+   down by a federal court.
 
 ## Drag / Performance / Cross-dressing Laws
 
