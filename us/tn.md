@@ -52,9 +52,8 @@ Tennessee generally does not allow gender markers to be changed on IDs.
 
 Tennessee does not recognize non-binary gender.
 
-Some laws specify male, female, and similar words based on sex assigned
-at birth and/or chromosomes.  Others reference sex as indicated on the
-person's birth certificate.
+Tennessee specify defines male, female, and similar words based on sex
+assigned at birth and/or chromosomes.
 
 ## Medical Care
 
@@ -85,6 +84,7 @@ person's birth certificate.
  * [2023 HB0001 - Trans Youth Medical Care Ban](https://legiscan.com/TN/text/HB0001/id/2756066)
  * [2023 HB0009 - Drag Ban (currently stayed by court as of Mar 19, 2023)](https://legiscan.com/TN/text/HB0009/id/2756096)
  * [2023 SB0466 - Allowing Misgendering by School Employees](https://legiscan.com/TN/text/SB0466/id/2672103)
+ * [2023 SB0632 - Defining Sex as Sex Assigned at Birth](https://www.capitol.tn.gov/Bills/107/Bill/SB0632.pdf)
 
 ## General Safety
 
