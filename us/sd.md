@@ -11,7 +11,7 @@ applies to healthcare providers).
 ## Non-discrimination Law
 
  * South Dakota non-discrimination law does not include LGBT people
- * At least one  municipaliy (Brookings) has a local non-discrimination laws that
+ * At least one  municipality (Brookings) has a local non-discrimination laws that
    applies to trans people, but because of a state law that provides
    wide-ranging exemptions on the basis of belief, this law is likely
    not applicable in practice.

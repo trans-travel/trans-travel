@@ -16,7 +16,7 @@ proposed to be under pending legislation) legally considered child
 abuse.  Florida's youth care ban also allows the Florida courts to have
 emergency jurisdiction over a child if "it is necessary in an emergency
 to protect the child because the child has been subjected to or is
-threatened with being subjected to sex-reassignemnt prescriptions or
+threatened with being subjected to sex-reassignment prescriptions or
 procedures," similar to how the courts have jurisdiction over abuse.
 
 ## Non-discrimination Law
@@ -98,7 +98,7 @@ not take priority over sex assigned at birth.
    Florida courts to have emergency jurisdiction over a child if "it
    is necessary in an emergency to protect the child because the child
    has been subjected to or is threatened with being subjected to
-   sex-reassignemnt prescriptions or procedures," similar to how the
+   sex-reassignment prescriptions or procedures," similar to how the
    courts have jurisdiction over abuse.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
