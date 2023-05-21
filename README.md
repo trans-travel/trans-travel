@@ -1,3 +1,9 @@
+# QUICK START
+
+Scroll down on this page to "Directory of Jurisdictions" (right now it's
+only USA, but in the future it'll have other countries) and click on the
+country you are interested in.
+
 # DISCLAIMER
 
 This is not legal advice, and is not put together by a lawyer.  This
