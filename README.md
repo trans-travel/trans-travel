@@ -1,4 +1,4 @@
-# QUICK START
+# QUICK START - HOW TO SEE THE TRAVEL INFO
 
 Scroll down on this page to "Directory of Jurisdictions" (right now it's
 only USA, but in the future it'll have other countries) and click on the
