@@ -68,6 +68,8 @@ See the [USA TSA](../notes/tsa.md) document.
  * As of July 1, 2023, trans women must be housed with men.
  * As of July 1, 2023, trans men must be housed with women.
  * Nonbinary people are housed according to sex assigned at birth.
+ * Local jails have housed at least one cis woman in men's jail after
+   mistaking her for a trans woman.
 
 ## Legal Definition of Sex
 
@@ -145,3 +147,4 @@ officials and public institutions.
  * [Doe v. Ladapo - Lawsuit Challenging Trans Care Ban](https://www.glad.org/cases/doe-v-ladapo/)
  * [LULAC Florida Travel Advisory Warning](https://lulac.org/news/pr/LULACS_HISTORIC_WARNING_AGAINST_LATINOS_TRAVELING_TO_FLORIDA_IS_A_REMINDER_OF_ARIZONA_FOLLOWING_SB1070/)
  * [NAACP Florida Travel Advisory Warning](https://naacp.org/articles/naacp-issues-travel-advisory-florida)
+ * [Cis Woman Booked into Miami Men's Jail](https://www.nbcnews.com/news/us-news/woman-booked-miami-men-s-jail-after-wrongly-deemed-transgender-n943626)
