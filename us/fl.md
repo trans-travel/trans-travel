@@ -118,8 +118,8 @@ not take priority over sex assigned at birth.
 ## General Safety
 
 Equity Florida has issued a travel warning for the State of Florida (the
-NAACP and LULACS, a Latino advocacy organization, have also done so,
-for anti-Black and anti-Hispanic racism).
+NAACP and LULAC, a Latino advocacy organization, have also done so,
+for anti-Black and anti-Latino racism).
 
 The state has a law that prevents instruction on sexual orientation or
 gender identity through grade twelve in schools.
