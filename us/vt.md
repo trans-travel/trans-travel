@@ -18,6 +18,9 @@ care.
  * Trans people are allowed to use the facilities they are comfortable
    in, including bathrooms, showers, locker rooms, etc.  Legal
    documentation of your gender is not required for this protection.
+ * Public accommodations/businesses with single-occupancy bathrooms are
+   required to sign these for all gender and allow access to all
+   genders.
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -47,6 +50,9 @@ may still be in-complete in Vermont.
  * Trans medical care is legal for all ages.
  * Vermont will not cooperate with other states who seek information
    about patients receiving care in Vermont for medical transition.
+ * It is illegal in Vermont to threaten someone or block their entrance
+   to a health care facility that is providing them with gender
+   affirming care.
 
 ## Child Custody / Abuse
 
