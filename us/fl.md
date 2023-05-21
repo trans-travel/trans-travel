@@ -117,7 +117,8 @@ not take priority over sex assigned at birth.
 
 ## General Safety
 
-Equity Florida has issued a travel warning for the State of Florida.
+Equity Florida has issued a travel warning for the State of Florida (the
+NAACP has also done so, for racism rather than homophobia/transphobia).
 
 The state has a law that prevents instruction on sexual orientation or
 gender identity through grade twelve in schools.
@@ -139,3 +140,4 @@ officials and public institutions.
 
  * [Equity Florida Travel Advisory Warning](https://www.eqfl.org/florida-travel-advisory)
  * [Doe v. Ladapo - Lawsuit Challenging Trans Care Ban](https://www.glad.org/cases/doe-v-ladapo/)
+ * [NAACP Florida Travel Advisory Warning](https://naacp.org/articles/naacp-issues-travel-advisory-florida)
