@@ -85,7 +85,9 @@ not take priority over sex assigned at birth.
 ## Medical Care
 
  * Trans medical care is legal for adults, but this is potentially at
-   risk.
+   risk and is subject to significant restriction.
+ * Nurse practitioners and telehealth providers are not allowed to
+   provide HRT in Florida.
  * Medical transition for people under age 18 is illegal.
  * Medical providers can deny most care on the basis of their religious
    or ethical beliefs (emergency care is required to be provided).
