@@ -68,7 +68,7 @@ still incomplete in New Mexico.
    would be seen under this law, potentially placing all trans/cis
    marriages at risk (straight or queer) as well as most queer
    marriages.
- * It is unknown wheter Zuni Pueblo recognizes same-sex marriages
+ * It is unknown whether Zuni Pueblo recognizes same-sex marriages
    performed elsewhere.
 
 ## Relevant Laws
