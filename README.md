@@ -61,6 +61,7 @@ great neighborhood for trans people, or that there is a disparity
 between how one area of the country or state treats people and another,
 this is extremely valuable information!
 
+This project also welcomes contributions of new jurisdictions!
 To add a new jurisdiction, please utilize the template in template.md if
 you can.
 
