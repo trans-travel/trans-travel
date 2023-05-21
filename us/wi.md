@@ -1,6 +1,6 @@
 # USA - Wisconsin
 
-Wisconsin does not has several negative laws towards trans people.
+Wisconsin does not have negative laws towards trans people.
 
 Wisconsin is not a "sanctuary state", but also does not criminalize
 trans youth medical care.
