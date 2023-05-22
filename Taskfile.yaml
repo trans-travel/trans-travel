@@ -2,6 +2,8 @@
 version: '3'
 
 tasks:
+  pretty:
+    - perltidy -b scripts/t/*.t scripts/lib/*.pm scripts/*.pl
   test:
     - prove -Iscripts/lib scripts/t
   epub:
