@@ -1,6 +1,6 @@
 # USA - Mississippi
 
-Mississippi negative laws towards trans people. However, these laws
+Mississippi has negative laws towards trans people. However, these laws
 are, thus far, fairly restricted and do not apply to most
 trans people traveling to Mississippi in most situations.
 
