@@ -70,6 +70,8 @@ See the [USA TSA](../notes/tsa.md) document.
  * Nonbinary people are housed according to sex assigned at birth.
  * Local jails have housed at least one cis woman in men's jail after
    mistaking her for a trans woman.
+ * As public funds cannot be used for transition care, trans prisoners
+   will not have access to trans-related medical care.
 
 ## Legal Definition of Sex
 
