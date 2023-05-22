@@ -9,7 +9,7 @@ agencies may not fully recognize these changes.
 Hawaii does not appear to place child custody at risk.
 
 Note that colonization disrupted Hawaiian beliefs significantly,
-including understanding of Māhū, or "people in the middle," which today
+including understanding of Māhū, or "people in the middle," who today
 sometimes (but not always) also refer to themselves as trans.  Many
 indigenous Hawaiians view tourism today as continuing the colonization
 of Hawaii and ask tourists without connections to indigenous Hawaii
