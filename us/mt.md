@@ -39,17 +39,18 @@ See the [USA TSA](../notes/tsa.md) document.
 
 ## Legal Definition of Sex
 
+Montana has a definition of sex largely in line with sex assigned at birth
+would be included in nearly all Montana law (for example, Montana's
+on-the-books-but-not-enforceable-due-to-SCOTUS anti-gay marriage law was
+amended, as well as nearly every other law in Montana that references
+sex.
+
 Non-binary people are not recognized.
 
 Some laws specify male, female, and similar words based on sex assigned
 at birth, gametes, and/or chromosomes.
 
 Montana does not generally allow changing of ID.
-
-If SB458 2023 becomes law (it is currently passed by the legislature but
-not yet signed by the governor as of May 12, 2023), a definition of sex
-largely in line with sex assigned at birth would be included in nearly
-all Montana law.
 
 ## Medical Care
 
@@ -76,7 +77,7 @@ all Montana law.
  * [2023 HB303 - Health Care Conscious Refusal Law](https://legiscan.com/MT/text/HB303/id/2785644)
  * [2023 SB99 - Youth Trans Medical Care Ban](https://legiscan.com/MT/text/SB99/id/2786141)
  * [2023 HB359 (not yet signed by governor) - Drag Storytime Ban](https://legiscan.com/MT/text/HB359/id/2804104)
- * [2023 SB458 (not yet signed by governor) - Trans-exclusionary Definition of Sex](https://legiscan.com/MT/text/SB458/id/2796910)
+ * [2023 SB458 - Trans-exclusionary Definition of Sex](https://legiscan.com/MT/text/SB458/id/2796910)
  * [2023 SB518 (not yet signed by governor) - Mandatory Outing by Schools of Trans Youth](https://legiscan.com/MT/text/SB518/id/2800789)
 
 ## General Safety
