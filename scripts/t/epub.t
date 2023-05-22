@@ -5,6 +5,20 @@ use Test2::V0;
 use Archive::Zip;
 use Archive::Zip::MemberRead;
 
+my $zip = Archive::Zip->new;
+$zip->read('./output/trans-travel.epub');
+
+ok grep( { $_ eq "OPS/notes/tsa.html" } $zip->memberNames ),
+  "we have tsa notes";
+
+ok grep( { m!../notes/tsa.html! } read_file( $zip, 'OPS/us/ak.html' ) ),
+  "urls are linked to the html files";
+
+ok grep( { $_ eq "OPS/README.html" } $zip->memberNames ),
+  "we have the main README";
+
+done_testing;
+
 sub read_file ( $zip, $file ) {
     my $content = '';
     my $fh      = Archive::Zip::MemberRead->new( $zip, $file );
@@ -15,15 +29,3 @@ sub read_file ( $zip, $file ) {
 
     return $content;
 }
-
-my $zip = Archive::Zip->new;
-$zip->read('./output/trans-travel.epub');
-
-ok grep( { $_ eq "OPS/notes/tsa.html" } $zip->memberNames ),
-  "we have tsa notes";
-
-ok grep( { m!../notes/tsa.html! } read_file( $zip, 'OPS/us/ak.html' ) ),
-  "urls are linked to the html files";
-
-done_testing;
-
