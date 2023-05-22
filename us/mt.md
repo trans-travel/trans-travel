@@ -1,8 +1,8 @@
 # USA - Montana
 
-Montana has several negative laws towards trans people. However,
-these laws are, thus far, fairly restricted and do not apply to most
-trans travelers in most situations.
+Montana has several negative laws towards trans people, such as a law
+defining male and female in a trans-exclusionary way for nearly all
+state purposes.
 
 Montana does ban trans care for children which has an unknown impact on
 child custody.
