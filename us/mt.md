@@ -11,7 +11,7 @@ child custody.
 
  * Montana non-discrimination law does not include LGBT people
  * Some municipalities have local non-discrimination laws that apply to
-   gender identity.
+   gender identity, including Bozeman, Butte, Helena, Missoula, and Whitefish.
 
 ## Public Accommodations
 
@@ -81,8 +81,10 @@ all Montana law.
 
 ## General Safety
 
-Some cities have public accommodations non-discrimination laws,
-including Bozeman, Butte, Helena, Missoula, and Whitefish.
+White supremacists and anti-trans hate groups have been known to show up
+at LGBT events in Montana. For instance, on May 20, 2023, a white
+supremacist transphobic hate group [attacked attendees](https://www.losangelesblade.com/2023/05/21/bozeman-pride-marred-by-white-supremacy-anti-lgbtq-groups/)
+at Bozeman Pride.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
