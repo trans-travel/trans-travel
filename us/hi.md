@@ -8,6 +8,14 @@ agencies may not fully recognize these changes.
 
 Hawaii does not appear to place child custody at risk.
 
+Note that colonization disrupted Hawaiian beliefs significantly,
+including understanding of Māhū, or "people in the middle," which today
+sometimes (but not always) also refer to themselves as trans.  Many
+indigenous Hawaiians view tourism today as continuing the colonization
+of Hawaii and ask tourists without connections to indigenous Hawaii
+to plan vacations to places other than Hawaii, because of the harm that
+will be done by this continuing form of colonization.
+
 ## Non-discrimination Law
 
  * Trans people are specifically named in Hawaii non-discrimination laws.
