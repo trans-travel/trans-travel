@@ -8,7 +8,7 @@ tasks:
     - prove -Iscripts/lib scripts/t
   epub:
     sources: 
-      - t/*.t
+      - scripts/t/*.t
       - 'us/*.md'
       - ./scripts/gen-epub.pl
     generates: 
