@@ -17,6 +17,7 @@ sub generate {
     my @states = path('./us')->children(/\.md$/);
     @states = sort @states;
     my @files = ( @states, path('./notes')->children(/\.md$/) );
+    unshift @files, path('./README.md');
 
     for my $file (@files) {
         my $content = $file->slurp;
