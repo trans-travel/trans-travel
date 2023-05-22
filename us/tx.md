@@ -100,6 +100,15 @@ for child abuse investigation (such as providing less of a paper trail).
 People with transgender children should research the current status of
 these laws in detail before traveling to Texas.
 
+Cis women who do not look stereotypically female in a citizen's eyes
+(regardless of actual appearance) have been [harassed](https://www.dallasobserver.com/news/self-appointed-bathroom-cop-catches-dallas-woman-using-womens-restroom-8259104)
+and [kicked out](https://www.reddit.com/r/actuallesbians/comments/pdio76/dragged_out_of_bathroom/#)
+of bathrooms by police or citizens.  In most cases, this is done with men
+(police, citizens, etc) entering the women's bathroom, demanding ID, and
+regardless of offered ID then kicking the woman out. In particular,
+All women's bathroom users, trans or cis, who are sometimes read as men
+(or do not present stereotypically femininely) should use caution.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
