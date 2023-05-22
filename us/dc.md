@@ -16,6 +16,9 @@ care.
  * Trans people are allowed to use the facilities they are comfortable
    in, including bathrooms, showers, locker rooms, etc.  Legal
    documentation of your gender is not required for this protection.
+ * Public accommodations/businesses with single-occupancy bathrooms are
+   required to sign these for all gender and allow access to all
+   genders.
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -78,3 +81,4 @@ attacks still can and do occur in DC.
 ## Resources
 
  * [DC Office of Human Rights](https://ohr.dc.gov/commission)
+ * [Government Page on Single User Bathrooms](https://ohr.dc.gov/page/safe-bathrooms-dc)
