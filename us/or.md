@@ -38,6 +38,7 @@ See the [USA TSA](../notes/tsa.md) document.
    assigned at birth.
  * The State has litigated against prisoner legal name and gender
    changes.
+ * The State has litigated against prisoner medical care.
 
 ## Legal Definition of Sex
 
