@@ -14,9 +14,9 @@ sub generate {
     $epub->add_language('en');
 
     my $id     = 1;
-    my @states = path('./us')->children(/\.md$/);
+    my @states = path('./us')->children(qr/\.md$/);
     @states = sort @states;
-    my @files = ( @states, path('./notes')->children(/\.md$/) );
+    my @files = ( @states, path('./notes')->children(qr/\.md$/) );
     unshift @files, path('./README.md');
 
     for my $file (@files) {

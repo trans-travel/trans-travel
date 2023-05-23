@@ -17,3 +17,14 @@ tasks:
       - perl ./scripts/gen-epub.pl
       # did we do good?
       - { task: test}
+
+  pdf:
+    sources: 
+      - 'us/*.md'
+      - ./scripts/gen-pdf.pl
+    generates: 
+      - ./output/trans-travel.pdf
+    cmds:
+      - perl ./scripts/gen-pdf.pl > output/trans-travel.html
+      - weasyprint output/trans-travel.html output/trans-travel.pdf
+    

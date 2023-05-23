@@ -1,0 +1,95 @@
+:root {
+    --font-scale-9: 0.8rem;
+    --font-scale-10: 1rem;
+    --font-scale-11: 1.25rem;
+    --font-scale-12: 1.56rem;
+    --font-scale-13: 1.95rem;
+    --font-scale-14: 2.44rem;
+}
+
+h1 {
+    font-size: var(--font-scale-12);
+    string-set: heading content();
+}
+
+section {
+    break-after: always;
+}
+
+.table-of-contents ul {
+    font-size: var(--font-scale-9);
+}  
+
+#contents {
+  page: clean;
+}
+#contents p {
+  font-size: 2em;
+}
+#contents ul {
+  display: block;
+  margin: 1em 0;
+  padding: 0;
+}
+#contents li {
+  display: block;
+}
+#contents a {
+  color: inherit;
+  text-decoration: none;
+}
+#contents a::after {
+  content: target-counter(attr(href), page);
+  float: right;
+}
+
+@page {
+  margin: 2cm 2cm 3cm 2cm;
+  size: 8.5in 11in;
+}
+
+@page :right,:left {
+  @top-right {
+    content: string(heading);
+    position: absolute;
+    z-index: -1;
+  }
+  @bottom-right {
+    content: counter(page);
+    position: absolute;
+    z-index: -1;
+  }
+}
+
+@page full {
+  @bottom-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+
+  background: black;
+  margin: 0;
+}
+
+@page :blank {
+  @bottom-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+}
+
+@page clean {
+  @bottom-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+}
