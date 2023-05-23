@@ -13,7 +13,9 @@ and may lack some protections.
 
 ## Non-discrimination Law
 
- * Utah non-discrimination law does not include LGBT people
+ * Utah non-discrimination law does not include LGBT people in public
+   accommodations (it does include LGBT people in employment and
+   housing).
 
 ## Public Accommodations
 
