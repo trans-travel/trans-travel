@@ -80,3 +80,4 @@ officials and public institutions.
 ## Resources
 
  * [Movement Advancement Project Pennsylvania Page (lists cities with non-discrimination law)](https://www.lgbtmap.org/equality_maps/profile_state/PA)
+ * [Eastern PA Trans Equity Project (Trans Services in Eastern PA)](https://www.patransequity.org)
