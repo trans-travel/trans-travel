@@ -1,7 +1,7 @@
 # USA - Florida
 
-Equality Florida, an LGBT advocacy group, has issued an advisory travel
-warning for the State of Florida.
+HRC and Equality Florida, LGBT advocacy groups, have issued an advisory travel
+advisory for the State of Florida.
 
 Florida has negative laws and executive orders towards trans people. Some of
 these laws place trans visitors at risk.
@@ -27,6 +27,10 @@ procedures," similar to how the courts have jurisdiction over abuse.
  * Public school (K12) employees will not be able to be disciplined
    after July 1, 2023 for using pronouns and titles associated a trans
    person's sex assigned at birth.
+ * Some businesses and LGBT organizations have canceled events that
+   might involve drag or trans people participating, due to the
+   possibility of the "protection of children" law being used against
+   these organizations.
 
 ## Public Accommodations
 
@@ -50,6 +54,10 @@ procedures," similar to how the courts have jurisdiction over abuse.
    licensed for the purpose and only permit adults. This has been
    labeled a drag ban, and depending on how courts interpret various
    phrases may or may not actually be one.
+ * Some businesses and LGBT organizations have canceled events that
+   might involve drag or trans people participating, due to the
+   possibility of the "protection of children" law being used against
+   these organizations.
 
 ## Air Travel
 
@@ -123,9 +131,15 @@ not take priority over sex assigned at birth.
 
 ## General Safety
 
-Equity Florida has issued a travel warning for the State of Florida (the
-NAACP and LULAC, a Latino advocacy organization, have also done so,
-for anti-Black and anti-Latino racism).
+HRC and Equity Florida have issued a joint
+[travel warning](https://floridatraveladvisory.com/)
+for the State of Florida due to anti-LGBT legislation.  The
+[NAACP](https://www.cnn.com/2023/05/21/us/naacp-florida-travel-advisory/index.html),
+[LULAC](https://lulac.org/news/pr/LULACS_HISTORIC_WARNING_AGAINST_LATINOS_TRAVELING_TO_FLORIDA_IS_A_REMINDER_OF_ARIZONA_FOLLOWING_SB1070/)
+(a Latino advocacy organization), and the
+[Florida Immigrant Commission](https://floridatraveladvisory.com/),
+have also done so, for state-sponsored attacks against their
+constituents' human rights.
 
 The state has a law that prevents instruction on sexual orientation or
 gender identity through grade twelve in schools.
@@ -162,8 +176,7 @@ Florida
 ## Resources
 
  * [Cis Woman Booked into Miami Men's Jail](https://www.nbcnews.com/news/us-news/woman-booked-miami-men-s-jail-after-wrongly-deemed-transgender-n943626)
- * [Equity Florida Travel Advisory Warning](https://www.eqfl.org/florida-travel-advisory)
  * [Doe v. Ladapo - Lawsuit Challenging Trans Care Ban](https://www.glad.org/cases/doe-v-ladapo/)
  * [Hamburger Mary Lawsuit against Drag Ban GoFundMe](https://www.gofundme.com/f/legal-defense-fund-for-hamburger-mary-orlando)
+ * [HRC and Equity Florida Travel Advisory](https://eqfl.org/updated-travel-advisory-HRC)
  * [LULAC Florida Travel Advisory Warning](https://lulac.org/news/pr/LULACS_HISTORIC_WARNING_AGAINST_LATINOS_TRAVELING_TO_FLORIDA_IS_A_REMINDER_OF_ARIZONA_FOLLOWING_SB1070/)
- * [NAACP Florida Travel Advisory Warning](https://naacp.org/articles/naacp-issues-travel-advisory-florida)
