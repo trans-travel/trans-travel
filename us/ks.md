@@ -87,6 +87,16 @@ and provided accommodations under the Americans with Disabilities Act
 Some communities may be more welcoming than others. For instance,
 Lawrence was indicated as a welcoming city.
 
+Bathroom access may be a significant issue in Kansas.  Already, in May
+2023, the same month the trans-exclusionary definition of sex was
+enacted, a cis woman in a public library who was assisting her
+non-verbal son use the bathroom was
+[kicked out of the women's bathroom](https://www.cjonline.com/story/news/politics/government/2023/05/23/amid-anti-trans-law-kansas-woman-son-asked-to-leave-library-restroom/70245966007/),
+which she believes is connected to SB180 (prior to the passage of SB180,
+they had used the bathroom for years). The son's presence was also
+objected to by another bathroom user in addition to library staff,
+showing that this policing bathrooms is on the mind of Kansas citizens.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
