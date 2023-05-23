@@ -23,8 +23,8 @@ child custody.
 
 ## Drag / Performance / Cross-dressing Laws
 
- * A pending bill (2022 HB359, not yet law as of May 12, 2023) would ban
-   drag storytime in schools and libraries.
+ * Drag storytime or other "learning activities" with children present
+   in schools, libraries is banned.
 
 ## Air Travel
 
@@ -74,9 +74,9 @@ They have previously violated court orders on birth certificate changes.
 
  * [2023 HB303 - Health Care Conscious Refusal Law](https://legiscan.com/MT/text/HB303/id/2785644)
  * [2023 SB99 - Youth Trans Medical Care Ban](https://legiscan.com/MT/text/SB99/id/2786141)
- * [2023 HB359 (not yet signed by governor) - Drag Storytime Ban](https://legiscan.com/MT/text/HB359/id/2804104)
+ * [2023 HB359 - Drag Storytime Ban](https://legiscan.com/MT/text/HB359/id/2804104)
  * [2023 SB458 - Trans-exclusionary Definition of Sex](https://legiscan.com/MT/text/SB458/id/2796910)
- * [2023 SB518 (not yet signed by governor) - Mandatory Outing by Schools of Trans Youth](https://legiscan.com/MT/text/SB518/id/2800789)
+ * [2023 SB518 - Mandatory Outing by Schools of Trans Youth](https://legiscan.com/MT/text/SB518/id/2800789)
 
 ## General Safety
 
