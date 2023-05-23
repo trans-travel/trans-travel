@@ -89,7 +89,7 @@ Birmingham has been called out as welcoming by a contributor ("hub of
 all queerness"), and may be more welcoming than some other places.
 Likewise, Mobile has also been noted for having Decadence, the first
 Mardi Gras parade, the Prancing Elites, has the Fruit Loop which
-includes on of the only lesbian bars in the country, and politicians and
+includes one of the only lesbian bars in the country, and politicians and
 organizations who have supported gay people historically.  That said,
 municipalities have limited power and cannot override state laws.
 
