@@ -90,4 +90,5 @@ officials and public institutions.
 
 ## Resources
 
+ * [ACLU / NCLR Lawsuit to Overturn Trans Youth Care Ban](https://www.aclu-ky.org/en/cases/doe-v-thornbury-challenge-trans-health-care-ban)
  * [Kentucky Corrections Procedure 14.8 - LGBTI Offenders](https://corrections.ky.gov/About/cpp/Documents/14/CPP%2014.8%2005202020.pdf)
