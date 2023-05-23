@@ -43,14 +43,12 @@ Montana has a definition of sex largely in line with sex assigned at birth
 would be included in nearly all Montana law (for example, Montana's
 on-the-books-but-not-enforceable-due-to-SCOTUS anti-gay marriage law was
 amended, as well as nearly every other law in Montana that references
-sex.
+sex).
 
 Non-binary people are not recognized.
 
-Some laws specify male, female, and similar words based on sex assigned
-at birth, gametes, and/or chromosomes.
-
-Montana does not generally allow changing of ID.
+Montana does not generally allow changing of ID or birth certificate.
+They have previously violated court orders on birth certificate changes.
 
 ## Medical Care
 
