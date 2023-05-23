@@ -143,12 +143,12 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to be misgendered by
 officials and public institutions.
 
-Recent attacks on trans girls/women have reported assault in (note links
+Recent attacks on trans girls/women have been reported in (note links
 discuss violent crimes against trans people)
 [bathrooms](https://wsvn.com/news/local/miami-dade/man-accused-of-sexually-assaulting-transgender-woman-in-miami-bar/),
 and [residential
 areas](https://www.advocate.com/crime/2022/8/10/trans-teen-victim-vicious-anti-lgbtq-assault-second-time)
-as well as assaults by
+as well as by
 [police officers](https://www.huffpost.com/entry/jenny-deleon-florida-hillsborough-county-sheriff-choking_n_634ee621e4b0e376dc114d95).
 In addition, at least one trans person has recently been
 [wrongfully accused](https://www.floridatoday.com/story/news/education/2022/08/11/brevard-public-schools-dismiss-reports-transgender-school-assault/10297179002/)
