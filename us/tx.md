@@ -27,6 +27,10 @@ care.
 ## Drag / Performance / Cross-dressing Laws
 
  * Texas does not have a drag/cross-dressing law.
+ * A pending bill, SB12, uses vague language to ban "sexually oriented
+   performances" where a child might be able to view it and may be used
+   against drag performers. If passed, this would take effect on
+   September 1, 2023.
 
 ## Air Travel
 
@@ -87,7 +91,8 @@ at birth and/or chromosomes.
 
 ## Relevant Laws
 
- * [2023 SB14 - Trans Medical Ban (not yet signed by governor as of May 20, 2023)](https://legiscan.com/TX/text/SB14/id/2811355)
+ * [2023 SB12 - Vague Sexually Oriented Performance Ban (not enacted as law as of May 24, 2023)](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB12)
+ * [2023 SB14 - Trans Medical Ban (not yet signed by governor as of May 24, 2023)](https://legiscan.com/TX/text/SB14/id/2811355)
 
 ## General Safety
 
