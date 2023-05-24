@@ -101,6 +101,9 @@ not take priority over sex assigned at birth.
  * Nurse practitioners and telehealth providers are not allowed to
    provide HRT in Florida. This has resulted in a shortage of providers
    that can provide HRT to adults.
+ * Florida also requires a misleading "HRT consent" form for adult HRT
+   treatment. This form is to be created by the state, but does not
+   currently exist, meaning that providers cannot prescribe HRT.
  * Medical transition for people under age 18 is illegal.
  * Medical providers can deny most care on the basis of their religious
    or ethical beliefs (emergency care is required to be provided).
