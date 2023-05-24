@@ -103,7 +103,8 @@ not take priority over sex assigned at birth.
    that can provide HRT to adults.
  * Florida also requires a misleading "HRT consent" form for adult HRT
    treatment. This form is to be created by the state, but does not
-   currently exist, meaning that providers cannot prescribe HRT.
+   currently exist, meaning that providers cannot prescribe HRT to new
+   patients.
  * Medical transition for people under age 18 is illegal.
  * Medical providers can deny most care on the basis of their religious
    or ethical beliefs (emergency care is required to be provided).
