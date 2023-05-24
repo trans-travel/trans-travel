@@ -25,6 +25,9 @@ and may lack some protections.
 ## Drag / Performance / Cross-dressing Laws
 
  * Drag performance and cross-dressing is legal in Utah
+ * However, at least one city (St. George) is using an obscure city
+   ordinance to block permits for a drag event. This is being challenged
+   in court.
 
 ## Air Travel
 
@@ -90,4 +93,6 @@ trans people who report these attacks can expect to be misgendered by
 officials and public institutions.
 
 ## Resources
+
+ * [Southern Utah Drag Stars v. City of St. George (challenge to St.  George drag permit ban)](https://www.acluutah.org/en/cases/southern-utah-drag-stars-v-city-st-george)
 
