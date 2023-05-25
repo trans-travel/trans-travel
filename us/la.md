@@ -33,8 +33,8 @@ See the [USA TSA](../notes/tsa.md) document.
    assigned at birth
  * At least one visitor (not an inmate) was told to [strip and expose her
    genitalia](https://www.nola.com/lawsuit-angola-prison-guards-ordered-transgender-visitor-to-strip/article_6cf44702-2b01-537b-94f4-c3ca7894e332.html)
-   while visiting a prisoner at Angola Prison because her anatomy did not
-   match her gender expression.
+   while going through security to visit a prisoner at Angola Prison because
+   her anatomy did not match her gender expression.
 
 ## Legal Definition of Sex
 
