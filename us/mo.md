@@ -82,6 +82,7 @@ Non-binary people are not legally recognized.
 
  * [2023 SB49 (not yet signed by the governor) Trans Medical Ban](https://legiscan.com/MO/text/SB49/id/2755107)
  * [Kansas City Safe Haven for Transgender Residents](https://www.kcmo.gov/Home/Components/News/News/2040/1746)
+ * [St. Louis Trans-Inclusive Executive Order](https://www.stlouis-mo.gov/government/departments/mayor/documents/executive-orders/upload/Draft-EO-Trans-Rights.pdf)
 
 ## General Safety
 
@@ -95,7 +96,10 @@ Kansas City's leaders have chosen to oppose the state's anti-trans
 legislation and administrative orders through [a sanctuary
 resolution](https://www.kcmo.gov/Home/Components/News/News/2040/1746)
 that deprioritize cooperation with the state and enforcement of state
-laws that criminalize and penalize trans people.
+laws that criminalize and penalize trans people.  Likewise, St. Louis's
+mayor has [issued an executive
+order](https://www.stlouis-mo.gov/government/departments/mayor/documents/executive-orders/upload/Draft-EO-Trans-Rights.pdf)
+to resist some state policies and show support for the trans community.
 
 ## Resources
 
