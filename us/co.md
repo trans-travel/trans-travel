@@ -18,6 +18,14 @@ care.
  * Trans people are allowed to use the facilities they are comfortable
    in, including bathrooms, showers, locker rooms, etc.  Legal
    documentation of your gender is not required for this protection.
+ * In 2023, a law was passed that requires all government buildings with
+   single-user bathrooms must sign them gender-neutrally as of July 1,
+   2024 and newly-built government buildings must have at least one neutral
+   restroom per floor. After July 1, 2025, all government buildings must
+   have one per floor. Note that this includes colleges and universities
+   but not K12 schools.
+ * Denver and Boulder have ordinances requiring single-user bathrooms to
+   be signed as gender neutral.
 
 ## Drag / Performance / Cross-dressing Laws
 
