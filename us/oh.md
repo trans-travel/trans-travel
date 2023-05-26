@@ -16,6 +16,10 @@ and locker room facilities at all schools and universities (including
 university facilities such as stadiums) except in accordance with sex
 assigned at birth.
 
+Beyind HB183, an opinion from the Ohio Attorney General interprets
+existing law to allow discrimination against trans people in bathrooms
+and similar facilities, particularly if owned by government.
+
 ## Non-discrimination Law
 
  * Ohio non-discrimination law does not include LGBT people specifically
@@ -27,6 +31,12 @@ assigned at birth.
  * Trans people are not banned from using appropriate bathrooms and locker
    rooms, although at least one trans woman has been charged with
    indecent exposure for using a locker room (she was found not-guilty).
+ * However, the Attorney General has issued an
+   [opinion](https://www.ohioattorneygeneral.gov/getattachment/f10767a2-2cf3-4844-b943-90a503dc4c52/2023-006.aspx)
+   that requiring trans people to use bathrooms in line with sex
+   assigned at birth, rather than gender identity, is not a violation of
+   non-discrimination law and is legal in Ohio, particularly in
+   government facilities.
  * General public accommodation access is not specifically protected by law
    for trans people in Ohio, although some counties and municipalities
    do protect it.
@@ -84,6 +94,7 @@ changes to trans people, indicating bias within the Ohio legal system.
 
  * [2023 HB68 (Not yet passed) - Youth Care Ban](https://www.legislature.ohio.gov/legislation/135/hb68)
  * [2023 HB183 (Not yet passed) - Bathroom Ban in Schools and Universities](https://www.legislature.ohio.gov/legislation/135/hb183)
+ * [Attorney General Opinion 2023-006](https://www.ohioattorneygeneral.gov/getattachment/f10767a2-2cf3-4844-b943-90a503dc4c52/2023-006.aspx)
 
 ## General Safety
 
