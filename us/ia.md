@@ -61,10 +61,14 @@ Non-binary people are not recognized.
 
 ## Relevant Laws
 
- * [2023 SF482 - School bathroom law](https://legiscan.com/IA/text/SF482/id/2754168)
- * [2023 SF538 - Youth trans medical ban](https://legiscan.com/IA/text/SF538/id/2736348)
+ * [2023 SF482 - School bathroom Law](https://legiscan.com/IA/text/SF482/id/2754168)
+ * [2023 SF496 - Don't Say Gay Law](https://legiscan.com/IA/text/SF496/id/2794529)
+ * [2023 SF538 - Youth trans medical Ban](https://legiscan.com/IA/text/SF538/id/2736348)
 
 ## General Safety
+
+The state has a law that prevents instruction on sexual orientation or
+gender identity through grade six in schools.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
