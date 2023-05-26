@@ -91,8 +91,9 @@ at birth and/or chromosomes.
 
 ## Relevant Laws
 
- * [2023 SB12 - Vague Sexually Oriented Performance Ban (not enacted as law as of May 24, 2023)](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB12)
- * [2023 SB14 - Trans Medical Ban (not yet signed by governor as of May 24, 2023)](https://legiscan.com/TX/text/SB14/id/2811355)
+ * [2023 HB2127 - Ban on Local Non-Discrimination Law (not enacted as law as of May 26, 2023)](https://legiscan.com/TX/text/HB2127/id/2814366)
+ * [2023 SB12 - Vague Sexually Oriented Performance Ban (not enacted as law as of May 26, 2023)](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB12)
+ * [2023 SB14 - Trans Medical Ban (not yet signed by governor as of May 26, 2023)](https://legiscan.com/TX/text/SB14/id/2811355)
 
 ## General Safety
 
