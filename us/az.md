@@ -78,7 +78,7 @@ Intersex people have some limited recognition.
    would be seen under this law, potentially placing all trans/cis
    marriages at risk (straight or queer) as well as most queer
    marriages.
- * It is unknown wheter same-sex marriage is recognized within the
+ * It is unknown whether same-sex marriage is recognized within the
    Tohono O'odham Indian Reservation.
 
 ## Relevant Laws
