@@ -1,4 +1,5 @@
 * [Intro](.)
+* [Mexico](./mx.md)
 * USA States
   - [ Alaska](./us/ak.md)
   - [ Alabama](./us/al.md)

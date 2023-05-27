@@ -26,7 +26,8 @@ this could be seen as child abuse or cause child custody issues.
 
 # Directory of Jurisdictions
 
- * [USA](us)
+ * [Mexico](mx.md)
+ * [USA (Individual States are here)](us)
 
 # A Note on Intersectional Oppression
 
