@@ -75,6 +75,13 @@ circumstances.
 
 ## General Safety
 
+South Dakota has established [a
+hotline](https://news.sd.gov/news?id=news_kb_article_view&sys_id=1cf3adad1b43615062c8a8eae54bcba2)
+for people to express "concerns" with aspects of higher education that
+conservative politicians may disagree with. This will serve as a
+chilling effect on free speech at colleges and universities in South
+Dakota.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
