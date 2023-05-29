@@ -182,6 +182,7 @@ Florida
 
  * [Cis Woman Booked into Miami Men's Jail](https://www.nbcnews.com/news/us-news/woman-booked-miami-men-s-jail-after-wrongly-deemed-transgender-n943626)
  * [Doe v. Ladapo - Lawsuit Challenging Trans Care Ban](https://www.glad.org/cases/doe-v-ladapo/)
+ * [Florida Ban on Adult Trans Medical Care - Resource](https://floridaban.com/)
  * [Hamburger Mary Lawsuit against Drag Ban GoFundMe](https://www.gofundme.com/f/legal-defense-fund-for-hamburger-mary-orlando)
  * [HRC and Equity Florida Travel Advisory](https://eqfl.org/updated-travel-advisory-HRC)
  * [LULAC Florida Travel Advisory Warning](https://lulac.org/news/pr/LULACS_HISTORIC_WARNING_AGAINST_LATINOS_TRAVELING_TO_FLORIDA_IS_A_REMINDER_OF_ARIZONA_FOLLOWING_SB1070/)
