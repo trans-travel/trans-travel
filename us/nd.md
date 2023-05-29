@@ -1,9 +1,10 @@
 # USA - North Dakota
 
-North Dakota has several negative laws towards trans people. However,
-these laws are, thus far, fairly restricted and do not apply to most
-trans people in most situations, although government employees are
-entitled to misgender trans people under the law.
+North Dakota has several negative laws towards trans people. Among these
+is a legal definition of sex that may be used to restrict the rights of
+trans people visiting North Dakota.
+
+Government employees are entitled to misgender trans people under the law.
 
 North Dakota does criminalizes trans care for children which may have an
 impact on child custody.
@@ -11,6 +12,9 @@ impact on child custody.
 ## Non-discrimination Law
 
  * North Dakota non-discrimination law does not include LGBT people
+ * North Dakota's definition of sex law (HB1474) makes it unlikely that
+   non-discrimination laws specifying "sex" would be interpreted in a
+   trans-inclusive way
 
 ## Public Accommodations
 
@@ -55,8 +59,10 @@ Non-binary people are not recognized.
 
 Intersex people have some limited recognition.
 
-Some laws specify male, female, and similar words based on sex assigned
+North Dakota specifies male, female, and similar words based on sex assigned
 at birth and/or chromosomes.
+
+North Dakota prohibits trans people changing birth certificates.
 
 ## Medical Care
 
@@ -83,8 +89,10 @@ at birth and/or chromosomes.
 ## Relevant Laws
 
  * [2023 HB1254 - Child Medical Care](https://legiscan.com/ND/text/HB1254/id/2771423)
+ * [2023 HB1297 - Prohibition On Birth Certificate Change, Definition of Sex](https://legiscan.com/ND/text/HB1297/2023)
  * [2023 HB1333 - Ban on Display of Prosthetic Gentials/Breast/Buttocks](https://legiscan.com/ND/text/HB1333/id/2785668)
  * [2023 HB1473 - Bathrooms in Some State Institutions](https://legiscan.com/ND/text/HB1473/id/2789744)
+ * [2023 HB1474 - Transphobic Definition of Sex](https://legiscan.com/ND/text/HB1474/2023)
  * [2023 HB1522 - Bathrooms in Schools and Pronouns](https://legiscan.com/ND/text/HB1522/id/2797884)
 
 ## General Safety
