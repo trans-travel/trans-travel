@@ -11,15 +11,15 @@ impact on child custody.
 
 ## Non-discrimination Law
 
- * North Dakota non-discrimination law does not include LGBT people
+ * North Dakota non-discrimination law does not include LGBT people.
  * North Dakota's definition of sex law (HB1474) makes it unlikely that
    non-discrimination laws specifying "sex" would be interpreted in a
-   trans-inclusive way
+   trans-inclusive way.
 
 ## Public Accommodations
 
  * Trans people are required to use bathrooms/showers associated with their
-   sex assigned at birth when visiting public educational dormitories
+   sex assigned at birth when visiting public educational dormitories.
  * Trans students are required to use bathrooms/showers associated with their
    sex assigned at birth when using school bathrooms.
  * Use of single-occupancy bathrooms by trans students (as an exception) in
@@ -27,7 +27,7 @@ impact on child custody.
  * Trans people are required to use bathrooms associated with their sex
    assigned at birth when visiting jails, prisons, youth correctional
    centers, etc.
- * Government employees (including school) can not be be disciplined for
+ * Government employees (including school) cannot be be disciplined for
    misgendering others.
  * Students in schools cannot be disciplined for misgendering others.
 
