@@ -48,6 +48,7 @@ Intersex people have some limited recognition.
    under 19 after October 1, 2023. (Note that this ban will include
    18-year-olds).  However, parents would not be criminalized (the
    bill would apply to medical providers)
+ * The ACLU of Nebraska is challenging the youth healthcare ban.
 
 ## Child Custody / Abuse
 
@@ -61,7 +62,7 @@ Intersex people have some limited recognition.
 
 ## Relevant Laws
 
- * [2023 LB574](https://legiscan.com/NE/text/LB574/id/2783649)
+ * [2023 LB574 - Trans Youth Medical Care Ban](https://legiscan.com/NE/text/LB574/2023)
 
 ## General Safety
 
@@ -79,3 +80,4 @@ officials and public institutions.
 
 ## Resources
 
+ * [ACLU Lawsuit against Nebraska for Abortion and Trans Youth Healthcare Rights](https://www.aclunebraska.org/en/press-releases/new-lawsuit-argues-combined-restrictions-health-care-trans-youth-and-abortion)
