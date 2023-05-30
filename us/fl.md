@@ -6,6 +6,9 @@ advisory for the State of Florida.
 Florida has negative laws and executive orders towards trans people. Some of
 these laws place trans visitors at risk.
 
+People visiting Florida, including connecting to outbound flights and/or
+cruises, should be aware of the laws that may apply to them.
+
 Florida does criminalize trans care for children, and elected officials
 in both the executive and legislative branch consider transition of
 children (or even exposure to transgender information) to either be
@@ -42,6 +45,8 @@ procedures," similar to how the courts have jurisdiction over abuse.
    birth, if anyone objected to your presence and you refused to
    immediately leave. This also covers health care facilities, massage
    parlors, jails, pharmacies, etc.
+ * The bathroom law will apply to airports and cruise ports, in addition
+   to other government facilities.
  * Florida has wide-reaching religious freedom laws that allow denial of
    some services on the basis of gender identity.
 
@@ -68,8 +73,9 @@ See the [USA TSA](../notes/tsa.md) document.
    (any level of government) not associated with your
    assigned sex at birth, if anyone objected to your presence and you
    refused to immediately leave.
- * This law would apply to airport bathrooms, so trans people and families
-   should use caution connecting through Florida airports.
+ * This law would apply to airport and cruise port bathrooms, so trans people
+   and families should use caution connecting through Florida airports
+   and cruise ports.
 
 ## Jails / Prisons
 
