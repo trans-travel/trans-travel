@@ -35,6 +35,9 @@ See the [USA TSA](../notes/tsa.md) document.
    the state prison level is that this be taken into consideration.
  * Nonbinary people may or may not be housed according to sex
    assigned at birth
+ * SB153 requires the Dept. of Corrections to develop policies that
+   provide proper medical care and housing, as well as training of
+   staff, for trans inmates.
  * City / County jails are not covered by the state policy.
 
 ## Legal Definition of Sex
@@ -59,6 +62,7 @@ state IDs and birth certificates.
 ## Relevant Laws
 
  * [Nevada Constitution (see Art. 1, Sec.  24)](https://www.leg.state.nv.us/const/nvconst.html)
+ * [2023 SB153 - Prison Policies](https://legiscan.com/NV/text/SB153/id/2817395)
 
 ## General Safety
 
