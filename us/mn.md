@@ -30,6 +30,12 @@ See the [USA TSA](../notes/tsa.md) document.
  * Trans prisoners have typically been housed based on sex assigned at
    birth, rather than gender, denied medical care, and mistreated by
    guards.
+ * A policy does allow medical care and gender-appropriate housing, although
+   it is yet to be seen if this policy will result change to Minnesota's
+   historic process.
+ * One woman recently [won a settlement](https://www.twincities.com/2023/06/01/mn-transgender-inmate-christina-lusk-lawsuit-settlement/)
+   against the state for inappropriate housing and denial of medical
+   care.
 
 ## Legal Definition of Sex
 
