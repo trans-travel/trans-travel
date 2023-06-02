@@ -25,6 +25,9 @@ child custody.
 
  * Drag storytime or other "learning activities" with children present
    in schools, libraries is banned.
+ * At least one library (Butte) has [cancelled a talk on two-spirit
+   identity](https://mtstandard.com/news/local/butte-silver-bow-county-halts-transgender-woman-s-library-lecture/article_9771f330-00d3-11ee-9c16-6fa909f26697.html)
+   to be given by a trans woman, citing the anti-drag law as the reason.
 
 ## Air Travel
 
