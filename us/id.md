@@ -62,6 +62,8 @@ Intersex people have some recognition.
  * Trans medical care is legal for adults.
  * Trans medical care is illegal for anyone under 18, including puberty
    blockers, hormone therapy, and surgery.
+ * There is a pending [legal challenge](https://www.acluidaho.org/en/news/idaho-families-sue-block-idahos-ban-health-care-trans-youth)
+   of the state's youth trans healthcare ban.
 
 ## Child Custody / Abuse
 
@@ -99,4 +101,5 @@ officials and public institutions.
 ## Resources
 
  * [News story: A far-right plan to riot near an Idaho LGBT event heightens safety concerns at Pride](https://www.npr.org/2022/06/15/1104481518/idaho-pride-lgbtq-patriot-front)
+ * [Lawsuit Challening Youth Medical Ban](https://www.acluidaho.org/en/news/idaho-families-sue-block-idahos-ban-health-care-trans-youth)
 
