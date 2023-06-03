@@ -40,7 +40,10 @@ parent's consent.
    penalties for a second conviction.  However, this law is currently
    stayed (as of May 19, 2023), meaning it is not enforceable while a
    legal challenge progresses.
- * This stay is due to expire on May 26, 2023.
+ * (Preliminary Information, June 2, 2023) It appears that the above law
+   has been struck down by a judge. The details of the ruling are not
+   fully known by me yet, and it's unknown if there will be appeals
+   that try to re-instate the law.
 
 ## Air Travel
 
@@ -102,7 +105,9 @@ in any context that could be seen as "entertaining" whether or not for
 compensation or in public) may be seen as violating the drag ban, should
 the stay be lifted or a judgment supporting the state occur. Thus,
 future travel should check on the state of that ban when planning
-travel.
+travel.  However, as of June 2, 2023, it appears that this law may have
+been struck down and this may not be the issue that it likely was just a
+few days ago.
 
 The state has a law that prevents instruction on sexual orientation or
 gender identity through grade twelve in schools without explicit
