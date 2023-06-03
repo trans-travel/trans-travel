@@ -43,6 +43,8 @@ Non-binary people are not recognized.
 ## Medical Care
 
  * Trans medical care is legal for adults and children.
+ * A bill in the legislature would make most youth transgender medical
+   care illegal (2023 HB648, not passed yet as of June 2, 2023).
 
 ## Child Custody / Abuse
 
@@ -56,10 +58,18 @@ Non-binary people are not recognized.
 
 ## Relevant Laws
 
+ * [2023 HB648 - Transgender Youth Healthcare Ban (Not yet passed)](https://legis.la.gov/legis/BillInfo.aspx?i=244986)
+ * [2023 SB7 - Library Children's Book Ban (Not yet passed)](https://legiscan.com/LA/text/SB7/2023)
+
 ## General Safety
 
 New Orleans has a visible LGBT population, but this is not the case in
 other parts of Louisiana, including some nearby cities of New Orleans.
+
+The Louisiana legislature is also considering a bill that would
+significantly restrict "sexually explicit" materials in libraries
+(electronically or in print). This would likely be used to target LGBT
+material. The bill has not passed yet as of June 2, 2023.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
