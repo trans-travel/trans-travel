@@ -37,13 +37,9 @@ parent's consent.
  * Tennessee has a "drag ban" law that prohibits "male or female
    impersonators" who perform on public property, in any location
    where a minor could potentially be present. This includes felony
-   penalties for a second conviction.  However, this law is currently
-   stayed (as of May 19, 2023), meaning it is not enforceable while a
-   legal challenge progresses.
- * (Preliminary Information, June 2, 2023) It appears that the above law
-   has been struck down by a judge. The details of the ruling are not
-   fully known by me yet, and it's unknown if there will be appeals
-   that try to re-instate the law.
+   penalties for a second conviction.  However, this law has been struck
+   down by a judge as unconstitutional.  It's unknown if there will be
+   appeals that try to re-instate the law.
 
 ## Air Travel
 
@@ -94,20 +90,11 @@ assigned at birth and/or chromosomes.
  * [2016 SB1556 - Allowing Counselors to Fire LGBT Clients](https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB1556&GA=109)
  * [2021 HB1233 - Trans Bathroom Ban for Schools](https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1233&ga=112)
  * [2023 HB0001 - Trans Youth Medical Care Ban](https://legiscan.com/TN/text/HB0001/id/2756066)
- * [2023 HB0009 - Drag Ban (currently stayed by court as of Mar 19, 2023)](https://legiscan.com/TN/text/HB0009/id/2756096)
+ * [2023 HB0009 - Drag Ban (Struck down by US federal court on June 2, 2023)](https://legiscan.com/TN/text/HB0009/id/2756096)
  * [2023 SB0466 - Allowing Misgendering by School Employees](https://legiscan.com/TN/text/SB0466/id/2672103)
  * [2023 SB0632 - Defining Sex as Sex Assigned at Birth](https://www.capitol.tn.gov/Bills/107/Bill/SB0632.pdf)
 
 ## General Safety
-
-Some innocuous activities (wearing gender-affirming clothing in public
-in any context that could be seen as "entertaining" whether or not for
-compensation or in public) may be seen as violating the drag ban, should
-the stay be lifted or a judgment supporting the state occur. Thus,
-future travel should check on the state of that ban when planning
-travel.  However, as of June 2, 2023, it appears that this law may have
-been struck down and this may not be the issue that it likely was just a
-few days ago.
 
 The state has a law that prevents instruction on sexual orientation or
 gender identity through grade twelve in schools without explicit
