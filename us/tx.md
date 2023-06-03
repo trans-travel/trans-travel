@@ -5,11 +5,10 @@ these laws could place trans visitors at risk.
 
 It is important for parents of trans kids to research the current state
 positions towards trans healthcare before a trans child visits Texas.
-Texas does criminalize trans care for children through executive order
-and legal opinion by the state's attorney general, as well as pending
-(but not yet signed as of May 20, 2023) legislation, and elected officials
-in both the executive and legislative branch consider transition of
-children to be child abuse. The state has shown willingness to
+Texas does criminalize trans care for children through law, executive order
+and legal opinion by the state's attorney general.
+Elected officials in both the executive and legislative branch consider
+transition of children to be child abuse. The state has shown willingness to
 investigate families solely on the basis of a child's gender transition
 care.
 
@@ -57,10 +56,9 @@ at birth and/or chromosomes.
    investigations under executive orders, which are being challenged
    with some success. Under attorney general opinion, medical transition
    of youth is consider abuse.
- * A pending bill (awaiting the governor's signature as of May 30, 2023)
-   which would ban puberty blockers, HRT, and surgery for trans youth
-   with few exceptions. This bill's enforcement actions are targeted
-   primarily towards healthcare providers.
+ * Texas, as of September 1, 2023, will ban puberty blockers, HRT, and
+   surgery for trans youth with few exceptions. This bill's enforcement
+   actions are targeted primarily towards healthcare providers.
 
 ## Child Custody / Abuse
 
@@ -71,8 +69,8 @@ at birth and/or chromosomes.
    transgender children in many circumstances, placing custody at risk.
  * The executive order and legal opinion of the AG is being challenged
    in court.
- * The pending bill would penalize healthcare providers, but not parents
-   (but it would co-exist with the executive order and legal opinion of
+ * The anti-trans healthcare law penalizes healthcare providers, but not
+   parents (but it co-exists with the executive order and legal opinion of
    the Attorney General).
  * There is no sanctuary law preventing cooperation with other
    jurisdictions.
@@ -93,7 +91,7 @@ at birth and/or chromosomes.
 
  * [2023 HB2127 - Ban on Local Non-Discrimination Law (not yet signed by governor as of May 30, 2023)](https://legiscan.com/TX/text/HB2127/id/2814366)
  * [2023 SB12 - Vague Sexually Oriented Performance Ban (not yet signed by governor as of May 30, 2023)](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB12)
- * [2023 SB14 - Trans Medical Ban (not yet signed by governor as of May 30, 2023)](https://legiscan.com/TX/text/SB14/id/2811355)
+ * [2023 SB14 - Trans Medical Ban](https://legiscan.com/TX/text/SB14/id/2811355)
 
 ## General Safety
 
