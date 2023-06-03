@@ -153,7 +153,9 @@ have also done so, for state-sponsored attacks against their
 constituents' human rights.
 
 The state has a law that prevents instruction on sexual orientation or
-gender identity through grade twelve in schools.
+gender identity through grade twelve in schools.  Local officials have
+broadly applied this law, including using the law as justification for
+censoring [student speech](https://www.orlandosentinel.com/2023/06/01/seminole-schools-offer-to-remove-lgbtq-pages-from-high-school-yearbook/?fbclid=IwAR0h7CGbTNdU8oXtyBdg872dGf0E9VcGFln6h2m8TafunxsZ_FJNaVKXpas).
 
 Some state officials consider exposure of children to sexual orientation or
 gender identity information to be "grooming," I.E. something done in
@@ -161,6 +163,7 @@ preparation to abuse a child. Thus trans people in the presence of
 children may be at risk of state action and/or hostile interactions with
 others who believe that your presence may be a prelude to child abuse.
 The "groomer" insult towards trans people originated in Florida.
+
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
