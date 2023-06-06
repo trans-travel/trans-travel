@@ -39,8 +39,9 @@ Non-binary people are not recognized by Georgia.
 ## Medical Care
 
  * Trans medical care is legal for adults
- * Medical care for transgender children is restricted. While puberty
-   blockers are legal, hormone therapy and surgery is illegal.
+ * After July 1, 2023, medical care for transgender children will
+   be restricted. While puberty blockers will be legal, hormone
+   therapy and surgery will be illegal.
 
 ## Child Custody / Abuse
 
