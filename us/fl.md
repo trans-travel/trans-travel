@@ -114,6 +114,9 @@ not take priority over sex assigned at birth.
  * Medical transition for people under age 18 is illegal.
  * Medical providers can deny most care on the basis of their religious
    or ethical beliefs (emergency care is required to be provided).
+ * A judge's ruling in Doe v. Ladapo is allowing 3 trans children to
+   continue receiving medical care.  However, this ruling does not apply
+   to other children or to adults, and the case is still pending.
 
 ## Child Custody / Abuse
 
