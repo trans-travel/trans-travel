@@ -6,13 +6,10 @@ apply to most trans people traveling to Missouri in most
 situations.
 
 Transgender medical care for adults is legal (see notes below in medical
-care section)
+care section).
 
-While Missouri does not currently have a law against youth medical care
-(at least not one distinct from the above-mentioned administrative
-order), one was passed by the legislature and is awaiting governor
-signature as of May 16, 2023.  However, it is unknown how this might have
-an impact on child custody.
+Missouri has a law against youth medical care. It is unknown how this
+might have an impact on child custody.
 
 ## Non-discrimination Law
 
@@ -35,14 +32,11 @@ See the [USA TSA](../notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women would typically be housed with men
- * Trans men would typically be housed with women
+ * Trans women would typically be housed with men.
+ * Trans men would typically be housed with women.
  * Nonbinary people would typically be housed according to sex
-   assigned at birth
- * If Missouri SB49 is signed by the governor (currently it is not
-   signed, as of May 11, 2023), it would explicitly ban transgender
-   surgery in jails/prisons, although in practice these are already
-   banned.
+   assigned at birth.
+ * Transgender-related surgery in jails/prisons is banned.
 
 ## Legal Definition of Sex
 
@@ -59,16 +53,14 @@ Non-binary people are not legally recognized.
 
  * Trans medical care is legal for adults.  There was a short-lived
    administrative ban order that was withdrawn on May 16, 2023.
- * If Missouri SB49 is signed by the governor (current it is not
-   signed, as of May 11, 2023), it would ban most trans medical care for
-   youth, including puberty blockers, hormones, and surgery, although
-   some very limited exceptions are present for youth already undergoing care.
+ * Most trans medical care for youth is banned, including puberty
+   blockers, hormones, and surgery, although some very limited exceptions
+   are present for youth already undergoing care.
 
 ## Child Custody / Abuse
 
- * Trans medical care for children would be banned under the 
-   unsigned SB49, which is not currently in effect (as of May 16, 2023).
-   This will apply to doctors providing the care and not to parents.
+ * Trans medical care for children is banned.  This will applies to
+   doctors providing the care and not to parents.
  * It is unknown if transition might be used by the state to justify
    custody removal.
  * There is no sanctuary law preventing cooperation with other
@@ -80,7 +72,7 @@ Non-binary people are not legally recognized.
 
 ## Relevant Laws
 
- * [2023 SB49 (not yet signed by the governor) Trans Medical Ban](https://legiscan.com/MO/text/SB49/id/2755107)
+ * [2023 SB49 - Trans Medical Ban](https://legiscan.com/MO/text/SB49/id/2755107)
  * [Kansas City Safe Haven for Transgender Residents](https://www.kcmo.gov/Home/Components/News/News/2040/1746)
  * [St. Louis Trans-Inclusive Executive Order](https://www.stlouis-mo.gov/government/departments/mayor/documents/executive-orders/upload/Draft-EO-Trans-Rights.pdf)
 
