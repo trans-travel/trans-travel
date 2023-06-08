@@ -1,5 +1,10 @@
 # USA - Louisiana
 
+The NAACP of Louisiana has requested the national organization [issue a
+travel advisory](https://www.wbrz.com/news/naacp-seeking-travel-advisory-for-louisiana-citing-concerning-policies/)
+for Louisiana, on the basis of anti-Black and anti-LGBT state bills that
+could place both Black and LGBT people at risk.
+
 Louisiana does not have laws that target most trans visitors directly.
 
 Louisiana does not appear to place child custody at risk.

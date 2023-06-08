@@ -1,7 +1,8 @@
 # USA - Florida
 
 HRC and Equality Florida, LGBT advocacy groups, have issued an advisory travel
-advisory for the State of Florida.
+advisory for the State of Florida.  In addition, both LULAC and NAACP
+have also issued advisories.
 
 Florida has negative laws and executive orders towards trans people. Some of
 these laws place trans visitors at risk.
@@ -148,7 +149,7 @@ not take priority over sex assigned at birth.
 HRC and Equity Florida have issued a joint
 [travel warning](https://floridatraveladvisory.com/)
 for the State of Florida due to anti-LGBT legislation.  The
-[NAACP](https://www.cnn.com/2023/05/21/us/naacp-florida-travel-advisory/index.html),
+[NAACP](https://naacp.org/articles/naacp-issues-travel-advisory-florida),
 [LULAC](https://lulac.org/news/pr/LULACS_HISTORIC_WARNING_AGAINST_LATINOS_TRAVELING_TO_FLORIDA_IS_A_REMINDER_OF_ARIZONA_FOLLOWING_SB1070/)
 (a Latino advocacy organization), and the
 [Florida Immigrant Commission](https://floridatraveladvisory.com/),
