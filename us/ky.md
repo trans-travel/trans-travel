@@ -73,11 +73,18 @@ Intersex people have some limited recognition.
 ## Relevant Laws
 
  * [2023 SB150 - Trans Medical Care Ban, School Bathroom Ban, Don't Say Gay](https://corrections.ky.gov/About/cpp/Documents/14/CPP%2014.8%2005202020.pdf)
+ * [Kentucky Dept. of Education Legislative
+   Interpretations](https://education.ky.gov/districts/LegislativeGuidance/Documents/2023_Legislative_Guidance-Emergency_Bills.pdf)
 
 ## General Safety
 
 The state has a law that prevents instruction on sexual orientation or
-gender identity (or really any mention) in any grade.
+gender identity (or really any mention) in any grade, although the
+current legislative guidance by the Kentucky Department of Education is
+that a district that does not teach sexuality or STDs to children before
+grade six can teach about sexual orientation and gender identity, due to
+a possible legislative error (using "or" when the legislature likely
+meant "and").
 
 Kentucky has a history of interpreting religious exemptions very widely
 when discrimination occurs against LGBT people.
