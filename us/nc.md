@@ -3,7 +3,7 @@
 North Carolina does not have laws that target trans people directly.
 
 North Carolina does not appear to place child custody at risk, although
-the legislature (as of May 15, 2023) has an active bill that may or may
+the legislature (as of June 9, 2023) has an active bill that may or may
 not pass that would restrict some trans healthcare.
 
 ## Non-discrimination Law
@@ -66,6 +66,7 @@ Non-binary people are not recognized.
 ## Relevant Laws
 
  * [Session Law 2015-75 - Allowing Officials Religious Objections to Marriages](https://www.ncleg.gov/Sessions/2015/Bills/Senate/PDF/S2v4.pdf)
+ * [2023 H808 - Trans Youth Medical Ban Bill (not yet passed)](https://legiscan.com/NC/bill/H808/2023)
 
 ## General Safety
 

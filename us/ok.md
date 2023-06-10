@@ -3,10 +3,11 @@
 Oklahoma has negative laws towards trans people. Some of these laws may
 place trans visitors at risk.
 
-Under a law that is currently stayed as of May 18, 2023 (so it is not being
-enforced by the state), Oklahoma does criminalize trans care for children,
-but does not penalize parents (the law applies to medical providers).
-However, it is unknown how this might have an impact on child custody.
+Under a law that is currently (June 9, 2023) stayed as of May 18, 2023 (so
+it is not being enforced by the state), Oklahoma does criminalize trans
+care for children, but does not penalize parents (the law applies to
+medical providers).  However, it is unknown how this might have an impact
+on child custody.
 
 Note that some indigenous nations within the boundaries of Oklahoma may
 ban same-sex marriage recognition for people receiving services from
