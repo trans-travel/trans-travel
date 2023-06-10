@@ -76,10 +76,15 @@ by officials and public institutions.
 
 However, much of California is considered reasonably safe, particularly
 the major cities where many people are visibly trans. That said, attacks
-still can and do occur in California.  Rural areas may be more
-swayed by anti-trans political rhetoric, and some jurisdictions outside
-of the major metro areas have attempted to restrict the rights of trans
-people, particularly in schools and libraries.
+still can and do occur in California, particularly around school board
+meetings discussing LGBT policies and schools teaching LGBT schools. For
+instance, LGBT supporters at Saticoy Elementary in North Hollywood were
+attacked by anti-LGBT protesters (who also used anti-Semitic language),
+leaving one LGBT supporter unresponsive during the protest [on June 2,
+2023](https://www.thedailybeast.com/saticoy-elementary-school-pride-assembly-protest-erupts-in-violence).
+Rural areas may be more swayed by anti-trans political rhetoric, and some
+jurisdictions outside of the major metro areas have attempted to restrict
+the rights of trans people, particularly in schools and libraries.
 
 ## Resources
 
