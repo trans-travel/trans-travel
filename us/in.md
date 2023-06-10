@@ -97,3 +97,5 @@ officials and public institutions.
 
 ## Resources
 
+ * [Smiley v. Jenner - Lawsuit against "don't say gay" law](https://www.aclu-in.org/en/press-releases/aclu-indiana-challenges-law-censoring-classroom-discussions)
+
