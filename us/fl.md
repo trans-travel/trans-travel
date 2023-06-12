@@ -117,11 +117,15 @@ not take priority over sex assigned at birth.
    or ethical beliefs (emergency care is required to be provided).
  * A judge's ruling in Doe v. Ladapo is allowing 3 trans children to
    continue receiving medical care.  However, this ruling does not apply
-   to other children or to adults, and the case is still pending.
+   to other children or to adults, and the case is still pending. That
+   said, GLAD, a legal advocacy group, reports that because much of the
+   law was found unconstitutional, [trans care is legal again in
+   Florida](https://www.glad.org/questions-about-the-legal-status-of-floridas-transgender-healthcare-ban/).
 
 ## Child Custody / Abuse
 
- * Trans medical care is illegal for youth in Florida
+ * There is a law against trans medical care is illegal for youth in Florida
+   (but see above).
  * It is unknown if transition might be used by the state to justify
    custody removal.  However, Florida's youth care ban also allows the
    Florida courts to have emergency jurisdiction over a child if "it
@@ -195,6 +199,7 @@ Florida
 
  * [Cis Woman Booked into Miami Men's Jail](https://www.nbcnews.com/news/us-news/woman-booked-miami-men-s-jail-after-wrongly-deemed-transgender-n943626)
  * [Doe v. Ladapo - Lawsuit Challenging Trans Care Ban](https://www.glad.org/cases/doe-v-ladapo/)
+ * [Doe v. Ladapo FAQ on Legal Status of Trans Care Ban](https://www.glad.org/questions-about-the-legal-status-of-floridas-transgender-healthcare-ban/)
  * [Florida Ban on Adult Trans Medical Care - Resource](https://floridaban.com/)
  * [Hamburger Mary Lawsuit against Drag Ban GoFundMe](https://www.gofundme.com/f/legal-defense-fund-for-hamburger-mary-orlando)
  * [HRC and Equity Florida Travel Advisory](https://eqfl.org/updated-travel-advisory-HRC)
