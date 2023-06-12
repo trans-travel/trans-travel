@@ -7,7 +7,9 @@ require identification documentation changes, and some organizations or
 agencies may not fully recognize these changes.
 
 New York is not a "sanctuary state" for trans medical care. However,
-trans medical care is not considered abuse and is not banned.
+trans medical care is not considered abuse and is not banned. In
+addition, New York City has issued a limited-scope sanctuary executive
+order.
 
 ## Non-discrimination Law
 
@@ -58,6 +60,9 @@ some education for medical providers on intersex issues.
 ## Medical Care
 
  * Trans medical care is legal for all ages
+ * New York City has issued an executive order prohibiting cooperation
+   with prosecution of a person for receiving or providing transgender
+   care.
 
 ## Child Custody / Abuse
 
@@ -68,6 +73,8 @@ some education for medical providers on intersex issues.
  * Same-sex marriage (and thus all trans marriage) is recognized
 
 ## Relevant Laws
+
+ * [New York City EO 32 - Sanctuary City Order](https://www.nyc.gov/office-of-the-mayor/news/32-002/executive-order-32)
 
 ## General Safety
 
