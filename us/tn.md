@@ -66,6 +66,8 @@ assigned at birth and/or chromosomes.
  * Medical transition for people under age 18 will be illegal as of
    July 1, 2023. This includes both care provided from within Tennessee
    and care provided via telehealth.
+ * Some providers (notably VUMC) ceased providing this care in
+   anticipation of the law going into effect.
  * There are some very limited exceptions to the care ban for youth
    continuing the same care who had received that care prior to the
    ban up until March 31, 2024.
