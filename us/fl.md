@@ -28,6 +28,10 @@ procedures," similar to how the courts have jurisdiction over abuse.
  * Florida non-discrimination law does not include LGBT people
  * Some Florida municipalities do have non-discrimination laws that
    include trans people.
+ * Jacksonville's non-discrimination law is being [challenged by
+   Alliance Defending Freedom](https://www.jacksonville.com/story/news/courts/2023/02/24/transgender-debate-sparks-catholic-store-lawsuit-over-jacksonville-hro/69933481007/) who seeks to allow businesses to
+   require misgendering of customers, on the basis of religious
+   owners of a for-profit corporation.
  * Public school (K12) employees will not be able to be disciplined
    after July 1, 2023 for using pronouns and titles associated a trans
    person's sex assigned at birth.
