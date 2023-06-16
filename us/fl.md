@@ -1,7 +1,7 @@
 # USA - Florida
 
 HRC and Equality Florida, LGBT advocacy groups, have issued an advisory travel
-advisory for the State of Florida.  In addition, both LULAC and NAACP
+warning for the State of Florida.  In addition, both LULAC and NAACP
 have also issued advisories.
 
 Florida has negative laws and executive orders towards trans people. Some of
