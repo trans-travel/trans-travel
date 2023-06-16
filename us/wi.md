@@ -17,7 +17,7 @@ trans youth medical care.
    rooms.
  * General public accommodation access is not specifically protected by law
    for trans people in Wisconsin as a whole (but is in many municipalities).
- * Pending legislation in Dane County would establish [limited sanctuary
+ * Dane County established [limited sanctuary
    protections](https://www.countyofdane.com/PressDetail/11253) within
    the county.
 
