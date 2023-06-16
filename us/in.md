@@ -6,6 +6,10 @@ trans people in most situations.
 
 Indiana does criminalize trans care for children which may have an
 unknown impact on child custody. These laws do not directly apply to parents.
+This law, however, is temporarily stayed pending resolution of K.C. v.
+Medical Licensing Board, meaning that it is currently unenforceable by
+the state and care remains legal for youth (with the exception of gender
+reassignment surgery). (last update: June 16, 2023)
 
 ## Non-discrimination Law
 
@@ -54,10 +58,15 @@ Intersex people have some limited recognition.
 
  * Trans medical care is legal for adults
  * A law banning puberty blockers, hormone therapy, and surgery for
-   people under 18 has passed and became law.
+   people under 18 has passed and became law.  This law, however, is
+   temporarily stayed pending resolution of K.C. v.  Medical Licensing
+   Board, meaning that it is currently (June 16, 2023) unenforceable by
+   the state and care remains legal for youth (with the exception of
+   gender reassignment surgery).
  * Parents who allow children to receive trans care including puberty
    blockers, hormone therapy, and surgery are not criminalized, as the
-   law applies only to medical providers.
+   (currently, as of June 16, 2023, unenforceable) law applies only to
+   medical providers.
  * Hormone therapy is allowed for children who were on hormone therapy
    prior to June 30, 2023 until December 31, 2023, at which time these
    children will no longer be allowed to receive hormone therapy.
@@ -69,7 +78,10 @@ Intersex people have some limited recognition.
 ## Child Custody / Abuse
 
  * Some transition care (puberty blockers, hormone therapy, and surgery)
-   for children is illegal. This ban shows the state's view of this care.
+   for children is illegal (although this law, with the exception of the
+   ban on gender reassignment surgery, is currently unenforceable due to
+   a preliminary injunction as of June 16, 2023). This ban shows the
+   state's view of this care.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
  
@@ -98,4 +110,6 @@ officials and public institutions.
 ## Resources
 
  * [Smiley v. Jenner - Lawsuit against "don't say gay" law](https://www.aclu-in.org/en/press-releases/aclu-indiana-challenges-law-censoring-classroom-discussions)
+ * [K.C. v. Medical Licensing Board of Indiana - Lawsuit against trans
+   youth healthcare ban](https://www.aclu.org/cases/k-c-v-medical-licensing-board-of-indiana)
 
