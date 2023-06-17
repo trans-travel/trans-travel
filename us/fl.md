@@ -184,6 +184,13 @@ children may be at risk of state action and/or hostile interactions with
 others who believe that your presence may be a prelude to child abuse.
 The "groomer" insult towards trans people originated in Florida.
 
+Florida has taken moves to [arrest peaceful
+protesters](https://www.orlandosentinel.com/2023/06/16/fdle-cracks-down-on-transgender-rights-protesters-2-months-after-panty-toss/)
+months after protests against government officials. These protesters
+were involved in LGBT, immigrant, civil rights, and reproductive justice
+protests at government buildings. They did not damage property or use
+violence.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
