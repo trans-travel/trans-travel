@@ -189,7 +189,8 @@ protesters](https://www.orlandosentinel.com/2023/06/16/fdle-cracks-down-on-trans
 months after protests against government officials. These protesters
 were involved in LGBT, immigrant, civil rights, and reproductive justice
 protests at government buildings. They did not damage property or use
-violence.
+violence. Those arrested included current and former government
+officials.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
