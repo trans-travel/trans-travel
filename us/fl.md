@@ -46,14 +46,22 @@ procedures," similar to how the courts have jurisdiction over abuse.
    Florida.
  * There is a "bathroom law" in Florida that takes effect on July 1, 2023.
    This would make it a crime to use a bathroom in government facilities
-   (any level of government) not associated with your assigned sex at
-   birth, if anyone objected to your presence and you refused to
+   (city, county, or state government) not associated with your assigned
+   sex at birth, if anyone objected to your presence and you refused to
    immediately leave. This also covers health care facilities, massage
    parlors, jails, pharmacies, etc.
  * The bathroom law will apply to airports and cruise ports, in addition
    to other government facilities.
  * Florida has wide-reaching religious freedom laws that allow denial of
    some services on the basis of gender identity.
+ * Trans women are being challenged for using bathrooms not covered by
+   the Florida law, including federal facilities [such as the
+   VA](https://www.advocate.com/news/florida-veteran-transgender-bathroom),
+   even before the Florida law goes into effect. The challenges are often
+   other bathroom users objecting to the presence of trans women in the
+   bathroom, after which business/organization staff, security, or police
+   force the trans person to leave. This is regardless of the user's legal
+   identification, length of time on HRT, etc.
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -75,7 +83,7 @@ See the [USA TSA](../notes/tsa.md) document.
  
  * There is a "bathroom law" in Florida that takes effect on July 1, 2023.
    This would make it a crime to use a bathroom in government facilities
-   (any level of government) not associated with your
+   (city, county, or state level of government) not associated with your
    assigned sex at birth, if anyone objected to your presence and you
    refused to immediately leave.
  * This law would apply to airport and cruise port bathrooms, so trans people
@@ -175,7 +183,6 @@ preparation to abuse a child. Thus trans people in the presence of
 children may be at risk of state action and/or hostile interactions with
 others who believe that your presence may be a prelude to child abuse.
 The "groomer" insult towards trans people originated in Florida.
-
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
