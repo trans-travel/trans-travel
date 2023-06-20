@@ -5,10 +5,12 @@ place trans people at risk. Trans people should particularly consider
 the bathroom law. While it requires "arousing or gratifying a sexual
 desire," how that will be enforced is a gray area.
 
-Arkansas does criminalize trans care for children, although the current
-law that is not stayed by judicial order does not have parental
-penalties and has some exceptions (when it goes into effect this summer).
-However, it is unknown how this might have an impact on child custody.
+The 2021 law Arkansas passed that banned youth trans healthcare has been
+[found unconstitutional](https://wp.api.aclu.org/wp-content/uploads/2023/06/win-in-arkansas.pdf).
+However, Arkansas has passed a second law (SB199 2023) which requires
+doctors to spread misinformation about youth trans healthcare and places
+some restrictions on the care may still be in effect.
+It is unknown how this might have an impact on child custody.
 
 ## Non-discrimination Law
 
@@ -61,13 +63,10 @@ at birth and/or chromosomes.
 ## Medical Care
 
  * Trans medical care is legal for adults
- * A 2023 law banning medical transition (with extremely narrow
-   exceptions) for people under 18 has passed and became law. This goes
-   into effect during summer of 2023.
- * There is a 2021 anti-trans youth medical ban but there is currently
-   a judicial stay preventing
-   enforcement of this law for puberty blockers and hormone therapy.
-   The 2023 law mentioned above is to get around this block.
+ * A 2023 law restricts medical transition for people under 18 has passed
+   and became law. This goes into effect during summer of 2023. This
+   bill requires providers to spread misinformation and places
+   some restrictions on the care.
  * Medical providers can deny some care on the basis of their religious
    beliefs.
 
@@ -88,11 +87,12 @@ at birth and/or chromosomes.
 ## Relevant Laws
 
  * [2015 SB202 - Ban on local non-discrimination ordinances](https://www.arkleg.state.ar.us/Acts/Document?type=pdf&act=137&ddBienniumSession=2015%2F2015R)
- * [2021 HB1570 - Ban on medical transition for youth](https://legiscan.com/AR/text/HB1570/id/2362964)
+ * [2021 HB1570 - Ban on medical transition for youth - Ruled unconstitutional
+   and unenforcable](https://legiscan.com/AR/text/HB1570/id/2362964)
  * [2023 HB1156 - School Bathrooms](https://legiscan.com/AR/text/HB1156/id/2756961)
  * [2023 HB1468 - Deadnaming Students in K12 and Higher Ed (not yet signed by Governor)](https://legiscan.com/AR/text/HB1468/id/2781770)
  * [2023 HB1615 - Discrimination attributed to religion allowed](https://legiscan.com/AR/text/HB1615/id/2781807)
- * [2023 SB199 - Ban on medical transition for youth](https://legiscan.com/AR/text/SB199/id/2745027)
+ * [2023 SB199 - Restrictions on medical transition for youth](https://legiscan.com/AR/text/SB199/id/2745027)
  * [2023 SB270 - Sex crime of using "wrong" bathroom for sexual gratification](https://legiscan.com/AR/text/SB270/id/2781418)
  * [2023 SB294 - Don't say "gay"](https://legiscan.com/AR/text/SB294/id/2736770)
 
