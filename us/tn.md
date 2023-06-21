@@ -9,6 +9,11 @@ under this law (it applies to healthcare providers), except possibly if
 one parent provides hormones or puberty blockers without the other
 parent's consent.
 
+Tennessee's Attorney General has requested private medical records
+(and [received
+them](https://www.tennessean.com/story/news/health/2023/06/20/vanderbilt-university-m-turns-over-transgender-patient-medical-records-to-tennessee-attorney-general/70338356007/))
+to investigate at least one provider of transgender care.
+
 ## Non-discrimination Law
 
  * Tennessee non-discrimination law does not include LGBT people
@@ -73,6 +78,11 @@ assigned at birth and/or chromosomes.
    ban up until March 31, 2024.
  * Medical providers (including mental health providers) can deny some
    care on the basis of their religious or ethical beliefs.
+ * Some Medical records of patients receiving care at Vanderbilt, including
+   private information, have been
+   [given to the state Attorney General](https://www.tennessean.com/story/news/health/2023/06/20/vanderbilt-university-m-turns-over-transgender-patient-medical-records-to-tennessee-attorney-general/70338356007/)
+   to investigate trans healthcare provisions.  It is unknown if this has
+   been done at other organizations.
 
 ## Child Custody / Abuse
 

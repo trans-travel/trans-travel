@@ -6,11 +6,6 @@ North Carolina does not appear to place child custody at risk, although
 the legislature (as of June 9, 2023) has an active bill that may pass
 that would restrict some trans healthcare.
 
-North Carolina's Attorney General has requested private medical records
-(and [received
-them](https://www.tennessean.com/story/news/health/2023/06/20/vanderbilt-university-m-turns-over-transgender-patient-medical-records-to-tennessee-attorney-general/70338356007/))
-to investigate at least one provider of transgender care.
-
 ## Non-discrimination Law
 
  * North Carolina non-discrimination law does not include LGBT people
@@ -58,11 +53,6 @@ Non-binary people are not recognized.
  * North Carolina does not appear to place child custody at risk, although
    the legislature (as of June 9, 2023) has an active bill that may pass
    that would restrict some trans healthcare.
- * Some Medical records of patients receiving care at Vanderbilt, including
-   private information, have been
-   [given to the state Attorney General](https://www.tennessean.com/story/news/health/2023/06/20/vanderbilt-university-m-turns-over-transgender-patient-medical-records-to-tennessee-attorney-general/70338356007/)
-   to investigate trans healthcare provisions.  It is unknown if this has
-   been done at other organizations.
 
 ## Child Custody / Abuse
 
