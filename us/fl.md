@@ -38,7 +38,8 @@ procedures," similar to how the courts have jurisdiction over abuse.
  * Some businesses and LGBT organizations have canceled events that
    might involve drag or trans people participating, due to the
    possibility of the "protection of children" law being used against
-   these organizations.
+   these organizations. However, as of June 24, 2023, a court is
+   preventing the state form enforcing the drag ban.
 
 ## Public Accommodations
 
@@ -71,11 +72,12 @@ procedures," similar to how the courts have jurisdiction over abuse.
    and similar activities outside of venues such as strip clubs that are
    licensed for the purpose and only permit adults. This has been
    labeled a drag ban, and depending on how courts interpret various
-   phrases may or may not actually be one.
+   phrases may or may not actually be one. However, a court case, as of
+   June 24, 2023, prevents the state from enforcing this law.
  * Some businesses and LGBT organizations have canceled events that
    might involve drag or trans people participating, due to the
    possibility of the "protection of children" law being used against
-   these organizations.
+   these organizations. However, see the above bullet point.
 
 ## Air Travel
 
@@ -124,15 +126,19 @@ not take priority over sex assigned at birth.
    treatment. This form is to be created by the state, but does not
    currently exist, meaning that providers cannot prescribe HRT to new
    patients.
- * Medical transition for people under age 18 is illegal.
- * Medical providers can deny most care on the basis of their religious
-   or ethical beliefs (emergency care is required to be provided).
- * A judge's ruling in Doe v. Ladapo is allowing 3 trans children to
+ * Proposed rules for adults seeking trans medical care would likely be
+   extremely restrictive, requiring, among other things, annual bone
+   scans, four blood tests per year, and continuous psychological counseling
+   with yearly mental health screenings.
+ * Medical transition for people under age 18 is illegal. However,
+   a judge's ruling in Doe v. Ladapo is allowing 3 trans children to
    continue receiving medical care.  However, this ruling does not apply
    to other children or to adults, and the case is still pending. That
    said, GLAD, a legal advocacy group, reports that because much of the
    law was found unconstitutional, [trans care is legal again in
    Florida](https://www.glad.org/questions-about-the-legal-status-of-floridas-transgender-healthcare-ban/).
+ * Medical providers can deny most care on the basis of their religious
+   or ethical beliefs (emergency care is required to be provided).
 
 ## Child Custody / Abuse
 
