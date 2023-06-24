@@ -15,6 +15,8 @@ care.
 ## Non-discrimination Law
 
  * Texas non-discrimination law does not include LGBT people
+ * Cities are substantially banned from passing non-discrimination laws
+   due to a new law passed in 2023.
 
 ## Public Accommodations
 
@@ -26,10 +28,9 @@ care.
 ## Drag / Performance / Cross-dressing Laws
 
  * Texas does not have a drag/cross-dressing law.
- * A bill pending governor signature, SB12, uses vague language to ban
-   "sexually oriented performances" where a child might be able to view
-   it and may be used against drag performers. If passed, this would take
-   effect on September 1, 2023.
+ * A law, which will take effect on Sept. 1, 2023, has vague language that
+   will ban "sexually oriented performances" where a child might be able to
+   view it and may be used against drag performers.
 
 ## Air Travel
 
@@ -89,8 +90,8 @@ at birth and/or chromosomes.
 
 ## Relevant Laws
 
- * [2023 HB2127 - Ban on Local Non-Discrimination Law (not yet signed by governor as of May 30, 2023)](https://legiscan.com/TX/text/HB2127/id/2814366)
- * [2023 SB12 - Vague Sexually Oriented Performance Ban (not yet signed by governor as of May 30, 2023)](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB12)
+ * [2023 HB2127 - Ban on Local Non-Discrimination Law)](https://legiscan.com/TX/text/HB2127/id/2814366)
+ * [2023 SB12 - Vague Sexually Oriented Performance Ban)](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB12)
  * [2023 SB14 - Trans Medical Ban](https://legiscan.com/TX/text/SB14/id/2811355)
 
 ## General Safety
