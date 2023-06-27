@@ -4,28 +4,42 @@ Kansas places trans people at risk by not recognizing any gender other
 than sex assigned at birth, regardless of legal documentation changes in
 Kansas or elsewhere.
 
+Trans travelers should use extreme caution in Kansas due to 2023 SB180 (The
+badly named "Women's Bill of Rights"). Kansas requires all state
+agencies to treat all trans women as men, all trans men as women, and
+all non-binary people on the basis of their sex assigned at birth. This
+has wide-ranging implications, such as improper incarceration, bathroom
+access, identifications, etc.
+
 Kansas does not appear to place child custody at risk.
 
 ## Non-discrimination Law
 
  * Kansas non-discrimination law does not include LGBT people
+ * The State is required under 2023 SB180 to discriminate against trans
+   people.
 
 ## Public Accommodations
 
  * Because of Kansas's law defining sex legally (note that the law does
    not mention bathrooms directly), it may be interpreted by courts, in
    combination with other laws, to ban trans people from appropriate
-   bathrooms.
- * Some believe trans women are required to use male facilities such
+   bathrooms. This is the opinion held by the Attorney General, so it is
+   likely to be followed by state agencies.
+ * Trans women are required to use male facilities such
    as bathrooms, showers, locker rooms, homeless accommodations, etc.
- * Some believe Trans men are required to use women's facilities such
+ * Trans men are required to use women's facilities such
    as bathrooms, showers, locker rooms, homeless accommodations, etc.
- * Some believe non-binary people are required to use facilities
+ * Non-binary people are required to use facilities
    based on sex assigned at birth.
  * Some cities have protections against gender-identity discrimination,
-   but it is unclear how that is reconciled with state law.
+   but the state law will override many of these protections.
 
-It is unknown how this would be enforced.
+It is unknown how this would be enforced, beyond where the state has the
+power to impose gender determination on people. It is likely that, for
+instance, a trans woman using a women's bathroom could be charged with
+other crimes that do carry a penalty on the basis that the state
+prohibits her from being in the space.
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -35,16 +49,17 @@ It is unknown how this would be enforced.
 
 See the [USA TSA](../notes/tsa.md) document.
 
- * It may be illegal to use a bathroom that does not match your sex
+ * It is illegal to use a bathroom that does not match your sex
    assigned at birth in Kansas airports (note that Kansas City
-   Airport - MCI - is in Missouri)
+   Airport - MCI - is in Missouri, not Kansas, and thus this law does
+   not apply to the Kansas City Airport)
 
 ## Jails / Prisons
 
- * Trans women would be required to be housed with men
- * Trans men would be required to be housed with women
- * Nonbinary people would be required to be housed according to sex
-   assigned at birth
+ * Trans women are required to be housed with men.
+ * Trans men are required to be housed with women.
+ * Nonbinary people are required to be housed according to sex
+   assigned at birth.
 
 ## Legal Definition of Sex
 
@@ -62,7 +77,12 @@ Non-binary people are not recognized.
 
 Intersex people who are "born with a medically verifiable diagnosis of
 'disorder/differences in sex development'" should be considered disabled
-and provided accommodations under the Americans with Disabilities Act
+and provided accommodations under the Americans with Disabilities Act.
+
+The Attorney General has issued an opinion requiring state agencies to
+re-issue driver's licenses and birth certificates where they have been
+changed because a person is transgender. The re-issued licenses and
+certificates would indicate the sex assigned at birth.
 
 ## Medical Care
 
@@ -81,13 +101,14 @@ and provided accommodations under the Americans with Disabilities Act
 ## Relevant Laws
 
  * [2023 SB180 - Trans-exclusionary Definition of Sex](http://kslegislature.org/li/b2023_24/measures/documents/sb180_enrolled.pdf)
+ * [2023 Attorney General Opinion on SB180](https://ag.ks.gov/docs/default-source/ag-opinions/ago-2023-2-rep-barth---final.pdf?sfvrsn=f3f6bc1a_4)
 
 ## General Safety
 
 Some communities may be more welcoming than others. For instance,
 Lawrence was indicated as a welcoming city.
 
-Bathroom access may be a significant issue in Kansas.  Already, in May
+Bathroom access is a significant issue in Kansas.  Already, in May
 2023, the same month the trans-exclusionary definition of sex was
 enacted, a cis woman in a public library who was assisting her
 non-verbal son use the bathroom was
@@ -102,6 +123,13 @@ space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to be misgendered by
 officials and public institutions.
+
+Should a trans person interact with state government, they should be
+expected to be treated in every way based on their sex assigned at
+birth. Note that law enforcement generally has access to previous
+identification issued in other states, and thus having identification
+changed in another state is likely not sufficient to protect a trans
+person.
 
 ## Resources
 
