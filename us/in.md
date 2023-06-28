@@ -65,7 +65,7 @@ Intersex people have some limited recognition.
    gender reassignment surgery).
  * Parents who allow children to receive trans care including puberty
    blockers, hormone therapy, and surgery are not criminalized, as the
-   (currently, as of June 16, 2023, unenforceable) law applies only to
+   (currently, as of June 24, 2023, unenforceable) law applies only to
    medical providers.
  * Hormone therapy is allowed for children who were on hormone therapy
    prior to June 30, 2023 until December 31, 2023, at which time these
@@ -94,7 +94,7 @@ Intersex people have some limited recognition.
  * [2023 IN HB1569 - Prisoner Medical Care Ban](https://legiscan.com/IN/text/HB1569/id/2766909)
  * [2023 IN HB1608 - Don't Say Gay](https://legiscan.com/IN/text/HB1608/id/2790220)
  * [2023 IN SB350 - Prevent Cities from Banning Conversion Therapy](https://iga.in.gov/legislative/2023/bills/senate/350#document-d6ae1d25)
- * [2023 IN SB480 - Youth Trans Medical Care Ban](https://legiscan.com/IN/text/SB0480/id/2763114)
+ * [2023 IN SB480 - Youth Trans Medical Care Ban (Currently prevented from being enforced, as of June 24, 2023)](https://legiscan.com/IN/text/SB0480/id/2763114)
 
 ## General Safety
 

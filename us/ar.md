@@ -66,7 +66,8 @@ at birth and/or chromosomes.
  * A 2023 law restricts medical transition for people under 18 has passed
    and became law. This goes into effect during summer of 2023. This
    bill requires providers to spread misinformation and places
-   some restrictions on the care.
+   some restrictions on the care. Note however, a previous ban was
+   declared unconstitutional and likely this 2023 law will be too.
  * Medical providers can deny some care on the basis of their religious
    beliefs.
 
