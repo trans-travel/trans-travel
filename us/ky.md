@@ -4,7 +4,8 @@ Kentucky negative laws towards trans people. However, these laws
 are, thus far, fairly restricted and do not apply to most
 trans people in most situations.
 
-Kentucky does criminalize trans care for children which may have an
+Under a law that is currently (as of June 28, 2023) unenforceable and blocked by Federal
+courts, Kentucky does criminalize trans care for children which may have an
 unknown impact on child custody. These laws do not directly apply to parents.
 
 ## Non-discrimination Law
@@ -52,7 +53,10 @@ Intersex people have some limited recognition.
 
  * Trans medical care is legal for adults
  * A law banning puberty blockers, hormone therapy, and surgery for
-   people under 18 has passed and became law.
+   people under 18 has passed and became law. However, this law is
+   currently (as of June 28, 2023) [blocked from
+   enforcement](https://drive.google.com/file/d/1WyXw6IIbMcXZECv8SuaxQMkhTS_3kQyP/view),
+   so it cannot be used to stop care.
  * Parents who allow children to receive trans care including puberty
    blockers, hormone therapy, and surgery are not criminalized, as the
    law applies only to medical providers.
@@ -80,7 +84,7 @@ Intersex people have some limited recognition.
 
 The state has a law that prevents instruction on sexual orientation or
 gender identity (or really any mention) in any grade, although the
-current legislative guidance by the Kentucky Department of Education is
+legislative guidance by the Kentucky Department of Education is
 that a district that does not teach sexuality or STDs to children before
 grade six can teach about sexual orientation and gender identity, due to
 a possible legislative error (using "or" when the legislature likely
