@@ -4,7 +4,8 @@ Kentucky negative laws towards trans people. However, these laws
 are, thus far, fairly restricted and do not apply to most
 trans people in most situations.
 
-Under a law that is currently (as of June 28, 2023) unenforceable and blocked by Federal
+Under a law that is currently (as of June 28, 2023) unenforceable and blocked (at
+least the parts applying to hormone therapy and puberty blockers) by Federal
 courts, Kentucky does criminalize trans care for children which may have an
 unknown impact on child custody. These laws do not directly apply to parents.
 
@@ -56,7 +57,7 @@ Intersex people have some limited recognition.
    people under 18 has passed and became law. However, this law is
    currently (as of June 28, 2023) [blocked from
    enforcement](https://drive.google.com/file/d/1WyXw6IIbMcXZECv8SuaxQMkhTS_3kQyP/view),
-   so it cannot be used to stop care.
+   at least where blockers and hormone therapy are concerned, so it cannot be used to stop care.
  * Parents who allow children to receive trans care including puberty
    blockers, hormone therapy, and surgery are not criminalized, as the
    law applies only to medical providers.
@@ -66,7 +67,9 @@ Intersex people have some limited recognition.
 ## Child Custody / Abuse
 
  * Some transition care (puberty blockers, hormone therapy, and surgery)
-   for children is illegal. This ban shows the state's view of this care.
+   for children is illegal. This ban shows the state's view of this care. That said,
+   puberty blockers and hormone therapy is currently allowed under a
+   preliminary injunction as noted above.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
  
