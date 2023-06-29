@@ -7,7 +7,9 @@ Tennessee (as of July 1, 2023) will ban trans care for children which has
 an unknown impact on child custody, however parents are not penalized
 under this law (it applies to healthcare providers), except possibly if
 one parent provides hormones or puberty blockers without the other
-parent's consent.
+parent's consent. However, a preliminary injunction (as of June 28,
+2023) will allow both puberty blockers and hormone therapy for trans youth
+until the case challenging the ban is heard.
 
 Tennessee's Attorney General has requested private medical records
 (and [received
@@ -70,7 +72,9 @@ assigned at birth and/or chromosomes.
  * Trans medical care is legal for adults.
  * Medical transition for people under age 18 will be illegal as of
    July 1, 2023. This includes both care provided from within Tennessee
-   and care provided via telehealth.
+   and care provided via telehealth.  However, a preliminary injunction (as
+   of June 28, 2023) will allow both puberty blockers and hormone therapy
+   for trans youth until the case challenging the ban is heard.
  * Some providers (notably VUMC) ceased providing this care in
    anticipation of the law going into effect.
  * There are some very limited exceptions to the care ban for youth
@@ -86,7 +90,9 @@ assigned at birth and/or chromosomes.
 
 ## Child Custody / Abuse
 
- * Trans medical care is illegal for youth in Tennessee
+ * Trans medical care is illegal for youth in Tennessee However, a preliminary
+   injunction (as of June 28, 2023) will allow both puberty blockers and
+   hormone therapy for trans youth until the case challenging the ban is heard.
  * It is unknown if transition might be used by the state to justify
    custody removal.
  * There is no sanctuary law preventing cooperation with other
