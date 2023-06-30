@@ -42,6 +42,8 @@ Non-binary people are not recognized by Georgia.
  * After July 1, 2023, medical care for transgender children will
    be restricted. While puberty blockers will be legal, hormone
    therapy and surgery will be illegal.
+ * The youth healthcare ban is being [challenged in
+   court](https://www.acluga.org/en/press-releases/press-release-georgia-parents-seek-emergency-court-order-blocking-anti-transgender).
 
 ## Child Custody / Abuse
 
@@ -78,4 +80,6 @@ has given [public support to trans
 people](https://www.fox5atlanta.com/news/atlanta-mayor-dickens-transgender-community-funding)
 
 ## Resources
+
+ * [ACLU Press Release - Lawsuit Against SB140 (youth healthcare ban)](https://www.acluga.org/en/press-releases/press-release-georgia-parents-seek-emergency-court-order-blocking-anti-transgender)
 
