@@ -82,7 +82,10 @@ and provided accommodations under the Americans with Disabilities Act.
 The Attorney General has issued an opinion requiring state agencies to
 re-issue driver's licenses and birth certificates where they have been
 changed because a person is transgender. The re-issued licenses and
-certificates would indicate the sex assigned at birth.
+certificates would indicate the sex assigned at birth. The Governor
+disagrees with this interpretation and has made some indications
+(but not official executive orders) that she will direct agencies to
+continue to not re-issue documents with sex assigned at birth.
 
 ## Medical Care
 
