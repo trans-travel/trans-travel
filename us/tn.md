@@ -3,7 +3,7 @@
 Tennessee has negative laws and executive orders towards trans people. Some of
 these laws place trans visitors at risk.
 
-Tennessee (as of July 1, 2023) will ban trans care for children which has
+Tennessee (as of July 1, 2023) bans trans care for children which has
 an unknown impact on child custody, however parents are not penalized
 under this law (it applies to healthcare providers), except possibly if
 one parent provides hormones or puberty blockers without the other
@@ -70,7 +70,7 @@ assigned at birth and/or chromosomes.
 ## Medical Care
 
  * Trans medical care is legal for adults.
- * Medical transition for people under age 18 will be illegal as of
+ * Medical transition for people under age 18 is illegal as of
    July 1, 2023. This includes both care provided from within Tennessee
    and care provided via telehealth.  However, a preliminary injunction (as
    of June 28, 2023) will allow both puberty blockers and hormone therapy

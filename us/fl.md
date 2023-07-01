@@ -32,9 +32,9 @@ procedures," similar to how the courts have jurisdiction over abuse.
    Alliance Defending Freedom](https://www.jacksonville.com/story/news/courts/2023/02/24/transgender-debate-sparks-catholic-store-lawsuit-over-jacksonville-hro/69933481007/) who seeks to allow businesses to
    require misgendering of customers, on the basis of religious
    owners of a for-profit corporation.
- * Public school (K12) employees will not be able to be disciplined
-   after July 1, 2023 for using pronouns and titles associated a trans
-   person's sex assigned at birth.
+ * Public school (K12) employees are not be able to be disciplined
+   for using pronouns and titles associated a trans person's sex assigned
+   at birth.
  * Some businesses and LGBT organizations have canceled events that
    might involve drag or trans people participating, due to the
    possibility of the "protection of children" law being used against
@@ -45,12 +45,11 @@ procedures," similar to how the courts have jurisdiction over abuse.
 
  * Public accommodation access is not protected for trans people in
    Florida.
- * There is a "bathroom law" in Florida that takes effect on July 1, 2023.
-   This would make it a crime to use a bathroom in government facilities
-   (city, county, or state government) not associated with your assigned
-   sex at birth, if anyone objected to your presence and you refused to
-   immediately leave. This also covers health care facilities, massage
-   parlors, jails, pharmacies, etc.
+ * There is a "bathroom law" in Florida.  It makes it a crime to use a
+   bathroom in government facilities (city, county, or state government)
+   not associated with your assigned sex at birth, if anyone objects
+   to your presence and you refused to immediately leave. This also
+   covers health care facilities, massage parlors, jails, pharmacies, etc.
  * The bathroom law will apply to airports and cruise ports, in addition
    to other government facilities.
  * Florida has wide-reaching religious freedom laws that allow denial of
@@ -83,19 +82,19 @@ procedures," similar to how the courts have jurisdiction over abuse.
 
 See the [USA TSA](../notes/tsa.md) document.
  
- * There is a "bathroom law" in Florida that takes effect on July 1, 2023.
-   This would make it a crime to use a bathroom in government facilities
-   (city, county, or state level of government) not associated with your
-   assigned sex at birth, if anyone objected to your presence and you
-   refused to immediately leave.
+ * There is a "bathroom law" in Florida.  It makes it a crime to use a
+   bathroom in government facilities (city, county, or state government)
+   not associated with your assigned sex at birth, if anyone objects
+   to your presence and you refused to immediately leave. This also
+   covers health care facilities, massage parlors, jails, pharmacies, etc.
  * This law would apply to airport and cruise port bathrooms, so trans people
    and families should use caution connecting through Florida airports
    and cruise ports.
 
 ## Jails / Prisons
 
- * As of July 1, 2023, trans women must be housed with men.
- * As of July 1, 2023, trans men must be housed with women.
+ * Trans women must be housed with men.
+ * Trans men must be housed with women.
  * Nonbinary people are housed according to sex assigned at birth.
  * Local jails have housed at least one cis woman in men's jail after
    mistaking her for a trans woman.
@@ -110,10 +109,10 @@ been issued, Florida does not generally recognize non-binary gender.
 Some laws specify male, female, and similar words based on sex assigned
 at birth and/or chromosomes.
 
-On July 1, 2023, Florida will define sex largely consistent with sex
-assigned at birth for a large number of interactions trans travelers
-may have. Birth certificates, IDs, genital configurations, etc, will
-not take priority over sex assigned at birth.
+Florida will defines sex largely consistent with sex assigned at birth
+for a large number of interactions trans travelers may have. Birth
+certificates, IDs, genital configurations, etc, will not take priority
+over sex assigned at birth.
 
 ## Medical Care
 
