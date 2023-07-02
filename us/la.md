@@ -48,8 +48,6 @@ Non-binary people are not recognized.
 ## Medical Care
 
  * Trans medical care is legal for adults and children.
- * A bill in the legislature would make most youth transgender medical
-   care illegal (2023 HB648, not passed yet as of June 2, 2023).
 
 ## Child Custody / Abuse
 
@@ -63,7 +61,6 @@ Non-binary people are not recognized.
 
 ## Relevant Laws
 
- * [2023 HB648 - Transgender Youth Healthcare Ban (Not yet passed)](https://legis.la.gov/legis/BillInfo.aspx?i=244986)
  * [2023 SB7 - Library Children's Book Ban (Not yet passed)](https://legiscan.com/LA/text/SB7/2023)
 
 ## General Safety
