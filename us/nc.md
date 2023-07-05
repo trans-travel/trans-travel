@@ -51,8 +51,8 @@ Non-binary people are not recognized.
 
  * Trans medical care is legal for adults and children.
  * North Carolina does not appear to place child custody at risk, although
-   the legislature (as of June 28, 2023) has an active bill that may pass
-   that would restrict trans youth healthcare.
+   the legislature (as of July 5, 2023) had a bill that was vetoed by the
+   governor.
 
 ## Child Custody / Abuse
 
@@ -69,7 +69,7 @@ Non-binary people are not recognized.
 ## Relevant Laws
 
  * [Session Law 2015-75 - Allowing Officials Religious Objections to Marriages](https://www.ncleg.gov/Sessions/2015/Bills/Senate/PDF/S2v4.pdf)
- * [2023 H808 - Trans Youth Medical Ban Bill (not yet passed)](https://legiscan.com/NC/bill/H808/2023)
+ * [2023 H808 - Trans Youth Medical Ban Bill (vetoed by Governor)](https://legiscan.com/NC/bill/H808/2023)
 
 ## General Safety
 
