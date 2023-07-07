@@ -28,6 +28,8 @@ child custody.
  * At least one library (Butte) has [cancelled a talk on two-spirit
    identity](https://mtstandard.com/news/local/butte-silver-bow-county-halts-transgender-woman-s-library-lecture/article_9771f330-00d3-11ee-9c16-6fa909f26697.html)
    to be given by a trans woman, citing the anti-drag law as the reason.
+ * The Montana drag ban is being
+   [challenged in court](https://billingsgazette.com/montana-drag-reading-ban-lawsuit/article_bbbc9f32-f278-5957-9f09-504fdbe02450.html).
 
 ## Air Travel
 
@@ -61,6 +63,8 @@ They have previously violated court orders on birth certificate changes.
    medical providers)
  * Medical providers can deny non-emergency care on the basis of their
    religious beliefs or conscious.
+ * The youth trans healthcare ban is being
+   [challenged in court](https://lambdalegal.org/case/van-garderen-v-state-of-montana/)
 
 ## Child Custody / Abuse
 
@@ -95,4 +99,6 @@ trans people who report these attacks can expect to be misgendered by
 officials and public institutions.
 
 ## Resources
+
+ * [van Garderen v. State of Montana - Youth Trans Care Ban Challenge](https://lambdalegal.org/case/van-garderen-v-state-of-montana/)
 
