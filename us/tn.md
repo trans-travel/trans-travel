@@ -7,9 +7,10 @@ Tennessee (as of July 1, 2023) bans trans care for children which has
 an unknown impact on child custody, however parents are not penalized
 under this law (it applies to healthcare providers), except possibly if
 one parent provides hormones or puberty blockers without the other
-parent's consent. However, a preliminary injunction (as of June 28,
-2023) will allow both puberty blockers and hormone therapy for trans youth
-until the case challenging the ban is heard.
+parent's consent. while a preliminary injunction (as of July 8,
+2023) would have allowed both puberty blockers and hormone therapy for trans youth
+until the case challenging the ban is heard, the appeals court decided
+that stay was invalid.
 
 Tennessee's Attorney General has requested private medical records
 (and [received
@@ -72,11 +73,11 @@ assigned at birth and/or chromosomes.
  * Trans medical care is legal for adults.
  * Medical transition for people under age 18 is illegal as of
    July 1, 2023. This includes both care provided from within Tennessee
-   and care provided via telehealth.  However, a preliminary injunction (as
-   of June 28, 2023) will allow both puberty blockers and hormone therapy
-   for trans youth until the case challenging the ban is heard.
- * Some providers (notably VUMC) ceased providing this care in
-   anticipation of the law going into effect.
+   and care provided via telehealth.  While, a preliminary injunction (as
+   of July 8, 2023) would have allowed both puberty blockers and hormone
+   therapy for trans youth until the case challenging the ban is heard, the
+   appeals court decided that [stay was
+   invalid](https://storage.courtlistener.com/pdf/2023/07/08/l._w._v._jonathan_skrmetti.pdf).
  * There are some very limited exceptions to the care ban for youth
    continuing the same care who had received that care prior to the
    ban up until March 31, 2024.
@@ -90,9 +91,7 @@ assigned at birth and/or chromosomes.
 
 ## Child Custody / Abuse
 
- * Trans medical care is illegal for youth in Tennessee However, a preliminary
-   injunction (as of June 28, 2023) will allow both puberty blockers and
-   hormone therapy for trans youth until the case challenging the ban is heard.
+ * Trans medical care is illegal for most youth in Tennessee.
  * It is unknown if transition might be used by the state to justify
    custody removal.
  * There is no sanctuary law preventing cooperation with other
