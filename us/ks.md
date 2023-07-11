@@ -85,7 +85,9 @@ changed because a person is transgender. The re-issued licenses and
 certificates would indicate the sex assigned at birth. The Governor
 disagrees with this interpretation and has made some indications
 (but not official executive orders) that she will direct agencies to
-continue to not re-issue documents with sex assigned at birth.
+continue to not re-issue documents with sex assigned at birth, but a
+state court thus far has agreed with the attorney general, overruling
+the Governor (as of July 10, 2023).
 
 ## Medical Care
 
