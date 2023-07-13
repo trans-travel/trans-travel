@@ -59,7 +59,8 @@ at birth and/or chromosomes.
    of youth is consider abuse.
  * Texas, as of September 1, 2023, will ban puberty blockers, HRT, and
    surgery for trans youth with few exceptions. This bill's enforcement
-   actions are targeted primarily towards healthcare providers.
+   actions are targeted primarily towards healthcare providers. This is
+   [being challenged in a lawsuit](https://www.aclutx.org/en/press-releases/texas-families-and-medical-providers-sue-texas-block-dangerous-transgender-youth) as of July 13, 2023.
 
 ## Child Custody / Abuse
 
