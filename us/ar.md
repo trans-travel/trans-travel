@@ -17,9 +17,8 @@ It is unknown how this might have an impact on child custody.
  * Arkansas non-discrimination law does not include LGBT people
  * Arkansas has banned local subdivisions from establishing inclusive
    non-discrimination laws.
- * If HB1468 is signed by the Governor, public school (K12 and higher
-   education) employees will not be able to be disciplined for deadnaming
-   or misgendering intentionally.
+ * Public school (K12 and higher education) employees are not be able to
+   be disciplined for deadnaming or misgendering intentionally.
 
 ## Public Accommodations
 
@@ -91,7 +90,7 @@ at birth and/or chromosomes.
  * [2021 HB1570 - Ban on medical transition for youth - Ruled unconstitutional
    and unenforcable](https://legiscan.com/AR/text/HB1570/id/2362964)
  * [2023 HB1156 - School Bathrooms](https://legiscan.com/AR/text/HB1156/id/2756961)
- * [2023 HB1468 - Deadnaming Students in K12 and Higher Ed (not yet signed by Governor)](https://legiscan.com/AR/text/HB1468/id/2781770)
+ * [2023 HB1468 - Deadnaming Students in K12 and Higher Ed](https://legiscan.com/AR/text/HB1468/id/2781770)
  * [2023 HB1615 - Discrimination attributed to religion allowed](https://legiscan.com/AR/text/HB1615/id/2781807)
  * [2023 SB199 - Restrictions on medical transition for youth](https://legiscan.com/AR/text/SB199/id/2745027)
  * [2023 SB270 - Sex crime of using "wrong" bathroom for sexual gratification](https://legiscan.com/AR/text/SB270/id/2781418)
