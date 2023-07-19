@@ -111,7 +111,10 @@ the Governor (as of July 10, 2023).
 ## General Safety
 
 Some communities may be more welcoming than others. For instance,
-Lawrence was indicated as a welcoming city.
+Lawrence was indicated as a welcoming city and has passed an ordinance
+that [prohibits collecting sex assigned at
+birth](https://lawrencekstimes.com/2023/07/18/lawrencecitycomm-approves-ord9999/)
+or otherwise cooperating with 2023 SB180.
 
 Bathroom access is a significant issue in Kansas.  Already, in May
 2023, the same month the trans-exclusionary definition of sex was
