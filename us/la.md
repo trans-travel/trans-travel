@@ -7,7 +7,10 @@ could place both Black and LGBT people at risk.
 
 Louisiana does not have laws that target most trans visitors directly.
 
-Louisiana does not appear to place child custody at risk.
+Louisiana does ban trans care for children, although the current law does
+not have criminal penalties for parents.  However, it is unknown how this
+might have an impact on child custody.  This law goes into effect on
+January 1, 2024.
 
 ## Non-discrimination Law
 
@@ -47,31 +50,37 @@ Non-binary people are not recognized.
 
 ## Medical Care
 
- * Trans medical care is legal for adults and children.
+ * Trans medical care is legal for adults
+ * Medical transition (puberty blockers, hormones, surgeries) for people
+   under 18 is illegal.  This law goes into effect on January 1, 2024.
 
 ## Child Custody / Abuse
 
- * Transition care is not specifically defined as child abuse
+ * Trans medical care is illegal for youth in Louisiana, although penalties
+   will apply to doctors providing the care and not to parents. This ban
+   goes into effect on January 1, 2024.
+ * It is unknown if transition might be used by the state to justify
+   custody removal.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
- 
+
 ## Relationship Recognition
 
  * Same-sex marriage (and thus all trans marriage) is recognized
 
 ## Relevant Laws
 
- * [2023 SB7 - Library Children's Book Ban (Not yet passed)](https://legiscan.com/LA/text/SB7/2023)
+ * [2023 SB7 - Library Children's Book Ban](https://legiscan.com/LA/text/SB7/2023)
+ * [2023 HB648 - Trans Youth Medical Care Ban](https://legiscan.com/LA/text/HB648/2023)
 
 ## General Safety
 
 New Orleans has a visible LGBT population, but this is not the case in
 other parts of Louisiana, including some nearby cities of New Orleans.
 
-The Louisiana legislature is also considering a bill that would
-significantly restrict "sexually explicit" materials in libraries
-(electronically or in print). This would likely be used to target LGBT
-material. The bill has not passed yet as of June 2, 2023.
+The Louisiana legislature has also passed a bill that significantly restricts
+"sexually explicit" materials in libraries (electronically or in print). This
+will likely be used to target LGBT material.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
