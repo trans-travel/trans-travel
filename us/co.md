@@ -56,6 +56,9 @@ still in-complete in Colorado.
  * Trans medical care is legal for all ages, and Colorado will not
    cooperate with other states who seek information about patients
    receiving care in Colorado for medical transition.
+ * Some providers (notably Children's Hospital) have cut back on
+   transition care, including [cutting back on care for people over
+   age 18](https://www.denverpost.com/2023/07/18/childrens-hospital-colorado-transgender-surgery/?share=se0slhdorisewirvhdgy).
 
 ## Child Custody / Abuse
 
