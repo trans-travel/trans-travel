@@ -68,6 +68,11 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to be misgendered by
 officials and public institutions.
 
+As an example of recent attacks, on July 15, 2023, a disabled trans man
+was [shot with a pellet gun while being called transphobic/homophobic
+slurs](https://www.fox2detroit.com/news/transgender-man-shot-with-pellet-gun-called-homophobic-and-transphobic-slurs-in-pontiac)
+in Pontiac, MI.
+
 ## Resources
 
  * [Michigan Department of Civil Rights](https://www.michigan.gov/mdcr)
