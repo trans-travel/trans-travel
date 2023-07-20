@@ -31,6 +31,13 @@ See the [USA TSA](../notes/tsa.md) document.
    housing decisions, but may or may not comply with requests of
    prisoners.
  * City and county jail policies are not covered by the state law.
+ * Even where good policies exist, they usually mirror federal guidance
+   which says gender identity must be taken into consideration for
+   housing decisions. However, in practice this consideration can matter
+   very little and correctional officers will value their own biases
+   more than the trans person's gender identity. For instance, in 2020,
+   a trans woman placed in male jail in San Diego was [beaten badly by male
+   inmates](https://www.10news.com/news/local-news/san-diego-news/transgender-woman-recalls-beating-in-san-diego-county-jail).
 
 ## Legal Definition of Sex
 
