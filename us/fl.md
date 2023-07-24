@@ -136,6 +136,9 @@ over sex assigned at birth.
    said, GLAD, a legal advocacy group, reports that because much of the
    law was found unconstitutional, [trans care is legal again in
    Florida](https://www.glad.org/questions-about-the-legal-status-of-floridas-transgender-healthcare-ban/).
+ * The Doe v. Ladapo case, as of July 23, 2023, is now expanded to
+   include litigation on adult care.  However, at this time, health care
+   for adults is still largely prohibited.
  * Medical providers can deny most care on the basis of their religious
    or ethical beliefs (emergency care is required to be provided).
 
