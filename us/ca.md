@@ -35,9 +35,13 @@ See the [USA TSA](../notes/tsa.md) document.
    which says gender identity must be taken into consideration for
    housing decisions. However, in practice this consideration can matter
    very little and correctional officers will value their own biases
-   more than the trans person's gender identity. For instance, in 2020,
-   a trans woman placed in male jail in San Diego was [beaten badly by male
-   inmates](https://www.10news.com/news/local-news/san-diego-news/transgender-woman-recalls-beating-in-san-diego-county-jail).
+   more than the trans person's gender identity.
+ * San Diego is known to inappropriately house trans prisoners. For instance,
+   in 2020, a trans woman placed in male jail in San Diego was [beaten badly
+   by male inmates](https://www.10news.com/news/local-news/san-diego-news/transgender-woman-recalls-beating-in-san-diego-county-jail).
+ * Los Angeles is known to inappropriately house trans prisoners. In
+   2023, a trans man was [housed in women's jail](https://news.yahoo.com/cant-die-video-shows-trans-100029056.html)
+   after being required to show his genitals to a female jailer.
 
 ## Legal Definition of Sex
 
