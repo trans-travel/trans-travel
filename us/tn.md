@@ -84,10 +84,13 @@ assigned at birth and/or chromosomes.
  * Medical providers (including mental health providers) can deny some
    care on the basis of their religious or ethical beliefs.
  * Some Medical records of patients receiving care at Vanderbilt, including
-   private information, have been
+   private and extremely sensitive information, have been
    [given to the state Attorney General](https://www.tennessean.com/story/news/health/2023/06/20/vanderbilt-university-m-turns-over-transgender-patient-medical-records-to-tennessee-attorney-general/70338356007/)
-   to investigate trans healthcare provisions.  It is unknown if this has
-   been done at other organizations.
+   to investigate trans healthcare provisions.  Vanderbilt patients [are suing
+   the medical
+   center](https://www.wsmv.com/2023/07/25/patients-sue-vumc-releasing-records-related-ags-transgender-clinic-probe/)
+   for disclosing their private information. It is unknown if similar
+   records requests and disclosures have been done at other organizations.
 
 ## Child Custody / Abuse
 
