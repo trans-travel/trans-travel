@@ -56,6 +56,9 @@ Non-binary people are not legally recognized.
  * Most trans medical care for youth is banned, including puberty
    blockers, hormones, and surgery, although some very limited exceptions
    are present for youth already undergoing care.
+ * There is a [lawsuit against the
+   state](https://www.aclu-mo.org/en/news/families-and-medical-providers-sue-missouri-block-transgender-youth-medical-care-ban)
+   over SB49's prohibition of medical care for trans youth.
 
 ## Child Custody / Abuse
 
@@ -96,3 +99,4 @@ to resist some state policies and show support for the trans community.
 ## Resources
 
  * [Article on legislation regarding incarcerated people](https://outinstl.com/we-have-to-fight-incarcerated-transgender-missourians-are-latest-target-of-missouri-lawmakers/)
+ * [ACLU lawsuit against SB49 (trans youth healthcare ban)](https://www.aclu-mo.org/en/news/families-and-medical-providers-sue-missouri-block-transgender-youth-medical-care-ban)
