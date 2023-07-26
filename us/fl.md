@@ -39,7 +39,7 @@ procedures," similar to how the courts have jurisdiction over abuse.
    might involve drag or trans people participating, due to the
    possibility of the "protection of children" law being used against
    these organizations. However, as of June 24, 2023, a court is
-   preventing the state form enforcing the drag ban.
+   preventing the state from enforcing the drag ban.
 
 ## Public Accommodations
 
@@ -121,11 +121,10 @@ over sex assigned at birth.
  * Nurse practitioners and telehealth providers are not allowed to
    provide HRT in Florida. This has resulted in a shortage of providers
    that can provide HRT to adults.
- * Florida also requires a misleading "HRT consent" form for adult HRT
-   treatment. This form is to be created by the state, but does not
-   currently exist, meaning that providers cannot prescribe HRT to new
-   patients.
- * Proposed rules for adults seeking trans medical care would likely be
+ * Florida also requires [misleading "HRT consent"
+   forms](https://wusfnews.wusf.usf.edu/health-news-florida/2023-07-24/trans-advocates-new-informed-consent-forms-transphobic-inaccurate)
+   for adult HRT treatment
+ * Final rules for adults seeking trans medical care would likely be
    extremely restrictive, requiring, among other things, annual bone
    scans, four blood tests per year, and continuous psychological counseling
    with yearly mental health screenings.
@@ -138,7 +137,7 @@ over sex assigned at birth.
    Florida](https://www.glad.org/questions-about-the-legal-status-of-floridas-transgender-healthcare-ban/).
  * The Doe v. Ladapo case, as of July 23, 2023, is now expanded to
    include litigation on adult care.  However, at this time, health care
-   for adults is still largely prohibited.
+   for adults is still significantly restricted.
  * Medical providers can deny most care on the basis of their religious
    or ethical beliefs (emergency care is required to be provided).
 
