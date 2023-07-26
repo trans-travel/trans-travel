@@ -79,5 +79,13 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to be misgendered by
 officials and public institutions.
 
+In Waynesville, NC, a trans woman using the recreation center had [false
+allegations spread about
+her](https://smokymountainnews.com/news/item/36046-a-rush-to-judgement-the-mere-existence-of-trans-people-is-not-a-crime)
+by local religious leaders and others who claimed she was exposing
+herself to children (evidence has shown this could not have happened).
+Fortunately police responded to these complaints rightly noting that the
+woman was not violating any laws (or doing anything at all improper).
+
 ## Resources
 
