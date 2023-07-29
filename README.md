@@ -42,6 +42,10 @@ does not have that privilege might not.  The intent is to not erase
 these legitimate intersectional concerns, but to be a starting point for
 your research.
 
+# Changes to this guide
+
+You can [view changes to the travel guide here](changes.md).
+
 # About "Bad Countries" and "Bad States"
 
 Trans people have always existed, and still do exist across all
