@@ -24,7 +24,9 @@ child custody.
 ## Drag / Performance / Cross-dressing Laws
 
  * Drag storytime or other "learning activities" with children present
-   in schools, libraries is banned.
+   in schools, libraries is banned, but this law is currently
+   unenforceable due to a [temporary restraining
+   order](https://storage.courtlistener.com/recap/gov.uscourts.mtd.73809/gov.uscourts.mtd.73809.13.0.pdf)
  * At least one library (Butte) has [cancelled a talk on two-spirit
    identity](https://mtstandard.com/news/local/butte-silver-bow-county-halts-transgender-woman-s-library-lecture/article_9771f330-00d3-11ee-9c16-6fa909f26697.html)
    to be given by a trans woman, citing the anti-drag law as the reason.
@@ -81,7 +83,7 @@ They have previously violated court orders on birth certificate changes.
 
  * [2023 HB303 - Health Care Conscious Refusal Law](https://legiscan.com/MT/text/HB303/id/2785644)
  * [2023 SB99 - Youth Trans Medical Care Ban](https://legiscan.com/MT/text/SB99/id/2786141)
- * [2023 HB359 - Drag Storytime Ban](https://legiscan.com/MT/text/HB359/id/2804104)
+ * [2023 HB359 - Drag Storytime Ban (temporarily blocked by courts from being enforced)](https://legiscan.com/MT/text/HB359/id/2804104)
  * [2023 SB458 - Trans-exclusionary Definition of Sex](https://legiscan.com/MT/text/SB458/id/2796910)
  * [2023 SB518 - Mandatory Outing by Schools of Trans Youth](https://legiscan.com/MT/text/SB518/id/2800789)
 
@@ -101,4 +103,4 @@ officials and public institutions.
 ## Resources
 
  * [van Garderen v. State of Montana - Youth Trans Care Ban Challenge](https://lambdalegal.org/case/van-garderen-v-state-of-montana/)
-
+ * [Drag Ban - Temporary Restraining Order](https://storage.courtlistener.com/recap/gov.uscourts.mtd.73809/gov.uscourts.mtd.73809.13.0.pdf)
