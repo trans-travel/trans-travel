@@ -26,6 +26,11 @@ that would restrict trans youth healthcare.
 ## Drag / Performance / Cross-dressing Laws
 
  * North Carolina does not have a drag/cross-dressing law.
+ * In Brevard, [violent death
+   threats](https://localnews8.com/news/national-world/cnn-national/2023/07/27/brevard-man-accused-of-using-fake-social-media-account-to-make-death-threats-against-drag-show/)
+   were made against an adult drag show (and any pride events) in July,
+   2023. The man responsible was arrested towards the end of July for the
+   threats.
 
 ## Air Travel
 
@@ -85,7 +90,8 @@ her](https://smokymountainnews.com/news/item/36046-a-rush-to-judgement-the-mere-
 by local religious leaders and others who claimed she was exposing
 herself to children (evidence has shown this could not have happened).
 Fortunately police responded to these complaints rightly noting that the
-woman was not violating any laws (or doing anything at all improper).
+woman was not violating any laws (or doing anything at all improper).  Violent
+threats were also made in Brevard in July 2023 against a drag show.
 
 ## Resources
 
