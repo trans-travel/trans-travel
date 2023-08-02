@@ -32,8 +32,10 @@ See the [USA TSA](../notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women are typically housed with men.
- * Trans men are typically housed with women.
+ * Trans women are typically housed with men, but in some cases can be
+   housed with women, at least on paper, at the state level.
+ * Trans men are typically housed with women, but in some cases can be
+   housed with women, at least on paper, at the state level.
  * Nonbinary people are typically housed according to sex assigned at
    birth.
  * Wyoming in 2009 was arguing in court for the housing of intersex people
@@ -63,12 +65,12 @@ Non-binary people are not recognized in Wyoming.
 
 ## General Safety
 
-Many areas of the state are extremely right-wing and people in those
-locations strongly oppose trans people. Many Wyoming residents tend to
-side uncritically with more extremist Republican positions. In particular,
-some Gillette residents have shown willingness to aggressively express
-hatred towards trans people. Jackson and Laramie tend to be more
-progressive (by Wyoming standards).
+Many areas of the state are extremely right-wing (such as Gillette) and
+people in those locations strongly oppose trans people. Many Wyoming
+residents tend to side uncritically with more extremist Republican
+positions. In particular, some Gillette residents have shown willingness
+to aggressively express hatred towards trans people. Jackson and Laramie
+tend to be more progressive (by Wyoming standards).
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
@@ -80,3 +82,5 @@ officials and public institutions.
 
  * [Movement Advancement Project Wyoming Page (lists cities with non-discrimination law)](https://www.lgbtmap.org/equality_maps/profile_state/WY)
  * [Wyoming Equality (LGBT advocacy organization)](https://www.wyomingequality.org/)
+ * [News Article on Wyoming Prison
+   Policy](https://cowboystatedaily.com/2023/08/01/wyoming-dept-of-corrections-updates-policy-on-transgender-inmates/)
