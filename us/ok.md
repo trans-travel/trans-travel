@@ -3,6 +3,10 @@
 Oklahoma has negative laws towards trans people. Some of these laws may
 place trans visitors at risk.
 
+Oklahoma's executive branch considers sex and gender to be synonyms of
+sex assigned at birth. This applies to government facilities and
+processes, such as restrooms managed by the state government.
+
 Under a law that is currently (June 9, 2023) stayed as of May 18, 2023 (so
 it is not being enforced by the state), Oklahoma does criminalize trans
 care for children, but does not penalize parents (the law applies to
@@ -16,13 +20,18 @@ visitors).
 
 ## Non-discrimination Law
 
+ * Oklahoma state executive branch government is required to treat trans
+   women as men, trans men as women, and non-binary people on the basis
+   of their sex assigned at birth.
  * Oklahoma non-discrimination law does not include LGBT people.
  * Norman, OK has a non-discrimination law locally.
 
 ## Public Accommodations
 
  * Trans people are required to use bathrooms/showers associated with their
-   sex assigned at birth when using some bathrooms/showers in schools.
+   sex assigned at birth when using some bathrooms/showers in both
+   schools and locations under the authority of the executive branch of
+   state government.
  * Public accommodation access is not protected for trans people in
    Oklahoma.
  * Oklahoma has religious freedom laws that allow denial of some services
@@ -38,10 +47,10 @@ See the [USA TSA](../notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women would typically be housed with men
- * Trans men would typically be housed with women
- * Nonbinary people would typically be housed according to sex
-   assigned at birth
+ * Trans women will be housed with men due to executive order.
+ * Trans men will be housed with women due to executive order.
+ * Nonbinary people will typically be housed according to sex
+   assigned at birth due to executive order.
  * Medical care (HRT) has been discontinued for at least one prisoner
    due to prison staff believing she was "faking" being transgender.
  * Medical care other than HRT is not generally provided (by policy).
@@ -49,6 +58,11 @@ See the [USA TSA](../notes/tsa.md) document.
 ## Legal Definition of Sex
 
 Non-binary people are not recognized.
+
+Under executive order, all executive branch government departments must
+consider a person's gender and sex to be the same as their sex assigned
+at birth. This applies to "single sex facilities" under executive branch
+control, such as bathrooms.
 
 Trans people cannot change their identification or birth certificate in
 Oklahoma.
@@ -92,9 +106,9 @@ at birth and/or chromosomes.
    trans/cis marriages at risk (straight or queer) as well as some queer
    marriages.
 
-
 ## Relevant Laws
 
+ * [2023 EO 2023-20 - Executive Order Definition of Sex/Gender](https://www.iwv.org/wp-content/uploads/2023/08/OK-gov-stitt-executive-order-womens-bill-of-rights.pdf)
  * [2023 SB613 - Trans Youth Healthcare Ban (Temporarily not being enforced as of May 18, 2023)](https://legiscan.com/OK/text/SB613/id/2795559)
  * [2023 SB615 - Trans School Bathroom Ban](https://legiscan.com/OK/text/SB615/id/2586890)
  * [2022 SB1100 - Birth Certificate Change Ban](https://legiscan.com/OK/text/SB1100/id/2573918)
@@ -102,6 +116,10 @@ at birth and/or chromosomes.
  * [Oklahoma Prison Manual on Trans Prisoners](https://oklahoma.gov/content/dam/ok/en/doc/documents/policy/section-14/op140147.pdf)
 
 ## General Safety
+
+The executive order that defines sex/gender on the basis of sex assigned
+at birth. This places trans people at risk when using state facilities
+and interacting with state government.
 
 The state has a law that prevents instruction on sexual orientation in
 schools (and requires students be taught that avoiding gay sex will
