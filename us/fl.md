@@ -126,8 +126,7 @@ over sex assigned at birth.
    for adult HRT treatment
  * Final rules for adults seeking trans medical care would likely be
    extremely restrictive, requiring, among other things, annual bone
-   scans, four blood tests per year, and continuous psychological counseling
-   with yearly mental health screenings.
+   scans and four blood tests per year.
  * Medical transition for people under age 18 is illegal. However,
    a judge's ruling in Doe v. Ladapo is allowing 3 trans children to
    continue receiving medical care.  However, this ruling does not apply

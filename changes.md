@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-01 \[[US Florida](us/fl.md)\] Florida's medical board has
+    removed the requirement for psychological exams every two years for
+    adults prescribed HRT.
  *  2023-08-01 \[[US Wyoming](us/wy.md)\] A new policy was created for
     transgender state prison inmates.
  *  2023-08-01 \[[US Oklahoma](us/ok.md)\] An executive order requires
