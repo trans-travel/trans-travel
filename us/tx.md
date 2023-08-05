@@ -30,7 +30,9 @@ care.
  * Texas does not have a drag/cross-dressing law.
  * A law, which will take effect on Sept. 1, 2023, has vague language that
    will ban "sexually oriented performances" where a child might be able to
-   view it and may be used against drag performers.
+   view it and may be used against drag performers. This law is being
+   [challenged in
+   court](https://www.washingtonblade.com/2023/08/04/lgbtq-activists-sue-to-block-texas-new-drag-law/).
 
 ## Air Travel
 
@@ -60,7 +62,8 @@ at birth and/or chromosomes.
  * Texas, as of September 1, 2023, will ban puberty blockers, HRT, and
    surgery for trans youth with few exceptions. This bill's enforcement
    actions are targeted primarily towards healthcare providers. This is
-   [being challenged in a lawsuit](https://www.aclutx.org/en/press-releases/texas-families-and-medical-providers-sue-texas-block-dangerous-transgender-youth) as of July 13, 2023.
+   [being challenged in a
+   lawsuit](https://www.aclutx.org/en/press-releases/aclu-texas-sues-state-block-unconstitutional-drag-ban)
 
 ## Child Custody / Abuse
 
@@ -91,8 +94,8 @@ at birth and/or chromosomes.
 
 ## Relevant Laws
 
- * [2023 HB2127 - Ban on Local Non-Discrimination Law)](https://legiscan.com/TX/text/HB2127/id/2814366)
- * [2023 SB12 - Vague Sexually Oriented Performance Ban)](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB12)
+ * [2023 HB2127 - Ban on Local Non-Discrimination Law](https://legiscan.com/TX/text/HB2127/id/2814366)
+ * [2023 SB12 - Vague Sexually Oriented Performance Ban](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB12)
  * [2023 SB14 - Trans Medical Ban](https://legiscan.com/TX/text/SB14/id/2811355)
 
 ## General Safety
@@ -125,4 +128,5 @@ officials and public institutions.
 
  * [Doe v. Abbott - Challenge to Child Abuse Investigations of Trans Families](https://www.aclu.org/cases/doe-v-abbott)
  * [PFLAG v. Abbott - Challenge to Child Abuse Investigations of Trans Families](https://lambdalegal.org/case/pflag-v-abbott/)
+ * [Woodlands Pride v. Colmenero - Challenge to Vague "Sexually Oriented Performance" Ban](https://www.aclutx.org/en/press-releases/aclu-texas-sues-state-block-unconstitutional-drag-ban)
  * [Transgender Edcuation Network of TX (pro-trans organization)](https://www.transtexas.org/)

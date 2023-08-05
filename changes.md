@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-04 \[[US Texas](us/tx.md)\] Woodlands Pride has went to
+    court to challenge to Texas's vague sexually oriented performance law.
  *  2023-08-01 \[[US Florida](us/fl.md)\] Florida's medical board has
     removed the requirement for psychological exams every two years for
     adults prescribed HRT.
