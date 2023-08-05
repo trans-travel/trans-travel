@@ -1,5 +1,10 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-04 \[[US Kentucky](us/ky.md)\] and \[[US
+    Tennesseee](us/tn.md)\] Plantiffs in the Kentucky case trying to
+    overturn the Kentucky ban on youth healthcare have asked the entire
+    appeals court to re-hear the appeal. This could also impact the
+    similar decision in Tennessee.
  *  2023-08-04 \[[US North Carolina](us/nc.md)\] North Carolina's will be
     voting to attempt to override a governor's veto of an anti-trans
     youth healthcare bill.
