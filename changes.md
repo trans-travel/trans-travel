@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-04 \[[US North Carolina](us/nc.md)\] North Carolina's will be
+    voting to attempt to override a governor's veto of an anti-trans
+    youth healthcare bill.
  *  2023-08-04 \[[US Texas](us/tx.md)\] Woodlands Pride has went to
     court to challenge to Texas's vague sexually oriented performance law.
  *  2023-08-01 \[[US Florida](us/fl.md)\] Florida's medical board has
