@@ -32,9 +32,8 @@ procedures," similar to how the courts have jurisdiction over abuse.
    Alliance Defending Freedom](https://www.jacksonville.com/story/news/courts/2023/02/24/transgender-debate-sparks-catholic-store-lawsuit-over-jacksonville-hro/69933481007/) who seeks to allow businesses to
    require misgendering of customers, on the basis of religious
    owners of a for-profit corporation.
- * Public school (K12) employees are not be able to be disciplined
-   for using pronouns and titles associated a trans person's sex assigned
-   at birth.
+ * Public school (K12) employees are required to use pronouns and titles
+   associated a trans person's sex assigned at birth.
  * Some businesses and LGBT organizations have canceled events that
    might involve drag or trans people participating, due to the
    possibility of the "protection of children" law being used against
@@ -49,7 +48,8 @@ procedures," similar to how the courts have jurisdiction over abuse.
    bathroom in government facilities (city, county, or state government)
    not associated with your assigned sex at birth, if anyone objects
    to your presence and you refused to immediately leave. This also
-   covers health care facilities, massage parlors, jails, pharmacies, etc.
+   covers health care facilities, massage parlors, jails, pharmacies,
+   schools, universities, etc.
  * The bathroom law will apply to airports and cruise ports, in addition
    to other government facilities.
  * Florida has wide-reaching religious freedom laws that allow denial of
@@ -62,6 +62,9 @@ procedures," similar to how the courts have jurisdiction over abuse.
    bathroom, after which business/organization staff, security, or police
    force the trans person to leave. This is regardless of the user's legal
    identification, length of time on HRT, etc.
+ * Visitors to schools, such as parents and family members, will be
+   covered by the educational laws and be required to be misgendered by
+   school staff and forced to use improper bathrooms.
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -229,3 +232,5 @@ Florida
  * [Hamburger Mary Lawsuit against Drag Ban GoFundMe](https://www.gofundme.com/f/legal-defense-fund-for-hamburger-mary-orlando)
  * [HRC and Equity Florida Travel Advisory](https://eqfl.org/updated-travel-advisory-HRC)
  * [LULAC Florida Travel Advisory Warning](https://lulac.org/news/pr/LULACS_HISTORIC_WARNING_AGAINST_LATINOS_TRAVELING_TO_FLORIDA_IS_A_REMINDER_OF_ARIZONA_FOLLOWING_SB1070/)
+ * [Trans Teachers and Visitors Required to be Misgendered and Use Wrong
+   Bathroom (news article)](https://slate.com/news-and-politics/2023/08/florida-ron-desantis-attacks-trans-students-teachers.html)

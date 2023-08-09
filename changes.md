@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-08 \[[US Florida](us/fl.md)\] Updated Florida page to note
+    that teachers and visotors to schools will be required to be
+    misgendered and required to use improper bathrooms.
  *  2023-08-04 \[[US Kentucky](us/ky.md)\] and \[[US
     Tennesseee](us/tn.md)\] Plantiffs in the Kentucky case trying to
     overturn the Kentucky ban on youth healthcare have asked the entire
