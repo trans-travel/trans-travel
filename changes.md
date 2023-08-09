@@ -1,5 +1,9 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-09 \[US Wyoming](us/wy.md)\] Note about safety concerns for
+    a trans woman competing in a recreational athletic compitition, and
+    also added note that all trans prisoners are currently housed
+    according to sex assigned at birth.
  *  2023-08-08 \[[US Florida](us/fl.md)\] Updated Florida page to note
     that teachers and visotors to schools will be required to be
     misgendered and required to use improper bathrooms.

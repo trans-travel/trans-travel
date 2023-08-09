@@ -41,6 +41,8 @@ See the [USA TSA](../notes/tsa.md) document.
  * Wyoming in 2009 was arguing in court for the housing of intersex people
    in administrative segregation, however a judge did determine that this
    was a violation of the prisoner's 14th Amendment rights.
+ * All state trans prisoners are currently housed according to their sex
+   assigned at birth (as of Aug 9, 2023).
 
 ## Legal Definition of Sex
 
@@ -71,6 +73,16 @@ residents tend to side uncritically with more extremist Republican
 positions. In particular, some Gillette residents have shown willingness
 to aggressively express hatred towards trans people. Jackson and Laramie
 tend to be more progressive (by Wyoming standards).
+
+A Colorado athlete competing in an amateur (recreational) tennis competition
+[decided to not
+compete](https://cowboystatedaily.com/2023/08/04/citing-safety-concerns-transgender-tennis-player-withdraws-from-wyoming-governors-cup/)
+during August, 2023, due to safety concerns. This was fed by her
+forcible outing, media storm in Wyoming, and prominent Wyoming
+politicians speaking out against her, causing the story to go
+world-wide. Trans women in particular should be aware of negative
+attention and potential violence should they participate in women's
+activities in Wyoming.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
