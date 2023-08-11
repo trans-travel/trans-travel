@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-10 \[US Oregon](us/or.md)\] Note about OSHU receiving
+    threats.
  *  2023-08-10 \[US Colorado](us/co.md)\] Add notes about Douglas County
     and Jefferson County.
  *  2023-08-10 \[US Louisiana](us/la.md)\] Note library ban has passed.

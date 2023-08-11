@@ -56,6 +56,11 @@ Non-binary people are recognized by state government.
  * Transition care is not defined as child abuse
  * Oregon does not have a sanctuary law for people obtaining
    transition-related medical care.
+ * OSHU has [received
+   threats](https://www.losangelesblade.com/2023/08/10/anti-trans-info-posted-online-generates-bomb-threats-against-ohsu/)
+   at one family clinic related to (according
+   to reports of the patient in question) a patient who made
+   transphobic statements being asked to find a new provider.
 
 ## Relationship Recognition
 
