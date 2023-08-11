@@ -92,10 +92,16 @@ by officials and public institutions.
 
 However, much of Colorado is considered reasonably safe, particularly
 the Denver/Boulder metro area where many people are visibly trans. That
-said, attacks still can and do occur in Colorado.  However, rural areas
+said, attacks still can and do occur in Colorado.  Rural areas
 may be more swayed by anti-trans political rhetoric, and some jurisdictions
 outside of the Denver/Boulder metro have attempted to restrict the rights
-of trans people, particularly in schools and libraries.
+of trans people, particularly in schools and libraries.  In addition,
+some suburbs in the Denver metro area have shown willingness to attempt
+to restrict LGBT representation (Douglas County in particular, although
+Jefferson County has also recently, as of August 10, 2023, begun to
+implement new transphobic policies in school systems, such as
+restricting teachers from asking for pronouns). Thus travelers should be
+aware that "near Denver" is not necessarily as supportive as Denver.
 
 ## Resources
 

@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-10 \[US Colorado](us/co.md)\] Add notes about Douglas County
+    and Jefferson County.
+ *  2023-08-10 \[US Louisiana](us/la.md)\] Note library ban has passed.
  *  2023-08-10 \[US Florida](us/fl.md)\] Added note about highway rest
     areas being covered by Florida's bathroom law.
  *  2023-08-09 \[US Wyoming](us/wy.md)\] Note about safety concerns for
