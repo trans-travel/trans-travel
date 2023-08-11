@@ -78,9 +78,8 @@ Non-binary people are not recognized.
 New Orleans has a visible LGBT population, but this is not the case in
 other parts of Louisiana, including some nearby cities of New Orleans.
 
-The Louisiana legislature has also passed a bill that significantly restricts
-"sexually explicit" materials in libraries (electronically or in print). This
-will likely be used to target LGBT material.
+"Sexually explicit" materials in libraries (electronically or in print)
+are restricted. This will likely be used to target LGBT material.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
