@@ -14,8 +14,17 @@ order pending ongoing legislation.
 
 ## Public Accommodations
 
- * Trans people are required to use bathrooms/showers associated with their
-   sex assigned at birth when using some bathrooms/showers in schools.
+ * According to law, trans people are required to use bathrooms/showers
+   associated with their sex assigned at birth when using some
+   bathrooms/showers in schools. However, this is [being
+   challenged](https://idahocapitalsun.com/2023/08/10/u-s-district-court-temporarily-blocks-enforcement-of-idaho-transgender-bathroom-law/) in
+   court and a temporary restraining order against this law, thus
+   bathroom/shower access in schools is temporarily allowed in Idaho, as
+   of August 10, 2023.  Note however that this only blocks this _state_
+   law, and does not block any local school policies that are discriminatory,
+   as those aren't at issue in the lawsuit.
+ * Enforcement of school bathroom regulations is unclear. But see above,
+   as the law is temporarily stayed.
  * Public accommodation access is not protected for trans people in
    Idaho.
  * Idaho has wide-reaching religious freedom laws that allow denial of
@@ -27,8 +36,6 @@ order pending ongoing legislation.
    state money, etc).
  * Some cities have protections against gender-identity discrimination,
    but it is unclear how that is reconciled with state law.
-
-Enforcement of school bathroom regulations is unclear.
 
 ## Drag / Performance / Cross-dressing Laws
 

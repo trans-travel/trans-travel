@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-10 \[US Idaho](us/id.md)\] School bathroom law is
+    temporarily stayed through a TRO.
  *  2023-08-10 \[US Arizona](us/az.md)\] Note about Arizona birth
     certificate legal challenge.
  *  2023-08-10 \[US Oregon](us/or.md)\] Note about OSHU receiving
