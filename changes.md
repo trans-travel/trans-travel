@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-10 \[US Florida](us/fl.md)\] Added note about highway rest
+    areas being covered by Florida's bathroom law.
  *  2023-08-09 \[US Wyoming](us/wy.md)\] Note about safety concerns for
     a trans woman competing in a recreational athletic compitition, and
     also added note that all trans prisoners are currently housed

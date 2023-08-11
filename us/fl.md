@@ -51,7 +51,8 @@ procedures," similar to how the courts have jurisdiction over abuse.
    covers health care facilities, massage parlors, jails, pharmacies,
    schools, universities, etc.
  * The bathroom law will apply to airports and cruise ports, in addition
-   to other government facilities.
+   to other government facilities. It also applies to highway rest
+   areas, which are state owned.
  * Florida has wide-reaching religious freedom laws that allow denial of
    some services on the basis of gender identity.
  * Trans women are being challenged for using bathrooms not covered by
