@@ -145,7 +145,7 @@ over sex assigned at birth.
 
 ## Child Custody / Abuse
 
- * There is a law against trans medical care is illegal for youth in Florida
+ * There is a law against trans medical care for youth in Florida
    (but see above).
  * It is unknown if transition might be used by the state to justify
    custody removal.  However, Florida's youth care ban also allows the
