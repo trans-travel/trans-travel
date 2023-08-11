@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-11 \[[US Florida](us/fl.md)\] SPARTA duty assignment warning
+    issued for FL.
  *  2023-08-10 \[[US Idaho](us/id.md)\] School bathroom law is
     temporarily stayed through a TRO.
  *  2023-08-10 \[[US Arizona](us/az.md)\] Note about Arizona birth

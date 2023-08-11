@@ -2,7 +2,8 @@
 
 HRC and Equality Florida, LGBT advocacy groups, have issued an advisory travel
 warning for the State of Florida.  In addition, both LULAC and NAACP
-have also issued advisories.
+have also issued advisories.  Finally, SPARTA, a transgender military
+advocacy group has also issued a duty assignment warning for Florida.
 
 Florida has negative laws and executive orders towards trans people. Some of
 these laws place trans visitors at risk.
@@ -177,8 +178,10 @@ HRC and Equity Florida have issued a joint
 for the State of Florida due to anti-LGBT legislation.  The
 [NAACP](https://naacp.org/articles/naacp-issues-travel-advisory-florida),
 [LULAC](https://lulac.org/news/pr/LULACS_HISTORIC_WARNING_AGAINST_LATINOS_TRAVELING_TO_FLORIDA_IS_A_REMINDER_OF_ARIZONA_FOLLOWING_SB1070/)
-(a Latino advocacy organization), and the
-[Florida Immigrant Commission](https://floridatraveladvisory.com/),
+(a Latino advocacy organization), the
+[Florida Immigrant Commission](https://floridatraveladvisory.com/), and
+[SPARTA](https://spartapride.org/duty-assignment-warning-issued-for-florida/)
+(a transgneder servicemember advicacy organization)
 have also done so, for state-sponsored attacks against their
 constituents' human rights.
 
@@ -233,5 +236,7 @@ Florida
  * [Hamburger Mary Lawsuit against Drag Ban GoFundMe](https://www.gofundme.com/f/legal-defense-fund-for-hamburger-mary-orlando)
  * [HRC and Equity Florida Travel Advisory](https://eqfl.org/updated-travel-advisory-HRC)
  * [LULAC Florida Travel Advisory Warning](https://lulac.org/news/pr/LULACS_HISTORIC_WARNING_AGAINST_LATINOS_TRAVELING_TO_FLORIDA_IS_A_REMINDER_OF_ARIZONA_FOLLOWING_SB1070/)
+ * [SPARTA Duty Assignment Warning for
+   Military](https://spartapride.org/duty-assignment-warning-issued-for-florida/)
  * [Trans Teachers and Visitors Required to be Misgendered and Use Wrong
    Bathroom (news article)](https://slate.com/news-and-politics/2023/08/florida-ron-desantis-attacks-trans-students-teachers.html)
