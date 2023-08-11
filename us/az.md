@@ -47,6 +47,11 @@ Some laws define sex based on chromosomes, genitals, etc, at birth.
 
 Non-binary people are not recognized.
 
+Changing birth certificate gender marker requires surgery. This is
+[being challenged in
+court](https://www.nclrights.org/our-work/cases/d-t-v-christ/) as of
+August 10, 2023.
+
 Intersex people have some limited recognition.
 
 ## Medical Care

@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-10 \[US Arizona](us/az.md)\] Note about Arizona birth
+    certificate legal challenge.
  *  2023-08-10 \[US Oregon](us/or.md)\] Note about OSHU receiving
     threats.
  *  2023-08-10 \[US Colorado](us/co.md)\] Add notes about Douglas County
