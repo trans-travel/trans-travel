@@ -1,17 +1,17 @@
 # Change Log for Trans Travel Guide
 
- *  2023-08-10 \[US Idaho](us/id.md)\] School bathroom law is
+ *  2023-08-10 \[[US Idaho](us/id.md)\] School bathroom law is
     temporarily stayed through a TRO.
- *  2023-08-10 \[US Arizona](us/az.md)\] Note about Arizona birth
+ *  2023-08-10 \[[US Arizona](us/az.md)\] Note about Arizona birth
     certificate legal challenge.
- *  2023-08-10 \[US Oregon](us/or.md)\] Note about OSHU receiving
+ *  2023-08-10 \[[US Oregon](us/or.md)\] Note about OSHU receiving
     threats.
- *  2023-08-10 \[US Colorado](us/co.md)\] Add notes about Douglas County
+ *  2023-08-10 \[[US Colorado](us/co.md)\] Add notes about Douglas County
     and Jefferson County.
- *  2023-08-10 \[US Louisiana](us/la.md)\] Note library ban has passed.
- *  2023-08-10 \[US Florida](us/fl.md)\] Added note about highway rest
+ *  2023-08-10 \[[US Louisiana](us/la.md)\] Note library ban has passed.
+ *  2023-08-10 \[[US Florida](us/fl.md)\] Added note about highway rest
     areas being covered by Florida's bathroom law.
- *  2023-08-09 \[US Wyoming](us/wy.md)\] Note about safety concerns for
+ *  2023-08-09 \[[US Wyoming](us/wy.md)\] Note about safety concerns for
     a trans woman competing in a recreational athletic compitition, and
     also added note that all trans prisoners are currently housed
     according to sex assigned at birth.
