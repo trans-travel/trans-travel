@@ -99,7 +99,13 @@ leaving one LGBT supporter unresponsive during the protest [on June 2,
 2023](https://www.thedailybeast.com/saticoy-elementary-school-pride-assembly-protest-erupts-in-violence).
 Rural areas may be more swayed by anti-trans political rhetoric, and some
 jurisdictions outside of the major metro areas have attempted to restrict
-the rights of trans people, particularly in schools and libraries.
+the rights of trans people, particularly in schools and libraries. For
+instance, an elected official uses his social media platform to [misgender a trans
+constituent](https://krcrtv.com/news/local/shasta-county-office-of-education-board-member-faces-possible-censure)
+while Murrieta Valley School District [approved transphobic
+policies](https://www.advocate.com/education/murrieta-valley-outing-transgender-students).
+Thus it is important to recognize that California is not unified and
+does not have a single view of trans people.
 
 ## Resources
 

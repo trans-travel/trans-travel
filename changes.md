@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-12 \[[US California](us/ca.md)\] Added notes about Shasta
+    County and Marietta Valley School board.
  *  2023-08-11 \[[US Florida](us/fl.md)\] SPARTA duty assignment warning
     issued for FL.
  *  2023-08-10 \[[US Idaho](us/id.md)\] School bathroom law is
