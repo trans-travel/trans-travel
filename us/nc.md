@@ -1,10 +1,10 @@
 # USA - North Carolina
 
-North Carolina does not have laws that target trans people directly.
+North Carolina does not have laws that target most trans visitors directly.
 
-North Carolina does not appear to place child custody at risk, although
-the legislature (as of June 28, 2023) has an active bill that may pass
-that would restrict trans youth healthcare.
+North Carolina does ban trans care for children, although the current law does
+not have criminal penalties for parents.  However, it is unknown how this
+might have an impact on child custody.
 
 ## Non-discrimination Law
 
@@ -55,14 +55,16 @@ Non-binary people are not recognized.
 ## Medical Care
 
  * Trans medical care is legal for adults and children.
- * North Carolina does not appear to place youth healthcare at risk, although
-   the legislature had a bill that was vetoed by the governor. A [veto
-   override vote](https://triad-city-beat.com/transgender-youth-in-north-carolina-face-uncertain-health-care-future-as-lawmakers-vote-on-gender-affirming-care-bill/)
-   is scheduled for August 7, 2023.
+ * Medical transition (puberty blockers, hormones, surgeries) for people
+   under 18 is illegal.  There is an exception for continuation of care
+   for people under care prior to August 1, 2023, but this exception
+   allows civil action still, so care is likely to be discontinued for all
+   youth.
 
 ## Child Custody / Abuse
 
- * Transition care is not specifically defined as child abuse
+ * Transition care is not specifically defined as child abuse, although
+   it is not legal to provide so it may have impacts on child custody.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
  
@@ -75,9 +77,13 @@ Non-binary people are not recognized.
 ## Relevant Laws
 
  * [Session Law 2015-75 - Allowing Officials Religious Objections to Marriages](https://www.ncleg.gov/Sessions/2015/Bills/Senate/PDF/S2v4.pdf)
- * [2023 H808 - Trans Youth Medical Ban Bill (vetoed by Governor)](https://legiscan.com/NC/bill/H808/2023)
+ * [2023 H808 - Trans Youth Medical Ban Bill](https://legiscan.com/NC/bill/H808/2023)
+ * [2023 S49 - Don't Say Gay ("Parental Bill of Rights")](https://legiscan.com/NC/text/S49/2023)
 
 ## General Safety
+
+The state has a law that prevents instruction on sexual orientation or
+gender identity through grade four in schools.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
