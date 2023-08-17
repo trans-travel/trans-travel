@@ -63,7 +63,7 @@ at birth and/or chromosomes.
    surgery for trans youth with few exceptions. This bill's enforcement
    actions are targeted primarily towards healthcare providers. This is
    [being challenged in a
-   lawsuit](https://www.aclutx.org/en/press-releases/aclu-texas-sues-state-block-unconstitutional-drag-ban)
+   lawsuit](https://www.aclu.org/press-releases/texas-families-and-medical-providers-sue-texas-to-block-dangerous-transgender-youth-medical-care-ban)
 
 ## Child Custody / Abuse
 
@@ -127,6 +127,8 @@ officials and public institutions.
 ## Resources
 
  * [Doe v. Abbott - Challenge to Child Abuse Investigations of Trans Families](https://www.aclu.org/cases/doe-v-abbott)
+ * [Loe v. Texas - Challenge to gender affirming care
+   ban](https://www.aclu.org/press-releases/texas-families-and-medical-providers-sue-texas-to-block-dangerous-transgender-youth-medical-care-ban)
  * [PFLAG v. Abbott - Challenge to Child Abuse Investigations of Trans Families](https://lambdalegal.org/case/pflag-v-abbott/)
  * [Woodlands Pride v. Colmenero - Challenge to Vague "Sexually Oriented Performance" Ban](https://www.aclutx.org/en/press-releases/aclu-texas-sues-state-block-unconstitutional-drag-ban)
- * [Transgender Edcuation Network of TX (pro-trans organization)](https://www.transtexas.org/)
+ * [Transgender Education Network of TX (pro-trans organization)](https://www.transtexas.org/)
