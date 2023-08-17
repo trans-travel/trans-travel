@@ -78,6 +78,10 @@ in-spite of the law, not because of the law. Atlanta's leaders, in particular,
 has given [public support to trans
 people](https://www.fox5atlanta.com/news/atlanta-mayor-dickens-transgender-community-funding)
 
+Police departments in Georgia may inaccurately gender crime victims (for
+instance, [Macon Police misgendered a trans woman murder
+victim](https://www.wsbtv.com/news/local/deputies-identify-23-year-old-found-shot-death-empty-parking-lot/BXOK2FMBQZHIXDLGGGWLAPKYTA/)).
+
 ## Resources
 
  * [ACLU Press Release - Lawsuit Against SB140 (youth healthcare ban)](https://www.acluga.org/en/press-releases/press-release-georgia-parents-seek-emergency-court-order-blocking-anti-transgender)

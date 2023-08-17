@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-16 \[[US Georgia](us/ga.md)\] Note Macon, GA misgendered a
+    trans woman murder victim.
  *  2023-08-16 \[[US North Carolina](us/nc.md)\] North Carolina has
     banned most trans youth healthcare and enacted a "don't say gay" law
  *  2023-08-16 \[[US Texas](us/tx.md)\] Correct lawsuit link
