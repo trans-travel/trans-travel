@@ -14,7 +14,8 @@ impact on child custody.
  * North Dakota non-discrimination law does not include LGBT people.
  * North Dakota's definition of sex law (HB1474) makes it unlikely that
    non-discrimination laws specifying "sex" would be interpreted in a
-   trans-inclusive way.
+   trans-inclusive way. Note that this also places gender non-conforming cis
+   women at risk of invasive questioning and state action.
 
 ## Public Accommodations
 
@@ -61,6 +62,9 @@ Intersex people have some limited recognition.
 
 North Dakota specifies male, female, and similar words based on sex assigned
 at birth and/or chromosomes.
+
+Note that this also places gender non-conforming cis women at risk of
+invasive questioning and state action.
 
 North Dakota prohibits trans people changing birth certificates.
 

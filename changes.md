@@ -1,5 +1,13 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-16 \[[US Kansas](us/ks.md)\] Legal definition of sex places
+    gender non-conforming cis women at risk.
+ *  2023-08-16 \[[US Montana](us/mt.md)\] Legal definition of sex places
+    gender non-conforming cis women at risk.
+ *  2023-08-16 \[[US Oklahoma](us/ok.md)\] Legal definition of sex places
+    gender non-conforming cis women at risk.
+ *  2023-08-16 \[[US North Dakota](us/nd.md)\] Legal definition of sex places
+    gender non-conforming cis women at risk.
  *  2023-08-16 \[[US Georgia](us/ga.md)\] Note Macon, GA misgendered a
     trans woman murder victim.
  *  2023-08-16 \[[US North Carolina](us/nc.md)\] North Carolina has

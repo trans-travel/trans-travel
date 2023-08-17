@@ -89,6 +89,10 @@ continue to not re-issue documents with sex assigned at birth, but a
 state court thus far has agreed with the attorney general, overruling
 the Governor (as of July 10, 2023).
 
+Note that these laws while targeting trans people also place gender
+non-conforming cis women at risk of invasive questioning and state
+action.
+
 ## Medical Care
 
  * Trans medical care is legal for all ages
@@ -125,6 +129,9 @@ which she believes is connected to SB180 (prior to the passage of SB180,
 they had used the bathroom for years). The son's presence was also
 objected to by another bathroom user in addition to library staff,
 showing that this policing bathrooms is on the mind of Kansas citizens.
+Note that in addition to these actions, these laws while targeting trans
+people also place gender non-conforming cis women at risk of invasive
+questioning and state action.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,

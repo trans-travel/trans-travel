@@ -22,7 +22,9 @@ visitors).
 
  * Oklahoma state executive branch government is required to treat trans
    women as men, trans men as women, and non-binary people on the basis
-   of their sex assigned at birth.
+   of their sex assigned at birth.  Note this also places gender
+   non-conforming cis women at risk of invasive questioning and state
+   action.
  * Oklahoma non-discrimination law does not include LGBT people.
  * Norman, OK has a non-discrimination law locally.
 
@@ -31,7 +33,8 @@ visitors).
  * Trans people are required to use bathrooms/showers associated with their
    sex assigned at birth when using some bathrooms/showers in both
    schools and locations under the authority of the executive branch of
-   state government.
+   state government.  Note that this also places gender non-conforming
+   cis women at risk of invasive questioning and state action.
  * Public accommodation access is not protected for trans people in
    Oklahoma.
  * Oklahoma has religious freedom laws that allow denial of some services
@@ -62,7 +65,9 @@ Non-binary people are not recognized.
 Under executive order, all executive branch government departments must
 consider a person's gender and sex to be the same as their sex assigned
 at birth. This applies to "single sex facilities" under executive branch
-control, such as bathrooms.
+control, such as bathrooms.  Note that this also places gender
+non-conforming cis women at risk of invasive questioning and state
+action.
 
 Trans people cannot change their identification or birth certificate in
 Oklahoma.

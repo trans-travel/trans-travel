@@ -27,7 +27,7 @@ child custody.
    in schools, libraries is banned, but this law is currently
    unenforceable due to a [temporary restraining
    order](https://storage.courtlistener.com/recap/gov.uscourts.mtd.73809/gov.uscourts.mtd.73809.13.0.pdf)
- * At least one library (Butte) has [cancelled a talk on two-spirit
+ * At least one library (Butte) has [canceled a talk on two-spirit
    identity](https://mtstandard.com/news/local/butte-silver-bow-county-halts-transgender-woman-s-library-lecture/article_9771f330-00d3-11ee-9c16-6fa909f26697.html)
    to be given by a trans woman, citing the anti-drag law as the reason.
  * The Montana drag ban is being
@@ -51,6 +51,9 @@ would be included in nearly all Montana law (for example, Montana's
 on-the-books-but-not-enforceable-due-to-SCOTUS anti-gay marriage law was
 amended, as well as nearly every other law in Montana that references
 sex).
+
+Note that this also places gender non-conforming cis women at risk of
+invasive questioning and state action.
 
 Non-binary people are not recognized.
 
