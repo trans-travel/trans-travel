@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-21 \[[US Georgia](us/ga.md)\] A preliminary injunction has
+    been issued which allows hormone therapy to continue to be used by
+    trans youth.
  *  2023-08-16 \[[US Kansas](us/ks.md)\] Legal definition of sex places
     gender non-conforming cis women at risk.
  *  2023-08-16 \[[US Montana](us/mt.md)\] Legal definition of sex places

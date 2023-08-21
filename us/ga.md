@@ -5,7 +5,12 @@ not impact adult travelers to Georgia, although Georgia also lacks many
 non-discrimination protections.
 
 Georgia does criminalize some trans care for children (hormone therapy
-and surgery), although the current law does not ban puberty blockers.
+and surgery), although the current law does not ban puberty blockers and
+a judge has temporarily blocked enforcement of parts of this law,
+specifically the parts relevant to HRT, which means HRT continues to be
+legal for trans youth in Georgia under this [preliminary
+injunction](https://www.atlantanewsfirst.com/2023/08/21/georgias-transgender-treatment-law-blocked-by-federal-judge/),
+as of Aug 21, 2023.
 
 ## Non-discrimination Law
 
@@ -43,6 +48,11 @@ Non-binary people are not recognized by Georgia.
    blockers will be legal, hormone therapy and surgery will be illegal.
  * The youth healthcare ban is being [challenged in
    court](https://www.acluga.org/en/press-releases/press-release-georgia-parents-seek-emergency-court-order-blocking-anti-transgender).
+ * A judge has temporarily blocked enforcement of parts of this law,
+   specifically the parts relevant to HRT, which means HRT continues to be
+   legal for trans youth in Georgia under this [preliminary
+   injunction](https://www.atlantanewsfirst.com/2023/08/21/georgias-transgender-treatment-law-blocked-by-federal-judge/),
+   as of Aug 21, 2023.
 
 ## Child Custody / Abuse
 
