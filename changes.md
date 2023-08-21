@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-21 \[[US Alabama](us/al.md)\] 11th Circuit Court of Appeals
+    overrode the injunction against enforcement of the trans youth
+    healthcare ban. Thus trans youth healthcare is illegal again.
  *  2023-08-21 \[[US California](us/ca.md)\] Noted Lauri Carlelton's
     murder.
  *  2023-08-21 \[[US Georgia](us/ga.md)\] A preliminary injunction has
