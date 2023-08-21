@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-21 \[[US California](us/ca.md)\] Noted Lauri Carlelton's
+    murder.
  *  2023-08-21 \[[US Georgia](us/ga.md)\] A preliminary injunction has
     been issued which allows hormone therapy to continue to be used by
     trans youth.

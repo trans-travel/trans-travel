@@ -108,6 +108,13 @@ and Chino Valley School District has approved anti-LGBT policies.  Thus it is
 important to recognize that California is not unified and does not have a
 single view of trans people.
 
+In addition, beyond political events and education, other violence has
+occurred in California, sometimes not being restricted to the queer
+community, but also impacting allies, such as the [murder of a
+66-year-old mother of nine because the shooter disliked her pride
+flag](https://www.npr.org/2023/08/20/1194932544/lauri-carleton-california-store-owner-killed-pride-flag-lgbtq)
+that she was flying at her shop in support of the LGBT community.
+
 ## Resources
 
  * [California Civil Rights](https://oag.ca.gov/civil)
