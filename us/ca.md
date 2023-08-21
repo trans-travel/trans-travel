@@ -113,7 +113,9 @@ occurred in California, sometimes not being restricted to the queer
 community, but also impacting allies, such as the [murder of a
 66-year-old mother of nine because the shooter disliked her pride
 flag](https://www.npr.org/2023/08/20/1194932544/lauri-carleton-california-store-owner-killed-pride-flag-lgbtq)
-that she was flying at her shop in support of the LGBT community.
+that she was flying at her shop in support of the LGBT community. Thus,
+like in most of the USA, care should be taken when displaying visible
+symbols of the LGBT community.
 
 ## Resources
 
