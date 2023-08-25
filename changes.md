@@ -1,5 +1,9 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-24 \[[US Arizona](us/az.md)\] Discussion of bias that may
+    place criminal intent upon trans people.
+ *  2023-08-24 \[[US Georgia](us/ga.md)\] A don't say gay bill is being
+    re-introduced into the state legislature.
  *  2023-08-21 \[[US Alabama](us/al.md)\] 11th Circuit Court of Appeals
     overrode the injunction against enforcement of the trans youth
     healthcare ban. Thus trans youth healthcare is illegal again.

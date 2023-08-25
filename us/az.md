@@ -102,5 +102,11 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to be misgendered by
 officials and public institutions.
 
+In addition because of transgender rhetoric, trans people have been
+[blamed for at least one criem cimmited by another
+person](https://www.fox10phoenix.com/news/man-accused-of-tagging-phoenix-warehouse-blamed-transgender-women-for-graffiti),
+and trans people should be aware of sentiment that may cause them to be
+seen as more prone to criminal behavior than cis people.
+
 ## Resources
 
