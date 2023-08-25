@@ -76,6 +76,18 @@ Non-binary people are not recognized by Georgia.
 Georgia has few protections for trans people, and trans children may be
 at particular risk if using hormone replacement therapy.
 
+A "Don't say gay" bill [banning discussion of student's sexual
+orientation, student's gender identity, or sexual education
+topics](https://legiscan.com/GA/text/SB88/id/2679859) without written
+parental permission in schools until Age 16 has been re-introduced during an
+out-of-session committee meeting in August, 2023. While this is not law,
+visitors who may be presenting material in Georgia schools should keep
+track of this law. The proposed, but not passed, bill also requires student
+names to be maintained under their initial enrollment name, reflecting a
+possible belief by legislatures that other types of name changes (such
+as changing a last name to avoid association with an abuser) are not
+appropriate for children.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
