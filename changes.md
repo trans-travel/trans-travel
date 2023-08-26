@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-24 \[[US Texas](us/tx.md)\] Decision on trans youth
+    healthcare ban and appeal of that decision.
  *  2023-08-24 \[[US Arizona](us/az.md)\] Discussion of bias that may
     place criminal intent upon trans people.
  *  2023-08-24 \[[US Georgia](us/ga.md)\] A don't say gay bill is being

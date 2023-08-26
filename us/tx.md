@@ -63,7 +63,12 @@ at birth and/or chromosomes.
    surgery for trans youth with few exceptions. This bill's enforcement
    actions are targeted primarily towards healthcare providers. This is
    [being challenged in a
-   lawsuit](https://www.aclu.org/press-releases/texas-families-and-medical-providers-sue-texas-to-block-dangerous-transgender-youth-medical-care-ban)
+   lawsuit](https://www.aclu.org/press-releases/texas-families-and-medical-providers-sue-texas-to-block-dangerous-transgender-youth-medical-care-ban). While a state district court granted an injunction against the ban,
+   on August 25, 2023, the state immediately appealed this decision to the state supreme court, which
+   [blocks the injunction](https://www.texastribune.org/2023/08/25/texas-transgender-kids-health-care-lawsuit/).
+   Thus, as of August 25, 2023, it is expected the law will go into effect,
+   which means that trans youth will be unable to access this medical
+   care.
 
 ## Child Custody / Abuse
 
