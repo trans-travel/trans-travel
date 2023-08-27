@@ -32,7 +32,7 @@ care.
  * Drag performance and cross-dressing is legal in Colorado.
  * Drag shows in Colorado, particularly G-rated shows open to all ages,
    have been the target of armed protests, intimidation, and threats. In
-   general, law enforcement has sided with the protesters, citing freedom
+   general, law enforcement has sided with the extremists, citing freedom
    of speech and Colorado's open carry laws, and do not generally
    enforce laws against implied violent threats and intimidation.
 
@@ -110,7 +110,7 @@ aware that "near Denver" is not necessarily as supportive as Denver.
  
 LGBT events in Colorado, particularly G-rated drag shows open to all ages,
 have been the target of armed right-wing extremists using intimidation and
-threats. In general, law enforcement has sided with the protesters, citing
+threats. In general, law enforcement has sided with the extremists, citing
 freedom of speech and Colorado's open carry laws, and do not generally
 enforce laws against implied violent threats and intimidation. Groups
 present at these events include hate groups such as the [Proud
