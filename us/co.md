@@ -30,6 +30,11 @@ care.
 ## Drag / Performance / Cross-dressing Laws
 
  * Drag performance and cross-dressing is legal in Colorado.
+ * Drag shows in Colorado, particularly G-rated shows open to all ages,
+   have been the target of armed protests, intimidation, and threats. In
+   general, law enforcement has sided with the protesters, citing freedom
+   of speech and Colorado's open carry laws, and do not generally
+   enforce laws against implied violent threats and intimidation.
 
 ## Air Travel
 
@@ -102,6 +107,19 @@ Jefferson County has also recently, as of August 10, 2023, begun to
 implement new transphobic policies in school systems, such as
 restricting teachers from asking for pronouns). Thus travelers should be
 aware that "near Denver" is not necessarily as supportive as Denver.
+ 
+LGBT events in Colorado, particularly G-rated drag shows open to all ages,
+have been the target of armed right-wing extremists using intimidation and
+threats. In general, law enforcement has sided with the protesters, citing
+freedom of speech and Colorado's open carry laws, and do not generally
+enforce laws against implied violent threats and intimidation. Groups
+present at these events include hate groups such as the [Proud
+Boys](https://www.splcenter.org/fighting-hate/extremist-files/group/proud-boys)
+and the [Patriot
+Front](https://www.splcenter.org/fighting-hate/extremist-files/group/patriot-front?gclid=Cj0KCQjw6KunBhDxARIsAKFUGs_F9z9CLMCHyB2fHvrR4JErXRFpIfYQ3PPt-5pRdyBFShbYq7SItdgaApsCEALw_wcB).
+Targeting tends to focus on small-scale events, such as small town pride
+events and drag queen storytimes, while the larger events are largely
+free of intimidation.
 
 ## Resources
 

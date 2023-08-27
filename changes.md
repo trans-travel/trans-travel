@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-27 \[[US Colorado](us/co.md)\] Note about armed hate groups
+    operating within Colorado to imtimidate LGBT people.
  *  2023-08-24 \[[US Texas](us/tx.md)\] Decision on trans youth
     healthcare ban and appeal of that decision.
  *  2023-08-24 \[[US Arizona](us/az.md)\] Discussion of bias that may
