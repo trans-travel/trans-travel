@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-28 \[[US Indiana](us/in.md)\] Note Indiana prisoner care ban
+    is being challenged.
  *  2023-08-28 \[[US Alabama](us/al.md)\] Clarify current legal status
     of trans youth care ban.
  *  2023-08-27 \[[US Colorado](us/co.md)\] Note about armed hate groups

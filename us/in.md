@@ -40,7 +40,8 @@ See the [USA TSA](../notes/tsa.md) document.
  * Nonbinary people would typically be housed according to sex
    assigned at birth
  * Indiana law bans transition-related surgeries for prisoners in state
-   prisons.
+   prisons.  This is being [challenged by the
+   ACLU](https://www.aclu-in.org/en/press-releases/aclu-indiana-sues-idoc-over-new-law-bans-trans-medical-care-correctional-facilities).
 
 ## Legal Definition of Sex
 
