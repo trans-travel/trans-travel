@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-28 \[[US Alabama](us/al.md)\] Clarify current legal status
+    of trans youth care ban.
  *  2023-08-27 \[[US Colorado](us/co.md)\] Note about armed hate groups
     operating within Colorado to imtimidate LGBT people.
  *  2023-08-24 \[[US Texas](us/tx.md)\] Decision on trans youth
