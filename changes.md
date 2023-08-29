@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-28 \[[US California](us/ca.md)\] Added information about
+    Riverside County jail inappropriately housing trans women.
  *  2023-08-28 \[[US Indiana](us/in.md)\] Note Indiana prisoner care ban
     is being challenged.
  *  2023-08-28 \[[US Alabama](us/al.md)\] Clarify current legal status

@@ -42,6 +42,11 @@ See the [USA TSA](../notes/tsa.md) document.
  * Los Angeles is known to inappropriately house trans prisoners. In
    2023, a trans man was [housed in women's jail](https://news.yahoo.com/cant-die-video-shows-trans-100029056.html)
    after being required to show his genitals to a female jailer.
+ * Riverside County is known to house trans women inappropriately, and
+   is [being
+   sued](https://www.desertsun.com/story/news/crime_courts/2023/08/28/lawsuit-transgender-inmate-killed-after-getting-sex-offender-cellmate/70700836007/)
+   by the family of a trans inmate who was killed by her violent, cis
+   male cellmate, possibly with the cooperation of jail staff.
 
 ## Legal Definition of Sex
 
