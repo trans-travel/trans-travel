@@ -52,12 +52,20 @@ state IDs, but not birth certificates.
 
  * Trans medical care is legal for all ages.
  * Pennsylvania does not have a "sanctuary" law.
+ * Pittsburgh is considering becoming a [sanctuary
+   city](https://www.wesa.fm/politics-government/2023-08-29/pittsburgh-protect-gender-affirming-care)
+   for trans healthcare, which would somewhat limit cooperation between
+   the city in prosecution of those seeking trans healthcare.
 
 ## Child Custody / Abuse
 
  * Transition care is not defined as child abuse
  * Pennsylvania does not have a sanctuary law for people obtaining
    transition-related medical care.
+ * Pittsburgh is considering becoming a [sanctuary
+   city](https://www.wesa.fm/politics-government/2023-08-29/pittsburgh-protect-gender-affirming-care)
+   for trans healthcare, which would somewhat limit cooperation between
+   the city in prosecution of those seeking trans healthcare.
 
 ## Relationship Recognition
 
