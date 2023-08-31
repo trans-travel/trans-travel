@@ -50,6 +50,10 @@ to investigate at least one provider of transgender care.
    penalties for a second conviction.  However, this law has been struck
    down by a judge as unconstitutional.  It's unknown if there will be
    appeals that try to re-instate the law.
+ * Despite the ruling on that the drag ban is unconstitutional, Blount
+   County prosecutor (Ryan Desmond) is [attempting to enforce the
+   law](https://www.lawdork.com/p/tennessee-prosecutor-threatens-pride)
+   against a pride event.
 
 ## Air Travel
 
@@ -124,6 +128,11 @@ assigned at birth and/or chromosomes.
 The state has a law that prevents instruction on sexual orientation or
 gender identity through grade twelve in schools without explicit
 "opt-in" by parents.
+
+Blount County may be particularly risky, as of August 31, 2023, as the
+local prosecutor in the county has shown [willingness to enforce the drag
+ban](https://www.lawdork.com/p/tennessee-prosecutor-threatens-pride)
+against a pride event despite the law being ruled unconstitutional.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
