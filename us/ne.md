@@ -1,8 +1,14 @@
 # USA - Nebraska
 
-Nebraska has some negative law towards trans people. However, this
-law is, thus far, fairly restricted and do not apply to most
-trans travelers in most situations.
+Nebraska has some negative law and executive orders towards trans people
+that affect almost all trans travelers. In particular, due to an
+[executive
+order](https://nebraskaexaminer.com/2023/08/30/nebraska-gov-pillen-enacts-second-governor-led-womens-bill-of-rights/),
+all Nebraska executive agencies will default to considering trans women
+as men, and trans men as women, while non-binary people will be
+considered their sex assigned at birth. This likely will apply to bathroom
+and facility access of facilities under state regulation (such as airports,
+rest areas, many parks) and can place trans people at significant risk.
 
 Starting in October 1, 2023, Nebraska will ban trans youth medical care.
 It will have an unknown impact on child custody, although it should be
@@ -15,6 +21,11 @@ noted that the law applies to medical providers and not parents.
 
 ## Public Accommodations
 
+ * State facilities likely will fall under an executive order that
+   defines sex as sex assigned at birth, and will be required to enforce
+   that in all state regulations enacted by executive branch agencies.
+   This may in some cases impact private businesses, cities, schools,
+   and other non-state entities.
  * Trans people are not banned from using appropriate bathrooms and locker
    rooms.
  * General public accommodation access is not specifically protected by law
@@ -26,16 +37,24 @@ noted that the law applies to medical providers and not parents.
 
 ## Air Travel
 
+Note that the executive order defining sex may make state facilities
+particularly risky for trans travelers.
+
 See the [USA TSA](../notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women would typically be housed with men
- * Trans men would typically be housed with women
- * Nonbinary people would typically be housed according to sex
+ * Trans women are required to be housed with men
+ * Trans men are required to be housed with women
+ * Nonbinary people are required to be housed according to sex
    assigned at birth
 
 ## Legal Definition of Sex
+
+The State of Nebraska, via [executive
+order](https://nebraskaexaminer.com/2023/08/30/nebraska-gov-pillen-enacts-second-governor-led-womens-bill-of-rights/),
+defines trans people based on sex assigned at birth.  This is
+wide-ranging and includes all executive branch agencies.
 
 Non-binary people are not recognized.
 
@@ -65,6 +84,12 @@ Intersex people have some limited recognition.
  * [2023 LB574 - Trans Youth Medical Care Ban](https://legiscan.com/NE/text/LB574/2023)
 
 ## General Safety
+
+Nebraska's executive order defining men and women based on sex assigned
+at birth creates an openly hostile state for trans travelers. This law
+does not depend upon surgical status, genitals, government ID, birth
+certificate, or any other "proof" of transition, and is wide-ranging
+across all state government programs and services.
 
 Nebraska has seen very widely publicized hate crimes against LGBT
 people.  While these crimes may occur anywhere, and most anti-LGBT hate

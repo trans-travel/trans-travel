@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-30 \[[US Nebraska](us/ne.md)\] Nebraska wide-ranging
+    executive order.
  *  2023-08-29 \[[US Pennsylvania](us/pa.md)\] Pittsburgh is considering
     becoming a sanctuary city for healthcare access.
  *  2023-08-29 \[[US Missouri](us/mo.md)\] University of Missouri
