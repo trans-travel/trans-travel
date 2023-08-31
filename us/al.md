@@ -60,6 +60,15 @@ at birth and/or chromosomes.
    blockers, hormone therapy, and surgery are criminalized.
  * Medical providers can deny some care on the basis of their religious
    beliefs.
+ * In an abortion case, the Attorney General has indicated that
+   assisting someone with transportation out-of-state for abortion could
+   be [considered
+   conspiracy](https://www.documentcloud.org/documents/23932753-yellowhammer-fund-et-al-v-steve-marshall-and-west-alabama-womens-center-et-al-v-steve-marshall).
+   That law is similar to the anti-trans youth healthcare ban, thus people
+   should be aware that when visiting Alabama, many actions that don't
+   involve Alabama may be considered criminal conspiracy by the head law
+   enforcement officer in the state, should the anti-trans youth healthcare
+   ban be re-instated.
 
 ## Child Custody / Abuse
 

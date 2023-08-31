@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-08-31 \[[US Alabama](us/al.md)\] Indicate willingness by AG to
+    prosecute "criminal conspiracy" in abortion cases and how that might
+    impact trans care.
  *  2023-08-30 \[[US Nebraska](us/ne.md)\] Nebraska wide-ranging
     executive order.
  *  2023-08-29 \[[US Pennsylvania](us/pa.md)\] Pittsburgh is considering
