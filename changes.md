@@ -2,6 +2,9 @@
 
  *  2023-09-01 \[[US Texas](us/tx.md)\] Texas youth healthcare ban and
     drag ban is now in effect.
+ *  2023-08-31 \[[US Kansas](us/ks.md)\] Kansas no longer allows birth
+    certificate changes; updated to note driver's license changes not
+    allowed either.
  *  2023-08-31 \[[US Tennessee](us/tn.md)\] Blount County has indicated
     a wilingness to enforce the drag ban, despite it being ruled
     unconstitutional.

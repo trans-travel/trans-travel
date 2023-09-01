@@ -1,4 +1,4 @@
-# USA - Kansas
+https://www.pbs.org/newshour/politics/kansas-officials-are-no-longer-required-to-change-transgender-peoples-birth-certificates-judge-says# USA - Kansas
 
 Kansas places trans people at risk by not recognizing any gender other
 than sex assigned at birth, regardless of legal documentation changes in
@@ -63,6 +63,8 @@ See the [USA TSA](../notes/tsa.md) document.
 
 ## Legal Definition of Sex
 
+ * It is not possible to change the sex on your birth certificate or
+   driver's license in Kansas.
  * sex = "biological sex, either male or female, at birth"
  * female = "individual whose biological reproductive system is developed
    to produce ova"
@@ -149,3 +151,4 @@ person.
 ## Resources
 
  * [Movement Advancement Project Kansas Page (lists cities with gender identity protections](https://www.lgbtmap.org/equality-maps/profile_state/KS)
+ * [Kansas Allowed to Ban Birth Certificate Changes by Federal Judge](https://www.pbs.org/newshour/politics/kansas-officials-are-no-longer-required-to-change-transgender-peoples-birth-certificates-judge-says)
