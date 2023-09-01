@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-01 \[[US Texas](us/tx.md)\] Texas youth healthcare ban and
+    drag ban is now in effect.
  *  2023-08-31 \[[US Tennessee](us/tn.md)\] Blount County has indicated
     a wilingness to enforce the drag ban, despite it being ruled
     unconstitutional.

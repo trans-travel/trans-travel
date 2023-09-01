@@ -28,10 +28,9 @@ care.
 ## Drag / Performance / Cross-dressing Laws
 
  * Texas does not have a drag/cross-dressing law.
- * A law, which will take effect on Sept. 1, 2023, has vague language that
-   will ban "sexually oriented performances" where a child might be able to
-   view it and may be used against drag performers. This law is being
-   [challenged in
+ * A law has vague language that will ban "sexually oriented performances"
+   where a child might be able to view it and may be used against drag
+   performers. This law is being [challenged in
    court](https://www.washingtonblade.com/2023/08/04/lgbtq-activists-sue-to-block-texas-new-drag-law/).
 
 ## Air Travel
@@ -59,23 +58,22 @@ at birth and/or chromosomes.
    investigations under executive orders, which are being challenged
    with some success. Under attorney general opinion, medical transition
    of youth is consider abuse.
- * Texas, as of September 1, 2023, will ban puberty blockers, HRT, and
-   surgery for trans youth with few exceptions. This bill's enforcement
-   actions are targeted primarily towards healthcare providers. This is
-   [being challenged in a
-   lawsuit](https://www.aclu.org/press-releases/texas-families-and-medical-providers-sue-texas-to-block-dangerous-transgender-youth-medical-care-ban). While a state district court granted an injunction against the ban,
-   on August 25, 2023, the state immediately appealed this decision to the state supreme court, which
-   [blocks the injunction](https://www.texastribune.org/2023/08/25/texas-transgender-kids-health-care-lawsuit/).
+ * Texas bans puberty blockers, HRT, and surgery for trans youth with few
+   exceptions. This bill's enforcement actions are targeted primarily towards
+   healthcare providers. While this [was challenged in a
+   lawsuit](https://www.aclu.org/press-releases/texas-families-and-medical-providers-sue-texas-to-block-dangerous-transgender-youth-medical-care-ban).
+   While a state district court granted an injunction against the ban,
+   on August 25, 2023, the state immediately appealed this decision to the
+   state supreme court, which [blocks the
+   injunction](https://www.texastribune.org/2023/08/25/texas-transgender-kids-health-care-lawsuit/).
    Thus, as of August 25, 2023, it is expected the law will go into effect,
    which means that trans youth will be unable to access this medical
    care.
 
 ## Child Custody / Abuse
 
- * Trans medical care is potentially illegal under current executive
-   orders and legal opinions by the attorney general and may be made
-   illegal under pending law.
- * The executive order instructs child services agencies to investigate
+ * Trans youth medical care is illegal in Texas.
+ * An executive order instructs child services agencies to investigate
    transgender children in many circumstances, placing custody at risk.
  * The executive order and legal opinion of the AG is being challenged
    in court.
