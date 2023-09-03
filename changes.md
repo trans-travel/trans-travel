@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-03 \[[US Iowa](us/ia.md)\] Essex bans LGBT group from
+    participating in a city parade.
  *  2023-09-01 \[[US Texas](us/tx.md)\] Texas youth healthcare ban and
     drag ban is now in effect.
  *  2023-08-31 \[[US Kansas](us/ks.md)\] Kansas no longer allows birth

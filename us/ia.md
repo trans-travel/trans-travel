@@ -70,6 +70,13 @@ Non-binary people are not recognized.
 The state has a law that prevents instruction on sexual orientation or
 gender identity through grade six in schools.
 
+Essex, a small town near Shanandooah, has [banned an LGBT
+organization](https://www.kmaland.com/news/aclu-demands-shenandoah-prides-inclusion-in-essex-parade/article_8c16ccb0-4a64-11ee-85be-9b933dd52bdd.html)
+from participating in a city parade, saying that the parade "will not be
+used for and will not allow sexual identification or sexual orientation
+agendas for, or against, to be promoted." This may indicate predominant
+(or at least significant) attitudes towards LGBT people.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
