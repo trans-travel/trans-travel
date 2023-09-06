@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-05 \[[New Zealand](nz.md)\] First draft of NZ page.
  *  2023-09-05 \[[US Georgia](us/ga.md)\] Trans youth medical care is
     again illegal.
  *  2023-09-03 \[[US Iowa](us/ia.md)\] Essex bans LGBT group from
