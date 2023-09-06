@@ -8,13 +8,13 @@ knowledge to improve this page in any and all ways.  While this is geared
 for people who might travel to Aotearoa / NZ, I prefer that it would
 written in an accurate, culturally appropriate way.
 
-The LGBT community may be referred to as the "rainbow community" here.
-
 ## Summary
 
 While Aotearoa / NZ does not specifically name trans people in non-discrimination
 law, they appear to be protected under the 1993 Human Rights Act, under
 the grounds of "sex" discrimination.
+
+The LGBT community may be referred to as the "rainbow community" here.
 
 Aotearoa / NZ does not have laws against transgender medical care for any age.
 
