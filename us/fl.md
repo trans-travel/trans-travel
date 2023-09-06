@@ -224,8 +224,12 @@ of sexually assaulting others in bathrooms by Florida politicians.
 
 That said, locals have indicated larger cities tend to be more inclusive
 than rural areas, and southern Florida more inclusive than northern
-Florida
-
+Florida.  One city, Lake Worth Beach, has passed [a sanctuary
+resolution](https://cbs12.com/news/local/lake-worth-beach-sanctuary-city-lgbtq-community-floridas-first-gay-lesbian-bisexual-transgender-9-6-2023),
+although that resolution will have limited power due to state law and
+the ability and willingness of the state to remove local prosecutors who
+do not enforce discriminatory state laws. Tallahassee is considering a
+similar law, as of September 7, 2023.
 
 ## Resources
 
