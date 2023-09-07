@@ -85,11 +85,13 @@ While there are many visibly trans people in NYC, and NYC is home to
 some leading LGBT medical centers, hate crimes against LGBT people also
 occur in NYC, including stabbings of trans women and trans women (and
 cis women who appear trans) being denied access to appropriate bathrooms
-even in some gay establishments.  LGBT
+even in some gay establishments.  Trans women have [faced
+violence](https://brooklyneagle.com/articles/2023/09/07/brooklyn-man-charged-with-hate-crime-in-assault-of-trans-woman-on-subway/)
+while using public transit. LGBT
 [bars](https://www.nbcnews.com/nbc-out/out-news/new-york-city-lgbtq-bar-set-ablaze-arson-attack-rcna23209),
 and
 [monuments](https://gaycitynews.com/vandals-attack-flags-stonewall-national-monument/)
-have also been targeted by both violent and non-violent transphobic
+have also been targeted by both [violent and non-violent transphobic
 and homophobic people.  While these acts are the exception, it
 is important to be aware of surroundings even while in apparently
 queer-friendly locations.

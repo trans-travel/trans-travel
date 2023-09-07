@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-07 \[[US New York](us/ny.md)\] Note violence on public
+    transit.
  *  2023-09-06 \[[US Florida](us/fl.md)\] Lake Worth Beach declares
     itself a sanctuary city.
  *  2023-09-05 \[[New Zealand](nz.md)\] First draft of NZ page.
