@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-08 \[[US Oregon](us/or.md)\] Note additional prison
+    litigation.
  *  2023-09-07 \[[US New York](us/ny.md)\] Note violence on public
     transit.
  *  2023-09-06 \[[US Florida](us/fl.md)\] Lake Worth Beach declares

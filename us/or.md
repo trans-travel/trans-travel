@@ -39,6 +39,9 @@ See the [USA TSA](../notes/tsa.md) document.
  * The State has litigated against prisoner legal name and gender
    changes.
  * The State has litigated against prisoner medical care.
+ * The State has litigated against a trans woman jailed in male jail who
+   was [placed with a convicted sex
+   offender](https://www.oregonlive.com/crime/2023/09/judge-orders-oregon-prison-officials-to-classify-transgender-woman-as-vulnerable-place-her-in-a-single-cell-to-prevent-sex-assaults.html)
 
 ## Legal Definition of Sex
 
