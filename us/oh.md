@@ -48,6 +48,9 @@ and similar facilities, particularly if owned by government.
 ## Drag / Performance / Cross-dressing Laws
 
  * Ohio does not have a drag/cross-dressing law.
+ * Neo-Nazis are attempting to [publicly intimidate
+   attendees](https://www.dispatch.com/story/news/state/2023/09/11/neo-nazi-blood-tribe-claims-it-has-launched-an-ohio-chapter/70602182007/)
+   at some LGBT events in Ohio, notably around Columbus.
 
 ## Air Travel
 
@@ -97,6 +100,10 @@ changes to trans people, indicating bias within the Ohio legal system.
  * [Attorney General Opinion 2023-006](https://www.ohioattorneygeneral.gov/getattachment/f10767a2-2cf3-4844-b943-90a503dc4c52/2023-006.aspx)
 
 ## General Safety
+
+Ohio has active Neo-Nazi activity explicitly [targeting LGBT
+events](https://www.dispatch.com/story/news/state/2023/09/11/neo-nazi-blood-tribe-claims-it-has-launched-an-ohio-chapter/70602182007/),
+particularly in the Columbus area.
 
 Ohio and Ohio's political subdivisions have shown willingness to
 extensively prosecute and litigate against trans people in court.
