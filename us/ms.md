@@ -30,7 +30,7 @@ how this might have an impact on child custody.
 
 ## Air Travel
 
-See the [USA TSA](../notes/tsa.md) document.
+See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 

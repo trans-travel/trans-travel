@@ -47,7 +47,7 @@ prohibits her from being in the space.
 
 ## Air Travel
 
-See the [USA TSA](../notes/tsa.md) document.
+See the [USA TSA](notes/tsa.md) document.
 
  * It is illegal to use a bathroom that does not match your sex
    assigned at birth in Kansas airports (note that Kansas City

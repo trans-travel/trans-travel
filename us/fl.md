@@ -85,7 +85,7 @@ procedures," similar to how the courts have jurisdiction over abuse.
 
 ## Air Travel
 
-See the [USA TSA](../notes/tsa.md) document.
+See the [USA TSA](notes/tsa.md) document.
  
  * There is a "bathroom law" in Florida.  It makes it a crime to use a
    bathroom in government facilities (city, county, or state government)

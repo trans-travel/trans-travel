@@ -31,7 +31,7 @@ reassignment surgery). (last update: June 16, 2023)
 
 ## Air Travel
 
-See the [USA TSA](../notes/tsa.md) document.
+See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 

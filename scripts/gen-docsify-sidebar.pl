@@ -2,23 +2,74 @@ use 5.36.0;
 
 use Path::Tiny;
 
-say "* [Intro](.)";
+my %fake_countries = (
+    "us" => "USA"
+);
+my %fake_levels = (
+    %fake_countries,
+    "notes" => "Notes",
+    "jurisdictions" => "Jurisdictions",
+);
 
-say "* USA States";
+my @states = path('./us')->children(qr/\.md$/);
+my @countries = path('.')->children(qr/^..\.md$/);
+my @locations = sort { extract_title($a) cmp extract_title($b) } (@states, keys(%fake_countries), @countries);
+my @notes = path('./notes')->children(qr/\.md$/);
+my @files = ( "jurisdictions", @locations, "notes", @notes );
+unshift @files, path('./contributors.md');
+unshift @files, path('./README.md');
+push @files, path('./changes.md');
 
-for my $file ( sort( path('us/')->children(qr/\.md$/) ) ) {
-    my $title = extract_title( $file->slurp );
-    $title =~ s/USA -//;
-    say "  - [$title](./$file)";
+my %level;
+for my $country (@countries) {
+    $level{$country} = 2;
+}
+for my $state (@states) {
+    $level{$state} = 3;
+}
+for my $note (@notes) {
+    $level{$note} = 2;
+}
+for my $fake (keys %fake_levels) {
+    if (exists $fake_countries{$fake}) {
+        $level{$fake} = 2;
+    } else {
+        $level{$fake} = 1;
+    }
 }
 
-say "* Notes";
+for my $file (@files) {
+    my $link;
+    if ($file =~ m/\.md$/) {
+        $link = "[" . extract_title($file) . "]($file)"
+    } else {
+        $link = extract_title($file);
+    }
+    if (! exists $level{$file}) {
+        say "* " . $link;
+    } elsif ($level{$file} == 1) {
+        say "* " . $link;
+    } elsif ($level{$file} == 2) {
+        say "  * " . $link;
+    } elsif ($level{$file} == 3) {
+        say "    - " . $link;
+    }
+}
 
-for my $file ( sort( path('notes/')->children(qr/\.md$/) ) ) {
-    my $title = extract_title( $file->slurp );
-    say "  - [$title](./$file)";
+my %cache;
+sub extract_title($fn) {
+    return $cache{$fn} if exists $cache{$fn};
+
+    if (exists $fake_levels{$fn}) {
+        return $fake_levels{$fn};
+    }
+
+    my $content = $fn->slurp;
+
+    $content =~ /^#\s*(.*)/;
+    my $title = $1;
+
+    return $title;
 }
-sub extract_title($md) {
-    $md =~ /^# (.*)/m;
-    return $1;
-}
+
+1;

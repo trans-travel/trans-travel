@@ -40,7 +40,7 @@ noted that the law applies to medical providers and not parents.
 Note that the executive order defining sex may make state facilities
 particularly risky for trans travelers.
 
-See the [USA TSA](../notes/tsa.md) document.
+See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 

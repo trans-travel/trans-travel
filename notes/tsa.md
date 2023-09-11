@@ -55,5 +55,5 @@ USA.
 
 ## Airport Bathrooms
 
-See [Airport Bathrooms](airport-bathrooms.md) elsewhere in this guide
+See [Airport Bathrooms](notes/airport-bathrooms.md) elsewhere in this guide
 for additional information.
