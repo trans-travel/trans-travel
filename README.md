@@ -68,7 +68,7 @@ and bad.
 # Errors / Omissions
 
 This project welcomes contributions via pull requests or email to
-Joelle Maslak <a href="mailto:jmaslak@antelope.net">Joelle Maslak</a>.
+Joelle Maslak <a href="mailto:jmaslak@antelope.net">jmaslak@antelope.net</a>.
 
 The project is also available on Github as <a
 href="https://github.com/trans-travel/trans-travel">https://github.com/trans-travel/trans-travel</a>
