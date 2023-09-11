@@ -1,4 +1,4 @@
-https://www.pbs.org/newshour/politics/kansas-officials-are-no-longer-required-to-change-transgender-peoples-birth-certificates-judge-says# USA - Kansas
+# USA - Kansas
 
 Kansas places trans people at risk by not recognizing any gender other
 than sex assigned at birth, regardless of legal documentation changes in

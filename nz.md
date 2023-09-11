@@ -1,4 +1,4 @@
-# Aotearoa / New Zealand
+# New Zealand / Aotearoa
 
 ## A Note
 

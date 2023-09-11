@@ -1,10 +1,4 @@
-# QUICK START - HOW TO SEE THE TRAVEL INFO
-
-Scroll down on this page to "Directory of Jurisdictions" (right now it's
-only USA, but in the future it'll have other countries) and click on the
-country you are interested in.
-
-# DISCLAIMER
+# Disclaimer
 
 This is not legal advice, and is not put together by a lawyer.  This
 information is not guaranteed to be up-to-date or accurate.  You
@@ -24,11 +18,11 @@ a business project for several months in a state may need to utilize
 medical care. Others may travel with children and be concerned about how
 this could be seen as child abuse or cause child custody issues.
 
-# Directory of Jurisdictions
+# Missing Jurisdictions
 
- * [Mexico](mx.md)
- * [New Zealand / Aotearoa](nz.md)
- * [USA (Individual States are here)](us)
+This guide is definitely incomplete, and contains only a handful of
+jurisdictions at this time.  Contributions of additional jurisdictions
+are always appreciated.
 
 # A Note on Intersectional Oppression
 
@@ -65,7 +59,10 @@ and bad.
 # Errors / Omissions
 
 This project welcomes contributions via pull requests or email to
-jmaslak@antelope.net.
+Joelle Maslak <a href="mailto:jmaslak@antelope.net">Joelle Maslak</a>.
+
+The project is also available on Github as <a
+href="https://github.com/trans-travel/trans-travel">https://github.com/trans-travel/trans-travel</a>
 
 Particularly interesting is general information from people that know
 the location, beyond just what the laws say. If you know a city has a

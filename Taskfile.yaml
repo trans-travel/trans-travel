@@ -9,6 +9,12 @@ tasks:
   epub:
     sources: 
       - scripts/t/*.t
+      - 'changes.md',
+      - 'contributors.md',
+      - 'mx.md'
+      - 'nz.md'
+      - 'notes/airport-bathrooms.md'
+      - 'notes/tsa.md'
       - 'us/*.md'
       - ./scripts/gen-epub.pl
     generates: 
@@ -20,6 +26,12 @@ tasks:
 
   pdf:
     sources: 
+      - 'changes.md',
+      - 'contributors.md',
+      - 'mx.md'
+      - 'nz.md'
+      - 'notes/airport-bathrooms.md'
+      - 'notes/tsa.md'
       - 'us/*.md'
       - ./scripts/gen-pdf.pl
     generates: 

@@ -114,7 +114,7 @@ these laws in detail before traveling to Texas.
 
 Cis women who do not look stereotypically female in a citizen's eyes
 (regardless of actual appearance) have been [harassed](https://www.dallasobserver.com/news/self-appointed-bathroom-cop-catches-dallas-woman-using-womens-restroom-8259104)
-and [kicked out](https://www.reddit.com/r/actuallesbians/comments/pdio76/dragged_out_of_bathroom/#)
+and [kicked out](https://www.reddit.com/r/actuallesbians/comments/pdio76/dragged_out_of_bathroom/)
 of bathrooms by police or citizens.  In most cases, this is done with men
 (police, citizens, etc) entering the women's bathroom, demanding ID, and
 regardless of offered ID then kicking the woman out. In particular,
