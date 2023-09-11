@@ -6,7 +6,9 @@ safety within various jurisdictions.
 
 If you are viewing this at <a
 href="https://TravelWhileTrans.com/">https://TravelWhileTrans.com/</a>, 
-you can select a jurisdiction using the sidebar on the left.
+you can select a jurisdiction using the sidebar on the left. On mobile,
+you can click the "three bars" on the lower left of the page which will
+pull out the sidebar.
 
 It is not geared towards people already living in a jusridiction.
 For instance, laws about medical insurance won't
