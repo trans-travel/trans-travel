@@ -7,7 +7,7 @@ safety within various jurisdictions.
 If you are viewing this at <a
 href="https://TravelWhileTrans.com/">https://TravelWhileTrans.com/</a>, 
 you can select a jurisdiction using the sidebar on the left. On mobile,
-you can click the "three bars" on the bottom left of the page which will
+you can click the "three bars" on the top left of the page which will
 pull out the sidebar (or turn your phone sideways).
 
 It is not geared towards people already living in a jusridiction.
