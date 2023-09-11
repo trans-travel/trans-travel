@@ -31,7 +31,10 @@ care.
  * A law has vague language that will ban "sexually oriented performances"
    where a child might be able to view it and may be used against drag
    performers. This law is being [challenged in
-   court](https://www.washingtonblade.com/2023/08/04/lgbtq-activists-sue-to-block-texas-new-drag-law/).
+   court](https://www.aclutx.org/en/cases/woodlands-pride-inc-et-al-v-angela-colmenero-et-al)
+   and is currently (at least on Sep. 12, 2023) [blocked by a restraining
+   order](https://www.aclutx.org/en/press-releases/federal-court-grants-temporary-restraining-order-blocking-texas-drag-ban),
+   meaning drag remains legal in Texas.
 
 ## Air Travel
 
@@ -133,5 +136,5 @@ officials and public institutions.
  * [Loe v. Texas - Challenge to gender affirming care
    ban](https://www.aclu.org/press-releases/texas-families-and-medical-providers-sue-texas-to-block-dangerous-transgender-youth-medical-care-ban)
  * [PFLAG v. Abbott - Challenge to Child Abuse Investigations of Trans Families](https://lambdalegal.org/case/pflag-v-abbott/)
- * [Woodlands Pride v. Colmenero - Challenge to Vague "Sexually Oriented Performance" Ban](https://www.aclutx.org/en/press-releases/aclu-texas-sues-state-block-unconstitutional-drag-ban)
+ * [Woodlands Pride v. Colmenero - Challenge to Vague "Sexually Oriented Performance" Ban](https://www.aclutx.org/en/cases/woodlands-pride-inc-et-al-v-angela-colmenero-et-al)
  * [Transgender Education Network of TX (pro-trans organization)](https://www.transtexas.org/)

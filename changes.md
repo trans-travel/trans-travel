@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-11 \[[US Texas](us/tx.md)\] Drag ban has a temporary
+    restraining order against it.
  *  2023-09-08 \[[US Oregon](us/or.md)\] Note additional prison
     litigation.
  *  2023-09-07 \[[US New York](us/ny.md)\] Note violence on public
