@@ -4,6 +4,10 @@ This project seeks to provide "travel advice" for trans travelers
 (and our companions) based on laws and practical
 safety within various jurisdictions.
 
+If you are viewing this at <a
+href="https://TravelWhileTrans.com/">https://TravelWhileTrans.com/</a>, 
+you can select a jurisdiction using the sidebar on the left.
+
 It is not geared towards people already living in a jusridiction.
 For instance, laws about medical insurance won't
 generally be mentioned, as most people traveling will have
