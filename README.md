@@ -21,6 +21,13 @@ a business project for several months in a state may need to utilize
 medical care. Others may travel with children and be concerned about how
 this could be seen as child abuse or cause child custody issues.
 
+# Other Formats
+
+This is also available as a PDF. This may be particularly useful to
+people needing to cite this information or who want to carry a copy with
+them on their mobile device.  You can access the PDF version at
+(https://TravelWhileTrans.com/output/trans-travel.pdf)[https://TravelWhileTrans.com/output/trans-travel.pdf].
+
 # Disclaimer
 
 This is not legal advice, and is not put together by a lawyer.  This
