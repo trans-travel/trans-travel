@@ -50,7 +50,7 @@ at birth and/or chromosomes.
  * Trans medical care is legal for adults
  * A law banning puberty blockers, hormone therapy, and surgery for
    people under 18 has passed and became law.  It is, as of Aug. 28,
-   2023, blocked from enforcement by a district judge, although an
+   2023, initially blocked from enforcement by a district judge, although an
    appeals court ruled in favor of the block but that decision [cannot
    override the district judge until an appeal has a chance to be
    made](https://www.glad.org/update-on-federal-challenge-to-al-transgender-medical-care-ban/).
