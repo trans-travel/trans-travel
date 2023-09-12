@@ -57,10 +57,11 @@ Non-binary people are not legally recognized.
    blockers, hormones, and surgery, although some very limited exceptions
    are present for youth already undergoing care.
  * While continuation of some care is legal for trans youth, at least
-   one hospital (University of Missouri hospital) has [stopped providing
-   any
-   care](https://www.wabi.tv/video/2023/08/29/father-transgender-teen-says-mo-hospital-will-no-longer-provide-gender-affirming-care/),
-   even for existing patients.
+   two hospitals ([University of Missouri Hospital](https://www.wabi.tv/video/2023/08/29/father-transgender-teen-says-mo-hospital-will-no-longer-provide-gender-affirming-care/)
+   and [Washington University
+   Hospital](https://www.missourinet.com/2023/09/11/washington-university-transgender-center-to-end-care-for-minors/))
+   have stopped providing trans-related healthcare for minors, even for
+   existing patients.
  * There is a [lawsuit against the
    state](https://www.aclu-mo.org/en/news/families-and-medical-providers-sue-missouri-block-transgender-youth-medical-care-ban)
    over SB49's prohibition of medical care for trans youth.

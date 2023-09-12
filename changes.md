@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-11 \[[US Missouri](us/mo.md)\] Washington University
+    Hospital has stopped providing care for trans minors grandfathered
+    under the anti-trans care ban law.
  *  2023-09-11 \[[US Ohio](us/oh.md)\] Neo-Nazis are active in Ohio.
  *  2023-09-11 \[[US Texas](us/tx.md)\] Drag ban has a temporary
     restraining order against it.
