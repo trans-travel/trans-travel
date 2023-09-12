@@ -102,6 +102,11 @@ Intersex people have some limited recognition.
 The state has a law that prevents instruction on sexual orientation or
 gender identity (or really any mention) up to grade 3 in schools.
 
+A former student at Indiana University has accused the police department
+of being [unwilling to fully
+investigate](https://www.idsnews.com/article/2023/09/former-iu-student-declan-farley-posts-update-harassment-last-year)
+anti-trans and anti-gay harassment.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and

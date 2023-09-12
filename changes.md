@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-12 \[[US Indiana](us/in.md)\] Indiana University may be
+    unwilling to fully investigate anti-trans/anti-gay harassment.
  *  2023-09-12 \[[US Pennsylvania](us/pa.md)\] Pittsburgh sanctuary
     ordinance passed.
  *  2023-09-13 \[[US Missouri](us/mo.md)\] Washington University
