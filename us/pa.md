@@ -52,9 +52,9 @@ state IDs, but not birth certificates.
 
  * Trans medical care is legal for all ages.
  * Pennsylvania does not have a "sanctuary" law.
- * Pittsburgh is considering becoming a [sanctuary
-   city](https://www.wesa.fm/politics-government/2023-08-29/pittsburgh-protect-gender-affirming-care)
-   for trans healthcare, which would somewhat limit cooperation between
+ * Pittsburgh is a [sanctuary
+   city](https://www.wesa.fm/politics-government/2023-09-12/pittsburgh-protect-gender-affirming-care)
+   for trans healthcare, which somewhat limits cooperation between
    the city in prosecution of those seeking trans healthcare.
 
 ## Child Custody / Abuse
@@ -62,9 +62,9 @@ state IDs, but not birth certificates.
  * Transition care is not defined as child abuse
  * Pennsylvania does not have a sanctuary law for people obtaining
    transition-related medical care.
- * Pittsburgh is considering becoming a [sanctuary
-   city](https://www.wesa.fm/politics-government/2023-08-29/pittsburgh-protect-gender-affirming-care)
-   for trans healthcare, which would somewhat limit cooperation between
+ * Pittsburgh is a [sanctuary
+   city](https://www.wesa.fm/politics-government/2023-09-12/pittsburgh-protect-gender-affirming-care)
+   for trans healthcare, which somewhat limits cooperation between
    the city in prosecution of those seeking trans healthcare.
 
 ## Relationship Recognition
@@ -72,6 +72,11 @@ state IDs, but not birth certificates.
  * Same-sex marriage (and thus all trans marriage) is recognized
 
 ## Relevant Laws
+
+ * [Pittsburgh 2023-1842 - Sanctuary City (Part
+   1)](https://pittsburgh.legistar.com/LegislationDetail.aspx?ID=6326268&GUID=1BC5F8DB-C05C-42C4-9203-AAC7AB08FCF5&Options=&Search=&FullText=1)
+ * [Pittsburgh 2023-1842 - Sanctuary City (Part
+   2)](https://pittsburgh.legistar.com/LegislationDetail.aspx?ID=6326269&GUID=D958D801-6D14-4001-9C61-4ED019A8C380&Options=&Search=&FullText=1)
 
 ## General Safety
 
