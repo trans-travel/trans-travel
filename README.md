@@ -4,13 +4,13 @@ This project seeks to provide "travel advice" for trans travelers
 (and our companions) based on laws and practical
 safety within various jurisdictions.
 
-If you are viewing this at <a
-href="https://TravelWhileTrans.com/">https://TravelWhileTrans.com/</a>, 
+If you are viewing this at
+[https://TravelWhileTrans.com/](https://TravelWhileTrans.com/),
 you can select a jurisdiction using the sidebar on the left. On mobile,
 you can click the "three bars" on the top left of the page which will
 pull out the sidebar (or turn your phone sideways).
 
-It is not geared towards people already living in a jusridiction.
+It is not geared towards people already living in a jurisdiction.
 For instance, laws about medical insurance won't
 generally be mentioned, as most people traveling will have
 out-of-jurisdiction medical insurance. Likewise, laws about school
@@ -26,7 +26,7 @@ this could be seen as child abuse or cause child custody issues.
 This is also available as a PDF. This may be particularly useful to
 people needing to cite this information or who want to carry a copy with
 them on their mobile device.  You can access the PDF version at
-(https://TravelWhileTrans.com/output/trans-travel.pdf)[https://TravelWhileTrans.com/output/trans-travel.pdf].
+[https://TravelWhileTrans.com/output/trans-travel.pdf](https://TravelWhileTrans.com/output/trans-travel.pdf]).
 
 # Disclaimer
 
