@@ -83,6 +83,13 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to sometimes be misgendered
 by officials and public institutions.
 
+In Salam, on Sep. 12 or 13, 2023, a welcoming church and nearby rainbow
+crosswalk was [vandalized with anti-LGBT
+messages](https://www.salemnews.com/news/anti-lgbtq-hate-crime-targets-tabernacle-church-crosswalks/article_20603260-5246-11ee-961c-938a6325d7c1.html).
+While this did not directly target LGBT people, it demonstrates hate
+strong enough for someone to break the law and target organizations
+based on support for LGBT individuals.
+
 ## Resources
 
  * [Massachusetts Commission Against Discrimination](https://www.mass.gov/orgs/massachusetts-commission-against-discrimination)
