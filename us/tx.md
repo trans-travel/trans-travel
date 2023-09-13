@@ -24,6 +24,9 @@ care.
    Texas.
  * Texas has wide-reaching religious freedom laws that allow denial of
    some services on the basis of gender identity.
+ * Some cities, such as [El
+ Paso](https://www.ktsm.com/news/city-council-oks-2-resolutions-to-promote-transgender-rights/)
+   are attempting to preserve trans rights to access city facilities.
 
 ## Drag / Performance / Cross-dressing Laws
 

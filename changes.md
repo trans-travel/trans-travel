@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-12 \[[US Texas](us/tx.md)\] El Paso passed a city resolution
+    to ensure access to city-owned facilities by trans people.
  *  2023-09-12 \[[US Indiana](us/in.md)\] Indiana University may be
     unwilling to fully investigate anti-trans/anti-gay harassment.
  *  2023-09-12 \[[US Pennsylvania](us/pa.md)\] Pittsburgh sanctuary
