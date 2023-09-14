@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-14 \[[US Kentucky](us/ky.md)\] Appeal to full appeals court
+    has been denied for preliminary injunction in trans youth health
+    ban.
  *  2023-09-13 \[[US Massachusetts](us/ma.md)\] Anti-LGBT vandalism
     occurred in Salem.
  *  2023-09-12 \[[US Texas](us/tx.md)\] El Paso passed a city resolution
