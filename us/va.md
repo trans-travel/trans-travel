@@ -65,6 +65,14 @@ still in-complete in Virginia.
 
 ## General Safety
 
+Virginia is a particularly divided state. While it has the nation's
+first out trans state lawmaker (Danica Roem), it also has an anti-trans
+governor and local governments may implement anti-LGBT policies, such as
+the Warren County Board of Supervisors, which has threatened [defunding
+the local
+library](https://dallasvoice.com/virginia-library-could-close-in-showdown-over-book-bans/)
+over the presence of LGBT-inclusive books.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and

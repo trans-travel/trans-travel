@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-14 \[[US Virginia](us/va.md)\] Some local governments are
+    very anti-LGBT.
  *  2023-09-14 \[[US Missouri](us/mo.md)\] Trans healthcare is likely
     totally unavailable, regardless of "grandfather" status.
  *  2023-09-14 \[[US Kentucky](us/ky.md)\] Appeal to full appeals court
