@@ -56,12 +56,16 @@ Non-binary people are not legally recognized.
  * Most trans medical care for youth is banned, including puberty
    blockers, hormones, and surgery, although some very limited exceptions
    are present for youth already undergoing care.
- * While continuation of some care is legal for trans youth, at least
-   two hospitals ([University of Missouri Hospital](https://www.wabi.tv/video/2023/08/29/father-transgender-teen-says-mo-hospital-will-no-longer-provide-gender-affirming-care/)
-   and [Washington University
-   Hospital](https://source.wustl.edu/2023/09/statement-on-washington-university-transgender-center/))
-   have stopped providing trans-related healthcare for minors, even for
-   existing patients.
+ * While continuation of some care is technically legal for trans youth, it
+   is in practice completely unavailable. Multiple hospitals ([University of
+   Missouri Hospital](https://www.wabi.tv/video/2023/08/29/father-transgender-teen-says-mo-hospital-will-no-longer-provide-gender-affirming-care/)
+   [Washington University
+   Hospital](https://source.wustl.edu/2023/09/statement-on-washington-university-transgender-center/),
+   and St. Louis Children's Hospitals are three examples) have stopped
+   providing trans-related healthcare for minors, even for existing patients
+   who are "grandfathered" in the law. This is due to legal liability
+   under the new "grandfather" clause, which uses a tactic similar to
+   anti-abortion tactics of private action.
  * There is a [lawsuit against the
    state](https://www.aclu-mo.org/en/news/families-and-medical-providers-sue-missouri-block-transgender-youth-medical-care-ban)
    over SB49's prohibition of medical care for trans youth.

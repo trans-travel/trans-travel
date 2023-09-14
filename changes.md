@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-14 \[[US Missouri](us/mo.md)\] Trans healthcare is likely
+    totally unavailable, regardless of "grandfather" status.
  *  2023-09-14 \[[US Kentucky](us/ky.md)\] Appeal to full appeals court
     has been denied for preliminary injunction in trans youth health
     ban.
