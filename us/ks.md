@@ -34,6 +34,12 @@ Kansas does not appear to place child custody at risk.
    based on sex assigned at birth.
  * Some cities have protections against gender-identity discrimination,
    but the state law will override many of these protections.
+ * At least one religious-based shelter enforces a rule which bans any
+   trans person [which makes residents
+   "uncomfortable"](https://www.cjonline.com/story/news/local/2023/09/14/topeka-homeless-shelter-explains-policy-for-transgender-and-nonbinary-residents/70826076007/).
+   This has been enforced against non-binary AFAB people in a women's
+   shelter who were criticized for wearing boxers and being seen "with a
+   bulge" (the person involved did not wear a packer at the shelter).
 
 It is unknown how this would be enforced, beyond where the state has the
 power to impose gender determination on people. It is likely that, for

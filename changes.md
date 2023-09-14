@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-14 \[[US Kansas](us/ks.md)\] Religious homeless shelter
+    banning trans people who make others "uncomfortable."
  *  2023-09-14 \[[US Virginia](us/va.md)\] Some local governments are
     very anti-LGBT.
  *  2023-09-14 \[[US Missouri](us/mo.md)\] Trans healthcare is likely
