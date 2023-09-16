@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-15 \[[US Kansas](us/ks.md)\] Library bans neurodiveristy
+    pride symbol.
  *  2023-09-14 \[[US Kansas](us/ks.md)\] Religious homeless shelter
     banning trans people who make others "uncomfortable."
  *  2023-09-14 \[[US Virginia](us/va.md)\] Some local governments are

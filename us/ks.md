@@ -141,6 +141,13 @@ Note that in addition to these actions, these laws while targeting trans
 people also place gender non-conforming cis women at risk of invasive
 questioning and state action.
 
+Beyond bathrooms, hostility against rainbow symbols, even rainbow
+symbols that have nothing to do with the LGBT community (such as the
+neurodiversity pride symbol, which is a rainbow-colored infinity symbol,
+but is not about gender or sexuality), which [one county
+banned](https://news.yahoo.com/kansas-town-axed-librarians-confusing-162943798.html)
+at a library (the Sterling library).
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
