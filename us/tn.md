@@ -7,7 +7,7 @@ Tennessee (as of July 1, 2023) bans trans care for children which has
 an unknown impact on child custody, however parents are not penalized
 under this law (it applies to healthcare providers), except possibly if
 one parent provides hormones or puberty blockers without the other
-parent's consent. while a preliminary injunction (as of July 8,
+parent's consent. While a preliminary injunction (as of July 8,
 2023) would have allowed both puberty blockers and hormone therapy for trans youth
 until the case challenging the ban is heard, the appeals court decided
 that stay was invalid. However, the plaintiffs in a related case in
@@ -21,7 +21,7 @@ to investigate at least one provider of transgender care.
 
 ## Non-discrimination Law
 
- * Tennessee non-discrimination law does not include LGBT people
+ * Tennessee non-discrimination law does not include LGBT people.
  * Tennessee municipalities are blocked from enacting laws that protect
    LGBT people.
  * Public school (K12) employees will not be able to be disciplined
@@ -71,7 +71,7 @@ Tennessee generally does not allow gender markers to be changed on IDs.
 
 Tennessee does not recognize non-binary gender.
 
-Tennessee specify defines male, female, and similar words based on sex
+Tennessee specifically defines _male_, _female_, and similar words based on sex
 assigned at birth and/or chromosomes.
 
 ## Medical Care
@@ -79,7 +79,7 @@ assigned at birth and/or chromosomes.
  * Trans medical care is legal for adults.
  * Medical transition for people under age 18 is illegal as of
    July 1, 2023. This includes both care provided from within Tennessee
-   and care provided via telehealth.  While, a preliminary injunction (as
+   and care provided via telehealth.  While a preliminary injunction (as
    of July 8, 2023) would have allowed both puberty blockers and hormone
    therapy for trans youth until the case challenging the ban is heard, the
    appeals court decided that [stay was
