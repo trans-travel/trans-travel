@@ -181,7 +181,7 @@ for the State of Florida due to anti-LGBT legislation.  The
 (a Latino advocacy organization), the
 [Florida Immigrant Commission](https://floridatraveladvisory.com/), and
 [SPARTA](https://spartapride.org/duty-assignment-warning-issued-for-florida/)
-(a transgneder servicemember advicacy organization)
+(a transgneder servicemember advocacy organization)
 have also done so, for state-sponsored attacks against their
 constituents' human rights.
 

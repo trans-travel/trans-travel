@@ -124,7 +124,7 @@ and [kicked out](https://www.reddit.com/r/actuallesbians/comments/pdio76/dragged
 of bathrooms by police or citizens.  In most cases, this is done with men
 (police, citizens, etc) entering the women's bathroom, demanding ID, and
 regardless of offered ID then kicking the woman out. In particular,
-All women's bathroom users, trans or cis, who are sometimes read as men
+all women's bathroom users, trans or cis, who are sometimes read as men
 (or do not present stereotypically femininely) should use caution.
 
 Because of the rhetoric around trans people in the political and media
