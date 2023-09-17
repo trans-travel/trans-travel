@@ -41,9 +41,9 @@ bottom half of the body, should it be necessary.
 
 ## Legal Definition of Sex
 
-Non-binary people are recognized, at least by some aspects of
-government, such as in the ability to change birth certificates and ID
-cards (but not federal passports).
+Non-binary people are recognized, and trans people are generally
+recognized on the basis of their gender identity, including the ability
+to update their documents.
 
 ## Medical Care
 
