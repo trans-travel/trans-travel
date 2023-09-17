@@ -48,6 +48,10 @@ to update their documents.
 ## Medical Care
 
  * Trans medical care is legal for all ages.
+ * Medical care may be somewhat more difficult for travelers to access
+   than medical care in some USA states (but likely easier than other
+   USA states), and may move slower than some providers elsewhere in the
+   world may.
 
 ## Child Custody / Abuse
 
@@ -72,6 +76,13 @@ by officials and public institutions.
 Active, organized anti-trans activity occurs in Ontario, although this
 is less supported than in much of the USA. Much of this anti-trans
 activity occurs as "protest" towards Pride events that include youth.
+
+One local contributor noted that the Kitchener/Waterloo/Cambridge area, being
+largely a university town, is a comparatively safe space, though there
+will always be pockets of what I'll politely call radicalized members.
+Of late there have been smaller hate groups mobilizing to attempt to get
+their own onto school boards and municipal legislation for the obvious
+reasons, but thus far (updated on Sept. 17, 2023) to no avail.
 
 ## Resources
 
