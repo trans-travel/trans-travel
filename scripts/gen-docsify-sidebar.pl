@@ -3,7 +3,8 @@ use 5.36.0;
 use Path::Tiny;
 
 my %fake_countries = (
-    "us" => "USA"
+    "us" => "USA",
+    "ca" => "Canada",
 );
 my %fake_levels = (
     %fake_countries,
@@ -11,9 +12,13 @@ my %fake_levels = (
     "jurisdictions" => "Jurisdictions",
 );
 
-my @states = path('./us')->children(qr/\.md$/);
+my @subdivisions;
+for my $country (keys %fake_countries) {
+    push @subdivisions, path("./$country")->children(qr/\.md$/);
+}
+
 my @countries = path('.')->children(qr/^..\.md$/);
-my @locations = sort { extract_title($a) cmp extract_title($b) } (@states, keys(%fake_countries), @countries);
+my @locations = sort { extract_title($a) cmp extract_title($b) } (@subdivisions, keys(%fake_countries), @countries);
 my @notes = path('./notes')->children(qr/\.md$/);
 my @files = ( "jurisdictions", @locations, "notes", @notes );
 unshift @files, path('./contributors.md');
@@ -24,7 +29,7 @@ my %level;
 for my $country (@countries) {
     $level{$country} = 2;
 }
-for my $state (@states) {
+for my $state (@subdivisions) {
     $level{$state} = 3;
 }
 for my $note (@notes) {

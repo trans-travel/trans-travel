@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-16 \[[CA Ontario](ca/on.md)\] Added Ontario.
  *  2023-09-15 \[[US Kansas](us/ks.md)\] Library bans neurodiveristy
     pride symbol.
  *  2023-09-14 \[[US Kansas](us/ks.md)\] Religious homeless shelter

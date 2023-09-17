@@ -7,7 +7,8 @@ use Path::Tiny;
 use Text::Markdown qw/ markdown /;
 
 my %fake_countries = (
-    "us" => "USA"
+    "us" => "USA",
+    "ca" => "Canada",
 );
 my %fake_levels = (
     %fake_countries,
@@ -19,9 +20,13 @@ sub generate {
 
     my $template = path('./pdf/template.html')->slurp;
 
-    my @states = path('./us')->children(qr/\.md$/);
+    my @subdivisions;
+    for my $country (keys %fake_countries) {
+        push @subdivisions, path("./$country")->children(qr/\.md$/);
+    }
+
     my @countries = path('.')->children(qr/^..\.md$/);
-    my @locations = sort { parsed($a)->[0] cmp parsed($b)->[0] } (@states, keys(%fake_countries), @countries);
+    my @locations = sort { parsed($a)->[0] cmp parsed($b)->[0] } (@subdivisions, keys(%fake_countries), @countries);
     my @notes = path('./notes')->children(qr/\.md$/);
     my @files = ( "jurisdictions", @locations, "notes", @notes );
     unshift @files, path('./contributors.md');
@@ -32,7 +37,7 @@ sub generate {
     for my $country (@countries) {
         $level{$country} = 2;
     }
-    for my $state (@states) {
+    for my $state (@subdivisions) {
         $level{$state} = 3;
     }
     for my $note (@notes) {

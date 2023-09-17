@@ -1,6 +1,8 @@
 * [Introduction](README.md)
 * [Contributors](contributors.md)
 * Jurisdictions
+  * Canada
+    - [Canada - Ontario](ca/on.md)
   * [Mexico](mx.md)
   * [New Zealand / Aotearoa](nz.md)
   * USA
