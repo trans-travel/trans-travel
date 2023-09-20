@@ -39,6 +39,17 @@ Aotearoa / NZ does not have laws against transgender medical care for any age.
 
  * Travel into/out-of Aotearoa / NZ will require tickets and documents to
    match, including gender.
+ * As of at least Sept. 21, 2023, body scanners are used for travelers
+   who fail to pass through a metal detector without alarming. These
+   scanners do not display private parts (just a stylized outline of a
+   body with areas of concern highlighted by squares), but it does
+   require the security staff to hit either a pink or blue button
+   depending on their estimate of the traveler's body (hitting the wrong
+   one can trigger an alarm in a sensitive area of the body). Travelers
+   with prosthetics may trigger the alarm, as may be trans people that
+   are read as a gender that doesn't match stereotypes about their body
+   parts.  Note that travel on non-jet aircraft does not generally
+   require screening, so this only applies to jet travel.
 
 ## Jails / Prisons
 

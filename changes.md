@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-21 \[[New Zealand](nz.md)\] Indicate usage of
+    gender-specific screening technology at airports.
  *  2023-09-16 \[[CA Ontario](ca/on.md)\] Added Ontario.
  *  2023-09-15 \[[US Kansas](us/ks.md)\] Library bans neurodiveristy
     pride symbol.
