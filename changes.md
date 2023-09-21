@@ -1,6 +1,8 @@
 # Change Log for Trans Travel Guide
 
- *  2023-09-21 \[[New Zealand](nz.md)\] Indicate usage of
+ *  2023-09-21 \[[US Connecticut](us/ct.md)\] Prisoner sues prison
+    service for inadequate and discriminatory denial of health care.
+ *  2023-09-21 \[[Aotearoa / New Zealand](nz.md)\] Indicate usage of
     gender-specific screening technology at airports.
  *  2023-09-16 \[[CA Ontario](ca/on.md)\] Added Ontario.
  *  2023-09-15 \[[US Kansas](us/ks.md)\] Library bans neurodiveristy

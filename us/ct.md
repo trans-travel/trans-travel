@@ -40,7 +40,9 @@ See the [USA TSA](notes/tsa.md) document.
    consideration, although that does not mean prisons will always address
    them in the proper way.
  * Transition care should be available in state prisons, but may not be the
-   same standard as care outside of prison.
+   same standard as care outside of prison. At least one prisoner has
+   [successfully sued](https://gaycitynews.com/trans-inmate-wins-connecticut-prison-officials-inadequate-care/)
+   for negligent, illegal denial of care.
 
 ## Legal Definition of Sex
 
