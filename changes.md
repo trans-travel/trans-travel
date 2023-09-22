@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-21 \[[US Arizona](us/az.md)\] Added additional details about
+    prisoner misgendering.
  *  2023-09-21 \[[US Connecticut](us/ct.md)\] Prisoner sues prison
     service for inadequate and discriminatory denial of health care.
  *  2023-09-21 \[[Aotearoa / New Zealand](nz.md)\] Indicate usage of

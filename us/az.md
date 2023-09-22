@@ -36,7 +36,8 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women would typically be housed with men
+ * Trans women would typically be [housed with
+   men](https://fronterasdesk.org/content/1858125/attorney-trans-women-misgendered-flagstaff-arrest-held-mens-jail)
  * Trans men would typically be housed with women
  * Nonbinary people would typically be housed according to sex
    assigned at birth
