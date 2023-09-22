@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-21 \[[US Wisconsin](us/wi.md)\] Milwaukee County is now a
+    sanctuary county.
  *  2023-09-21 \[[US Arizona](us/az.md)\] Added additional details about
     prisoner misgendering.
  *  2023-09-21 \[[US Connecticut](us/ct.md)\] Prisoner sues prison

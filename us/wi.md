@@ -19,7 +19,9 @@ trans youth medical care.
    for trans people in Wisconsin as a whole (but is in many municipalities).
  * Dane County established [limited sanctuary
    protections](https://www.countyofdane.com/PressDetail/11253) within
-   the county.  The City of Madison is also considering passing a
+   the county, as did [Milwaukee
+   County](https://www.tmj4.com/news/local-news/proposal-passes-to-make-milwaukee-county-a-sanctuary-county-for-transgender-non-binary-people).
+   The City of Madison is also considering passing a
    [limited sanctuary resolution](https://madison.legistar.com/LegislationDetail.aspx?ID=6258275&GUID=81B35D5F-1BC8-45D1-B9F1-7D5AE39ED497&Options=ID%7cText%7c&Search=police&FullText=1)
    that they would lower the priority of
    enforcement of any prosecutions related to transgender medical care.
