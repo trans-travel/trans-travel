@@ -3,6 +3,7 @@
 * Jurisdictions
   * Canada
     - [Canada - Ontario](ca/on.md)
+    - [Canada - Quebec](ca/qc.md)
   * [Mexico](mx.md)
   * [New Zealand / Aotearoa](nz.md)
   * USA
