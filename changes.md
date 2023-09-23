@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-22 \[[US New York](us/ny.md)\] NYPD being sued for failing
+    to comply with previous court directive.
  *  2023-09-21 \[[US Wisconsin](us/wi.md)\] Milwaukee County is now a
     sanctuary county.
  *  2023-09-21 \[[US Arizona](us/az.md)\] Added additional details about

@@ -42,6 +42,10 @@ See the [USA TSA](notes/tsa.md) document.
    confinement by the NYC jail system. This resulted in a $5.9
    million payout by the city. She was in jail for inability to pay
    bail.
+ * On Sept. 22, 2023, NYPD [was
+   sued](https://www.usatoday.com/story/news/nation/2023/09/22/new-york-civil-liberties-union-sue-nypd-for-records-on-transgender-police-training/70934447007/)
+   for apparent failure to comply with a previous court order regarding
+   the treatment of trans people.
 
 ## Legal Definition of Sex
 
