@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-26 \[[US Texas](us/tx.md)\] Anti-drag law declared
+    unconstitutional.
  *  2023-09-23 \[[CA Quebec](ca/qc.md)\] Created initial Quebec guide.
  *  2023-09-22 \[[US New York](us/ny.md)\] NYPD being sued for failing
     to comply with previous court directive.

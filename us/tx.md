@@ -31,13 +31,13 @@ care.
 ## Drag / Performance / Cross-dressing Laws
 
  * Texas does not have a drag/cross-dressing law.
- * A law has vague language that will ban "sexually oriented performances"
-   where a child might be able to view it and may be used against drag
-   performers. This law is being [challenged in
+ * A law that has vague language that attempted to ban "sexually oriented
+   performances" where a child might be able to view it and could have been
+   used against drag performers. This law was being [challenged in
    court](https://www.aclutx.org/en/cases/woodlands-pride-inc-et-al-v-angela-colmenero-et-al)
-   and is currently (at least on Sep. 12, 2023) [blocked by a restraining
-   order](https://www.aclutx.org/en/press-releases/federal-court-grants-temporary-restraining-order-blocking-texas-drag-ban),
-   meaning drag remains legal in Texas.
+   and is currently (at least on Sep. 26, 2023) [ruled
+   unconstitutional](https://storage.courtlistener.com/recap/gov.uscourts.txsd.1928300/gov.uscourts.txsd.1928300.94.0.pdf).
+   Thus, drag remains legal in Texas.
 
 ## Air Travel
 
@@ -104,7 +104,7 @@ at birth and/or chromosomes.
 ## Relevant Laws
 
  * [2023 HB2127 - Ban on Local Non-Discrimination Law](https://legiscan.com/TX/text/HB2127/id/2814366)
- * [2023 SB12 - Vague Sexually Oriented Performance Ban](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB12)
+ * [2023 SB12 - Vague Sexually Oriented Performance Ban (ruled unconstitutional)](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB12)
  * [2023 SB14 - Trans Medical Ban](https://legiscan.com/TX/text/SB14/id/2811355)
 
 ## General Safety
