@@ -35,7 +35,7 @@ care.
    performances" where a child might be able to view it and could have been
    used against drag performers. This law was being [challenged in
    court](https://www.aclutx.org/en/cases/woodlands-pride-inc-et-al-v-angela-colmenero-et-al)
-   and is currently (at least on Sep. 26, 2023) [ruled
+   and is [ruled
    unconstitutional](https://storage.courtlistener.com/recap/gov.uscourts.txsd.1928300/gov.uscourts.txsd.1928300.94.0.pdf).
    Thus, drag remains legal in Texas.
 
@@ -72,9 +72,8 @@ at birth and/or chromosomes.
    on August 25, 2023, the state immediately appealed this decision to the
    state supreme court, which [blocks the
    injunction](https://www.texastribune.org/2023/08/25/texas-transgender-kids-health-care-lawsuit/).
-   Thus, as of August 25, 2023, it is expected the law will go into effect,
-   which means that trans youth will be unable to access this medical
-   care.
+   Thus, this law is in effect (at least on Sept. 26, 2023), which means
+   that trans youth are unable to access this medical care.
 
 ## Child Custody / Abuse
 
