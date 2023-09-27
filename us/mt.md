@@ -4,8 +4,8 @@ Montana has several negative laws towards trans people, such as a law
 defining male and female in a trans-exclusionary way for nearly all
 state purposes.
 
-Montana does ban trans care for children which has an unknown impact on
-child custody.
+Montana does not ban trans care for children (due to a court judgment
+that invalidated a healthcare ban).
 
 ## Non-discrimination Law
 
@@ -62,10 +62,11 @@ They have previously violated court orders on birth certificate changes.
 
 ## Medical Care
 
- * Trans medical care is legal for adults
- * Trans medical care (other than therapy) is not legal for people under 18.
-   However, parents are not criminalized (the law applies to
-   medical providers)
+ * Trans medical care is legal for all ages.
+ * While a law was passed to ban trans healthcare for youth, that law
+   was [ruled
+   unconstitutional](https://www.erininthemorning.com/p/landmark-ruling-montana-judge-blocks)
+   under the state constitution and is thus unenforceable.
  * Medical providers can deny non-emergency care on the basis of their
    religious beliefs or conscious.
  * The youth trans healthcare ban is being
@@ -73,8 +74,7 @@ They have previously violated court orders on birth certificate changes.
 
 ## Child Custody / Abuse
 
- * Transition care is not specifically defined as child abuse, however
-   puberty blockers, hormones, and surgery are banned.
+ * Transition care is not specifically defined as child abuse.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
  
@@ -85,7 +85,7 @@ They have previously violated court orders on birth certificate changes.
 ## Relevant Laws
 
  * [2023 HB303 - Health Care Conscious Refusal Law](https://legiscan.com/MT/text/HB303/id/2785644)
- * [2023 SB99 - Youth Trans Medical Care Ban](https://legiscan.com/MT/text/SB99/id/2786141)
+ * [2023 SB99 - Youth Trans Medical Care Ban - DECLARED UNCONSTITUTIONAL](https://legiscan.com/MT/text/SB99/id/2786141)
  * [2023 HB359 - Drag Storytime Ban (temporarily blocked by courts from being enforced)](https://legiscan.com/MT/text/HB359/id/2804104)
  * [2023 SB458 - Trans-exclusionary Definition of Sex](https://legiscan.com/MT/text/SB458/id/2796910)
  * [2023 SB518 - Mandatory Outing by Schools of Trans Youth](https://legiscan.com/MT/text/SB518/id/2800789)
