@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-28 \\[US Canada](us/ca.md)\] Governor vetoes bill that would
+    consider gender identity in custody disputes.
  *  2023-09-27 \\[US Montana](us/mt.md)\] Montana youth healthcare ban
     declared unconstitutional.
  *  2023-09-26 \[[US Texas](us/tx.md)\] Anti-drag law declared

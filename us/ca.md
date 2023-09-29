@@ -68,9 +68,6 @@ still in-complete in California.
    medical care in California
  * California will not extradite people for violating another state's laws
    against medical transition
- * A proposed bill, AB957, would consider parental views of a child's
-   gender identity in custody decisions, favoring parents who affirm a
-   child's identity.
 
 While California will not cooperate with other jurisdictions in many
 cases, this doesn't cover all possibilities and it may be possible for
@@ -84,7 +81,7 @@ etc).
 
 ## Relevant Laws
 
- * [2023 AB957 - Custody and Gender Identity (NOT passed into law yet)](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202320240AB957)
+ * [2023 AB957 - Custody and Gender Identity (VETOED - NOT passed into law yet)](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202320240AB957)
 
 ## General Safety
 
