@@ -25,6 +25,8 @@ trans youth medical care.
  * Wyoming does not have a drag/cross-dressing law.
  * Gillette, Wyoming's library cancelled a children's event that was to be
    performed by a transgender woman.
+ * LGBT events at the University of Wyoming in 2023 attract transphobic
+   extremists seeking to stop the events.
 
 ## Air Travel
 
@@ -73,6 +75,12 @@ residents tend to side uncritically with more extremist Republican
 positions. In particular, some Gillette residents have shown willingness
 to aggressively express hatred towards trans people. Jackson and Laramie
 tend to be more progressive (by Wyoming standards).
+
+While Laramie is considered progressive by Wyoming standards, it has
+also attracted both in-state and out-of-state transphobic extremists
+when University of Wyoming student groups show support for transgender
+people. Transphobic speakers are invited by at least one student
+organization to speak against transgender people on campus.
 
 A Colorado athlete competing in an amateur (recreational) tennis competition
 [decided to not

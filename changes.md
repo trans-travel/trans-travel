@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-29 \\[US Wyoming](us/wy.md)\] Transphobic extremists are
+    operating around events at the University of Wyoming.
  *  2023-09-28 \\[US Canada](us/ca.md)\] Governor vetoes bill that would
     consider gender identity in custody disputes.
  *  2023-09-27 \\[US Montana](us/mt.md)\] Montana youth healthcare ban
