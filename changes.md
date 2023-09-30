@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-09-30 \\[US Florida](us/fl.md)\] Anti-trans bathroom law is
+    being challenged in court.
  *  2023-09-29 \\[US Wyoming](us/wy.md)\] Transphobic extremists are
     operating around events at the University of Wyoming.
  *  2023-09-28 \\[US Canada](us/ca.md)\] Governor vetoes bill that would

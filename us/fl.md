@@ -67,6 +67,9 @@ procedures," similar to how the courts have jurisdiction over abuse.
  * Visitors to schools, such as parents and family members, will be
    covered by the educational laws and be required to be misgendered by
    school staff and forced to use improper bathrooms.
+ * The bathroom law is [being challenged in
+   court](https://www.sun-sentinel.com/2023/09/29/transgender-nonbinary-group-sues-florida-in-federal-court-over-new-bathroom-restrictions/)
+   as of September 30, 2023.
 
 ## Drag / Performance / Cross-dressing Laws
 
