@@ -120,7 +120,8 @@ Front](https://www.splcenter.org/fighting-hate/extremist-files/group/patriot-fro
 Targeting tends to focus on small-scale events, such as small town pride
 events and drag queen storytimes, while the larger events are largely
 free of intimidation. Most recently, this targeting occurred at Douglas
-County Pride on August 26, 2023.
+County Pride on August 26, 2023. Drag storytimes have also received bomb
+threats, such as at the Lafayette Public Library on Sept. 30, 2023.
 
 ## Resources
 

@@ -1,10 +1,8 @@
 # Change Log for Trans Travel Guide
 
-<<<<<<< HEAD
-=======
+ *  2023-10-01 \\[US Colorado](us/co.md)\] Drag storytime bomb threat
  *  2023-10-01 \\[US Nebraska](us/ne.md)\] Added details about the youth
     healthcare ban.
->>>>>>> dbede91 (US FL - Bathroom law is being challenged)
  *  2023-09-30 \\[US Florida](us/fl.md)\] Anti-trans bathroom law is
     being challenged in court.
  *  2023-09-29 \\[US Wyoming](us/wy.md)\] Transphobic extremists are
