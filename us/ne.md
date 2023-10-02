@@ -77,6 +77,8 @@ Intersex people have some limited recognition.
    using proper pronouns for a trans youth would be violating the law.
    40 contact hours, with no more than 2 hours per week, is required for
    access to puberty blockers or hormones.
+ * HRT pickup from pharmacies is highly regulated for youth and is
+   required to "out" the trans youth (including 18-year-olds).
  * Surgical procedures are banned for youth, including 18-year-olds.
  * The ACLU of Nebraska is challenging the youth healthcare ban.
 
