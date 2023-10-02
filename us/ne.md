@@ -63,10 +63,21 @@ Intersex people have some limited recognition.
 ## Medical Care
 
  * Trans medical care is legal for adults.
- * Trans medical care (other than therapy) will not legal for people
-   under 19 after October 1, 2023. (Note that this ban will include
+ * Trans medical care is [restrictively regulated](https://dhhs.ne.gov/Documents/181-NAC-8.pdf)
+   for people under 19 (Note that this includes
    18-year-olds).  However, parents would not be criminalized (the
    bill would apply to medical providers)
+ * The current executive order for bathroom access conflicts with parts
+   of the youth healthcare regulations, in that it may be impossible for
+   a person to live in their gender for 6 months (a requirement to
+   receive hormone blockers and HRT under the regulations).
+ * Therapy required for youth to obtain puberty blockers or HRT is required
+   to be "neutral", I.E. it must not be affirming
+   (or conversion therapy). This would tend to imply that a provider
+   using proper pronouns for a trans youth would be violating the law.
+   40 contact hours, with no more than 2 hours per week, is required for
+   access to puberty blockers or hormones.
+ * Surgical procedures are banned for youth, including 18-year-olds.
  * The ACLU of Nebraska is challenging the youth healthcare ban.
 
 ## Child Custody / Abuse
@@ -82,6 +93,7 @@ Intersex people have some limited recognition.
 ## Relevant Laws
 
  * [2023 LB574 - Trans Youth Medical Care Ban](https://legiscan.com/NE/text/LB574/2023)
+ * [Regulations on trans youth health care](https://dhhs.ne.gov/Documents/181-NAC-8.pdf)
 
 ## General Safety
 
