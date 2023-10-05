@@ -2,6 +2,7 @@
 * [Contributors](contributors.md)
 * Jurisdictions
   * Canada
+    - [Canada - British Columbia](ca/bc.md)
     - [Canada - Ontario](ca/on.md)
     - [Canada - Quebec](ca/qc.md)
   * [Mexico](mx.md)

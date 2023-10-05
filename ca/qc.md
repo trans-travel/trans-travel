@@ -31,7 +31,7 @@ Some security screenings are gendered, such as some body scanners, which
 may result in a pat-down of trans people that have bodies that don't
 match expectations for the body the security staff assumes they have. It
 is a traveler's right to have pat downs conducted by the gender of the
-passenger's choice, and use different genders screeners for top and
+passenger's choice, and use different gender screeners for top and
 bottom half of the body, should it be necessary.
 
 ## Jails / Prisons

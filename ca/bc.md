@@ -1,13 +1,13 @@
-# Canada - Ontario
+# Canada - British Columbia
 
-Ontario recognizes the gender of binary trans people. I.E. trans women
-are considered women, trans men are men, and non-binary people have some
-recognition. The non-discrimination/anti-harassment laws are positive and
-there is non-discrimination protection for trans people.
+British Columbia recognizes the gender of binary trans people. I.E. trans women
+are considered women, trans men are men, and non-binary people are
+recognized for some purposes. The non-discrimination/anti-harassment laws
+are positive and there is non-discrimination protection for trans people.
 
 ## Non-discrimination Law
 
- * Trans people are specifically named in Ontario non-discrimination laws.
+ * Trans people are specifically named in British Columbia non-discrimination laws.
 
 ## Public Accommodations
 
@@ -17,10 +17,10 @@ there is non-discrimination protection for trans people.
 
 ## Drag / Performance / Cross-dressing Laws
 
- * Drag performance and cross-dressing is legal in Ontario.
- * [Anti-trans/anti-gay protests frequently
-   occur](https://www.cbc.ca/news/canada/london/supporters-outnumber-protesters-at-drag-queen-storytime-in-woodstock-ont-1.6781291)
-   at drag storytime events in Ontario.
+ * Drag performance and cross-dressing is legal in British Columbia.
+ * Anti-trans/anti-gay extremists attempt to disrupt LGBT events such as
+   [drag queen storytime
+   events](https://globalnews.ca/news/9411397/drag-queen-story-time-protest-coquitlam-bc/).
 
 ## Air Travel
 
@@ -36,7 +36,7 @@ bottom half of the body, should it be necessary.
 
 ## Jails / Prisons
 
- * Trans prisoners can be housed in Ontario prisons on the basis of
+ * Trans prisoners can be housed in British Columbia prisons on the basis of
    gender identity rather than sex assigned at birth.
 
 ## Legal Definition of Sex
@@ -48,10 +48,6 @@ to update their documents.
 ## Medical Care
 
  * Trans medical care is legal for all ages.
- * Medical care may be somewhat more difficult for travelers to access
-   than medical care in some USA states (but likely easier than other
-   USA states), and may move slower than some providers elsewhere in the
-   world may.
 
 ## Child Custody / Abuse
 
@@ -63,7 +59,8 @@ to update their documents.
 
 ## Relevant Laws
 
- * [Ontario Human Rights Code](https://www.ohrc.on.ca/en/ontario-human-rights-code)
+ * [British Columbia Human Rights
+   Code](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96210_01)
 
 ## General Safety
 
@@ -73,17 +70,11 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to sometimes be misgendered
 by officials and public institutions.
 
-Active, organized anti-trans activity occurs in Ontario, although this
-is less supported than in much of the USA. Much of this anti-trans
-activity occurs as "protest" towards Pride events that include youth.
-
-One local contributor noted that the Kitchener/Waterloo/Cambridge area, being
-largely a university town, is a comparatively safe space, though there
-will always be pockets of what I'll politely call radicalized members.
-Of late there have been smaller hate groups mobilizing to attempt to get
-their own onto school boards and municipal legislation for the obvious
-reasons, but thus far (updated on Sept. 17, 2023) to no avail.
+Active, organized anti-trans activity occurs in British Columbia, although this
+is less supported by residents than this activity would be in much of the USA.
 
 ## Resources
 
  * [Transgender Airport Screening](https://www.catsa-acsta.gc.ca/en/transgender-passengers)
+ * [BC Human Rights Tribunal](http://www.bchrt.bc.ca/)
+ * [Trans Rights BC](https://www.transrightsbc.ca/)

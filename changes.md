@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-10-04 \\[CA British Columbia](ca/bc.md)\] Added page for BC.
  *  2023-10-04 \\[US Wisconsin](us/wi.md)\] Trans youth medical ban is
     being debated in legislature.
  *  2023-10-04 \\[US Nebraska](us/ne.md)\] Some pharmacies refusing to
