@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-10-04 \\[US Wisconsin](us/wi.md)\] Trans youth medical ban is
+    being debated in legislature.
  *  2023-10-04 \\[US Nebraska](us/ne.md)\] Some pharmacies refusing to
     dispense medication to trans kids despite exceptions in ban.
  *  2023-10-01 \\[US Colorado](us/co.md)\] Drag storytime bomb threat
