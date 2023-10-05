@@ -10,9 +10,10 @@ considered their sex assigned at birth. This likely will apply to bathroom
 and facility access of facilities under state regulation (such as airports,
 rest areas, many parks) and can place trans people at significant risk.
 
-Starting in October 1, 2023, Nebraska will ban trans youth medical care.
-It will have an unknown impact on child custody, although it should be
-noted that the law applies to medical providers and not parents.
+SNebraska will bans trans youth medical care with very narrow and
+limited exceptions for continuing care.  It has an unknown impact on child
+custody, although it should be noted that the law applies to medical
+providers and not parents.
 
 ## Non-discrimination Law
 
@@ -81,6 +82,10 @@ Intersex people have some limited recognition.
    required to "out" the trans youth (including 18-year-olds).
  * Surgical procedures are banned for youth, including 18-year-olds.
  * The ACLU of Nebraska is challenging the youth healthcare ban.
+ * Despite the law allowing youth previously receiving healthcare to
+   continue to receive it, [some pharmacies are refusing to
+   dispense](https://www.expresshealthcaremgmt.com/news2/nebraska-lawmaker-says-some-report-pharmacists-are-refusing-to-fill-gender-confirming-prescriptions/126721/)
+   medication to transgender youth.
 
 ## Child Custody / Abuse
 
