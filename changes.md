@@ -1,20 +1,20 @@
 # Change Log for Trans Travel Guide
 
- *  2023-10-04 \[CA British Columbia](ca/bc.md)\] Added page for BC.
- *  2023-10-04 \[US Wisconsin](us/wi.md)\] Trans youth medical ban is
-    being debated in legislature.
- *  2023-10-04 \[US Nebraska](us/ne.md)\] Some pharmacies refusing to
+ *  2023-10-04 \[[CA British Columbia](ca/bc.md)\] Added page for BC.
+ *  2023-10-04 \[[US Wisconsin](us/wi.md)\] Trans youth medical ban is
+    being debated[ in legislature.
+ *  2023-10-04 \[[US Nebraska](us/ne.md)\] Some pharmacies refusing to
     dispense medication to trans kids despite exceptions in ban.
- *  2023-10-01 \[US Colorado](us/co.md)\] Drag storytime bomb threat
- *  2023-10-01 \[US Nebraska](us/ne.md)\] Added details about the youth
+ *  2023-10-01 \[[US Colorado](us/co.md)\] Drag storytime bomb threat
+ *  2023-10-01 \[[US Nebraska](us/ne.md)\] Added details about the youth
     healthcare ban.
- *  2023-09-30 \[US Florida](us/fl.md)\] Anti-trans bathroom law is
+ *  2023-09-30 \[[US Florida](us/fl.md)\] Anti-trans bathroom law is
     being challenged in court.
- *  2023-09-29 \[US Wyoming](us/wy.md)\] Transphobic extremists are
+ *  2023-09-29 \[[US Wyoming](us/wy.md)\] Transphobic extremists are
     operating around events at the University of Wyoming.
- *  2023-09-28 \[US Canada](us/ca.md)\] Governor vetoes bill that would
+ *  2023-09-28 \[[US Canada](us/ca.md)\] Governor vetoes bill that would
     consider gender identity in custody disputes.
- *  2023-09-27 \[US Montana](us/mt.md)\] Montana youth healthcare ban
+ *  2023-09-27 \[[US Montana](us/mt.md)\] Montana youth healthcare ban
     declared unconstitutional.
  *  2023-09-26 \[[US Texas](us/tx.md)\] Anti-drag law declared
     unconstitutional.
