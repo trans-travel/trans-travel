@@ -146,7 +146,11 @@ symbols that have nothing to do with the LGBT community (such as the
 neurodiversity pride symbol, which is a rainbow-colored infinity symbol,
 but is not about gender or sexuality), which [one county
 banned](https://news.yahoo.com/kansas-town-axed-librarians-confusing-162943798.html)
-at a library (the Sterling library).
+at a library (the Sterling library).  Another library, Andover Library,
+[received
+threats](https://www.ksn.com/news/local/andover-public-library-goes-dark-on-social-media-after-banned-book-display-leads-to-threats/)
+after posting information about a banned books week display on their
+social media (the display included _Gender Queer_).
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,

@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-10-06 \[[US Kansas](us/ks.md)\] Include Andover Library
+    threats.
  *  2023-10-05 \[[US Indiana](us/in.md)\] Indiana gender change
     information was incorrect, but is now fixed.
  *  2023-10-04 \[[CA British Columbia](ca/bc.md)\] Added page for BC.
