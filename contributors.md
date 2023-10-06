@@ -1,6 +1,7 @@
 # Contributors
 
  * Jen C.
+ * Briarlynn Daisy
  * Emily (nepidelphia)
  * Yanick Champoux
  * Joelle Maslak
