@@ -7,10 +7,9 @@ Oklahoma's executive branch considers sex and gender to be synonyms of
 sex assigned at birth. This applies to government facilities and
 processes, such as restrooms managed by the state government.
 
-Under a law that is currently (June 9, 2023) stayed as of May 18, 2023 (so
-it is not being enforced by the state), Oklahoma does criminalize trans
-care for children, but does not penalize parents (the law applies to
-medical providers).  However, it is unknown how this might have an impact
+Oklahoma does criminalize trans care for children, but does not penalize
+parents (the law applies to medical providers).  However, it is unknown
+how this might have an impact
 on child custody.
 
 Note that some indigenous nations within the boundaries of Oklahoma may
@@ -85,10 +84,8 @@ at birth and/or chromosomes.
 
 ## Child Custody / Abuse
 
- * Under a law that is currently stayed as of May 18, 2023, (so it is not
-   being enforced in the state), trans medical care is illegal for youth
-   in Oklahoma, although parents are not penalized by the law (it applies
-   to medical providers).
+ * Trans medical care is illegal for youth in Oklahoma, although parents
+   are not penalized by the law (it applies to medical providers).
  * It is unknown if transition might be used by the state to justify
    custody removal.
  * There is no sanctuary law preventing cooperation with other
@@ -114,7 +111,7 @@ at birth and/or chromosomes.
 ## Relevant Laws
 
  * [2023 EO 2023-20 - Executive Order Definition of Sex/Gender](https://www.iwv.org/wp-content/uploads/2023/08/OK-gov-stitt-executive-order-womens-bill-of-rights.pdf)
- * [2023 SB613 - Trans Youth Healthcare Ban (Temporarily not being enforced as of May 18, 2023)](https://legiscan.com/OK/text/SB613/id/2795559)
+ * [2023 SB613 - Trans Youth Healthcare Ban](https://legiscan.com/OK/text/SB613/id/2795559)
  * [2023 SB615 - Trans School Bathroom Ban](https://legiscan.com/OK/text/SB615/id/2586890)
  * [2022 SB1100 - Birth Certificate Change Ban](https://legiscan.com/OK/text/SB1100/id/2573918)
  * [Executive Order 2021-24 Banning Birth Certificate Changes](https://www.sos.ok.gov/documents/executive/2014.pdf)
@@ -140,5 +137,6 @@ officials and public institutions.
 
  * [Trans Woman Allowed to Sue Oklahoma Prisons](https://apnews.com/article/lawsuits-oklahoma-5f46d0c5c485274b0c0eb248689a9962)
  * [ACLU Page on Lawsuit Against SB613](https://www.acluok.org/en/press-releases/families-doctors-challenge-oklahomas-ban-health-care-trans-youth)
- * [ACLU Page on Temporary Stay of SB613](https://www.acluok.org/en/press-releases/oklahoma-attorney-general-signs-non-enforcement-agreement-health-care-ban-trans-youth)
+ * [Order Denying Preliminary Injunction against
+   SB613](https://lambdalegal.org/wp-content/uploads/2023/10/Poe-v.-Drummond-dkt-138-opinion-and-order.pdf)
 
