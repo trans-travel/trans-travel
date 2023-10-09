@@ -40,7 +40,7 @@ Non-binary people are not recognized by Georgia.
 
  * Trans medical care is legal for adults
  * Medical care for transgender children is restricted. While puberty
-   blockers will be legal, hormone therapy and surgery will be illegal.
+   blockers are legal, hormone therapy and surgery are illegal.
  * The youth healthcare ban is being [challenged in
    court](https://www.acluga.org/en/press-releases/press-release-georgia-parents-seek-emergency-court-order-blocking-anti-transgender).
 
@@ -85,7 +85,7 @@ trans people who report these attacks can expect to be misgendered by
 officials and public institutions.
 
 However, there are visible LGBT communities in some cities (Atlanta,
-Savannah) which may have some degree of safety.  However this is
+Savannah) which may have some degree of safety.  This is
 in-spite of the law, not because of the law. Atlanta's leaders, in particular,
 has given [public support to trans
 people](https://www.fox5atlanta.com/news/atlanta-mayor-dickens-transgender-community-funding)
