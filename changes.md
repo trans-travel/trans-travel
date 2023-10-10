@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-10-09 \[[US New York](us/ny.md)\] Add store clerk attack of cis
+    woman mistaken for being trans.
  *  2023-10-06 \[[US Oklahoma](us/ok.md)\] Judge refuses to stay SB613,
     thus trans healthcare for minors is illegal.
  *  2023-10-06 \[[US Kansas](us/ks.md)\] Include Andover Library
