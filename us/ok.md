@@ -9,8 +9,7 @@ processes, such as restrooms managed by the state government.
 
 Oklahoma does criminalize trans care for children, but does not penalize
 parents (the law applies to medical providers).  However, it is unknown
-how this might have an impact
-on child custody.
+how this might have an impact on child custody.
 
 Note that some indigenous nations within the boundaries of Oklahoma may
 ban same-sex marriage recognition for people receiving services from
