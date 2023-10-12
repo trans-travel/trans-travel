@@ -60,6 +60,9 @@ Non-binary people are not recognized.
    for people under care prior to August 1, 2023, but this exception
    allows civil action still, so care is likely to be discontinued for all
    youth.
+ * The trans youth medical care ban is being [challenged in
+   court](https://lambdalegal.org/newsroom/voe_nc_20231011_transgender-north-carolinians-medical-providers-sue-to-block-medical-care-ban/)
+   as of October, 2023.
 
 ## Child Custody / Abuse
 
