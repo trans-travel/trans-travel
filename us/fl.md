@@ -38,8 +38,8 @@ procedures," similar to how the courts have jurisdiction over abuse.
  * Some businesses and LGBT organizations have canceled events that
    might involve drag or trans people participating, due to the
    possibility of the "protection of children" law being used against
-   these organizations. However, as of June 24, 2023, a court is
-   preventing the state from enforcing the drag ban.
+   these organizations. However (information current on October 11,
+   2023), a court is preventing the state from enforcing the drag ban.
 
 ## Public Accommodations
 
