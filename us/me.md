@@ -72,6 +72,11 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to be misgendered by
 officials and public institutions.
 
+Oakland, ME, has been accused by the former city manager of being
+[transphobic towards
+her](https://www.bangordailynews.com/2023/10/10/news/central-maine/oakland-accepts-resignation-transgender-town-manager-bias/),
+leading to her resignation as city manager.
+
 ## Resources
 
  * [Maine Human Rights Commission](https://www.maine.gov/mhrc/)
