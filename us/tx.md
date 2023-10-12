@@ -37,7 +37,13 @@ care.
    court](https://www.aclutx.org/en/cases/woodlands-pride-inc-et-al-v-angela-colmenero-et-al)
    and is [ruled
    unconstitutional](https://storage.courtlistener.com/recap/gov.uscourts.txsd.1928300/gov.uscourts.txsd.1928300.94.0.pdf).
-   Thus, drag remains legal in Texas.
+   Thus, drag remains legal in Texas.  However, a state university's
+   drag ban was [allowed to
+   stand by a local judge](https://storage.courtlistener.com/recap/gov.uscourts.txnd.374677/gov.uscourts.txnd.374677.59.0.pdf?utm_source=substack&utm_medium=email)
+   as the judge saw no right to perform drag. So while people cannot
+   prosecute drag performers or venues, at least some organizations will be
+   able to declare that the first amendment does not include drag and thus 
+   ban drag in their facilities.
 
 ## Air Travel
 

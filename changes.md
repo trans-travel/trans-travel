@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-10-11 \[[US Texas](us/tx)\] Note drag bans are allowed but
+    prosecutions not allowed.
  *  2023-10-11 \[[US North Carolina](us/nc.md)\] Trans youth healthcare
     ban is being challegned.
  *  2023-10-11 \[[US Washington](us/wa.md)\] Settlement to provide
