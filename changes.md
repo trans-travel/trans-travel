@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-10-11 \[[US Washington](us/wa.md)\] Settlement to provide
+    better treatment of trans prisoners.
  *  2023-10-11 \[[US Maine](us/me.md)\] Noted former Oakland city
     manager has accused the city of transphobia leading to her
     resignation.

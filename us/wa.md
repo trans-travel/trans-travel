@@ -43,6 +43,12 @@ See the [USA TSA](notes/tsa.md) document.
    Department of Corrections. According to policy, they must take into
    consider safety on a case-by-case basis, and as such, there is no
    guarantee a trans inmate will be housed according to their gender.
+ * The state settled in October, 2023 with Disability Rights Washington.
+   The settlement [requires better treatment of trans
+   prisoners](https://www.disabilityrightswa.org/drw-reaches-agreement-with-doc-to-improve-care-for-transgender-people-with-disabilities/)
+   by the Dept. of Corrections, including medical care, and access to
+   gender-affirming clothing. This impacts state facilities (but not
+   local or federal facilities).
 
 ## Legal Definition of Sex
 
