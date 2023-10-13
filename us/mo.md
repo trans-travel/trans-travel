@@ -69,6 +69,10 @@ Non-binary people are not legally recognized.
  * There is a [lawsuit against the
    state](https://www.aclu-mo.org/en/news/families-and-medical-providers-sue-missouri-block-transgender-youth-medical-care-ban)
    over SB49's prohibition of medical care for trans youth.
+ * At least one pharmacy appears to have a pattern of [refusing to
+   inclusively
+   dispense](https://www.kansascity.com/news/local/article280392949.html)
+   to trans patients.
 
 ## Child Custody / Abuse
 

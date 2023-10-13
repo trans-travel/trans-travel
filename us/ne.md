@@ -86,6 +86,9 @@ Intersex people have some limited recognition.
    continue to receive it, [some pharmacies are refusing to
    dispense](https://www.expresshealthcaremgmt.com/news2/nebraska-lawmaker-says-some-report-pharmacists-are-refusing-to-fill-gender-confirming-prescriptions/126721/)
    medication to transgender youth.
+ * Providers have indicated that the new rules for trans youth
+   healthcare [are unclear and may be impossible to
+   follow](https://www.aol.com/mess-nebraska-gender-affirming-care-100000314.html)
 
 ## Child Custody / Abuse
 

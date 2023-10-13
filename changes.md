@@ -1,6 +1,10 @@
 # Change Log for Trans Travel Guide
 
- *  2023-10-11 \[[US Texas](us/tx)\] Note drag bans are allowed but
+ *  2023-10-12 \[[US Missouri](us/mo.md)\] Added info about a possibly
+    transphobic pharmacy.
+ *  2023-10-12 \[[US Nebraska](us/ne.md)\] Added link to provider
+    stories about unclear trans youth healthcare rules.
+ *  2023-10-11 \[[US Texas](us/tx.md)\] Note drag bans are allowed but
     prosecutions not allowed.
  *  2023-10-11 \[[US North Carolina](us/nc.md)\] Trans youth healthcare
     ban is being challegned.
