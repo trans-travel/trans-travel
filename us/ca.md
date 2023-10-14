@@ -36,6 +36,9 @@ See the [USA TSA](notes/tsa.md) document.
    housing decisions. However, in practice this consideration can matter
    very little and correctional officers will value their own biases
    more than the trans person's gender identity.
+ * Trans women in women's state prisons [report abuse, rape, and risk of
+   violence](https://www.kqed.org/news/11964027/california-prisons-fail-to-uphold-transgender-rights-despite-state-law),
+   despite the law.
  * San Diego is known to inappropriately house trans prisoners. For instance,
    in 2020, a trans woman placed in male jail in San Diego was [beaten badly
    by male inmates](https://www.10news.com/news/local-news/san-diego-news/transgender-woman-recalls-beating-in-san-diego-county-jail).

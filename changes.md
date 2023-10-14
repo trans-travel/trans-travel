@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-10-13 \[[US California](us/ca.md)\] Link to KQED article on
+    treatment of trans women in women's prisons.
  *  2023-10-13 \[[US Nevada](us/nv.md)\] Forged Letter sent to healthcare
     provider in attempt to disrupt trans healthcare.
  *  2023-10-12 \[[US Missouri](us/mo.md)\] Added info about a possibly
