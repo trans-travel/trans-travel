@@ -48,6 +48,10 @@ state IDs and birth certificates.
 ## Medical Care
 
  * Trans medical care is legal for adults and children.
+ * A provider associated with UNLV has received a forged letter
+   attempting to [disrupt healthcare provided by the
+   provider](https://www.newsnationnow.com/us-news/west/fake-anti-trans-letter-provokes-investigation-at-college-campus/),
+   claiming to represent the views of the UNLV system..
 
 ## Child Custody / Abuse
 
