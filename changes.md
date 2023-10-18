@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-10-17 \[[US Pennsylvania](us/pa)\] Philadelphia is a sanctuary
+    city now.
  *  2023-10-13 \[[US California](us/ca.md)\] Link to KQED article on
     treatment of trans women in women's prisons.
  *  2023-10-13 \[[US Nevada](us/nv.md)\] Forged Letter sent to healthcare

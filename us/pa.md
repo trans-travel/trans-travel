@@ -42,6 +42,11 @@ See the [USA TSA](notes/tsa.md) document.
    assigned at birth, although the routine is to house them according to
    sex assigned at birth.
  * City / County jails are not covered by the state policy.
+ * Philadelphia's [Sanctuary
+   order](https://www.phila.gov/media/20231017142855/Executive-Order-2023-04.pdf)
+   specifically mentions city jails and establishes a requirement for
+   the city to provider gender-related healthcare for those in city
+   custody.
 
 ## Legal Definition of Sex
 
@@ -52,10 +57,12 @@ state IDs, but not birth certificates.
 
  * Trans medical care is legal for all ages.
  * Pennsylvania does not have a "sanctuary" law.
- * Pittsburgh is a [sanctuary
-   city](https://www.wesa.fm/politics-government/2023-09-12/pittsburgh-protect-gender-affirming-care)
-   for trans healthcare, which somewhat limits cooperation between
-   the city in prosecution of those seeking trans healthcare.
+ * [Pittsburgh](https://www.wesa.fm/politics-government/2023-09-12/pittsburgh-protect-gender-affirming-care)
+   and
+   [Philadelphia](https://www.phila.gov/media/20231017142855/Executive-Order-2023-04.pdf)
+   are sanctuary cities for for trans healthcare, which somewhat
+   limits cooperation between the city in prosecution of those
+   seeking trans healthcare.
 
 ## Child Custody / Abuse
 
@@ -77,6 +84,8 @@ state IDs, but not birth certificates.
    1)](https://pittsburgh.legistar.com/LegislationDetail.aspx?ID=6326268&GUID=1BC5F8DB-C05C-42C4-9203-AAC7AB08FCF5&Options=&Search=&FullText=1)
  * [Pittsburgh 2023-1842 - Sanctuary City (Part
    2)](https://pittsburgh.legistar.com/LegislationDetail.aspx?ID=6326269&GUID=D958D801-6D14-4001-9C61-4ED019A8C380&Options=&Search=&FullText=1)
+ * [Philadelphia Executive Order 4-23 (Sanctuary
+   Order)](https://www.phila.gov/media/20231017142855/Executive-Order-2023-04.pdf)
 
 ## General Safety
 
