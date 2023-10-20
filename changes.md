@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-10-19 \[[US Florida](us/fl.md)\] Trans people are now banned
+    from locker rooms at all educational institutions, including private
+    colleges and universities.
  *  2023-10-19 \[[US Colorado](us/co.md)\] Fountain Pride anti-LGBT
     protest.
  *  2023-10-17 \[[US Pennsylvania](us/pa.md)\] Philadelphia is a sanctuary

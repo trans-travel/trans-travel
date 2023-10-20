@@ -70,6 +70,10 @@ procedures," similar to how the courts have jurisdiction over abuse.
  * The bathroom law is [being challenged in
    court](https://www.sun-sentinel.com/2023/09/29/transgender-nonbinary-group-sues-florida-in-federal-court-over-new-bathroom-restrictions/)
    as of September 30, 2023.
+ * The Florida Dept. of Education has also [enacted
+   rules](https://www.fldoe.org/core/fileparse.php/20680/urlt/8-2.pdf)
+   to ban trans people from bathrooms and locker rooms at private
+   colleges and universities.
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -173,6 +177,8 @@ over sex assigned at birth.
  * [2023 H1521 - Bathroom Bill](https://legiscan.com/FL/text/H1521/id/2764723)
  * [2023 SB254 - Trans Youth Medical Ban](https://www.flsenate.gov/Session/Bill/2023/254/BillText/er/PDF)
  * [2023 SB1438 - Adult Performance Law](https://www.myfloridahouse.gov/Sections/Documents/loaddoc.aspx?FileName=_s1438er.DOCX&DocumentType=Bill&BillNumber=1438&Session=2023)
+ * [2023 Dept. of Ed Rule on Private College Bathrooms and Locker
+   Rooms](https://www.fldoe.org/core/fileparse.php/20680/urlt/8-2.pdf)
 
 ## General Safety
 
