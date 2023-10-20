@@ -78,7 +78,9 @@ by officials and public institutions.
 
 Active, organized anti-trans activity occurs in Quebec, although this
 is less supported than in much of the USA. Much of this anti-trans
-activity occurs as "protest" towards Pride events that include youth.
+activity occurs as "protest" towards Pride events that include youth. It
+also may occur in Ottawa as a protest against inclusive government
+policies.
 
 ## Resources
 
