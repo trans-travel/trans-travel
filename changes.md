@@ -2,7 +2,7 @@
 
  *  2023-10-19 \[[US Arizona](us/az.md)\] Queer professor assaulted
     on-campus at ASU.
- *  2023-10-19 \[[CA Quebec](ca/qc.md)\] Anti-trans protests may occur
+ *  2023-10-19 \[[CA Ottawa](ca/on.md)\] Anti-trans protests may occur
     in Ottawa.
  *  2023-10-19 \[[US Florida](us/fl.md)\] Trans people are now banned
     from locker rooms at all educational institutions, including private

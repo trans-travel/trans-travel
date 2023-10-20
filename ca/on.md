@@ -76,6 +76,8 @@ by officials and public institutions.
 Active, organized anti-trans activity occurs in Ontario, although this
 is less supported than in much of the USA. Much of this anti-trans
 activity occurs as "protest" towards Pride events that include youth.
+It also may occur in Ottawa as a "protest" against inclusive government
+policies.
 
 One local contributor noted that the Kitchener/Waterloo/Cambridge area, being
 largely a university town, is a comparatively safe space, though there
