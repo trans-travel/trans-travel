@@ -109,5 +109,11 @@ person](https://www.fox10phoenix.com/news/man-accused-of-tagging-phoenix-warehou
 and trans people should be aware of sentiment that may cause them to be
 seen as more prone to criminal behavior than cis people.
 
+LGBT-inclusive faculty at Arizona State University, near Phoenix, have
+been targeted by anti-LGBT hate groups both online and offline,
+including a [physical attack on
+campus](https://www.thepinknews.com/2023/10/18/video-shows-us-professor-assaulted-by-turning-point-members-over-drag-queen-story-hour-links/)
+in October, 2023.
+
 ## Resources
 

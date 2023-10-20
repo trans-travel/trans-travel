@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-10-19 \[[US Arizona](us/az.md)\] Queer professor assaulted
+    on-campus at ASU.
  *  2023-10-19 \[[CA Quebec](ca/qc.md)\] Anti-trans protests may occur
     in Ottawa.
  *  2023-10-19 \[[US Florida](us/fl.md)\] Trans people are now banned
