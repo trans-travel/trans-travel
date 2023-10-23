@@ -1,5 +1,9 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-10-22 \[[US Tennessee](us/tn.md)\] Murfreesboro has an
+    ordinance that defines homosexuality as sexual conduct that they
+    incorporated into an anti-drag ban (I.E. homosexuality in public is
+    banned).
  *  2023-10-19 \[[US Arizona](us/az.md)\] Queer professor assaulted
     on-campus at ASU.
  *  2023-10-19 \[[CA Ottawa](ca/on.md)\] Anti-trans protests may occur
