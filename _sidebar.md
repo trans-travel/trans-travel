@@ -46,6 +46,7 @@
     - [USA - Oklahoma](us/ok.md)
     - [USA - Oregon](us/or.md)
     - [USA - Pennsylvania](us/pa.md)
+    - [USA - Puerto Rico](us/pr.md)
     - [USA - Rhode Island](us/ri.md)
     - [USA - South Carolina](us/sc.md)
     - [USA - South Dakota](us/sd.md)
@@ -60,6 +61,6 @@
     - [USA - Wisconsin](us/wi.md)
     - [USA - Wyoming](us/wy.md)
 * Notes
-  * [Flying with the TSA (Transportation Security Agency)](notes/tsa.md)
   * [Airport Bathrooms](notes/airport-bathrooms.md)
+  * [Flying with the TSA (Transportation Security Agency)](notes/tsa.md)
 * [Change Log for Trans Travel Guide](changes.md)

@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-10-26 \[[US Puerto Rico](us/pr.md)\] Added Puerto Rico.
  *  2023-10-22 \[[US Tennessee](us/tn.md)\] Murfreesboro has an
     ordinance that defines homosexuality as sexual conduct that they
     incorporated into an anti-drag ban (I.E. homosexuality in public is
