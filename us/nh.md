@@ -5,6 +5,11 @@ non-discrimination laws that protect trans people.
 
 New Hampshire does not appear to place child custody at risk.
 
+However, HB619-FN, if passed, would ban surgical transition for youth
+and go beyond most other bans of care by both claiming to ban conversion
+therapy while explictly allowing a specific form of conversion therapy.
+
+
 ## Non-discrimination Law
 
  * New Hampshire non-discrimination law includes trans people specifically.
@@ -38,6 +43,10 @@ state IDs, but not birth certificates.
 ## Medical Care
 
  * Trans medical care is legal for adults and children.
+ * However, HB619-FN, as of Oct. 31, 2023, is being debated which could
+   include ban on surgical care for youth. This law would also enshrine
+   a fake conversion therapy ban, that explicitly allows "exploratory"
+   therapy, a form of conversion therapy.
 
 ## Child Custody / Abuse
 
@@ -50,6 +59,8 @@ state IDs, but not birth certificates.
  * Same-sex marriage (and thus all trans marriage) is recognized
 
 ## Relevant Laws
+
+ * [HB619-FN Trans Youth Medical Care Ban](https://gencourt.state.nh.us/bill_status/billinfo.aspx?id=71&inflect=2)
 
 ## General Safety
 
