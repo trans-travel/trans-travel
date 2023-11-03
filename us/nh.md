@@ -64,6 +64,12 @@ state IDs, but not birth certificates.
 
 ## General Safety
 
+Littleton, NH, is, as of November 3, 2023, is considering a ban on all
+public art displays because some art was created to [express inclusion
+themes](https://www.cbc.ca/news/world/new-hampshire-town-art-debate-1.7014430).
+This town has also decided to not renew a lease for a local theater
+company which performed a play that included LGBT characters.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and

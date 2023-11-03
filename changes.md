@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-11-03 \[[US New Hampshire](us/nh.md)\] Littleton, NH may take
+    anti-art actions due to the presence of inclusino themes or LGBT
+    characters.
  *  2023-11-03 \[[US Wisconsin](us/wi.md)\] Proposed bill to house trans
     prisoners according to sex assigned at birth.
  *  2023-11-02 \[[US New Hampshire](us/nh.md)\] New Hampshire is
