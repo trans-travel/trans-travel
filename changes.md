@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-11-03 \[[US Wisconsin](us/wi.md)\] Proposed bill to house trans
+    prisoners according to sex assigned at birth.
  *  2023-11-02 \[[US New Hampshire](us/nh.md)\] New Hampshire is
     considering a trans medical ban and enshrining exploratory therapy
     into law.

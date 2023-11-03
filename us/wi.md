@@ -3,8 +3,8 @@
 Wisconsin does not have negative laws towards trans people.
 
 Wisconsin is not a "sanctuary state", but also does not criminalize
-trans youth medical care.  However, a bill in the legislature would ban
-most trans youth medical care if it were to pass.
+trans youth medical care.  However, a bill pending governor veto or
+signature would ban most trans youth medical care.
 
 ## Non-discrimination Law
 
@@ -43,6 +43,9 @@ See the [USA TSA](notes/tsa.md) document.
    birth.
  * Wisconsin challenged trans medical care for inmates in court recently
    (and lost).
+ * Legislation is being debated in the legislature as of November 3, 2023
+   that would require transgender prisoners to be treated according to
+   their sex assigned at birth.
 
 ## Legal Definition of Sex
 
@@ -54,7 +57,7 @@ Non-binary people are not recognized in Wisconsin.
  * Wisconsin does not have a "sanctuary" law.
  * If [2023
    AB465](https://docs.legis.wisconsin.gov/2023/related/proposals/ab465)
-   passes, medical care for trans youth would be banned.
+   is signed, medical care for trans youth would be banned.
 
 ## Child Custody / Abuse
 
@@ -69,8 +72,11 @@ Non-binary people are not recognized in Wisconsin.
 ## Relevant Laws
    
    * [Dane County Sanctuary Law](https://www.countyofdane.com/PressDetail/11253)
-   * [2023 AB465 - Youth Healthcare Ban (not yet passed as of October 4,
+   * [2023 AB465 - Youth Healthcare Ban (not yet signed as of November 3,
       2023)](https://docs.legis.wisconsin.gov/2023/related/proposals/ab465)
+   * [2023 SB438 - Treat trans prisoners according to sex assigned at
+     birth (not yet passed as of November 3,
+     2023)](https://docs.legis.wisconsin.gov/2023/related/proposals/sb438)
 
 ## General Safety
 
