@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-11-07 \[[US North Dakota](us/nd.md)\] Trans youth medical ban
+    is being challenged.
  *  2023-11-03 \[[US New Hampshire](us/nh.md)\] Littleton, NH may take
     anti-art actions due to the presence of inclusino themes or LGBT
     characters.

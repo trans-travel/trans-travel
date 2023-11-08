@@ -78,6 +78,8 @@ North Dakota prohibits trans people changing birth certificates.
  * It is a criminal act in North Dakota to supply HRT or puberty
    blocking medication to most trans minors, which may have implications
    for people traveling with trans children on puberty blockers or HRT.
+ * The trans youth medical care ban is [being challenged in
+   court](https://apnews.com/article/north-dakota-gender-affirming-care-transgender-7d060639419ec27629003819c226ab04)
 
 ## Child Custody / Abuse
 
