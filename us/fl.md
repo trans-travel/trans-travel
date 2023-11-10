@@ -136,7 +136,7 @@ over sex assigned at birth.
  * Florida also requires [misleading "HRT consent"
    forms](https://wusfnews.wusf.usf.edu/health-news-florida/2023-07-24/trans-advocates-new-informed-consent-forms-transphobic-inaccurate)
    for adult HRT treatment
- * Final rules for adults seeking trans medical care would likely be
+ * Final rules for adults seeking trans medical care will likely be
    extremely restrictive, requiring, among other things, annual bone
    scans and four blood tests per year.
  * Medical transition for people under age 18 is illegal. However,
@@ -231,14 +231,19 @@ In addition, at least one trans person has recently been
 [wrongfully accused](https://www.floridatoday.com/story/news/education/2022/08/11/brevard-public-schools-dismiss-reports-transgender-school-assault/10297179002/)
 of sexually assaulting others in bathrooms by Florida politicians.
 
+Fernandina Beach's city council, like other cities, passed a 2023
+proclamation recognition Transgender Day of Remembrance.  However the
+mayor and some city council members claimed the proclamation was
+"political" and [refused to support
+it](https://www.fbnewsleader.com/index.php/local-newsletter/mayor-steps-away-transgender-recognition).
+
 That said, locals have indicated larger cities tend to be more inclusive
 than rural areas, and southern Florida more inclusive than northern
 Florida.  One city, Lake Worth Beach, has passed [a sanctuary
 resolution](https://cbs12.com/news/local/lake-worth-beach-sanctuary-city-lgbtq-community-floridas-first-gay-lesbian-bisexual-transgender-9-6-2023),
 although that resolution will have limited power due to state law and
 the ability and willingness of the state to remove local prosecutors who
-do not enforce discriminatory state laws. Tallahassee is considering a
-similar law, as of September 7, 2023.
+do not enforce discriminatory state laws.
 
 ## Resources
 

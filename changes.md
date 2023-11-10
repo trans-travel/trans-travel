@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-11-09 \[[US Florida](us/fl.md)\] Fernandina Beach considers
+    Transgender Day of Remembrance to be "political."
  *  2023-11-07 \[[US North Dakota](us/nd.md)\] Trans youth medical ban
     is being challenged.
  *  2023-11-03 \[[US New Hampshire](us/nh.md)\] Littleton, NH may take
