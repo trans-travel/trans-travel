@@ -134,6 +134,10 @@ The state has a law that prevents instruction on sexual orientation or
 gender identity through grade twelve in schools without explicit
 "opt-in" by parents.
 
+Knoxville's Pride Center has been targeted by a hate group which [hung a
+threatening banner on the
+building](https://www.wbir.com/article/news/crime/hate-message-found-at-knox-pride-on-trans-awareness-week/51-d624fe11-3507-4813-bbf5-892f7a2e36f9).
+
 Blount County may be particularly risky, as of August 31, 2023, as the
 local prosecutor in the county has shown [willingness to enforce the drag
 ban](https://www.lawdork.com/p/tennessee-prosecutor-threatens-pride)
