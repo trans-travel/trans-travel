@@ -47,6 +47,10 @@ See the [USA TSA](notes/tsa.md) document.
    denial of surgery, and inappropriate (wrong gender) housing.
  * An intersex prisoner alleges in a lawsuit that they contracted HIV
    due to inappropriate housing in a men's institution.
+ * A North Carolina prisoner won a case [to be housed in women's
+   prison](https://news.yahoo.com/nc-prison-officials-must-transfer-221558514.html)
+   in November, 2023.  However, the prison was committed to fighting her
+   transfer and that can be expected for other trans women too.
 
 ## Legal Definition of Sex
 

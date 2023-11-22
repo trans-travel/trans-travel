@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-11-21 \[[US North Carolina](us/nc.md)\] North Carolina loses
+    lawsuit by trans prisoner for transfer to women's prison.
  *  2023-11-13 \[[US Tennessee](us/tn.md)\] Knoxville Pride Center
     targetted by hate group.
  *  2023-11-09 \[[US Florida](us/fl.md)\] Fernandina Beach considers
