@@ -1,9 +1,13 @@
 # USA - Missouri
 
-Missouri negative laws towards trans people. However, these laws
+Missouri negative laws towards trans people. These laws
 are, while horrible for residents of Missouri, do not generally
 apply to most trans people traveling to Missouri in most
-situations.
+situations.  Pending legislation that may or may not pass in 2024,
+however, would legislate every aspect of trans life, including public
+presentation, bathroom access, and non-discrimination law.  Thus, trans
+travelers should be particularly careful making plans for travel in
+2024 or beyond.
 
 Transgender medical care for adults is legal (see notes below in medical
 care section).

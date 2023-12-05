@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-12-04 \[[US Missouri](us/mo.md)\] Around 2 dozen anti-trans
+    bills have been submitted for the next legislative session.
  *  2023-11-30 \[[US North Dakota](us/nd.md)\] Hate group activity in
     Fargo.
  *  2023-11-21 \[[US North Carolina](us/nc.md)\] North Carolina loses
