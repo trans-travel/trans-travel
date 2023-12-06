@@ -1,5 +1,9 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-12-06 \\[US Wisconsin](us/wi.md)\] Governor vetoed youth
+    trans healthcare ban, so healthcare remains legal.
+ *  2023-12-06 \\[US Misssissippi](us/ms.md)\] UMMC stopped providing
+    medical care for youth before they were required to.
  *  2023-12-06 \[[US South Carolina](us/sc.md)\] MUSC has stopped
     providing youth transition care.
  *  2023-12-06 \[[US Colorado](us/co.md)\] Added a note about why

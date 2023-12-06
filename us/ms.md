@@ -63,6 +63,10 @@ Intersex people have some limited recognition.
    under 18 is illegal.
  * Medical providers can deny some care on the basis of their religious
    beliefs.
+ * Some medical providers, such as University of Mississippi Medical
+   Center (UMMC) [cut off transgender care for youth before they were
+   required to by
+   law](https://mississippitoday.org/2023/04/26/facing-political-pressure-ummc-cut-care-to-trans-kids-before-the-legislature-banned-doing-so-emails-show/).
 
 ## Child Custody / Abuse
 
