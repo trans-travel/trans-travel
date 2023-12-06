@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-12-06 \\[US Missouri](us/mo.md)\] Bills targeting continuing
+    care (grandfathering) of trans youth have been prefiled.
  *  2023-12-06 \\[US Missouri](us/mo.md)\] Washington University is
     arguing in court that they should not have to turn over patient
     records to the Attorney General.

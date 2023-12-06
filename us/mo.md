@@ -70,6 +70,10 @@ Non-binary people are not legally recognized.
    who are "grandfathered" in the law. This is due to legal liability
    under the new "grandfather" clause, which uses a tactic similar to
    anti-abortion tactics of private action.
+ * Continuation of trans youth care has been [targeted by several bills prefiled in
+   the 2024
+   session](https://documents.house.mo.gov/billtracking/bills241/hlrbillspdf/3009H.01I.pdf).
+   It is unknown if these bills will pass.
  * There is a [lawsuit against the
    state](https://www.aclu-mo.org/en/news/families-and-medical-providers-sue-missouri-block-transgender-youth-medical-care-ban)
    over SB49's prohibition of medical care for trans youth.
