@@ -64,6 +64,12 @@ still in-complete in Colorado.
  * Some providers (notably Children's Hospital) have cut back on
    transition care, including [cutting back on care for people over
    age 18](https://www.denverpost.com/2023/07/18/childrens-hospital-colorado-transgender-surgery/?share=se0slhdorisewirvhdgy).
+   While the stated reason is to ensure they have capacity for children
+   under 18, the obvious reason is so they can deny that surgeries are
+   being done at Children's Hospital (since they do not do surgeries for
+   anyone under 18, cutting off 18+ people, despite 18+ people routinely
+   getting care at Children's for other needs, this eliminated all
+   surgeries).
 
 ## Child Custody / Abuse
 

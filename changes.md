@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-12-06 \[[US Colorado](us/co.md)\] Added a note about why
+    Children's Hospital likely cut off surgical care.
  *  2023-12-04 \[[US Missouri](us/mo.md)\] Around 2 dozen anti-trans
     bills have been submitted for the next legislative session.
  *  2023-11-30 \[[US North Dakota](us/nd.md)\] Hate group activity in
