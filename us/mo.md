@@ -77,6 +77,13 @@ Non-binary people are not legally recognized.
    inclusively
    dispense](https://www.kansascity.com/news/local/article280392949.html)
    to trans patients.
+ * The Attorney General (Republican) has requested private medical
+   information about at the Washington Univeristy Medical Clinic.  The
+   hospital, as of December 6, 2023, is [contesting that
+   request](https://missouriindependent.com/briefs/wash-u-alleges-missouri-ag-illegally-sought-patient-records-from-transgender-center/)
+   under law. It is unknown what the outcome of that legal case will be
+   and whether medical records will be turned over to political office
+   holders.
 
 ## Child Custody / Abuse
 

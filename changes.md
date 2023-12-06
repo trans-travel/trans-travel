@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-12-06 \\[US Missouri](us/mo.md)\] Washington University is
+    arguing in court that they should not have to turn over patient
+    records to the Attorney General.
  *  2023-12-06 \\[US Wisconsin](us/wi.md)\] Governor vetoed youth
     trans healthcare ban, so healthcare remains legal.
  *  2023-12-06 \\[US Misssissippi](us/ms.md)\] UMMC stopped providing
