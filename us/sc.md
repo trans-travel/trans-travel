@@ -43,6 +43,9 @@ Non-binary people are not recognized.
 ## Medical Care
 
  * Trans medical care is legal for adults and children.
+ * However some providers, particularly Medical University of South
+   Carolina (MUSC) have [cut off care for trans youth without
+   notice](https://www.propublica.org/article/musc-medical-university-south-carolina-trans-healthcare-emails).
 
 ## Child Custody / Abuse
 

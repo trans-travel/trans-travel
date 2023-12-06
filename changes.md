@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-12-06 \[[US South Carolina](us/sc.md)\] MUSC has stopped
+    providing youth transition care.
  *  2023-12-06 \[[US Colorado](us/co.md)\] Added a note about why
     Children's Hospital likely cut off surgical care.
  *  2023-12-04 \[[US Missouri](us/mo.md)\] Around 2 dozen anti-trans
