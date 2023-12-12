@@ -110,6 +110,11 @@ Non-binary people are not legally recognized.
 
 ## General Safety
 
+In April 2023, a trans person was [attacked on a city
+busy](https://www.fbi.gov/wanted/seeking-info/hate-crime-1) in St. Louis
+in what may be a random attack.  The individual who attacked this person
+is still at large as of Dec 12, 2023.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
