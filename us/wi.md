@@ -75,6 +75,12 @@ Non-binary people are not recognized in Wisconsin.
 
 ## General Safety
 
+Four Black trans women have been [killed in Milwaukee in a nine month
+period between 2022 and
+2023](https://milwaukeenns.org/2023/12/13/uptick-in-violence-has-milwaukees-trans-community-on-high-alert/).
+This appears to be a significant increase in violence towards trans
+people.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
