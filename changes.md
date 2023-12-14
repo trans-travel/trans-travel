@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-12-13 \\[US Oregon](us/or.md)\] Oregon disobeying court order
+    protecting trans prisoner.
  *  2023-12-13 \\[US Ohio](us/oh.md)\] Trans youth medical ban passed
     in legislature.
  *  2023-12-13 \\[US Florida](us/fl.md)\] Lawsuit filed against state's

@@ -41,7 +41,11 @@ See the [USA TSA](notes/tsa.md) document.
  * The State has litigated against prisoner medical care.
  * The State has litigated against a trans woman jailed in male jail who
    was [placed with a convicted sex
-   offender](https://www.oregonlive.com/crime/2023/09/judge-orders-oregon-prison-officials-to-classify-transgender-woman-as-vulnerable-place-her-in-a-single-cell-to-prevent-sex-assaults.html)
+   offender](https://www.oregonlive.com/crime/2023/09/judge-orders-oregon-prison-officials-to-classify-transgender-woman-as-vulnerable-place-her-in-a-single-cell-to-prevent-sex-assaults.html).
+   Since that judgement, in December 2023, the state prison system was
+   [accused of violating the court
+   order](https://www.oregonlive.com/crime/2023/12/judge-cites-concerns-about-prison-body-cavity-search-of-transgender-woman-by-male-officer-amid-court-order.html)
+   intended to protect her.
 
 ## Legal Definition of Sex
 
