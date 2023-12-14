@@ -34,7 +34,9 @@ procedures," similar to how the courts have jurisdiction over abuse.
    require misgendering of customers, on the basis of religious
    owners of a for-profit corporation.
  * Public school (K12) employees are required to use pronouns and titles
-   associated a trans person's sex assigned at birth.
+   associated a trans person's sex assigned at birth. This is being
+   [challenged in court by teachers impacted by this
+   law](https://fox17.com/news/nation-world/florida-state-federal-lawsuits-mother-minors-transgender-hormone-therapy-puberty-blockers-treatment-lgbt-discrimination-lawyers-teachers-personal-pronoun-title-law-republican-legislature-gov-ron-desantis-social-conservatives-issues).
  * Some businesses and LGBT organizations have canceled events that
    might involve drag or trans people participating, due to the
    possibility of the "protection of children" law being used against

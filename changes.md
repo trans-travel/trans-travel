@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-12-13 \\[US Florida](us/fl.md)\] Lawsuit filed against state's
+    ban against school employees using affirming pronouns.
  *  2023-12-12 \\[US Missouri](us/mo.md)\] Information about a possibly
     anty-trans attack in St. Louis.
  *  2023-12-06 \\[US Missouri](us/mo.md)\] Bills targeting continuing
