@@ -232,6 +232,8 @@ as well as by
 In addition, at least one trans person has recently been
 [wrongfully accused](https://www.floridatoday.com/story/news/education/2022/08/11/brevard-public-schools-dismiss-reports-transgender-school-assault/10297179002/)
 of sexually assaulting others in bathrooms by Florida politicians.
+Another trans person was [attacked while leaving a Miami LGBT
+event](https://www.miaminewtimes.com/news/transgender-woman-severely-beaten-after-lgbtq-event-in-miami-18469390).
 
 Fernandina Beach's city council, like other cities, passed a 2023
 proclamation recognition Transgender Day of Remembrance.  However the
