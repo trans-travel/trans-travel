@@ -8,6 +8,10 @@ there is non-discrimination protection for trans people.
 ## Non-discrimination Law
 
  * Trans people are specifically named in Ontario non-discrimination laws.
+ * Ontario Superior Court has ruled in an anti-SLAAP case that the slur
+   "groomer" [is not an opinion and thus requires actual evidence when
+   used against trans people and others](https://pressprogress.ca/right-wing-trolls-are-freaking-out-after-learning-they-can-get-sued-for-calling-people-groomers-on-the-internet/).
+   Thus, it may be subject to anti-defamation laws.
 
 ## Public Accommodations
 

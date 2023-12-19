@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-12-18 \\[CA Ontario](ca/on.md)\] A court ruling implies that
+    some common anti-LGBT slurs linking trans people to pedophiles are
+    not exempt from defamation lawsuits.
  *  2023-12-14 \\[US Florida](us/fl.md)\] Woman attacked on way home
     from LGBT event in Miami.
  *  2023-12-13 \\[US Wisconsin](us/wi.md)\] Four Black trans women have
