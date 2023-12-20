@@ -55,6 +55,9 @@ sex).
 Note that this also places gender non-conforming cis women at risk of
 invasive questioning and state action.
 
+The state is [being sued by the ACLU](https://www.aclumontana.org/en/cases/dandilion-cloverdale-et-al-vs-austin-knudsen-et-al)
+over this law.
+
 Non-binary people are not recognized.
 
 Montana does not generally allow changing of ID or birth certificate.

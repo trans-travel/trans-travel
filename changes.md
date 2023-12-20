@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-12-19 \\[US Montana](us/mt.md)\] ACLU suing Montana over their
+    transphoibc definition of sex.
  *  2023-12-18 \\[CA Ontario](ca/on.md)\] A court ruling implies that
     some common anti-LGBT slurs linking trans people to pedophiles are
     not exempt from defamation lawsuits.
