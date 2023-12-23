@@ -1,30 +1,33 @@
 # Change Log for Trans Travel Guide
 
- *  2023-12-19 \\[US Montana](us/mt.md)\] ACLU suing Montana over their
+ *  2022-12-23 \[[US Florida](us/fl.md)\] Added information about RV
+    park discriminating against a trans woman who successfully reached a
+    settlement along with HUD against the RV park in 2022.
+ *  2023-12-19 \[[US Montana](us/mt.md)\] ACLU suing Montana over their
     transphoibc definition of sex.
- *  2023-12-18 \\[CA Ontario](ca/on.md)\] A court ruling implies that
+ *  2023-12-18 \[[CA Ontario](ca/on.md)\] A court ruling implies that
     some common anti-LGBT slurs linking trans people to pedophiles are
     not exempt from defamation lawsuits.
- *  2023-12-14 \\[US Florida](us/fl.md)\] Woman attacked on way home
+ *  2023-12-14 \[[US Florida](us/fl.md)\] Woman attacked on way home
     from LGBT event in Miami.
- *  2023-12-13 \\[US Wisconsin](us/wi.md)\] Four Black trans women have
+ *  2023-12-13 \[[US Wisconsin](us/wi.md)\] Four Black trans women have
     been murdered in Milwaukee since 2022.
- *  2023-12-13 \\[US Oregon](us/or.md)\] Oregon disobeying court order
+ *  2023-12-13 \[[US Oregon](us/or.md)\] Oregon disobeying court order
     protecting trans prisoner.
- *  2023-12-13 \\[US Ohio](us/oh.md)\] Trans youth medical ban passed
+ *  2023-12-13 \[[US Ohio](us/oh.md)\] Trans youth medical ban passed
     in legislature.
- *  2023-12-13 \\[US Florida](us/fl.md)\] Lawsuit filed against state's
+ *  2023-12-13 \[[US Florida](us/fl.md)\] Lawsuit filed against state's
     ban against school employees using affirming pronouns.
- *  2023-12-12 \\[US Missouri](us/mo.md)\] Information about a possibly
+ *  2023-12-12 \[[US Missouri](us/mo.md)\] Information about a possibly
     anti-trans attack in St. Louis.
- *  2023-12-06 \\[US Missouri](us/mo.md)\] Bills targeting continuing
+ *  2023-12-06 \[[US Missouri](us/mo.md)\] Bills targeting continuing
     care (grandfathering) of trans youth have been prefiled.
- *  2023-12-06 \\[US Missouri](us/mo.md)\] Washington University is
+ *  2023-12-06 \[[US Missouri](us/mo.md)\] Washington University is
     arguing in court that they should not have to turn over patient
     records to the Attorney General.
- *  2023-12-06 \\[US Wisconsin](us/wi.md)\] Governor vetoed youth
+ *  2023-12-06 \[[US Wisconsin](us/wi.md)\] Governor vetoed youth
     trans healthcare ban, so healthcare remains legal.
- *  2023-12-06 \\[US Misssissippi](us/ms.md)\] UMMC stopped providing
+ *  2023-12-06 \[[US Mississippi](us/ms.md)\] UMMC stopped providing
     medical care for youth before they were required to.
  *  2023-12-06 \[[US South Carolina](us/sc.md)\] MUSC has stopped
     providing youth transition care.

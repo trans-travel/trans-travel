@@ -76,6 +76,12 @@ procedures," similar to how the courts have jurisdiction over abuse.
    rules](https://www.fldoe.org/core/fileparse.php/20680/urlt/8-2.pdf)
    to ban trans people from bathrooms and locker rooms at private
    colleges and universities.
+ * An RV park discriminated against a trans woman, telling her she
+   needed to "dress like a man" and "act like a man" or face eviction.
+   However, the federal HUD agency reached a settlement with the RV park
+   requiring them to stop discriminating and pay the trans woman and her
+   family a [$45,000
+   settlement](https://www.hud.gov/press/press_releases_media_advisories/hud_no_22_160).
 
 ## Drag / Performance / Cross-dressing Laws
 
