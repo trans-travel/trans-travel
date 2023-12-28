@@ -1,6 +1,8 @@
 # Change Log for Trans Travel Guide
 
- *  2022-12-23 \[[US Florida](us/fl.md)\] Added information about RV
+ *  2023-12-27 \[[US Idaho](us/id.md)\] A judge issued a preliminary
+    injunction against Idaho's trans youth medical care ban.
+ *  2023-12-23 \[[US Florida](us/fl.md)\] Added information about RV
     park discriminating against a trans woman who successfully reached a
     settlement along with HUD against the RV park in 2022.
  *  2023-12-19 \[[US Montana](us/mt.md)\] ACLU suing Montana over their
