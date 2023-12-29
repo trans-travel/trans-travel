@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-12-29 \[[US Ohio](us/oh.md)\] Ohio governor vetoed HB68.
  *  2023-12-27 \[[US Idaho](us/id.md)\] A judge issued a preliminary
     injunction against Idaho's trans youth medical care ban.
  *  2023-12-23 \[[US Florida](us/fl.md)\] Added information about RV

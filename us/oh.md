@@ -6,17 +6,12 @@ in a locker room.
 
 Ohio does not appear to place child custody at risk.
 
-However, HB68, if signed by the governor, would ban transition care for
-youth and go beyond most other bans of care including placing significant
-restrictions upon mental health care, puberty blockers, hormone therapy,
-and surgery.
-
 In addition, if HB183 is passed, Ohio would ban access to bathroom
 and locker room facilities at all schools and universities (including
 university facilities such as stadiums) except in accordance with sex
 assigned at birth.
 
-Beyind HB183, an opinion from the Ohio Attorney General interprets
+Beyond HB183, an opinion from the Ohio Attorney General interprets
 existing law to allow discrimination against trans people in bathrooms
 and similar facilities, particularly if owned by government.
 
@@ -78,18 +73,12 @@ changes to trans people, indicating bias within the Ohio legal system.
  * Trans medical care is legal for adults and children.
  * Ohio has a religious exemption law that allows providers to deny some
    medical services.
- * If HB68 is signed by the governor, Ohio would ban transition care for
-   youth and go beyond most other bans of care including placing
-   significant restrictions upon mental health care, puberty blockers,
-   hormone therapy, and surgery.
 
 ## Child Custody / Abuse
 
  * Transition care is not specifically defined as child abuse
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
- * HB68, if signed by the governor, would explicitly protect anti-trans
-   parents who are causing harm to trans youth.
  
 ## Relationship Recognition
 
@@ -97,7 +86,7 @@ changes to trans people, indicating bias within the Ohio legal system.
 
 ## Relevant Laws
 
- * [2023 HB68 (Not yet signed by governor) - Youth Care Ban](https://www.legislature.ohio.gov/legislation/135/hb68)
+ * [2023 HB68 (vetoed and not in effect) - Youth Care Ban](https://www.legislature.ohio.gov/legislation/135/hb68)
  * [2023 HB183 (Not yet passed) - Bathroom Ban in Schools and Universities](https://www.legislature.ohio.gov/legislation/135/hb183)
  * [Attorney General Opinion 2023-006](https://www.ohioattorneygeneral.gov/getattachment/f10767a2-2cf3-4844-b943-90a503dc4c52/2023-006.aspx)
 
