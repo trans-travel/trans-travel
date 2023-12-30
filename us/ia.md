@@ -62,7 +62,7 @@ Non-binary people are not recognized.
 ## Relevant Laws
 
  * [2023 SF482 - School bathroom Law](https://legiscan.com/IA/text/SF482/id/2754168)
- * [2023 SF496 - Don't Say Gay Law (Blocked by federal district preliminary injunction)](https://legiscan.com/IA/text/SF496/id/2794529)
+ * [2023 SF496 - Don't Say Gay Law (Partially blocked by federal district preliminary injunction)](https://legiscan.com/IA/text/SF496/id/2794529)
  * [2023 SF538 - Youth trans medical Ban](https://legiscan.com/IA/text/SF538/id/2736348)
 
 ## General Safety
