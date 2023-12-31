@@ -54,11 +54,6 @@ to investigate at least one provider of transgender care.
    County prosecutor (Ryan Desmond) is [attempting to enforce the
    law](https://www.lawdork.com/p/tennessee-prosecutor-threatens-pride)
    against a pride event.
- * Murfreesboro passed an [anti-drag
-   ordinance](https://library.municode.com/tn/murfreesboro/ordinances/code_of_ordinances?nodeId=1221993)
-   that referenced still-on-the-books 1977 law that classifies
-   homosexuality [as
-   obscene](https://library.municode.com/tn/murfreesboro/ordinances/code_of_ordinances?nodeId=1221993).
 
 ## Air Travel
 
