@@ -63,6 +63,9 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Legal Definition of Sex
 
+Some state administrative rules define sex on the basis of sex assigned at
+birth.
+
 Non-binary people are not recognized for most purposes, although they
 can obtain birth certificates with an "X" marker (but not driver's
 licenses or ID cards). Some county judges have denied birth certificate
@@ -70,13 +73,19 @@ changes to trans people, indicating bias within the Ohio legal system.
 
 ## Medical Care
 
- * Trans medical care is legal for adults and children.
+ * Trans medical care is legal for adults, although the governor has
+   stated that he intends to significantly restrict care for adults.
+ * Some medical care for minors is illegal in Ohio, including gender
+   affirming surgeries. The governor has indicated he intends to create
+   significant barriers for other types of care.
  * Ohio has a religious exemption law that allows providers to deny some
    medical services.
 
 ## Child Custody / Abuse
 
- * Transition care is not specifically defined as child abuse
+ * Transition care is not specifically defined as child abuse. However,
+   as some gender transition medical care is now illegal in Ohio, it is
+   unknown how that may affect custody.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
  
@@ -89,6 +98,7 @@ changes to trans people, indicating bias within the Ohio legal system.
  * [2023 HB68 (vetoed and not in effect) - Youth Care Ban](https://www.legislature.ohio.gov/legislation/135/hb68)
  * [2023 HB183 (Not yet passed) - Bathroom Ban in Schools and Universities](https://www.legislature.ohio.gov/legislation/135/hb183)
  * [Attorney General Opinion 2023-006](https://www.ohioattorneygeneral.gov/getattachment/f10767a2-2cf3-4844-b943-90a503dc4c52/2023-006.aspx)
+ * [2023 Administrative Rule 3701-83-60 - Ban on Youth Gender Affirming Surgery](https://www.registerofohio.state.oh.us/pdfs/3701/0/83/3701-83-60_PH_EM_NE_RU_20240105_1308.pdf)
 
 ## General Safety
 

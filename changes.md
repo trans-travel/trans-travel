@@ -1,6 +1,9 @@
 # Change Log for Trans Travel Guide
 
- *  2023-12-31 \[[US Tennessee](us/tn.md)\] Murfreesboro remvoing
+ *  2023-01-04 \[[US Ohio](us/oh.md) Governor has restricted some
+    transgender care and indicates desires to restrict other care,
+    including for adults.
+ *  2023-12-31 \[[US Tennessee](us/tn.md)\] Murfreesboro removing
     anti-drag ordinance.
  *  2023-12-29 \[[US Iowa](us/ia.md)\] Iowa "don't say gay" law is
     blocked by preliminary injunction.
