@@ -18,6 +18,7 @@
     - [USA - Delaware](us/de.md)
     - [USA - Florida](us/fl.md)
     - [USA - Georgia](us/ga.md)
+    - [USA - Guam](us/gu.md)
     - [USA - Hawaii](us/hi.md)
     - [USA - Idaho](us/id.md)
     - [USA - Illinois](us/il.md)

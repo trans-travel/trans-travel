@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-01-04 \[[US Guam](us/gu.md) Added Guam to guide
  *  2023-01-04 \[[US Ohio](us/oh.md) Governor has restricted some
     transgender care and indicates desires to restrict other care,
     including for adults.
