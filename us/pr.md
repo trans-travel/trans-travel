@@ -4,9 +4,6 @@ Puerto Rico has negative laws towards trans people. These laws should generally
 not impact adult travelers to Puerto Rico, although Puerto Rico also lacks many
 non-discrimination protections.
 
-Puerto Rico does criminalize some trans care for children (hormone therapy
-and surgery).
-
 ## Non-discrimination Law
 
  * Puerto Rico public non-discrimination law does not include LGBT people
