@@ -28,8 +28,8 @@ might have an impact on child custody.
  * North Carolina does not have a drag/cross-dressing law.
  * In Brevard, [violent death
    threats](https://localnews8.com/news/national-world/cnn-national/2023/07/27/brevard-man-accused-of-using-fake-social-media-account-to-make-death-threats-against-drag-show/)
-   were made against an adult drag show (and any pride events) in July,
-   2023. The man responsible was arrested towards the end of July for the
+   were made against an adult drag show (and any pride events) in July, 2023.
+   The man responsible was arrested towards the end of July for the
    threats.
 
 ## Air Travel
