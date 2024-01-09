@@ -9,8 +9,7 @@ Louisiana does not have laws that target most trans visitors directly.
 
 Louisiana does ban trans care for children, although the current law does
 not have criminal penalties for parents.  However, it is unknown how this
-might have an impact on child custody.  This law goes into effect on
-January 1, 2024.
+might have an impact on child custody.
 
 ## Non-discrimination Law
 
@@ -52,13 +51,14 @@ Non-binary people are not recognized.
 
  * Trans medical care is legal for adults
  * Medical transition (puberty blockers, hormones, surgeries) for people
-   under 18 is illegal.  This law goes into effect on January 1, 2024.
+   under 18 is illegal.
+ * The trans youth medical ban is [being challenged in
+   court](https://lambdalegal.org/legal_document/soe_la_20240108_petition-for-declaratory-permanent-injunctive-relief/).
 
 ## Child Custody / Abuse
 
  * Trans medical care is illegal for youth in Louisiana, although penalties
-   will apply to doctors providing the care and not to parents. This ban
-   goes into effect on January 1, 2024.
+   will apply to doctors providing the care and not to parents.
  * It is unknown if transition might be used by the state to justify
    custody removal.
  * There is no sanctuary law preventing cooperation with other

@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-01-08 \[[US Louisiana](us/la.md) Lawsuit against trans youth
+    medical care ban
  *  2023-01-04 \[[US Guam](us/gu.md) Added Guam to guide
  *  2023-01-04 \[[US Ohio](us/oh.md) Governor has restricted some
     transgender care and indicates desires to restrict other care,
