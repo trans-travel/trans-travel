@@ -10,6 +10,7 @@
   * USA
     - [USA - Alabama](us/al.md)
     - [USA - Alaska](us/ak.md)
+    - [USA - American Samoa](us/as.md)
     - [USA - Arizona](us/az.md)
     - [USA - Arkansas](us/ar.md)
     - [USA - California](us/ca.md)
