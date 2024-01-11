@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-01-11 \[[US Alabama](us/al.md) Trans youth medical ban can
+    again be enforced in Alabama.
  *  2023-01-08 \[[US Louisiana](us/la.md) Lawsuit against trans youth
     medical care ban
  *  2023-01-04 \[[US Guam](us/gu.md) Added Guam to guide
