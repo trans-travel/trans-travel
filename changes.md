@@ -1,11 +1,13 @@
 # Change Log for Trans Travel Guide
 
- *  2023-01-11 \[[US Alabama](us/al.md) Trans youth medical ban can
+ *  2023-01-12 \[[US Connecticut](us/ct.md)\] Enfield bans the Pride
+    flag from government buildings.
+ *  2023-01-11 \[[US Alabama](us/al.md)\] Trans youth medical ban can
     again be enforced in Alabama.
- *  2023-01-08 \[[US Louisiana](us/la.md) Lawsuit against trans youth
+ *  2023-01-08 \[[US Louisiana](us/la.md)\] Lawsuit against trans youth
     medical care ban
- *  2023-01-04 \[[US Guam](us/gu.md) Added Guam to guide
- *  2023-01-04 \[[US Ohio](us/oh.md) Governor has restricted some
+ *  2023-01-04 \[[US Guam](us/gu.md)\] Added Guam to guide
+ *  2023-01-04 \[[US Ohio](us/oh.md)\] Governor has restricted some
     transgender care and indicates desires to restrict other care,
     including for adults.
  *  2023-12-31 \[[US Tennessee](us/tn.md)\] Murfreesboro removing

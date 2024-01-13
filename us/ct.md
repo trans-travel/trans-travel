@@ -93,6 +93,11 @@ swayed by anti-trans political rhetoric. One suggestion from a CT
 resident is to look up the voting districts you will visit to see their
 party affiliation, which may correlate somewhat to LGBT acceptance/tolerance.
 
+One community, Enfield, has [banned the Pride
+flag](https://www.advocate.com/news/connecticut-pride-flag-ban-isis)
+from being flown at government buildings. This was done at the first
+city council meeting after it became a Republican-majority council.
+
 People who live in Connecticut state that their government officials
 actively support LGBT pride events publicly and pass good LGBT-related
 legislation.
