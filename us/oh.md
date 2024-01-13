@@ -74,7 +74,8 @@ changes to trans people, indicating bias within the Ohio legal system.
 ## Medical Care
 
  * Trans medical care is legal for adults, although the governor has
-   stated that he intends to significantly restrict care for adults.
+   stated that he intends to [significantly restrict care for
+   adults](https://odh.ohio.gov/wps/wcm/connect/gov/9b217d95-bcc9-483f-8771-f4786bb93b56/Post+for+Public+Comment+3%2C+59%2C+83.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE.Z18_79GCH8013HMOA06A2E16IV2082-9b217d95-bcc9-483f-8771-f4786bb93b56-oPsE9DG).
  * Some medical care for minors is illegal in Ohio, including gender
    affirming surgeries. The governor has indicated he intends to create
    significant barriers for other types of care.
@@ -99,6 +100,7 @@ changes to trans people, indicating bias within the Ohio legal system.
  * [2023 HB183 (Not yet passed) - Bathroom Ban in Schools and Universities](https://www.legislature.ohio.gov/legislation/135/hb183)
  * [Attorney General Opinion 2023-006](https://www.ohioattorneygeneral.gov/getattachment/f10767a2-2cf3-4844-b943-90a503dc4c52/2023-006.aspx)
  * [2023 Administrative Rule 3701-83-60 - Ban on Youth Gender Affirming Surgery](https://www.registerofohio.state.oh.us/pdfs/3701/0/83/3701-83-60_PH_EM_NE_RU_20240105_1308.pdf)
+ * [Proposed administrative rules to make gender-affirming care nearly impossible to obtain](https://odh.ohio.gov/wps/wcm/connect/gov/9b217d95-bcc9-483f-8771-f4786bb93b56/Post+for+Public+Comment+3%2C+59%2C+83.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE.Z18_79GCH8013HMOA06A2E16IV2082-9b217d95-bcc9-483f-8771-f4786bb93b56-oPsE9DG)
 
 ## General Safety
 

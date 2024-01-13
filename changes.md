@@ -6,6 +6,8 @@
     again be enforced in Alabama.
  *  2023-01-08 \[[US Louisiana](us/la.md)\] Lawsuit against trans youth
     medical care ban
+ *  2023-01-05 \[[US Ohio](us/oh.md)\] Rules intended to make gender
+    affirming care impossible to obtain.
  *  2023-01-04 \[[US Guam](us/gu.md)\] Added Guam to guide
  *  2023-01-04 \[[US Ohio](us/oh.md)\] Governor has restricted some
     transgender care and indicates desires to restrict other care,
