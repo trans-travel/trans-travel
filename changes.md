@@ -1,9 +1,12 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-01-17 \[[US Northern Mariana Islands](us/mp.md)\] Added
+    Northern Mariana Islands.
  *  2023-01-12 \[[US Connecticut](us/ct.md)\] Enfield bans the Pride
     flag from government buildings.
  *  2023-01-11 \[[US Alabama](us/al.md)\] Trans youth medical ban can
     again be enforced in Alabama.
+ *  2023-01-10 \[[US American Samoa](us/as.md)\] Added American Samoa.
  *  2023-01-08 \[[US Louisiana](us/la.md)\] Lawsuit against trans youth
     medical care ban
  *  2023-01-05 \[[US Ohio](us/oh.md)\] Rules intended to make gender

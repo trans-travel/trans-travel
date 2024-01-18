@@ -44,6 +44,7 @@
     - [USA - New York](us/ny.md)
     - [USA - North Carolina](us/nc.md)
     - [USA - North Dakota](us/nd.md)
+    - [USA - Northern Mariana Islands](us/mp.md)
     - [USA - Ohio](us/oh.md)
     - [USA - Oklahoma](us/ok.md)
     - [USA - Oregon](us/or.md)
@@ -63,6 +64,6 @@
     - [USA - Wisconsin](us/wi.md)
     - [USA - Wyoming](us/wy.md)
 * Notes
-  * [Flying with the TSA (Transportation Security Agency)](notes/tsa.md)
   * [Airport Bathrooms](notes/airport-bathrooms.md)
+  * [Flying with the TSA (Transportation Security Agency)](notes/tsa.md)
 * [Change Log for Trans Travel Guide](changes.md)
