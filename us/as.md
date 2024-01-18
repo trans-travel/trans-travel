@@ -25,7 +25,7 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * American Samoa has unknwon policies for trans people, so it should
+ * American Samoa has unknown policies for trans people, so it should
    be assumed that trans people may be imprisoned based on sex assigned
    at birth.
 
