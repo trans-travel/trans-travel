@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-01-17 \[[US Virgin Islands](us/vi.md)\] Added US Virgin
+    Islands.
  *  2023-01-17 \[[US Northern Mariana Islands](us/mp.md)\] Added
     Northern Mariana Islands.
  *  2023-01-12 \[[US Connecticut](us/ct.md)\] Enfield bans the Pride

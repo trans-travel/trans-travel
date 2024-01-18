@@ -57,6 +57,7 @@
     - [USA - Texas](us/tx.md)
     - [USA - Utah](us/ut.md)
     - [USA - Vermont](us/vt.md)
+    - [USA - Virgin Islands](us/vi.md)
     - [USA - Virginia](us/va.md)
     - [USA - Washington](us/wa.md)
     - [USA - Washington DC](us/dc.md)
