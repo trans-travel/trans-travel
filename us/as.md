@@ -69,7 +69,7 @@ trans people who report these attacks can expect to be misgendered by
 officials and public institutions.
 
 American Samoa does have a history of being supportive of Fa'afafine
-people, who are sometimes seen as a third gender.  after colonization,
+people, who are sometimes seen as a third gender.  After colonization,
 laws were passed (and since repealed) that made some LGBT activities
 illegal.  The indigenous history of acceptance still has strands that
 survived colonization and people may find American Samoa somewhat
