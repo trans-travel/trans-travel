@@ -66,6 +66,9 @@ See the [USA TSA](notes/tsa.md) document.
  * Trans men are required to be housed with women.
  * Nonbinary people are required to be housed according to sex
    assigned at birth.
+ * The prison system is accused of particularly [egregious discrimination](https://www.kansascity.com/news/state/kansas/article284628270.html)
+   against a trans prison worker. This indicates that the state may
+   be extremely harsh towards trans inmates.
 
 ## Legal Definition of Sex
 

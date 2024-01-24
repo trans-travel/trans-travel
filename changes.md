@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
-
+ 
+ *  2023-01-24 \[[US Kansas](us/ks.md)\] Kansas ex-prison guard sues
+    Kansas for anti-trans discrimination.
  *  2023-01-24 \[[US Indiana](us/in.md)\] Youth healthcare ban legal
     challenge is now a class action.
  *  2023-01-24 \[[US Ohio](us/oh.md)\] Ohio passed youth care ban
