@@ -125,6 +125,8 @@ officials and public institutions.
  * [Smiley v. Jenner - Lawsuit against "don't say gay" law](https://www.aclu-in.org/en/press-releases/aclu-indiana-challenges-law-censoring-classroom-discussions)
  * [K.C. v. Medical Licensing Board of Indiana - Lawsuit against trans
    youth healthcare ban](https://www.aclu.org/cases/k-c-v-medical-licensing-board-of-indiana)
+ * [K.C. v. Medical Licensing Board of Indiana class-action certifying
+   order](https://aboutblaw.com/bcrL)
  * [Indiana Legal Services (non-profit legal assistance organization)](https://www.indianalegalservices.org/)
 
 # Thank you
