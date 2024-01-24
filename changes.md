@@ -1,6 +1,7 @@
 # Change Log for Trans Travel Guide
 
- *  2023-01-19 \[[CA Nova Scotia](us/ns.md)\] Added CA Nova Scotia
+ *  2023-01-23 \[[CA New Brunswick](ca/nb.md)\] Added CA New Brunswick
+ *  2023-01-19 \[[CA Nova Scotia](ca/ns.md)\] Added CA Nova Scotia
  *  2023-01-17 \[[US Virgin Islands](us/vi.md)\] Added US Virgin
     Islands.
  *  2023-01-17 \[[US Northern Mariana Islands](us/mp.md)\] Added
