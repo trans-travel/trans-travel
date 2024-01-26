@@ -1,13 +1,16 @@
-# Canada - New Brunswick
+# Canada - Manitoba
 
-New Brunswick recognizes the gender of binary trans people. I.E. trans women
+Manitoba recognizes the gender of binary trans people. I.E. trans women
 are considered women, trans men are men, and non-binary people are
 recognized for some purposes. The non-discrimination/anti-harassment laws
 are positive and there is non-discrimination protection for trans people.
 
+In late 2023, Manitoba has taken official stances to re-affirm their
+support for trans people.
+
 ## Non-discrimination Law
 
- * Trans people are specifically named in New Brunswick non-discrimination laws.
+ * Trans people are specifically named in Manitoba non-discrimination laws.
 
 ## Public Accommodations
 
@@ -17,9 +20,11 @@ are positive and there is non-discrimination protection for trans people.
 
 ## Drag / Performance / Cross-dressing Laws
 
- * Drag performance and cross-dressing is legal in New Brunswick.
+ * Drag performance and cross-dressing is legal in Manitoba.
  * Anti-trans/anti-gay protests sometimes occur, from groups that
    connect drag and transgender identity with conspiracy theories.
+   In 2023, these protests were generally opposed by pro-trans
+   counter-protesters that outnumbered the anti-trans protesters.
 
 ## Air Travel
 
@@ -37,18 +42,13 @@ bottom half of the body, should it be necessary.
 
  * While trans prisoners can be housed federally in accommodations that
    match the person's gender identity, it is unknown whether or not the
-   province of New Brunswick does the same.
+   province of Manitoba does the same.
 
 ## Legal Definition of Sex
 
 Non-binary people are recognized, and trans people are generally
 recognized on the basis of their gender identity, including the ability
 to update their documents.
-
-However, recent changes, targeted at children under 16 in school, have
-asserted that parents must approve of name and pronoun changes, even
-when used informally, signaling a view of children's rights as
-subordinate to parental rights when these rights conflict.
 
 ## Medical Care
 
@@ -68,8 +68,8 @@ subordinate to parental rights when these rights conflict.
 
 ## Relevant Laws
 
- * [New Brunswick Human Rights
-   Act](https://laws.gnb.ca/en/ShowPdf/cs/2011-c.171.pdf)
+ * [Manitoba Human Rights
+   Code](https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=h175)
 
 ## General Safety
 
@@ -79,16 +79,12 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to sometimes be misgendered
 by officials and public institutions.
 
-Active, organized anti-trans activity occurs in New Brunswick, and New
-Brunswick is on the forefront of anti-trans "culture wars" in Canada,
-both through protests and through official government action.
-While this has not progressed to the degree it has in some USA states,
-travelers should be aware and monitor for changes.
+Active, organized anti-trans activity occurs in Manitoba.  While this has
+not progressed to the degree it has in some USA states, travelers should
+be aware and monitor for changes.
 
 ## Resources
 
- * [Guidelines on Gender Identity or Expression (NB Human Rights
-   Commission)](https://www2.gnb.ca/content/dam/gnb/Departments/hrc-cdp/PDF/Guideline-on-gender-identity-or-expression.pdf)
- * [New Brunswick Human Rights
-   Commission](https://www2.gnb.ca/content/gnb/en/departments/nbhrc.html)
- * [Transgender Airport Screening](https://www.catsa-acsta.gc.ca/en/transgender-passengers)
+ * [Manitoba Human Rights
+   Guide](http://www.manitobahumanrights.ca/education/pdf/guidelines/guideline_genderid.pdf)
+ * [Trans Manitoba (Advocacy for Trans people in Manitoba)](https://www.transmanitoba.org/)

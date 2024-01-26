@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
- 
+
+ *  2023-01-25 \[[CA Manitoba](ca/mb.md)\] Added CA Manitoba
  *  2023-01-24 \[[US Kansas](us/ks.md)\] Kansas ex-prison guard sues
     Kansas for anti-trans discrimination.
  *  2023-01-24 \[[US Indiana](us/in.md)\] Youth healthcare ban legal

@@ -3,6 +3,7 @@
 * Jurisdictions
   * Canada
     - [Canada - British Columbia](ca/bc.md)
+    - [Canada - Manitoba](ca/mb.md)
     - [Canada - New Brunswick](ca/nb.md)
     - [Canada - Nova Scotia](ca/ns.md)
     - [Canada - Ontario](ca/on.md)
@@ -67,6 +68,6 @@
     - [USA - Wisconsin](us/wi.md)
     - [USA - Wyoming](us/wy.md)
 * Notes
-  * [Airport Bathrooms](notes/airport-bathrooms.md)
   * [Flying with the TSA (Transportation Security Agency)](notes/tsa.md)
+  * [Airport Bathrooms](notes/airport-bathrooms.md)
 * [Change Log for Trans Travel Guide](changes.md)
