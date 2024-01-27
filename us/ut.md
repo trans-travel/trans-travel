@@ -47,8 +47,18 @@ and may lack some protections.
    in publicly owned facilities.  This is because a person can use a
    changing room in line with their sex (defined as sex assigned at
    birth) OR the other binary sex if their birth certificate and
-   post-surgical genitals match the other binary sex.
- * HB257 would have no impact on facility usage by intersex people.
+   post-surgical genitals match the other binary sex.  That said,
+   indecent exposure law might then apply if genitals that don't match
+   the sign on the door were exposed.
+ * HB257, if signed by the governor, may ban trans people who have had
+   bottom surgery but not changed their birth certificate from using
+   either changing room in government owned/controlled facilities
+   on the basis of indecent exposure laws also amended in this bill.
+ * HB257 would have no impact on facility usage by intersex people,
+   although intersex people who have genitals that are too male or too
+   female for the changing room door in publicly owned/controlled
+   changing rooms may not be able to use the appropriate room if their
+   genitals may be exposed.
 
 ## Drag / Performance / Cross-dressing Laws
 
