@@ -4,6 +4,11 @@ Utah has some negative laws towards trans people. However,
 these laws are, thus far, fairly restricted and do not apply to most
 trans travelers in most situations.
 
+That said, HB257, as passed by the legislature but awaiting governor
+signature, will legally define sex according to sex assigned at birth,
+contains restrictions on changing room usage, and may subject trans
+people to harassment in restrooms.
+
 Utah does ban trans care for children which has an unknown impact on
 child custody, however parents are not penalized under this law (it
 applies to healthcare providers).
@@ -16,11 +21,34 @@ and may lack some protections.
  * Utah non-discrimination law does not include LGBT people in public
    accommodations (it does include LGBT people in employment and
    housing).
+ * HB257, if signed by the governor, mandates government discrimiantion
+   against trans people, both by defining sex by sex assigned at birth
+   and restricting changing room usage by trans people in government
+   owned or controlled facilities.
 
 ## Public Accommodations
 
  * Utah has wide-reaching religious freedom laws that allow denial of
    many services on the basis of gender identity.
+ * HB257, if signed by the governor, mandates government discrimiantion
+   against trans people, both by defining sex by sex assigned at birth
+   and restricting changing room usage by trans people in government
+   owned or controlled facilities.  Trans people would be required to
+   use changing rooms in publicly owned or controlled facilities in
+   accordance with sex assigned at birth unless they update their birth
+   certificate's gender marker to a new binary marker AND have had
+   unambiguous binary bottom surgery in line with stereotypes for the
+   new gender marker.
+ * HB257, if signed by the governor, would require trans people to use
+   bathrooms according to sex assigned at birth within K12 schools.
+ * HB257, if signed by the governor, would seem to allow trans people
+   who have BOTH updated their birth certificate and had bottom surgery
+   to conform with binary stereotypes may then use either changing room
+   in publicly owned facilities.  This is because a person can use a
+   changing room in line with their sex (defined as sex assigned at
+   birth) OR the other binary sex if their birth certificate and
+   post-surgical genitals match the other binary sex.
+ * HB257 would have no impact on facility usage by intersex people.
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -37,19 +65,24 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women are typically be housed with men.
- * Trans men are typically be housed with women.
+ * Trans women are typically be housed with men. This would be required
+   under HB257, if signed by the governor.
+ * Trans men are typically be housed with women. This would be required
+   under HB257, if signed by the governor.
  * Nonbinary people would typically be housed according to sex
-   assigned at birth.
+   assigned at birth. This would be required under HB257, if signed by
+   the governor.
 
 ## Legal Definition of Sex
 
 Non-binary people are recognized in limited ways.
 
 Some laws specify male, female, and similar words based on sex assigned
-at birth, gametes, and/or chromosomes.
+at birth, gametes, and/or chromosomes.  HB257 would extend this to
+additional laws, if signed by the governor.
 
-Utah allows gender marker changes on IDs in some circumstances.
+Utah allows gender marker changes on IDs in some circumstances.  It is
+unknown how HB257 may impact this, if signed by the governor.
 
 ## Medical Care
 
@@ -85,8 +118,30 @@ Utah allows gender marker changes on IDs in some circumstances.
 
  * [2023 SB0016 - Trans Youth Healthcare Ban](https://legiscan.com/UT/text/SB0016/id/2668336)
  * [Diné Marriage Act (Applicable in the Navajo Nation)](https://courts.navajo-nsn.gov/Resolutions/29-05%20Marriage%20Act.pdf)
+ * [2024 HB257 - Changing Room Ban, Definition of Sex (Not yet law, awaiting governor signature)](https://le.utah.gov/~2024/bills/static/HB0257.html)
 
 ## General Safety
+
+HB257, if signed by the governor, would immediately go into effect. This
+could occur at any time now that HB257 has been passed by the
+legislature.  Any traveler should use extreme caution if they are not
+both cis and have a very stereotypical gender presentation, if they use
+any changing room in a government owned or controlled facility that is
+open to the public, such as public parks, pools, sports facilities,
+recreation centers, universities, etc.  A person may be arrested for
+suspicion of violating this law and be required to produce either their
+original birth certificate or amended birth certificate plus evidence of
+bottom surgery, for presentation in court at a trial, if arrested.
+While this is not legal advice, simply telling a police officer your sex
+assigned at birth matches the facility or your usage of the exception
+for trans people with updated birth certificate and bottom surgery.
+
+Because of HB257, and the widespread press coverage, extreme caution
+should be used in all changing facilities and bathrooms for anyone that
+is not unambiguously presenting following stereotypes of their sex
+assigned at birth. This applies not just to trans people, but to anyone
+else who does not follow gender expression stereotypes (such as cis
+women with facial hair or short hair, men with gynecomastia, etc).
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
