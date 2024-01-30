@@ -127,7 +127,8 @@ While a non-binary birth certificate (perhaps only a single one) has
 been issued, Florida does not generally recognize non-binary gender.
 
 Some laws specify male, female, and similar words based on sex assigned
-at birth and/or chromosomes.
+at birth and/or chromosomes.  Florida does not permit trans people to
+have driver's licenses that reflect an accurate gender marker.
 
 Florida will defines sex largely consistent with sex assigned at birth
 for a large number of interactions trans travelers may have. Birth

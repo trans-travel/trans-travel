@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-01-30 \[[US Florida](us/fl.md)\] Florida no longer allowing
+    driver license gender marker changes.
  *  2023-01-29 \[[CA Quebec](ca/qc.md)\] Committee to study trans issues
     has no trans members.
  *  2023-01-29 \[[US Ohio](us/oh.md)\] ACLU suing Ohio over HB68
