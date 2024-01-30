@@ -45,7 +45,7 @@ bottom half of the body, should it be necessary.
 
 Non-binary people are recognized, and trans people are generally
 recognized on the basis of their gender identity, including the ability
-to update their documents.
+to update some documents.
 
 ## Medical Care
 
