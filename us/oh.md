@@ -82,6 +82,9 @@ changes to trans people, indicating bias within the Ohio legal system.
  * Ohio bans transition care for youth and goes beyond most other bans of
    care including placing significant restrictions upon mental health
    care, puberty blockers, hormone therapy, and surgery.
+ * The ACLU is [suing
+   Ohio](https://www.acluohio.org/en/press-releases/aclu-ohio-preparing-lawsuit-challenging-hb-68)
+   over the care ban.
  * Ohio has a religious exemption law that allows providers to deny some
    medical services.
 

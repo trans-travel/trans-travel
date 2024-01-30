@@ -80,6 +80,11 @@ Active, organized anti-trans activity occurs in Quebec, although this
 is less supported than in much of the USA. Much of this anti-trans
 activity occurs as "protest" towards Pride events that include youth.
 
+In addition, the government seems poised to limit rights of trans people
+in the future. A committee created to "study" trans issues and provide
+advice to the government [lacks any trans
+members](https://www.mcgilldaily.com/2024/01/quebecs-comite-de-sages-criticized-for-having-no-trans-members/).
+
 ## Resources
 
  * [Transgender Airport Screening](https://www.catsa-acsta.gc.ca/en/transgender-passengers)
