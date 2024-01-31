@@ -155,6 +155,12 @@ While this is not legal advice, simply telling a police officer your sex
 assigned at birth matches the facility or your usage of the exception
 for trans people with updated birth certificate and bottom surgery.
 
+In some cases, this may also apply to bathrooms and in facilities not
+owned or controlled by the government, if law enforcement feels you
+"loitered" in the wrong bathroom.  Thus Utah cannot be considered a safe
+state for trans people, even if they feel they can meet the letter of
+the law.
+
 Because of the passage of HB257, and the widespread press coverage, extreme
 caution should be used in all changing facilities and bathrooms for anyone
 that is not unambiguously presenting following stereotypes of their sex
