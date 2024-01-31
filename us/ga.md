@@ -78,6 +78,13 @@ possible belief by legislatures that other types of name changes (such
 as changing a last name to avoid association with an abuser) are not
 appropriate for children.
 
+A fire at a trans healthcare clinic [was caused by arson and is being
+investigated as a hate
+crime](https://www.advocate.com/news/gender-care-clinic-arson-georgia).
+The clinic, in Decatur, a progressive, generally LGBT-friendly city,
+provides services to the trans community.  This indicates that violent
+anti-trans activity may target visible trans organizations.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
