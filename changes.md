@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-01-30 \[[US Utah](us/ut.md)\] HB257 is now law.
  *  2023-01-30 \[[US Florida](us/fl.md)\] Florida no longer allowing
     driver license gender marker changes.
  *  2023-01-29 \[[CA Quebec](ca/qc.md)\] Committee to study trans issues
