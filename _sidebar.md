@@ -5,6 +5,7 @@
     - [Canada - British Columbia](ca/bc.md)
     - [Canada - Manitoba](ca/mb.md)
     - [Canada - New Brunswick](ca/nb.md)
+    - [Canada - Newfoundland](ca/nl.md)
     - [Canada - Nova Scotia](ca/ns.md)
     - [Canada - Ontario](ca/on.md)
     - [Canada - Quebec](ca/qc.md)

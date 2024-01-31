@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2023-01-30 \[[CA Newfoundland](ca/nl.md)\] Added Newfoundland.
  *  2023-01-30 \[[US Georgia](us/ga.md)\] Arson at trans healthcare
     clinic.
  *  2023-01-30 \[[US Utah](us/ut.md)\] HB257 is now law.
