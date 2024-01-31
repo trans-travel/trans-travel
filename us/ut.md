@@ -86,6 +86,10 @@ and may lack some protections.
 
 ## Air Travel
 
+Note that Salt Lake City Airport is a hub for Delta.  Because of
+bathroom law and the hostile anti-trans environment, travelers may want to 
+avoid this airport for connections.
+
 See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
