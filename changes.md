@@ -1,38 +1,38 @@
 # Change Log for Trans Travel Guide
 
- *  2023-01-30 \[[CA Newfoundland](ca/nl.md)\] Added Newfoundland.
- *  2023-01-30 \[[US Georgia](us/ga.md)\] Arson at trans healthcare
+ *  2024-01-30 \[[CA Newfoundland](ca/nl.md)\] Added Newfoundland.
+ *  2024-01-30 \[[US Georgia](us/ga.md)\] Arson at trans healthcare
     clinic.
- *  2023-01-30 \[[US Utah](us/ut.md)\] HB257 is now law.
- *  2023-01-30 \[[US Florida](us/fl.md)\] Florida no longer allowing
+ *  2024-01-30 \[[US Utah](us/ut.md)\] HB257 is now law.
+ *  2024-01-30 \[[US Florida](us/fl.md)\] Florida no longer allowing
     driver license gender marker changes.
- *  2023-01-29 \[[CA Quebec](ca/qc.md)\] Committee to study trans issues
+ *  2024-01-29 \[[CA Quebec](ca/qc.md)\] Committee to study trans issues
     has no trans members.
- *  2023-01-29 \[[US Ohio](us/oh.md)\] ACLU suing Ohio over HB68
- *  2023-01-26 \[[US Utah](us/ut.md)\] Added HB257 information
- *  2023-01-25 \[[CA Manitoba](ca/mb.md)\] Added CA Manitoba
- *  2023-01-24 \[[US Kansas](us/ks.md)\] Kansas ex-prison guard sues
+ *  2024-01-29 \[[US Ohio](us/oh.md)\] ACLU suing Ohio over HB68
+ *  2024-01-26 \[[US Utah](us/ut.md)\] Added HB257 information
+ *  2024-01-25 \[[CA Manitoba](ca/mb.md)\] Added CA Manitoba
+ *  2024-01-24 \[[US Kansas](us/ks.md)\] Kansas ex-prison guard sues
     Kansas for anti-trans discrimination.
- *  2023-01-24 \[[US Indiana](us/in.md)\] Youth healthcare ban legal
+ *  2024-01-24 \[[US Indiana](us/in.md)\] Youth healthcare ban legal
     challenge is now a class action.
- *  2023-01-24 \[[US Ohio](us/oh.md)\] Ohio passed youth care ban
- *  2023-01-23 \[[CA New Brunswick](ca/nb.md)\] Added CA New Brunswick
- *  2023-01-19 \[[CA Nova Scotia](ca/ns.md)\] Added CA Nova Scotia
- *  2023-01-17 \[[US Virgin Islands](us/vi.md)\] Added US Virgin
+ *  2024-01-24 \[[US Ohio](us/oh.md)\] Ohio passed youth care ban
+ *  2024-01-23 \[[CA New Brunswick](ca/nb.md)\] Added CA New Brunswick
+ *  2024-01-19 \[[CA Nova Scotia](ca/ns.md)\] Added CA Nova Scotia
+ *  2024-01-17 \[[US Virgin Islands](us/vi.md)\] Added US Virgin
     Islands.
- *  2023-01-17 \[[US Northern Mariana Islands](us/mp.md)\] Added
+ *  2024-01-17 \[[US Northern Mariana Islands](us/mp.md)\] Added
     Northern Mariana Islands.
- *  2023-01-12 \[[US Connecticut](us/ct.md)\] Enfield bans the Pride
+ *  2024-01-12 \[[US Connecticut](us/ct.md)\] Enfield bans the Pride
     flag from government buildings.
- *  2023-01-11 \[[US Alabama](us/al.md)\] Trans youth medical ban can
+ *  2024-01-11 \[[US Alabama](us/al.md)\] Trans youth medical ban can
     again be enforced in Alabama.
- *  2023-01-10 \[[US American Samoa](us/as.md)\] Added American Samoa.
- *  2023-01-08 \[[US Louisiana](us/la.md)\] Lawsuit against trans youth
+ *  2024-01-10 \[[US American Samoa](us/as.md)\] Added American Samoa.
+ *  2024-01-08 \[[US Louisiana](us/la.md)\] Lawsuit against trans youth
     medical care ban
- *  2023-01-05 \[[US Ohio](us/oh.md)\] Rules intended to make gender
+ *  2024-01-05 \[[US Ohio](us/oh.md)\] Rules intended to make gender
     affirming care impossible to obtain.
- *  2023-01-04 \[[US Guam](us/gu.md)\] Added Guam to guide
- *  2023-01-04 \[[US Ohio](us/oh.md)\] Governor has restricted some
+ *  2024-01-04 \[[US Guam](us/gu.md)\] Added Guam to guide
+ *  2024-01-04 \[[US Ohio](us/oh.md)\] Governor has restricted some
     transgender care and indicates desires to restrict other care,
     including for adults.
  *  2023-12-31 \[[US Tennessee](us/tn.md)\] Murfreesboro removing
