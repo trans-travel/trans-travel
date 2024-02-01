@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-02-01 \[[US Indiana](us/in.md)\] Indiana hires law firm to go
+    after providers of trans youth care.
  *  2024-01-30 \[[CA Newfoundland](ca/nl.md)\] Added Newfoundland.
  *  2024-01-30 \[[US Georgia](us/ga.md)\] Arson at trans healthcare
     clinic.
