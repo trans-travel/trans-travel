@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-02-01 \[[US Iowa](us/ia.md)\] University of Iowa Police appear
+    to target transgender protesters more harshly
  *  2024-02-01 \[[US Indiana](us/in.md)\] Indiana hires law firm to go
     after providers of trans youth care.
  *  2024-01-30 \[[CA Newfoundland](ca/nl.md)\] Added Newfoundland.

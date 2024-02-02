@@ -124,6 +124,13 @@ particularly cruel towards the trans people they target (mostly youth,
 but also college and university students and anyone visiting school or
 university facilities).
 
+In 2023, Iowa City, University of Iowa police have [targeted transgender
+protesters](https://www.press-citizen.com/story/news/local/2024/02/01/charges-against-seven-trans-protesters-spark-uproar-in-johnson-county-chloe-cole/72426978007/)
+who protested against an anti-trans speaker, while not charging any
+cisgender protesters.  This has drawn condemnation from the city's
+board of supervisors and Human Rights Commissioner. Those engaging in
+protests should be aware of this.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
