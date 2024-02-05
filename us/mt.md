@@ -72,8 +72,6 @@ They have previously violated court orders on birth certificate changes.
    under the state constitution and is thus unenforceable.
  * Medical providers can deny non-emergency care on the basis of their
    religious beliefs or conscious.
- * The youth trans healthcare ban is being
-   [challenged in court](https://lambdalegal.org/case/van-garderen-v-state-of-montana/)
 
 ## Child Custody / Abuse
 
