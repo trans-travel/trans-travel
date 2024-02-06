@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-02-05 \[[CA Alberta](ca/ab.md)\] Alberta added.
  *  2024-02-01 \[[US Iowa](us/ia.md)\] University of Iowa Police appear
     to target transgender protesters more harshly
  *  2024-02-01 \[[US Indiana](us/in.md)\] Indiana hires law firm to go
