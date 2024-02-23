@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-02-23 \[[US Maryland](us/md.md)\] Note trans prisoners may be
+    inappropriately housed.
  *  2024-02-07 \[[US Ohio](us/oh.md)\] Proposed medical changes no
     longer directly regulate adult care.
  *  2024-02-05 \[[CA Alberta](ca/ab.md)\] Alberta added.

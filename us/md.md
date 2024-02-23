@@ -31,6 +31,9 @@ See the [USA TSA](notes/tsa.md) document.
  * Trans women have sued both the state and counties over inappropriate
    housing, poor medical care, and sexual assault in jails and prison.
    These lawsuits are ongoing.
+ * Trans prisoners in state prisons are [housed according to
+   genitalia](https://www.thebaltimorebanner.com/community/criminal-justice/maryland-trans-prisoners-compliance-prea-6MFYNZQ3UZFYJMX34TO4QJEQ4E/)
+   (checked Feb. 23, 2024).
  * Nonbinary people may or may not be housed according to sex
    assigned at birth
 
