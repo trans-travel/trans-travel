@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-02-27 \[[US Indiana](us/in.md)\] Indiana anti-trans healthcare
+    law allowed to take effect by the appeals court.
  *  2024-02-23 \[[US New York](us/ny.md)\] Nassau County bans trans
     women from sports
  *  2024-02-23 \[[US Maryland](us/md.md)\] Note trans prisoners may be

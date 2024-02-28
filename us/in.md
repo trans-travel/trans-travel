@@ -6,10 +6,6 @@ trans people in most situations.
 
 Indiana does criminalize trans care for children which may have an
 unknown impact on child custody. These laws do not directly apply to parents.
-This law, however, is temporarily stayed pending resolution of K.C. v.
-Medical Licensing Board, meaning that it is currently unenforceable by
-the state and care remains legal for youth (with the exception of gender
-reassignment surgery). (last verification: February 1, 2024)
 
 ## Non-discrimination Law
 
@@ -66,15 +62,10 @@ Intersex people have some limited recognition.
 
  * Trans medical care is legal for adults
  * A law banning puberty blockers, hormone therapy, and surgery for
-   people under 18 has passed and became law.  This law, however, is
-   temporarily stayed pending resolution of K.C. v.  Medical Licensing
-   Board, meaning that it is currently (verified February 1, 2024)
-   unenforceable by the state and care remains legal for youth (with
-   the exception of gender reassignment surgery).
+   people under 18 has passed and became law.
  * Parents who allow children to receive trans care including puberty
    blockers, hormone therapy, and surgery are not criminalized, as the
-   (currently, verified as of Feb 1, 2024, unenforceable) law applies only
-   to medical providers.
+   law applies only to medical providers.
  * The state government has [engaged a conservative law
    firm](https://www.indystar.com/story/news/politics/2024/02/01/indiana-ag-enlists-dc-firm-to-investigate-transgender-care-providers/71770234007/)
    to sue providers for not disclosing risks of trans medical care. This
@@ -88,10 +79,7 @@ Intersex people have some limited recognition.
 ## Child Custody / Abuse
 
  * Some transition care (puberty blockers, hormone therapy, and surgery)
-   for children is illegal (although this law, with the exception of the
-   ban on gender reassignment surgery, is currently unenforceable due to
-   a preliminary injunction as of June 16, 2023). This ban shows the
-   state's view of this care.
+   for children is illegal.  This ban shows the state's view of this care.
  * The Indiana Attorney General has stated, to hospitals providing youth
    care, that trans care is child abuse. While it remains legal (except
    for surgery) for trans youth, the state has made clear statements on
@@ -108,7 +96,7 @@ Intersex people have some limited recognition.
  * [2023 IN HB1569 - Prisoner Medical Care Ban](https://legiscan.com/IN/text/HB1569/id/2766909)
  * [2023 IN HB1608 - Don't Say Gay](https://legiscan.com/IN/text/HB1608/id/2790220)
  * [2023 IN SB350 - Prevent Cities from Banning Conversion Therapy](https://iga.in.gov/legislative/2023/bills/senate/350#document-d6ae1d25)
- * [2023 IN SB480 - Youth Trans Medical Care Ban (Currently prevented from being enforced; verified Februrary 1, 2024)](https://legiscan.com/IN/text/SB0480/id/2763114)
+ * [2023 IN SB480 - Youth Trans Medical Care Ban](https://legiscan.com/IN/text/SB0480/id/2763114)
 
 ## General Safety
 
