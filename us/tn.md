@@ -112,6 +112,10 @@ assigned at birth and/or chromosomes.
 ## Relationship Recognition
 
  * Same-sex marriage (and thus all trans marriage) is recognized
+ * However, officials can refuse to participate (I.E. issue a marriage
+   license) in gay, interracial, interfaith, or any other marriage, so
+   people who may have a marriage some may not approve of may want to
+   reconsider being married in Tennessee.
 
 ## Relevant Laws
 
@@ -122,6 +126,7 @@ assigned at birth and/or chromosomes.
  * [2023 HB0009 - Drag Ban (Struck down by US federal court on June 2, 2023)](https://legiscan.com/TN/text/HB0009/id/2756096)
  * [2023 SB0466 - Allowing Misgendering by School Employees](https://legiscan.com/TN/text/SB0466/id/2672103)
  * [2023 SB0632 - Defining Sex as Sex Assigned at Birth](https://www.capitol.tn.gov/Bills/107/Bill/SB0632.pdf)
+ * [2024 HB878 - Ability for officials to refuse to marry couples](https://www.capitol.tn.gov/Bills/113/Amend/SA0514.pdf)
 
 ## General Safety
 
