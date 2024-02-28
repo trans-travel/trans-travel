@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-02-27 \[[US Colorado](us/co.md)\] Anti-LGBT hate crime in
+    Aurora.
  *  2024-02-27 \[[US Tennessee](us/tn.md)\] Officials may refuse to
     marry anyone they want.
  *  2024-02-27 \[[US Indiana](us/in.md)\] Indiana anti-trans healthcare

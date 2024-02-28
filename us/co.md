@@ -113,6 +113,12 @@ Jefferson County has also recently, as of August 10, 2023, begun to
 implement new transphobic policies in school systems, such as
 restricting teachers from asking for pronouns). Thus travelers should be
 aware that "near Denver" is not necessarily as supportive as Denver.
+
+In addition, LGBT people are victims of hate crimes in Colorado. For
+instance, in Aurora, an otherwise inclusive city, a man [alleges he was
+attacked for his sexual
+orientation](https://kdvr.com/news/local/aurora-police-seek-2-men-for-alleged-hate-crime-attack/)
+on Feb. 7, 2024.
  
 LGBT events in Colorado, particularly G-rated drag shows open to all ages,
 have been the target of armed right-wing extremists using intimidation and
