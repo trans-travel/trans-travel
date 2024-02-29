@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-02-29 \[[US Texas](us/tx.md)\] AG requesting records from PFLAG
  *  2024-02-27 \[[US Colorado](us/co.md)\] Anti-LGBT hate crime in
     Aurora.
  *  2024-02-27 \[[US Tennessee](us/tn.md)\] Officials may refuse to

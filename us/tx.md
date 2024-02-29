@@ -95,6 +95,12 @@ at birth and/or chromosomes.
    jurisdictions.
  * Child welfare agencies are covered by a law that allows them to
    refuse services for religious reasons.
+ * The current (2024) Attorney General of Texas requests lists of trans
+   people from in- and out- of state hospitals, as well as
+   [trans-/lgbt-related
+   organizations](https://www.erininthemorning.com/p/retaliation-texas-ag-paxton-demands).
+   Persons with trans children should use caution when visiting Texas
+   for any possible custody implications.
 
 ## Relationship Recognition
 
@@ -131,6 +137,13 @@ of bathrooms by police or citizens.  In most cases, this is done with men
 regardless of offered ID then kicking the woman out. In particular,
 all women's bathroom users, trans or cis, who are sometimes read as men
 (or do not present stereotypically femininely) should use caution.
+
+The current (2024) Attorney General of Texas requests lists of trans
+people from in- and out- of state hospitals, as well as
+[trans-/lgbt-related
+organizations](https://www.erininthemorning.com/p/retaliation-texas-ag-paxton-demands).
+The Attorney General has made it clear that trans people are an official
+problem in the eyes of the State of Texas.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
