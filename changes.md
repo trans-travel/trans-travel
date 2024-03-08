@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-03-07 \[[US Wyoming](us/wy.md)\] Wyoming legislature passed
+    SF99.
  *  2024-02-29 \[[US Texas](us/tx.md)\] AG requesting records from PFLAG
  *  2024-02-27 \[[US Colorado](us/co.md)\] Anti-LGBT hate crime in
     Aurora.

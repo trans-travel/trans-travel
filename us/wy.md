@@ -1,6 +1,6 @@
 # USA - Wyoming
 
-Wyoming does have some negative laws towards trans people.
+Wyoming does have negative laws towards trans people.
 
 Wyoming is not a "sanctuary state", but also does not criminalize
 trans youth medical care.
@@ -52,12 +52,17 @@ Non-binary people are not recognized in Wyoming.
 
 ## Medical Care
 
- * Trans medical care is legal for all ages.
+ * Trans medical care is legal for adults.
+ * Puberty blockers, hormone therapy, and surgery is illegal for minors,
+   if the Governor signs SF99 (2024).
  * Wyoming does not have a "sanctuary" law.
 
 ## Child Custody / Abuse
 
- * Transition care is not defined as child abuse
+ * While the anti-trans heaalthcare bill (SF99, 2024) will,
+   if signed by the governor, block most non-mental-health care for
+   trans youth, this does not penalize parents. However it is unknown
+   how this will impact custody in the eyes of Wyoming courts.
  * Wyoming does not have a sanctuary law for people obtaining
    transition-related medical care.
 
@@ -66,6 +71,9 @@ Non-binary people are not recognized in Wyoming.
  * Same-sex marriage (and thus all trans marriage) is recognized
 
 ## Relevant Laws
+
+ * 2024 HB99 - [Anti-trans minor health care
+   ban](https://wyoleg.gov/Legislation/2024/SF0099)
 
 ## General Safety
 
