@@ -109,9 +109,10 @@ instance, an elected official uses his social media platform to [misgender a tra
 constituent](https://krcrtv.com/news/local/shasta-county-office-of-education-board-member-faces-possible-censure)
 Murrieta Valley School District [approved transphobic
 policies](https://www.advocate.com/education/murrieta-valley-outing-transgender-students),
-and Chino Valley School District has approved anti-LGBT policies.  Thus it is
-important to recognize that California is not unified and does not have a
-single view of trans people.
+and Chino Valley School District has approved anti-LGBT policies (which were
+blocked by a court, but which was rewritten to [bypass the court order](https://edsource.org/2024/chino-valley-revamps-parental-notification-policy-lgbtq-allies-fear-legal-escalation/707444)
+and allow continued discrimination).  Thus it is important to recognize that
+California is not unified and does not have a single view of trans people.
 
 In addition, beyond political events and education, other violence has
 occurred in California, sometimes not being restricted to the queer
