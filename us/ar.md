@@ -47,16 +47,14 @@ See the [USA TSA](notes/tsa.md) document.
 
  * Trans women would typically be housed with men
  * Trans men would typically be housed with women
- * Nonbinary people would typically be housed according to sex
+ * Non-binary people would typically be housed according to sex
    assigned at birth
 
 ## Legal Definition of Sex
 
-Non-binary people have some limited recognition (since 2010), but new
-rules proposed by the Governor will [end that
-recognition](https://www.acluarkansas.org/en/press-releases/statement-dfas-proposed-changes-identity-document-policies).
-While these rules (as of March 12, 2024) are not yet in effect, it is
-likely that they will be soon.
+Non-binary people are not recognized by the state, due to March 12, 2024
+[rules issued by the
+Governor](https://arktimes.com/arkansas-blog/2024/03/12/sanders-targets-trans-community-again-with-strict-new-gender-rules-for-state-issued-ids).
 
 Intersex people have some limited recognition.
 
