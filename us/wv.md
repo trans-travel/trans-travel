@@ -73,6 +73,7 @@ Non-binary people are not legally recognized.
 ## Relevant Laws
 
  * [2023 HB2007 - Trans Youth Medical Care Ban](https://legiscan.com/WV/text/HB2007/id/2748657)
+ * [2024 HB4233 - Ban on Non-Binary Birth Certificates](https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4233%20sub%20enr.htm&yr=2024&sesstype=RS&billtype=B&houseorig=H&i=4233)
 
 ## General Safety
 
