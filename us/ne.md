@@ -103,7 +103,10 @@ Intersex people have some limited recognition.
 ## Relevant Laws
 
  * [2023 LB574 - Trans Youth Medical Care Ban](https://legiscan.com/NE/text/LB574/2023)
- * [Regulations on trans youth health care](https://dhhs.ne.gov/Documents/181-NAC-8.pdf)
+ * [Regulations on trans youth health
+   care](https://rules.nebraska.gov/rules?agencyId=37&titleId=110) (See
+   chapter "8" here for most recent published regulations; note as of
+   March 12, 2024, currently in-force regulations where not published)
 
 ## General Safety
 
