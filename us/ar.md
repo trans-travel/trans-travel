@@ -52,7 +52,11 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Legal Definition of Sex
 
-Non-binary people have some limited recognition.
+Non-binary people have some limited recognition (since 2010), but new
+rules proposed by the Governor will [end that
+recognition](https://www.acluarkansas.org/en/press-releases/statement-dfas-proposed-changes-identity-document-policies).
+While these rules (as of March 12, 2024) are not yet in effect, it is
+likely that they will be soon.
 
 Intersex people have some limited recognition.
 

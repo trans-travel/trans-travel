@@ -1,6 +1,8 @@
 # Change Log for Trans Travel Guide
 
- *  2024-03-12 \\[US California](us/ca.md)\] Note Chino County School
+ *  2024-03-12 \[[US Arkansas](us/ar.md)\] Ban on X marker on driver's
+    licenses.
+ *  2024-03-12 \[[US California](us/ca.md)\] Note Chino County School
     District's anti-trans policy was rewritten.
  *  2024-03-07 \[[US Wyoming](us/wy.md)\] Wyoming legislature passed
     SF99.
