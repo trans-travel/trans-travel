@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-03-12 \[[US Alabama](us/al.md)\] Politicians call for firing of
+    trans employee.
  *  2024-03-12 \[[US Arkansas](us/ar.md)\] Ban on X marker on driver's
     licenses.
  *  2024-03-12 \[[US California](us/ca.md)\] Note Chino County School

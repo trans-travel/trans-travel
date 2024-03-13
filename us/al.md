@@ -89,6 +89,17 @@ at birth and/or chromosomes.
 The state has a law that prevents instruction on sexual orientation or
 gender identity (or really any mention) up to grade 5 in schools.
 
+Politicians at the state and national level have weighed in on the idea
+that trans people should not be employed anywhere children are present,
+with [Alabama's Senators and
+others](https://www.lgbtqnation.com/2024/03/right-wing-officials-gang-up-to-lob-vicious-attacks-on-a-single-transgender-space-camp-employee/)
+expressing that a Space Camp employee who is trans should be fired. Note
+that there is no allegation of wrongdoing, simply anger that the
+employee is trans.  While visitors are not directly impacted by this,
+they should be aware of the public, high-profile anti-trans hate being
+spread by powerful government officials, and that can impact
+interactions and encounters in Alabama.
+
 Birmingham has been called out as welcoming by a contributor ("hub of
 all queerness"), and may be more welcoming than some other places.
 Likewise, Mobile has also been noted for having Decadence, the first
