@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-03-12 \[[US Utah](us/ut.md)\] DoJ finds prison system violated
+    the ADA.
  *  2024-03-12 \[[US West Virginia](us/wv.md)\] Ban on non-binary birth
     certificates
  *  2024-03-12 \[[US Alabama](us/al.md)\] Politicians call for firing of

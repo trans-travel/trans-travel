@@ -98,6 +98,14 @@ See the [USA TSA](notes/tsa.md) document.
  * Trans men are required to be housed with women.
  * Nonbinary people are required to be housed according to sex
    assigned at birth.
+ * The US Department of Justice [found the state prison system violated
+   the
+   ADA](https://www.justice.gov/d9/2024-03/letter_of_findings-utah_department_of_corrections.pdf)
+   by having blanket bans on more appropriate housing, access to
+   commissary items, conducting pat downs by inappropriate persons,
+   conducting genital inspections, and other violations.  As of March
+   12, 2024, the State has not responded to this finding or entered into
+   a consent decree, so these conditions should be considered ongoing.
 
 ## Legal Definition of Sex
 
