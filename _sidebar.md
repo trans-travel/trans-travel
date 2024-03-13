@@ -9,6 +9,7 @@
     - [Canada - Newfoundland](ca/nl.md)
     - [Canada - Nova Scotia](ca/ns.md)
     - [Canada - Ontario](ca/on.md)
+    - [Canada - Prince Edward Island](ca/pe.md)
     - [Canada - Quebec](ca/qc.md)
   * [Mexico](mx.md)
   * [New Zealand / Aotearoa](nz.md)
