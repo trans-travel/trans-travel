@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-03-21 \[[US Alabama](us/al.md)\] Alabama public university
+    bathroom law.
  *  2024-03-12 \[[CA Prince Edward Island](ca/pe.md)\] Prince Edward
     Island added to guide.
  *  2024-03-12 \[[US Nebraska](us/ne.md)\] Permanent regulations

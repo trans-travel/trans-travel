@@ -16,7 +16,9 @@ impact on child custody.
 ## Public Accommodations
 
  * Trans people are required to use bathrooms/showers associated with their
-   sex assigned at birth when using some bathrooms/showers in schools.
+   sex assigned at birth when using some bathrooms/showers in schools,
+   including public universities and university-run programs, such as
+   medical organizations that are part of public universities.
  * Public accommodation access is not protected for trans people in Alabama.
  * Alabama has wide-reaching religious freedom laws that allow denial of
    some services on the basis of gender identity.
@@ -63,6 +65,10 @@ at birth and/or chromosomes.
    involve Alabama may be considered criminal conspiracy by the head law
    enforcement officer in the state, should the anti-trans youth healthcare
    ban be re-instated.
+ * Trans people are required to use bathrooms/showers associated with their
+   sex assigned at birth when using some bathrooms/showers in schools,
+   including public universities and university-run programs, such as
+   medical organizations that are part of public universities.
 
 ## Child Custody / Abuse
 
@@ -82,12 +88,16 @@ at birth and/or chromosomes.
 
 ## Relevant Laws
 
+ * [2024 SB129 Public University Medical
+   Ban](https://www.legislature.state.al.us/pdf/SearchableInstruments/2024RS/SB129-enr.pdf)
  * [2022 SB184 Trans Youth Medical Care](https://legiscan.com/AL/text/SB184/id/2566425)
 
 ## General Safety
 
 The state has a law that prevents instruction on sexual orientation or
-gender identity (or really any mention) up to grade 5 in schools.
+gender identity (or really any mention) up to grade 5 in schools. It
+also bans much of cultural-studies curriculum (gender studies, Black studies,
+etc) at public universities under 2024 SB129.
 
 Politicians at the state and national level have weighed in on the idea
 that trans people should not be employed anywhere children are present,
