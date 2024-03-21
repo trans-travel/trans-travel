@@ -18,7 +18,8 @@ impact on child custody.
  * Trans people are required to use bathrooms/showers associated with their
    sex assigned at birth when using some bathrooms/showers in schools,
    including public universities and university-run programs, such as
-   medical organizations that are part of public universities.
+   medical organizations that are part of public universities. The
+   public university provision takes effect on October 1, 2024.
  * Public accommodation access is not protected for trans people in Alabama.
  * Alabama has wide-reaching religious freedom laws that allow denial of
    some services on the basis of gender identity.
@@ -68,7 +69,8 @@ at birth and/or chromosomes.
  * Trans people are required to use bathrooms/showers associated with their
    sex assigned at birth when using some bathrooms/showers in schools,
    including public universities and university-run programs, such as
-   medical organizations that are part of public universities.
+   medical organizations that are part of public universities.  The public
+   university provision takes effect on October 1, 2024.
 
 ## Child Custody / Abuse
 
