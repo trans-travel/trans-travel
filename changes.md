@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-03-21 \[[CA Saskatchewan](ca/sk.md)\] Saskatchewan added.
  *  2024-03-21 \[[US Alabama](us/al.md)\] Alabama public university
     bathroom law.
  *  2024-03-12 \[[CA Prince Edward Island](ca/pe.md)\] Prince Edward

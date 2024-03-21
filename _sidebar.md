@@ -11,6 +11,7 @@
     - [Canada - Ontario](ca/on.md)
     - [Canada - Prince Edward Island](ca/pe.md)
     - [Canada - Quebec](ca/qc.md)
+    - [Canada - Saskatchewan](ca/sk.md)
   * [Mexico](mx.md)
   * [New Zealand / Aotearoa](nz.md)
   * USA
