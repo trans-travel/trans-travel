@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-03-22 \[[US Wyoming](us/wy.md)\] Ban on trans youth medical
+    care.
  *  2024-03-21 \[[CA Saskatchewan](ca/sk.md)\] Saskatchewan added.
  *  2024-03-21 \[[US Alabama](us/al.md)\] Alabama public university
     bathroom law.

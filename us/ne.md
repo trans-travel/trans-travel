@@ -10,8 +10,8 @@ considered their sex assigned at birth. This likely will apply to bathroom
 and facility access of facilities under state regulation (such as airports,
 rest areas, many parks) and can place trans people at significant risk.
 
-SNebraska will bans trans youth medical care with very narrow and
-limited exceptions for continuing care.  It has an unknown impact on child
+SNebraska bans trans youth medical care with very narrow and limited
+exceptions for continuing care.  It has an unknown impact on child
 custody, although it should be noted that the law applies to medical
 providers and not parents.
 
