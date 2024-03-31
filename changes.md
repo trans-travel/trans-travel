@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-03-30 \[[US Texas](us/tx.md)\] Child abuse investigations of
+    parents of trans youth temporarily blocked.
  *  2024-03-22 \[[US Wyoming](us/wy.md)\] Ban on trans youth medical
     care.
  *  2024-03-21 \[[CA Saskatchewan](ca/sk.md)\] Saskatchewan added.

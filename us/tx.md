@@ -69,7 +69,8 @@ at birth and/or chromosomes.
  * Medical transition for people under age 18 is subject to child abuse
    investigations under executive orders, which are being challenged
    with some success. Under attorney general opinion, medical transition
-   of youth is consider abuse.
+   of youth is consider abuse.  However, these investigations are temporarily
+   blocked by a temporary injunction.
  * Texas bans puberty blockers, HRT, and surgery for trans youth with few
    exceptions. This bill's enforcement actions are targeted primarily towards
    healthcare providers. While this [was challenged in a
@@ -86,6 +87,8 @@ at birth and/or chromosomes.
  * Trans youth medical care is illegal in Texas.
  * An executive order instructs child services agencies to investigate
    transgender children in many circumstances, placing custody at risk.
+   However, these investigations are temporarily blocked by a temporary
+   injunction.
  * The executive order and legal opinion of the AG is being challenged
    in court.
  * The anti-trans healthcare law penalizes healthcare providers, but not
