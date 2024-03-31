@@ -1,14 +1,15 @@
-# Canada - Newfoundland
+# Canada - Nunavut
 
-Newfoundland recognizes the gender of binary and non-binary 
-trans people. I.E. trans women
-are considered women, trans men are men, and non-binary people are
-recognized for some purposes. The non-discrimination/anti-harassment laws
-are positive and there is non-discrimination protection for trans people.
+Nunavut recognize the gender of binary trans people. I.E.
+trans women are considered women, trans men are men, although non-binary
+people are largely not recognized.
+
+The non-discrimination/anti-harassment laws are positive
+and there is explicit non-discrimination protection for trans people.
 
 ## Non-discrimination Law
 
- * Trans people are specifically named in Newfoundland non-discrimination laws.
+ * Trans people are explicitly protected in Nunavut non-discrimination laws.
 
 ## Public Accommodations
 
@@ -18,9 +19,7 @@ are positive and there is non-discrimination protection for trans people.
 
 ## Drag / Performance / Cross-dressing Laws
 
- * Drag performance and cross-dressing is legal in Newfoundland.
- * Anti-trans/anti-gay protests sometimes occur, from groups that
-   connect drag and transgender identity with conspiracy theories.
+ * Drag performance and cross-dressing is legal in Nunavut.
 
 ## Air Travel
 
@@ -36,13 +35,15 @@ bottom half of the body, should it be necessary.
 
 ## Jails / Prisons
 
- * Newfoundland policies for trans prisoners are unknown.
+ * It is unknown how trans prisoners are housed in Nunavut
+   currently.
 
 ## Legal Definition of Sex
 
-Non-binary people are recognized, and trans people are generally
-recognized on the basis of their gender identity, including the ability
-to update their documents.
+Non-binary people are not recognized.
+
+Binary trans people are generally recognized on the basis of their gender
+identity, including the ability to update their documents.
 
 ## Medical Care
 
@@ -62,23 +63,20 @@ to update their documents.
 
 ## Relevant Laws
 
- * [Newfoundland Human Rights
-   Act](https://assembly.nl.ca/legislation/sr/statutes/h13-1.htm)
+ * [Nunavut Human Rights
+   Act](https://www.nunavutlegislation.ca/en/consolidated-law/human-rights-act-official-consolidation)
 
 ## General Safety
 
-Because of the rhetoric around trans people in the political and media
-space, trans people should use caution, particularly in bathrooms,
+Active, organized anti-trans activity rarely occurs in Nunavut.
+
+However, because of the rhetoric around trans people in the political and
+media space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to sometimes be misgendered
 by officials and public institutions.
 
-Newfoundland has relatively little organized anti-trans activity
-compared to some other Canadian provinces, and significantly less than
-the USA.
-
 ## Resources
 
- * [Newfoundland Human Rights Commission](https://thinkhumanrights.ca/)
- * [Trans Support Newfoundland](https://tsnl.org)
+ * [Nunavut Human Rights Tribunal](https://nhrt.ca/)
  * [Transgender Airport Screening](https://www.catsa-acsta.gc.ca/en/transgender-passengers)

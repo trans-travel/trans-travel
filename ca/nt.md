@@ -1,17 +1,15 @@
-# Canada - Manitoba
+# Canada - Northwest Territories
 
-Manitoba recognizes the gender of binary and non-binary trans people.
-I.E. trans women
-are considered women, trans men are men, and non-binary people are
-recognized for some purposes. The non-discrimination/anti-harassment laws
-are positive and there is non-discrimination protection for trans people.
-
-In late 2023, Manitoba has taken official stances to re-affirm their
-support for trans people.
+Northwest Territories recognize the gender of binary and non-binary
+trans people. I.E.
+trans women are considered women, trans men are men, and non-binary people
+are recognized. The non-discrimination/anti-harassment laws are positive
+and there is explicit non-discrimination protection for trans people.
 
 ## Non-discrimination Law
 
- * Trans people are specifically named in Manitoba non-discrimination laws.
+ * Trans people are explicitly protected in Northwest Territories
+   non-discrimination laws.
 
 ## Public Accommodations
 
@@ -21,11 +19,7 @@ support for trans people.
 
 ## Drag / Performance / Cross-dressing Laws
 
- * Drag performance and cross-dressing is legal in Manitoba.
- * Anti-trans/anti-gay protests sometimes occur, from groups that
-   connect drag and transgender identity with conspiracy theories.
-   In 2023, these protests were generally opposed by pro-trans
-   counter-protesters that outnumbered the anti-trans protesters.
+ * Drag performance and cross-dressing is legal in Northwest Territories.
 
 ## Air Travel
 
@@ -41,9 +35,8 @@ bottom half of the body, should it be necessary.
 
 ## Jails / Prisons
 
- * While trans prisoners can be housed federally in accommodations that
-   match the person's gender identity, it is unknown whether or not the
-   province of Manitoba does the same.
+ * It is unknown how trans prisoners are housed in Northwest Territories
+   currently.
 
 ## Legal Definition of Sex
 
@@ -69,23 +62,19 @@ to update their documents.
 
 ## Relevant Laws
 
- * [Manitoba Human Rights
-   Code](https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=h175)
+ * [Northwest Territories Human Rights
+   Act](https://www.justice.gov.nt.ca/en/files/legislation/human-rights/human-rights.a.pdf)
 
 ## General Safety
 
-Because of the rhetoric around trans people in the political and media
-space, trans people should use caution, particularly in bathrooms,
+Active, organized anti-trans activity rarely occurs in Northwest Territories.
+
+However, because of the rhetoric around trans people in the political and
+media space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to sometimes be misgendered
 by officials and public institutions.
 
-Active, organized anti-trans activity occurs in Manitoba.  While this has
-not progressed to the degree it has in some USA states, travelers should
-be aware and monitor for changes.
-
 ## Resources
 
- * [Manitoba Human Rights
-   Guide](http://www.manitobahumanrights.ca/education/pdf/guidelines/guideline_genderid.pdf)
- * [Trans Manitoba (Advocacy for Trans people in Manitoba)](https://www.transmanitoba.org/)
+ * [Transgender Airport Screening](https://www.catsa-acsta.gc.ca/en/transgender-passengers)

@@ -1,6 +1,7 @@
 # Canada - Prince Edward Island
 
-Prince Edward Island recognizes the gender of binary trans people. I.E. trans women
+Prince Edward Island recognizes the gender of binary and non-binary
+trans people. I.E. trans women
 are considered women, trans men are men, and non-binary people are
 recognized. The non-discrimination/anti-harassment laws
 are positive and there is non-discrimination protection for trans people.

@@ -1,17 +1,16 @@
-# Canada - Manitoba
+# Canada - Yukon
 
-Manitoba recognizes the gender of binary and non-binary trans people.
-I.E. trans women
+Yukon recognize the gender of binary and non-binary
+trans people. I.E.  trans women
 are considered women, trans men are men, and non-binary people are
-recognized for some purposes. The non-discrimination/anti-harassment laws
-are positive and there is non-discrimination protection for trans people.
-
-In late 2023, Manitoba has taken official stances to re-affirm their
-support for trans people.
+recognized for some (but not all) purposes. The
+non-discrimination/anti-harassment laws are positive and there is
+explicit non-discrimination protection for trans people.
 
 ## Non-discrimination Law
 
- * Trans people are specifically named in Manitoba non-discrimination laws.
+ * Trans people are explicitly protected in Yukon
+   non-discrimination laws.
 
 ## Public Accommodations
 
@@ -21,11 +20,7 @@ support for trans people.
 
 ## Drag / Performance / Cross-dressing Laws
 
- * Drag performance and cross-dressing is legal in Manitoba.
- * Anti-trans/anti-gay protests sometimes occur, from groups that
-   connect drag and transgender identity with conspiracy theories.
-   In 2023, these protests were generally opposed by pro-trans
-   counter-protesters that outnumbered the anti-trans protesters.
+ * Drag performance and cross-dressing is legal in Yukon.
 
 ## Air Travel
 
@@ -41,15 +36,16 @@ bottom half of the body, should it be necessary.
 
 ## Jails / Prisons
 
- * While trans prisoners can be housed federally in accommodations that
-   match the person's gender identity, it is unknown whether or not the
-   province of Manitoba does the same.
+ * It is unknown how trans prisoners are housed in Yukon currently,
+   although Yukon does have policies that, on paper, seem to indicate
+   that trans prisoners can be placed in housing in line with their
+   gender identity.
 
 ## Legal Definition of Sex
 
-Non-binary people are recognized, and trans people are generally
-recognized on the basis of their gender identity, including the ability
-to update their documents.
+Non-binary people are only recognized for some purposes, and binary trans
+people are generally recognized on the basis of their gender identity,
+including the ability to update their documents.
 
 ## Medical Care
 
@@ -69,8 +65,8 @@ to update their documents.
 
 ## Relevant Laws
 
- * [Manitoba Human Rights
-   Code](https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=h175)
+ * [Yukon Human Rights
+   Act](https://laws.yukon.ca/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0116/2002-0116.pdf)
 
 ## General Safety
 
@@ -80,12 +76,13 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to sometimes be misgendered
 by officials and public institutions.
 
-Active, organized anti-trans activity occurs in Manitoba.  While this has
-not progressed to the degree it has in some USA states, travelers should
-be aware and monitor for changes.
+Limited, but active, organized anti-trans activity occurs in Yukon, although this
+is less supported than in much of the USA and other parts of Canada. Much of
+this anti-trans activity occurs as online "protest" with occasional [in-person
+anti-trans
+demonstrations](https://www.cbc.ca/news/canada/north/yukon-protest-lgbtq-rights-1.6973340).
 
 ## Resources
 
- * [Manitoba Human Rights
-   Guide](http://www.manitobahumanrights.ca/education/pdf/guidelines/guideline_genderid.pdf)
- * [Trans Manitoba (Advocacy for Trans people in Manitoba)](https://www.transmanitoba.org/)
+ * [Transgender Airport Screening](https://www.catsa-acsta.gc.ca/en/transgender-passengers)
+ * [Yukon Human Rights Commission](https://yukonhumanrights.ca/)

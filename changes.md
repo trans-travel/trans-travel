@@ -1,5 +1,9 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-03-31 \[[Canada Northwest Territories](ca/nt.md)\] Added
+    Northwest Territories.
+ *  2024-03-31 \[[Canada Nunavut](ca/nu.md)\] Added Nunavut.
+ *  2024-03-31 \[[Canada Yukon](ca/yk.md)\] Added Yukon.
  *  2024-03-30 \[[US Texas](us/tx.md)\] Child abuse investigations of
     parents of trans youth temporarily blocked.
  *  2024-03-22 \[[US Wyoming](us/wy.md)\] Ban on trans youth medical

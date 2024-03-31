@@ -1,6 +1,7 @@
 # Canada - New Brunswick
 
-New Brunswick recognizes the gender of binary trans people. I.E. trans women
+New Brunswick recognizes the gender of binary and non-binary trans people.
+I.E. trans women
 are considered women, trans men are men, and non-binary people are
 recognized for some purposes. The non-discrimination/anti-harassment laws
 are positive and there is non-discrimination protection for trans people.
