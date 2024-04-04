@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-04-03 \[[US Idaho](us/id.md)\] Therapist discrimination,
+    misgendering / deadnaming permission for government employees, and
+    new trans-exclusionary legal definiton of sex.
  *  2024-03-31 \[[Canada Northwest Territories](ca/nt.md)\] Added
     Northwest Territories.
  *  2024-03-31 \[[Canada Nunavut](ca/nu.md)\] Added Nunavut.

@@ -1,8 +1,10 @@
 # USA - Idaho
 
-Idaho has some negative laws towards trans people. However,
-these laws are, thus far, fairly restricted and do not apply to most
-trans people in most situations.
+Idaho has negative laws towards trans people. These laws may, in some
+cases, impact travelers.  In particular, medical professionals,
+government employees, and people working for public colleges and
+universities are allowed to discriminate.  There are also laws that
+can be interpreted to limit bathroom access for trans people.
 
 Idaho does criminalize trans care for children which may have an
 impact on child custody. However, this is currently stayed by judicial
@@ -11,6 +13,12 @@ order pending ongoing legislation.
 ## Non-discrimination Law
 
  * Idaho non-discrimination law does not include LGBT people
+ * 2024 H0538, if signed by the governor (it is not yet signed, as of
+   April 3, 2024), allows all levels of government employees and
+   public school employees (including higher education employees) to
+   refuse to recognize names other than legal names. This bill, if
+   signed, will also allow these same people to willingly misgender
+   trans people.
 
 ## Public Accommodations
 
@@ -36,6 +44,12 @@ order pending ongoing legislation.
    state money, etc).
  * Some cities have protections against gender-identity discrimination,
    but it is unclear how that is reconciled with state law.
+ * 2024 H0538, if signed by the governor (it is not yet signed, as of
+   April 3, 2024), allows all levels of government employees and
+   public school employees (including higher education employees) to
+   refuse to recognize names other than legal names. This bill, if
+   signed, will also allow these same people to willingly misgender
+   trans people. This may affect some public accommodations.
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -55,15 +69,27 @@ See the [USA TSA](notes/tsa.md) document.
    confirmation surgery to a prisoner, it should be expected that
    medical care will be sub-par. The state also aggressively fought to
    deny care, and would be expected to do so in the future.
+ * Therapists, who may be gatekeepers for trans medicine in prison
+   systems, can use 2024 S1352 to refuse to provide trans-related
+   care.
+ * 2024 H0538, if signed by the governor (it is not yet signed, as of
+   April 3, 2024), allows all levels of government employees and
+   public school employees (including higher education employees) to
+   refuse to recognize names other than legal names. This bill, if
+   signed, will also allow these same people to willingly misgender
+   trans people. This will allow those working in jails and prisons
+   this right to discrimination.
 
 ## Legal Definition of Sex
 
 Some laws define sex essentially in line with sex assigned at birth.
 
-Non-binary people are not generally recognized (with minor exceptions).
+Non-binary people are not recognized.
 
-Intersex people have some recognition.
-
+Intersex people have some recognition, but if H0421 2024 becomes law (it
+has passed the legislature as of April 3, 2024, but was not signed by
+the governor on that date yet), they will lose that recognition.
+ 
 ## Medical Care
 
  * Trans medical care is legal for adults.
@@ -72,6 +98,7 @@ Intersex people have some recognition.
    that law is the is blocked by a [preliminary
    injunction](https://www.courthousenews.com/idaho-ban-on-gender-affirming-treatment-for-trans-kids-blocked/)
    as part of a [legal challenge](https://www.acluidaho.org/en/news/idaho-families-sue-block-idahos-ban-health-care-trans-youth).
+ * Therapists can use 2024 S1352 to discriminate against trans persons.
 
 ## Child Custody / Abuse
 
@@ -93,6 +120,14 @@ Intersex people have some recognition.
  * [2023 H0071 - Trans Youth Medical Ban (Currently has a preliminary injunction blocking enforcement)](https://legiscan.com/ID/text/H0071/id/2761913)
  * [2023 S1016 - Allowing Bathroom Discrimination](https://legiscan.com/ID/text/S1016/id/2744918)
  * [2023 S1100 - School Bathrooms](https://legiscan.com/ID/text/S1100/id/2730977)
+ * [2024 H0421 - Trans-Exclusionary Definition of Sex (not yet signed
+   by governor, as of April 3,
+   2024)](https://legislature.idaho.gov/sessioninfo/2024/legislation/H0421/)
+ * [2024 H0538 - Allow Deadnaming and Misgendering by Government
+   officials (not yet signed by governor, as of April 3,
+   2024)](https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2024/legislation/H0538.pdf)
+ * [2024 S1352 - Allows Licensed Therapists to
+   Discriminate](https://legislature.idaho.gov/sessioninfo/2024/legislation/S1352/)
 
 ## General Safety
 
