@@ -4,7 +4,7 @@ DC recognizes the gender of trans people. I.E. trans women are
 considered women, trans men are men, and non-binary people, at least in
 some instances are recognized as non-binary.
 
-DC is a "sanctuary state" for adults and kids receiving trans medical
+DC is a "sanctuary city" for adults and kids receiving trans medical
 care.
 
 ## Non-discrimination Law
