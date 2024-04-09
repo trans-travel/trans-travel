@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-04-09 \[[US Florida](us/fl.md)\] Florida teacher obtains
+    injunction allowing her to identify herself properly to students.
  *  2024-04-03 \[[US Idaho](us/id.md)\] Therapist discrimination,
     misgendering / deadnaming permission for government employees, and
     new trans-exclusionary legal definiton of sex.

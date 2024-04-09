@@ -37,6 +37,11 @@ procedures," similar to how the courts have jurisdiction over abuse.
    associated a trans person's sex assigned at birth. This is being
    [challenged in court by teachers impacted by this
    law](https://fox17.com/news/nation-world/florida-state-federal-lawsuits-mother-minors-transgender-hormone-therapy-puberty-blockers-treatment-lgbt-discrimination-lawyers-teachers-personal-pronoun-title-law-republican-legislature-gov-ron-desantis-social-conservatives-issues).
+   One teacher has obtained a [preliminary
+   injunction](https://www.erininthemorning.com/p/florida-has-a-1st-amendment-problem)
+   allowing her to use her pronouns in school, but this ruling only
+   applies to this one teacher. Note that this preliminary injunction
+   does not prevent students from misgendering her.
  * Some businesses and LGBT organizations have canceled events that
    might involve drag or trans people participating, due to the
    possibility of the "protection of children" law being used against
