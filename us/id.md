@@ -13,12 +13,10 @@ order pending ongoing legislation.
 ## Non-discrimination Law
 
  * Idaho non-discrimination law does not include LGBT people
- * 2024 H0538, if signed by the governor (it is not yet signed, as of
-   April 3, 2024), allows all levels of government employees and
-   public school employees (including higher education employees) to
-   refuse to recognize names other than legal names. This bill, if
-   signed, will also allow these same people to willingly misgender
-   trans people.
+ * Idaho allows all levels of government employees and public school
+   employees (including higher education employees) to refuse to
+   recognize names other than legal names. This also allows these
+   same people to willingly misgender trans people.
 
 ## Public Accommodations
 
@@ -44,12 +42,11 @@ order pending ongoing legislation.
    state money, etc).
  * Some cities have protections against gender-identity discrimination,
    but it is unclear how that is reconciled with state law.
- * 2024 H0538, if signed by the governor (it is not yet signed, as of
-   April 3, 2024), allows all levels of government employees and
-   public school employees (including higher education employees) to
-   refuse to recognize names other than legal names. This bill, if
-   signed, will also allow these same people to willingly misgender
-   trans people. This may affect some public accommodations.
+ * Idaho allows all levels of government employees and public school employees
+   (including higher education employees) to refuse to recognize names
+   other than legal names. This also allows these same people to willingly
+   misgender trans people. This may affect some public accommodations and
+   tourist attractions.
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -72,13 +69,11 @@ See the [USA TSA](notes/tsa.md) document.
  * Therapists, who may be gatekeepers for trans medicine in prison
    systems, can use 2024 S1352 to refuse to provide trans-related
    care.
- * 2024 H0538, if signed by the governor (it is not yet signed, as of
-   April 3, 2024), allows all levels of government employees and
-   public school employees (including higher education employees) to
-   refuse to recognize names other than legal names. This bill, if
-   signed, will also allow these same people to willingly misgender
-   trans people. This will allow those working in jails and prisons
-   this right to discrimination.
+ * Idaho allows all government employees, including law enforcement,
+   jail, and prison employees at all levels of government to refuse to
+   recognize names other than legal names.  This also allows those employees
+   to misgender trans employees.  trans people. This will allow those working
+   in jails and prisons this right to discrimination.
 
 ## Legal Definition of Sex
 
@@ -124,8 +119,7 @@ the governor on that date yet), they will lose that recognition.
    by governor, as of April 3,
    2024)](https://legislature.idaho.gov/sessioninfo/2024/legislation/H0421/)
  * [2024 H0538 - Allow Deadnaming and Misgendering by Government
-   officials (not yet signed by governor, as of April 3,
-   2024)](https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2024/legislation/H0538.pdf)
+   officials)](https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2024/legislation/H0538.pdf)
  * [2024 S1352 - Allows Licensed Therapists to
    Discriminate](https://legislature.idaho.gov/sessioninfo/2024/legislation/S1352/)
 

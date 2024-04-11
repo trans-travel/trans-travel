@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-04-10 \[[US Idaho](us/id.md)\] Idaho allows government
+    employees to misgender and deadname trans people.
  *  2024-04-09 \[[US Florida](us/fl.md)\] Florida teacher obtains
     injunction allowing her to identify herself properly to students.
  *  2024-04-03 \[[US Idaho](us/id.md)\] Therapist discrimination,
