@@ -88,6 +88,13 @@ Non-binary people are not legally recognized.
    under law. It is unknown what the outcome of that legal case will be
    and whether medical records will be turned over to political office
    holders.
+ * In a separate case, a court has ordered Planned Parenthood of St.
+   Louis to [turn over
+   records](https://www.stltoday.com/news/local/government-politics/article_d65b6842-f8d0-11ee-9814-e7625b653629.html)
+   to the Attorney General relating to trans patients at the clinic.
+   While actual medical records protected by HIPAA are not included in
+   the records that will be turned over, other potentially identifying
+   records are.
 
 ## Child Custody / Abuse
 
