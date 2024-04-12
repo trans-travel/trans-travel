@@ -17,7 +17,6 @@
     - [Canada - Yukon](ca/yk.md)
   * [Mexico](mx.md)
   * [New Zealand / Aotearoa](nz.md)
-  * USA
     - [USA - Alabama](us/al.md)
     - [USA - Alaska](us/ak.md)
     - [USA - American Samoa](us/as.md)
@@ -75,7 +74,8 @@
     - [USA - Wisconsin](us/wi.md)
     - [USA - Wyoming](us/wy.md)
   * [United Kingdom](uk.md)
+  * United States
 * Notes
-  * [Flying with the TSA (Transportation Security Agency)](notes/tsa.md)
   * [Airport Bathrooms](notes/airport-bathrooms.md)
+  * [Flying with the TSA (Transportation Security Agency)](notes/tsa.md)
 * [Change Log for Trans Travel Guide](changes.md)

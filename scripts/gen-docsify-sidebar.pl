@@ -3,7 +3,7 @@ use 5.36.0;
 use Path::Tiny;
 
 my %fake_countries = (
-    "us" => "USA",
+    "us" => "United States",
     "ca" => "Canada",
 );
 my %fake_levels = (
