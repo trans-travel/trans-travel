@@ -74,6 +74,7 @@
     - [USA - West Virginia](us/wv.md)
     - [USA - Wisconsin](us/wi.md)
     - [USA - Wyoming](us/wy.md)
+  * [United Kingdom](uk.md)
 * Notes
   * [Airport Bathrooms](notes/airport-bathrooms.md)
   * [Flying with the TSA (Transportation Security Agency)](notes/tsa.md)

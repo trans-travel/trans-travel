@@ -15,6 +15,7 @@ tasks:
       - 'nz.md'
       - 'notes/airport-bathrooms.md'
       - 'notes/tsa.md'
+      - 'uk.md'
       - 'us/*.md'
       - ./scripts/gen-epub.pl
     generates: 
@@ -32,6 +33,7 @@ tasks:
       - 'nz.md'
       - 'notes/airport-bathrooms.md'
       - 'notes/tsa.md'
+      - 'uk.md'
       - 'us/*.md'
       - ./scripts/gen-pdf.pl
     generates: 
