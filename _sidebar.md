@@ -76,6 +76,6 @@
     - [USA - Wyoming](us/wy.md)
   * [United Kingdom](uk.md)
 * Notes
-  * [Airport Bathrooms](notes/airport-bathrooms.md)
   * [Flying with the TSA (Transportation Security Agency)](notes/tsa.md)
+  * [Airport Bathrooms](notes/airport-bathrooms.md)
 * [Change Log for Trans Travel Guide](changes.md)
