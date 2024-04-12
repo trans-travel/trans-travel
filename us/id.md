@@ -1,4 +1,4 @@
-# USA - Idaho
+# United States - Idaho
 
 Idaho has negative laws towards trans people. These laws may, in some
 cases, impact travelers.  In particular, medical professionals,

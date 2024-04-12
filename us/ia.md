@@ -1,4 +1,4 @@
-# USA - Iowa
+# United States - Iowa
 
 Iowa has several negative laws towards trans people. However,
 these laws are, thus far, fairly restricted and do not apply to most

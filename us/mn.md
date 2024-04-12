@@ -1,4 +1,4 @@
-# USA - Minnesota
+# United States - Minnesota
 
 Minnesota recognizes the gender of trans people. I.E. trans women
 are considered women, trans men are men, and non-binary people have some

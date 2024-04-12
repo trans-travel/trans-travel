@@ -1,4 +1,4 @@
-# USA - North Carolina
+# United States - North Carolina
 
 North Carolina does not have laws that target most trans visitors directly.
 

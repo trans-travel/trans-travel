@@ -1,4 +1,4 @@
-# USA - Mississippi
+# United States - Mississippi
 
 Mississippi has negative laws towards trans people. However, these laws
 are, thus far, fairly restricted and do not apply to most

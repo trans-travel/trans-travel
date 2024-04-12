@@ -1,4 +1,4 @@
-# USA - Virgin Islands
+# United States - Virgin Islands
 
 The US Virgin Islands do not have negative laws towards trans people.
 

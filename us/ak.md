@@ -1,4 +1,4 @@
-# USA - Alaska
+# United States - Alaska
 
 Alaska does not have laws that target trans people directly.
 

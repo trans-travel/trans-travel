@@ -1,4 +1,4 @@
-# USA - Nebraska
+# United States - Nebraska
 
 Nebraska has some negative law and executive orders towards trans people
 that affect almost all trans travelers. In particular, due to an

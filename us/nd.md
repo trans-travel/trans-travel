@@ -1,4 +1,4 @@
-# USA - North Dakota
+# United States - North Dakota
 
 North Dakota has several negative laws towards trans people. Among these
 is a legal definition of sex that may be used to restrict the rights of

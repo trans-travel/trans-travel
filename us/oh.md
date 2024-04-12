@@ -1,4 +1,4 @@
-# USA - Ohio
+# United States - Ohio
 
 Ohio does not have laws that target most trans visitors directly,
 although a trans woman was charged (and found not guilty) for changing

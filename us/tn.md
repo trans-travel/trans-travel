@@ -1,4 +1,4 @@
-# USA - Tennessee
+# United States - Tennessee
 
 Tennessee has negative laws and executive orders towards trans people. Some of
 these laws place trans visitors at risk.

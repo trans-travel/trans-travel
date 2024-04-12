@@ -1,4 +1,4 @@
-# USA - Texas
+# United States - Texas
 
 Texas has negative laws and executive orders towards trans people. Some of
 these laws could place trans visitors at risk.

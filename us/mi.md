@@ -1,4 +1,4 @@
-# USA - Michigan
+# United States - Michigan
 
 Michigan does not have laws that target trans people directly and has
 non-discrimination laws that protect trans people. While Michigan does not

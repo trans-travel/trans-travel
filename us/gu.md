@@ -1,4 +1,4 @@
-# USA - Guam
+# United States - Guam
 
 Guam is not a "sanctuary territory", but also does not criminalize
 trans youth medical care.

@@ -1,4 +1,4 @@
-# USA - Wyoming
+# United States - Wyoming
 
 Wyoming does have negative laws towards trans people.
 

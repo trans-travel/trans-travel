@@ -1,4 +1,4 @@
-# USA - Washington
+# United States - Washington
 
 Washington is one of the safer states for trans people in the United
 States. This does not mean to expect full equality in all instances, but

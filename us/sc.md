@@ -1,4 +1,4 @@
-# USA - South Carolina
+# United States - South Carolina
 
 South Carolina does not have laws that target most trans visitors directly.
 

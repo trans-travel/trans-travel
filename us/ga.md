@@ -1,4 +1,4 @@
-# USA - Georgia
+# United States - Georgia
 
 Georgia negative laws towards trans people. These laws should generally
 not impact adult travelers to Georgia, although Georgia also lacks many

@@ -1,4 +1,4 @@
-# USA - Massachusetts
+# United States - Massachusetts
 
 Massachusetts recognizes the gender of trans people. I.E. trans women are
 considered women, trans men are men, and non-binary people, at least in

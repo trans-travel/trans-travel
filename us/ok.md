@@ -1,4 +1,4 @@
-# USA - Oklahoma
+# United States - Oklahoma
 
 Oklahoma has negative laws towards trans people. Some of these laws may
 place trans visitors at risk.

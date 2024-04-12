@@ -1,4 +1,4 @@
-# USA - Wisconsin
+# United States - Wisconsin
 
 Wisconsin does not have negative laws towards trans people.
 

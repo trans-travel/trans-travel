@@ -1,4 +1,4 @@
-# USA - Arizona
+# United States - Arizona
 
 Arizona has several negative laws towards trans people. However,
 these laws are, thus far, fairly restricted and do not apply to most

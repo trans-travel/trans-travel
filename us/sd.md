@@ -1,4 +1,4 @@
-# USA - South Dakota
+# United States - South Dakota
 
 South Dakota has some negative laws towards trans people. However,
 these laws are, thus far, fairly restricted and do not apply to most

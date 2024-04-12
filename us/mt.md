@@ -1,4 +1,4 @@
-# USA - Montana
+# United States - Montana
 
 Montana has several negative laws towards trans people, such as a law
 defining male and female in a trans-exclusionary way for nearly all

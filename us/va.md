@@ -1,4 +1,4 @@
-# USA - Virginia
+# United States - Virginia
 
 Virginia does not have laws that target most trans visitors directly.
 However, the Virginia executive branch has created "model policies" for

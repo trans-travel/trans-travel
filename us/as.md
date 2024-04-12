@@ -1,4 +1,4 @@
-# USA - American Samoa
+# United States - American Samoa
 
 American Samoa is not a "sanctuary territory", but also does not criminalize
 trans youth medical care.  It has a rich historical tradition of

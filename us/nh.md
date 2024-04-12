@@ -1,4 +1,4 @@
-# USA - New Hampshire
+# United States - New Hampshire
 
 New Hampshire does not have laws that target trans people directly and has
 non-discrimination laws that protect trans people.

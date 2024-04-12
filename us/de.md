@@ -1,4 +1,4 @@
-# USA - Delaware
+# United States - Delaware
 
 Delaware does not have laws that target trans people directly and has
 non-discrimination laws that protect trans people.  However, Delaware

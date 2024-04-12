@@ -1,4 +1,4 @@
-# USA - Missouri
+# United States - Missouri
 
 Missouri negative laws towards trans people. These laws
 are, while horrible for residents of Missouri, do not generally

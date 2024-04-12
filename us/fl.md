@@ -1,4 +1,4 @@
-# USA - Florida
+# United States - Florida
 
 HRC and Equality Florida, LGBT advocacy groups, have issued an advisory travel
 warning for the State of Florida.  In addition, both LULAC and NAACP

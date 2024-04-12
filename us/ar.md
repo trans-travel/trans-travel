@@ -1,4 +1,4 @@
-# USA - Arkansas
+# United States - Arkansas
 
 Arkansas negative laws towards trans people. Some of these laws may
 place trans people at risk. Trans people should particularly consider

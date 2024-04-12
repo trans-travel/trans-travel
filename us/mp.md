@@ -1,4 +1,4 @@
-# USA - Northern Mariana Islands
+# United States - Northern Mariana Islands
 
 Northern Mariana Islands is not a "sanctuary territory", but also does
 not criminalize trans youth medical care.

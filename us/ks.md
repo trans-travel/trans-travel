@@ -1,4 +1,4 @@
-# USA - Kansas
+# United States - Kansas
 
 Kansas places trans people at risk by not recognizing any gender other
 than sex assigned at birth, regardless of legal documentation changes in

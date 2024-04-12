@@ -1,4 +1,4 @@
-# USA - Pennsylvania
+# United States - Pennsylvania
 
 Pennsylvania does not has several negative laws towards trans people.
 

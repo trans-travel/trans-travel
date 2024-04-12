@@ -1,4 +1,4 @@
-# USA - Nevada
+# United States - Nevada
 
 Nevada does not have laws that target trans people directly and has
 non-discrimination laws that protect trans people. While Nevada does not
