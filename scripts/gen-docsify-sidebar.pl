@@ -19,7 +19,7 @@ for my $country (keys %fake_countries) {
 
 my @countries = path('.')->children(qr/^..\.md$/);
 my @locations = sort { extract_title($a) cmp extract_title($b) } (@subdivisions, keys(%fake_countries), @countries);
-my @notes = path('./notes')->children(qr/\.md$/);
+my @notes = sort(path('./notes')->children(qr/\.md$/));
 my @files = ( "jurisdictions", @locations, "notes", @notes );
 unshift @files, path('./contributors.md');
 unshift @files, path('./README.md');
