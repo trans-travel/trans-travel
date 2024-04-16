@@ -7,8 +7,7 @@ universities are allowed to discriminate.  There are also laws that
 can be interpreted to limit bathroom access for trans people.
 
 Idaho does criminalize trans care for children which may have an
-impact on child custody. However, this is currently stayed by judicial
-order pending ongoing legislation.
+impact on child custody.
 
 ## Non-discrimination Law
 
@@ -88,19 +87,16 @@ the governor on that date yet), they will lose that recognition.
 ## Medical Care
 
  * Trans medical care is legal for adults.
- * While there is a law making trans medical care is illegal for anyone
-   under 18 (including puberty blockers, hormone therapy, and surgery),
-   that law is the is blocked by a [preliminary
-   injunction](https://www.courthousenews.com/idaho-ban-on-gender-affirming-treatment-for-trans-kids-blocked/)
-   as part of a [legal challenge](https://www.acluidaho.org/en/news/idaho-families-sue-block-idahos-ban-health-care-trans-youth).
+ * Trans medical care is illegal for anyone under 18 (including puberty
+   blockers, hormone therapy, and surgery. This law is [being
+   challenged]https://www.acluidaho.org/en/news/idaho-families-sue-block-idahos-ban-health-care-trans-youth),
+   but is currently in effect.
  * Therapists can use 2024 S1352 to discriminate against trans persons.
 
 ## Child Custody / Abuse
 
  * Idaho has passed a trans medical care ban for youth (puberty blockers,
-   hormones, surgeries are illegal under this law), although the law is
-   currently blocked, meaning medical care remains legal, due to a
-   preliminary injunction (see above).
+   hormones, surgeries are illegal under this law).
  * It is unknown if transition might be used by the state to justify
    custody removal.
  * There is no sanctuary law preventing cooperation with other
@@ -112,7 +108,7 @@ the governor on that date yet), they will lose that recognition.
 
 ## Relevant Laws
 
- * [2023 H0071 - Trans Youth Medical Ban (Currently has a preliminary injunction blocking enforcement)](https://legiscan.com/ID/text/H0071/id/2761913)
+ * [2023 H0071 - Trans Youth Medical Ban](https://legiscan.com/ID/text/H0071/id/2761913)
  * [2023 S1016 - Allowing Bathroom Discrimination](https://legiscan.com/ID/text/S1016/id/2744918)
  * [2023 S1100 - School Bathrooms](https://legiscan.com/ID/text/S1100/id/2730977)
  * [2024 H0421 - Trans-Exclusionary Definition of Sex (not yet signed

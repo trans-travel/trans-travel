@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-04-15 \[[US Idaho](us/id.md)\] Idaho youth trans medical ban is
+    again in-effect.
  *  2024-04-12 \[[United Kingdom](uk.md)\] Added UK
  *  2024-04-12 \[[US Missouri](us/mo.md)\] Records relating to trans
     care (but not private medical records) ordered to be turned over to
