@@ -1,4 +1,4 @@
-# Flying with the TSA (Transportation Security Agency)
+# United States - Air Travel and Screening
 
 When flying out of USA airports (including after connecting from
 international flights), security screening is required.  This is done by
@@ -52,6 +52,8 @@ This only applies to travel from USA-airports.  If you fly
 internationally, airports in other countries will have different
 procedures. Pre-check is a USA program, and does not apply outside the
 USA.
+
+If you are entering the USA, consult the [USA international visitors](notes/usa-immigration.md) page.
 
 ## Airport Bathrooms
 

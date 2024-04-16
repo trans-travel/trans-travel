@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-04-15 \[[US Interantional Visitors](us/usa-immigration.md)\]
+    Information for international visitors to the USA
  *  2024-04-15 \[[US Idaho](us/id.md)\] Idaho youth trans medical ban is
     again in-effect.
  *  2024-04-12 \[[United Kingdom](uk.md)\] Added UK
