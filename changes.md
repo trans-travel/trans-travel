@@ -1,6 +1,6 @@
 # Change Log for Trans Travel Guide
 
- *  2024-04-15 \[[US Ohio](us/oh.md)\] Court temporary blocked HB68.
+ *  2024-04-16 \[[US Ohio](us/oh.md)\] Court temporary blocked HB68.
  *  2024-04-15 \[[US Interantional Visitors](notes/usa-immigration.md)\]
     Information for international visitors to the USA
  *  2024-04-15 \[[US Idaho](us/id.md)\] Idaho youth trans medical ban is
