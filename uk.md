@@ -104,6 +104,8 @@ Non-binary gender is not recognized in the UK.
  * NHS clinics typically refer trans-related medical patients to
    specialty units. These units can have extremely long wait times (many
    years).
+ * Puberty blockers and hormone therapy is generally not available to
+   youth (under 18) at NHS-run clinics.
  * Private trans care is available in the UK
  * Youth trans care is highly contested in the UK and is an area that is
    seeing a shift away from affirming the gender of trans youth. While

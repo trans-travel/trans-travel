@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-04-18 \[[UK](uk.md)\] Added note that NHS generally does not
+    provide puberty blockers or HRT to youth.
  *  2024-04-17 \[[US Virginia](us/va.md)\] Norfolk transgender center
     vandelized.
  *  2024-04-16 \[[US Ohio](us/oh.md)\] Court temporary blocked HB68.
