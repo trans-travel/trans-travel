@@ -77,7 +77,10 @@ Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to be misgendered by
-officials and public institutions.
+officials and public institutions. Far-right groups operate in Virginia,
+and in at least one case a transgender organization in Norfolk was
+[vandalized with anti-trans hate
+messaging](https://www.losangelesblade.com/2024/04/17/norfolk-virginia-transgender-resource-center-vandalized/).
 
 ## Resources
 
