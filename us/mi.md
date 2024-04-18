@@ -71,7 +71,11 @@ officials and public institutions.
 As an example of recent attacks, on July 15, 2023, a disabled trans man
 was [shot with a pellet gun while being called transphobic/homophobic
 slurs](https://www.fox2detroit.com/news/transgender-man-shot-with-pellet-gun-called-homophobic-and-transphobic-slurs-in-pontiac)
-in Pontiac, MI.
+in Pontiac, MI.  At Michigan State University, a group of seven
+high-school aged boys
+[attacked two
+students](https://www.lgbtqnation.com/2024/04/7-suspects-identified-in-brutal-campus-anti-lgbtq-attack-they-cant-be-charged-with-a-hate-crime/)
+in the library based on the victims' sexuality and race.
 
 ## Resources
 

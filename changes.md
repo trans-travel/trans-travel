@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-04-18 \[[US Michigan](us/mi.md)\] Two victims were assaulted by
+    a group of 7 high school boys on MSU's campus for their sexuality
  *  2024-04-18 \[[UK](uk.md)\] Added note that NHS generally does not
     provide puberty blockers or HRT to youth.
  *  2024-04-17 \[[US Virginia](us/va.md)\] Norfolk transgender center
