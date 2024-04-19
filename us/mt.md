@@ -64,8 +64,7 @@ Montana does not generally allow changing of ID or birth certificate.
 They have previously violated court orders on birth certificate changes.
 The state is currently (as of April 18, 2024) [being
 sued](https://thehill.com/homenews/lgbtq/4603075-montana-sued-over-refusal-to-amend-transgender-peoples-identity-documents/)
-for the ban on changing birth
-certificates.
+for the ban on changing birth certificates and ID.
 
 ## Medical Care
 
