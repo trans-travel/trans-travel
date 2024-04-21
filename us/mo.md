@@ -94,7 +94,9 @@ Non-binary people are not legally recognized.
    to the Attorney General relating to trans patients at the clinic.
    While actual medical records protected by HIPAA are not included in
    the records that will be turned over, other potentially identifying
-   records are.
+   records are.  Planned parenthood [has
+   appealed](https://www.stltoday.com/news/local/government-politics/planned-parenthood-appeals-order-forcing-it-to-turn-over-certain-transgender-care-records/article_cc2c9f52-fe53-11ee-a2f1-0f625ca4c442.html)
+   this.
 
 ## Child Custody / Abuse
 
