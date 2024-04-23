@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-04-22 \[[UK](uk.md)\] Misgendering and lack of hygiene items
+    when prisoners are placed according to sex assigned at birth.
  *  2024-04-22 \[[US West Virginia](us/wv.md)\] Anti-trans governor race
     ads and rhetoric following trans athletes competing in athletics.
  *  2024-04-22 \[[US California](us/ca.md)\] Mayor recalled after coming

@@ -86,6 +86,8 @@ UK does not have laws against transgender medical care for any age.
  * Trans women who are not allowed to be housed in a women's prison may
    be housed in a "specialist unit."
  * The prison service does not recognize non-binary identity.
+ * Trans prisoners have reported misgendering and lack of appropriate
+   hygiene items when housed according to assignment at birth.
 
 ## Legal Definition of Sex
 
