@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-04-22 \[[US Louisiana](us/la.md)\] State directs local
+    officials to ignore Title IX guidance.
  *  2024-04-19 \[[US Missouri](us/mo.md)\] Planned parenthood appeals
     requests for records.
  *  2024-04-18 \[[US Montana](us/mt.md)\] State being sued over birth

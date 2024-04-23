@@ -81,6 +81,13 @@ other parts of Louisiana, including some nearby cities of New Orleans.
 "Sexually explicit" materials in libraries (electronically or in print)
 are restricted. This will likely be used to target LGBT material.
 
+Some government officials are explicitly anti-trans. For instance, on 22
+April 2024, the
+Superintendent of Education directed local school districts to [ignore
+federal civil rights
+guidance](https://thehill.com/homenews/lgbtq/4613178-louisiana-education-chief-tells-schools-to-ignore-new-title-ix-rules-for-transgender-students/)
+on Title IX, in favor of anti-trans policies.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
