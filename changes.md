@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-04-22 \[[US California](us/ca.md)\] Mayor recalled after coming
+    out as trans.
  *  2024-04-22 \[[US Louisiana](us/la.md)\] State directs local
     officials to ignore Title IX guidance.
  *  2024-04-19 \[[US Missouri](us/mo.md)\] Planned parenthood appeals

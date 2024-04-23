@@ -94,6 +94,14 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to sometimes be misgendered
 by officials and public institutions.
 
+Despite California's reputation as LGBT friendly, different localities
+may have different attitudes towards trans people. For instance, Calexico,
+in 2024, [recalled their
+mayor](https://www.metroweekly.com/2024/04/california-mayor-recalled-after-coming-out-as-transgender/)
+after their mayor came out as transgender. The recall campaign was
+aggressively transphobic, although it officially claimed to be about
+progressive politics.
+
 However, much of California is considered reasonably safe, particularly
 the major cities where many people are visibly trans. That said, attacks
 still can and do occur in California, particularly around school board
