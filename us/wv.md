@@ -83,5 +83,13 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to be misgendered by
 officials and public institutions.
 
+Rhetoric in Spring, 2024, is particularly strong around trans athletes
+(following a court decision to allow trans youth to play sports) and the
+[anti-trans West Virginia Governor's race
+ads](https://wvpublic.org/w-va-gubernatorial-campaign-attack-ads-vilify-transgender-children/).
+This rhetoric particularly targets trans youth, so caregivers should
+exercise caution when traveling with visibly trans children to West
+Virginia.
+
 ## Resources
 
