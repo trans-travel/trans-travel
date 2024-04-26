@@ -75,6 +75,9 @@ See the [USA TSA](notes/tsa.md) document.
 ## Legal Definition of Sex
 
 Tennessee generally does not allow gender markers to be changed on IDs.
+This is being [challenged in
+court](https://abcnews.go.com/US/wireStory/transgender-tennessee-woman-sues-states-refusal-change-sex-109550308)
+(updated April 25, 2024).
 
 Tennessee does not recognize non-binary gender.
 
