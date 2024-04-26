@@ -70,6 +70,10 @@ still in-complete in Colorado.
    anyone under 18, cutting off 18+ people, despite 18+ people routinely
    getting care at Children's for other needs, this eliminated all
    surgeries).
+ * Colorado has a sanctuary law for people obtaining transition-related
+   medical care in Colorado
+ * Colorado will not extradite people for violating another state's laws
+   against medical transition
 
 ## Child Custody / Abuse
 

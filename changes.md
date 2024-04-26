@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-04-25 \[[US Maine](us/me.md)\] Sanctuary law signed.
  *  2024-04-25 \[[US Texas](us/tx.md)\] Governor states trans teachers
     should dress as their birth gender.
  *  2024-04-25 \[[US Tennessee](us/tn.md)\] Bill awaiting governor

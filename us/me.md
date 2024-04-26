@@ -5,6 +5,9 @@ non-discrimination laws that protect trans people. While Maine does not
 have a sanctuary law, the state generally is proactive in legally
 protecting trans people.
 
+Maine is a "sanctuary state" for adults and kids receiving trans medical
+care.
+
 Maine does not appear to place child custody at risk.
 
 ## Non-discrimination Law
@@ -48,12 +51,18 @@ state IDs.
 ## Medical Care
 
  * Trans medical care is legal for adults and children.
+ * Maine has a sanctuary law for people obtaining transition-related
+   medical care in Colorado
+ * Maine will not extradite people for violating another state's laws
+   against medical transition
 
 ## Child Custody / Abuse
 
  * Transition care is not specifically defined as child abuse
- * There is no sanctuary law preventing cooperation with other
-   jurisdictions
+ * Maine has a sanctuary law for people obtaining transition-related
+   medical care in Colorado
+ * Maine will not extradite people for violating another state's laws
+   against medical transition
  
 ## Relationship Recognition
 
@@ -61,6 +70,8 @@ state IDs.
 
 ## Relevant Laws
 
+ * [2024 HP 148 / LD 237 - Trans Healthcare Sanctuary
+   Law](https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0148&item=3&snum=131)
  * [Doe v. Regional School Unit 26 - Trans School Bathroom Access](https://www.glad.org/wp-content/uploads/2016/10/doe-v-clenchy-decision-1-30-14.pdf)
  * [Management of Transgender and Intersex Prisoners Policy](https://www.maine.gov/corrections/sites/maine.gov.corrections/files/inline-files/23.08%20MANAGEMENT%20OF%20TRANSGENDER%20AND%20INTERSEX%20PRISONERS.pdf)
 
