@@ -122,6 +122,11 @@ blocked by a court, but which was rewritten to [bypass the court order](https://
 and allow continued discrimination).  Thus it is important to recognize that
 California is not unified and does not have a single view of trans people.
 
+Even cities that proclaim themselves a safe city for trans people, trans
+people such as Sacramento, see some attacks, sach as a March 2024
+[physical attack on trans
+people](https://www.youtube.com/watch?v=F9wpla-5krE).
+
 In addition, beyond political events and education, other violence has
 occurred in California, sometimes not being restricted to the queer
 community, but also impacting allies, such as the [murder of a
