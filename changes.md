@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-04-25 \[[US Tennessee](us/tn.md)\] Bill awaiting governor
+    signature that would ban providing information or assisting youth
+    access trans care, even in locations where it is legal.
  *  2024-04-22 \[[UK](uk.md)\] Misgendering and lack of hygiene items
     when prisoners are placed according to sex assigned at birth.
  *  2024-04-22 \[[US West Virginia](us/wv.md)\] Anti-trans governor race
