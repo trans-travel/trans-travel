@@ -76,13 +76,11 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Legal Definition of Sex
 
-Some laws define sex essentially in line with sex assigned at birth.
+Idaho defines sex based on sex assigned at birth.
 
 Non-binary people are not recognized.
 
-Intersex people have some recognition, but if H0421 2024 becomes law (it
-has passed the legislature as of April 3, 2024, but was not signed by
-the governor on that date yet), they will lose that recognition.
+Intersex are not recognized.
  
 ## Medical Care
 
@@ -111,9 +109,7 @@ the governor on that date yet), they will lose that recognition.
  * [2023 H0071 - Trans Youth Medical Ban](https://legiscan.com/ID/text/H0071/id/2761913)
  * [2023 S1016 - Allowing Bathroom Discrimination](https://legiscan.com/ID/text/S1016/id/2744918)
  * [2023 S1100 - School Bathrooms](https://legiscan.com/ID/text/S1100/id/2730977)
- * [2024 H0421 - Trans-Exclusionary Definition of Sex (not yet signed
-   by governor, as of April 3,
-   2024)](https://legislature.idaho.gov/sessioninfo/2024/legislation/H0421/)
+ * [2024 H0421 - Trans-Exclusionary Definition of Sex)](https://legislature.idaho.gov/sessioninfo/2024/legislation/H0421/)
  * [2024 H0538 - Allow Deadnaming and Misgendering by Government
    officials)](https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2024/legislation/H0538.pdf)
  * [2024 S1352 - Allows Licensed Therapists to
