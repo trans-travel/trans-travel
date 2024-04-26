@@ -7,6 +7,9 @@ South Carolina does not appear to place child custody at risk.
 ## Non-discrimination Law
 
  * South Carolina non-discrimination law does not include LGBT people specifically
+ * State officials have directed schools to [ignore Title IX
+   regulations](https://www.losangelesblade.com/2024/04/25/four-states-to-ignore-new-title-ix-rules-protecting-trans-students/)
+   (as of April 25, 2024) regarding non-discrimination against trans people.
  * Some municipalities have local non-discrimination laws that apply to
    gender identity, particularly Charleston and Columbia.
 

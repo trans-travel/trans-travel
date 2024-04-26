@@ -1,6 +1,14 @@
 # Change Log for Trans Travel Guide
 
- *  2024-04-25 \[[US Tennessee]\(us/tn.md)\] Lawsuit against ID change
+ *  2024-04-25 \[[US Florida](us/fl.md)\] State directs schools to
+    ignore some Title IX regulations.
+ *  2024-04-25 \[[US Louisiana](us/la.md)\] State directs schools to
+    ignore some Title IX regulations.
+ *  2024-04-25 \[[US Oklahoma](us/ok.md)\] State directs schools to
+    ignore some Title IX regulations.
+ *  2024-04-25 \[[US South Carolina](us/sc.md)\] State directs schools to
+    ignore some Title IX regulations.
+ *  2024-04-25 \[[US Tennessee](us/tn.md)\] Lawsuit against ID change
     bans.
  *  2024-04-25 \[[US California](us/ca.md)\] Trans women attacked in
     Sacremento.

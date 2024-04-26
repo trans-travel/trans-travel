@@ -24,6 +24,9 @@ visitors).
    non-conforming cis women at risk of invasive questioning and state
    action.
  * Oklahoma non-discrimination law does not include LGBT people.
+ * State officials have directed schools to [ignore Title IX
+   regulations](https://www.losangelesblade.com/2024/04/25/four-states-to-ignore-new-title-ix-rules-protecting-trans-students/)
+   (as of April 25, 2024) regarding non-discrimination against trans people.
  * Norman, OK has a non-discrimination law locally.
 
 ## Public Accommodations

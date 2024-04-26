@@ -14,6 +14,9 @@ might have an impact on child custody.
 ## Non-discrimination Law
 
  * Louisiana non-discrimination law does not include LGBT people specifically
+ * State officials have directed schools to [ignore Title IX
+   regulations](https://www.losangelesblade.com/2024/04/25/four-states-to-ignore-new-title-ix-rules-protecting-trans-students/)
+   (as of April 25, 2024) regarding non-discrimination against trans people.
  * Some municipalities have local non-discrimination laws that apply to
    gender identity, particularly New Orleans and Shreveport.
 

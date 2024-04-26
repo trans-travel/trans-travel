@@ -42,6 +42,9 @@ procedures," similar to how the courts have jurisdiction over abuse.
    allowing her to use her pronouns in school, but this ruling only
    applies to this one teacher. Note that this preliminary injunction
    does not prevent students from misgendering her.
+ * State officials have directed schools to [ignore Title IX
+   regulations](https://www.losangelesblade.com/2024/04/25/four-states-to-ignore-new-title-ix-rules-protecting-trans-students/)
+   (as of April 25, 2024) regarding non-discrimination against trans people.
  * Some businesses and LGBT organizations have canceled events that
    might involve drag or trans people participating, due to the
    possibility of the "protection of children" law being used against
