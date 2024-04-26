@@ -44,6 +44,11 @@ care.
    prosecute drag performers or venues, at least some organizations will be
    able to declare that the first amendment does not include drag and thus 
    ban drag in their facilities.
+ * Texas politicians, including the governor, in 2024 has repeated
+   stated that transgender people should not have employment in jobs
+   that involve interacting with children, unless they dress/present as
+   their sex assigned at birth. This is not legally binding, but
+   indicates government sentiment.
 
 ## Air Travel
 
