@@ -103,6 +103,10 @@ at birth and/or chromosomes.
 The state has a law that prevents instruction on sexual orientation or
 gender identity up to grade five in schools.
 
+In April, 2024, the only transgender resource center's building [was
+vandalized](https://www.thv11.com/article/news/local/arkansas-transgender-resource-center-closed-vandalism/91-95f21c38-87c1-45e9-b2a0-58151f40feb9).
+This has happened several times in the past, as well.
+
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and

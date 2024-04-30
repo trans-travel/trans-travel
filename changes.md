@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-04-30 \[[US Arkansas](us/ar.md)\] Transgender resource center
+    vandelized.
  *  2024-04-26 \[[US Idaho](us/id.md)\] HB421 passed.
  *  2024-04-25 \[[US Florida](us/fl.md)\] State directs schools to
     ignore some Title IX regulations.
