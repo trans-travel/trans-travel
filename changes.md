@@ -1,5 +1,11 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-05-04 \[[US South Carolina](us/sc.md)\] Youth medical ban
+    passes legislature, waiting on Governor's signature.
+ *  2024-05-04 \[[US Texas](us/tx.md)\] Austin passes sanctuary
+    resolution.
+ *  2024-05-04 \[[US Utah](us/ut.md)\] State sets up snitch site for
+    bathroom violations.
  *  2024-04-30 \[[US Arkansas](us/ar.md)\] Transgender resource center
     vandelized.
  *  2024-04-26 \[[US Idaho](us/id.md)\] HB421 passed.

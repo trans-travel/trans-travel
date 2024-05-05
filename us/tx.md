@@ -86,6 +86,11 @@ at birth and/or chromosomes.
    injunction](https://www.texastribune.org/2023/08/25/texas-transgender-kids-health-care-lawsuit/).
    Thus, this law is in effect (at least on Sept. 26, 2023), which means
    that trans youth are unable to access this medical care.
+ * Austin has passed a [sanctuary
+   resolution](https://services.austintexas.gov/edims/document.cfm?id=427444)
+   which limits city cooperation with state officials in enforcing
+   gender affirming care restrictions. However, gender affirming care
+   for minors remains illegal in all of Texas.
 
 ## Child Custody / Abuse
 

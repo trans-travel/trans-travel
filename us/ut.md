@@ -74,6 +74,10 @@ and may lack some protections.
    women will face harassment in facilities in Utah, even if these women
    are cis (non-trans).  These women should also use extreme caution in
    Utah.
+ * Utah has set up a [reporting
+   website](https://ut-sao-special-prod.web.app/sex_basis_complaint.html)
+   for bathroom and other violations of transphobic law, which encourage
+   attachment of pictures.
 
 ## Drag / Performance / Cross-dressing Laws
 
