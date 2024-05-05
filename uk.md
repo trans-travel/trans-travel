@@ -15,6 +15,11 @@ relevant is made below.  In addition, the Crown Dependencies and British
 Overseas Territories will be discussed in other pages -- this page
 covers England, Wales, Scotland, and Northern Ireland only.
 
+People visiting the UK with trans youth (under 18) likely should be
+cautious with mention of medical transition to medical authorities, as
+some have indicated some types of care provided by some providers may be
+reportable to child protection agencies.
+
 ## Summary
 
 The UK has non-discrimination law that protects "gender reassignment"
