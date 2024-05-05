@@ -106,7 +106,7 @@ procedures," similar to how the courts have jurisdiction over abuse.
    possibility of the "protection of children" law being used against
    these organizations. However, see the above bullet point.
 
-## Air Travel
+## Cruise / Air Travel
 
 See the [USA TSA](notes/tsa.md) document.
  
