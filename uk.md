@@ -103,6 +103,11 @@ Non-binary gender is not recognized in the UK.
 ## Medical Care
 
  * Trans medical care is legal for all ages.
+ * Trans patients will be ineligible to be treated on single-sex wards
+   that don't match their "biological sex" (AKA sex assigned at birth)
+   if [proposed changes to the NHS constitution are
+   approved](https://www.bbc.com/news/health-68923861) (updated May 4,
+   2024).
  * NHS clinics typically refer trans-related medical patients to
    specialty units. These units can have extremely long wait times (many
    years).

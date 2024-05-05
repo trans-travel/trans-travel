@@ -53,7 +53,7 @@ Non-binary people are not recognized.
    under 18 will be illegal if
    [H.
    4642](https://www.scstatehouse.gov/sess125_2023-2024/bills/4624.htm)
-   is signed by the governor.
+   is signed by the governor (updated May 4, 2024).
 
 ## Child Custody / Abuse
 
