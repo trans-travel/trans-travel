@@ -4,7 +4,8 @@
     governor signature.
  *  2024-05-04 \[[UK](uk.md)\] Proposed changes to NHS charter would
     prevent trans people from being in single-sex wards that don't match
-    assignment at birth.
+    assignment at birth.  Also minors may be reported to safeguarding if
+    using puberty blockers / hormones from overseas.
  *  2024-05-04 \[[US South Carolina](us/sc.md)\] Youth medical ban
     passes legislature, waiting on Governor's signature.
  *  2024-05-04 \[[US Texas](us/tx.md)\] Austin passes sanctuary

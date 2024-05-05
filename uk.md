@@ -121,7 +121,10 @@ Non-binary gender is not recognized in the UK.
 
 ## Child Custody / Abuse
 
- * Transition care is not considered child abuse.
+ * UK health providers may[report use of hormones or puberty blockers by
+   minors](https://www.wearequeeraf.com/nhs-england-to-tell-transgender-children-to-medically-detransition-or-face-safeguarding-referrals/)
+   to child protection agencies when these are prescribed from
+   "overseas" or "unregulated" providers.
  * There is no sanctuary law preventing cooperation with other jurisdictions
  
 ## Relationship Recognition

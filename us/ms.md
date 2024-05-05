@@ -4,6 +4,11 @@ Mississippi has negative laws towards trans people. However, these laws
 are, thus far, fairly restricted and do not apply to most
 trans people traveling to Mississippi in most situations.
 
+Mississippi, if 2004 SB2753 is signed (it is not yet signed, as of May 4, 2024),
+would legally defines sex according to sex assigned at birth and
+restrict bathroom and changing room usage. Regardless of governor
+signature, this may subject trans people to harassment in restrooms.
+
 Mississippi does criminalize trans care for children, although the current
 law does not have criminal penalties for parents.  However, it is unknown
 how this might have an impact on child custody.
@@ -36,9 +41,15 @@ how this might have an impact on child custody.
 
  * Mississippi does not have a drag/cross-dressing law.
 
-## Air Travel
+## Cruise / Air Travel
 
 See the [USA TSA](notes/tsa.md) document.
+
+Note that if HB2753 is signed by the governor (it not yet signed by the
+governor as of May 4, 2024), trans and intersex travelers likely should
+expect to be confronted at cruise and airport facilities if they use a
+bathroom that does not an observer's guess about their sex assigned at
+birth, whether or not the bathroom user is trans or intersex.
 
 ## Jails / Prisons
 
@@ -97,6 +108,30 @@ Intersex people have some limited recognition.
 
 ## General Safety
 
+Any traveler should use extreme caution if they are not both cis and
+have a very stereotypical gender presentation, if they use
+any changing room in a government owned or controlled facility that is
+open to the public, such as public parks, pools, sports facilities,
+recreation centers, universities, etc.  A person may be arrested for
+suspicion of violating this law and be required to produce either their
+original birth certificate or amended birth certificate plus evidence of
+bottom surgery, for presentation in court at a trial, if arrested.
+While this is not legal advice, simply telling a police officer your sex
+assigned at birth matches the facility or your usage of the exception
+for trans people with updated birth certificate and bottom surgery.
+
+In some cases, this may also apply to bathrooms and in facilities not
+owned or controlled by the government, if law enforcement feels you
+"loitered" in the wrong bathroom.  Thus Mississippi cannot be considered a safe
+state for trans people, even if they feel they can meet the letter of
+the law.
+
+Because of the passage of HB257, and the widespread press coverage, extreme
+caution should be used in all changing facilities and bathrooms for anyone
+that is not unambiguously presenting following stereotypes of their sex
+assigned at birth. This applies not just to trans people, but to anyone
+else who does not follow gender expression stereotypes (such as cis
+women with facial hair or short hair, men with gynecomastia, etc).
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
