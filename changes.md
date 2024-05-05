@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-05-04 \[[US Mississippi](us/ms.md)\] Bathroom bill waiting for
+    governor signature.
  *  2024-05-04 \[[UK](uk.md)\] Proposed changes to NHS charter would
     prevent trans people from being in single-sex wards that don't match
     assignment at birth.

@@ -18,11 +18,19 @@ how this might have an impact on child custody.
 
  * Public accommodation access is not protected for trans people in
    Mississippi.
+ * If [2004 SB2753](https://legiscan.com/MS/bill/SB2753/2024) is signed by
+   the government, trans and intersex people will be required to use
+   bathrooms according to sex assigned at birth within publicly (any
+   level of government) owned facility (updated May 4, 2024).
+ * It is likely Black women, lesbian women, muscular women, and tall
+   women will face harassment in facilities in Mississippi, even if these women
+   are cis (non-trans).  These women should also use extreme caution in
+   Mississippi.
  * Mississippi has wide-reaching religious freedom laws that allow denial of
    some services on the basis of gender identity.
  * Some cities/counties have non-discrimination laws, but the state's
-   religious freedom laws would likely override these if the person
-   discriminating was covered by them.
+   religious freedom laws and bathroom laws will override these if the
+   person discriminating was covered by them.
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -85,6 +93,7 @@ Intersex people have some limited recognition.
 
  * [MS Dept. of Corrections 20-16 - Transgender Offenders](https://lgbtqbar.org/wp-content/uploads/sites/6/sites/8/2022/12/20-16-1.pdf)
  * [2023 HB 1125 - Youth Trans Medical Care Ban](https://legiscan.com/MS/text/HB1125/id/2715321)
+ * [2024 SB2753 - Bathroom Ban, not yet signed by governor (as of May 4, 2024)](https://legiscan.com/MS/bill/SB2753/2024)
 
 ## General Safety
 
