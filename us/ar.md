@@ -56,7 +56,7 @@ Non-binary people are not recognized by the state, due to March 12, 2024
 [rules issued by the
 Governor](https://arktimes.com/arkansas-blog/2024/03/12/sanders-targets-trans-community-again-with-strict-new-gender-rules-for-state-issued-ids).
 
-Intersex people have some limited recognition.
+Intersex people are not generally recognized by the state.
 
 Some laws specify male, female, and similar words based on sex assigned
 at birth and/or chromosomes.

@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-05-04 \[[US Arkansas](us/ar.md)\] Updated state of recognition
+    of intersex people (basically none).
  *  2024-05-04 \[[US Mississippi](us/ms.md)\] Bathroom bill waiting for
     governor signature.
  *  2024-05-04 \[[UK](uk.md)\] Proposed changes to NHS charter would
