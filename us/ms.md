@@ -4,10 +4,13 @@ Mississippi has negative laws towards trans people. However, these laws
 are, thus far, fairly restricted and do not apply to most
 trans people traveling to Mississippi in most situations.
 
-Mississippi, if 2004 SB2753 is signed (it is not yet signed, as of May 4, 2024),
+Mississippi, if 2004 SB2753 is signed (it is not yet signed, as of May 6, 2024),
 would legally defines sex according to sex assigned at birth and
-restrict bathroom and changing room usage. Regardless of governor
-signature, this may subject trans people to harassment in restrooms.
+restrict bathroom and changing room usage at publicly owned or operated
+educational facilities (this may include university hospitals and athletic
+facilities such as stadiums). Regardless of governor signature, and
+inside or outside of educational institutions, this may subject trans people
+to harassment in restrooms.
 
 Mississippi does criminalize trans care for children, although the current
 law does not have criminal penalties for parents.  However, it is unknown
@@ -24,9 +27,11 @@ how this might have an impact on child custody.
  * Public accommodation access is not protected for trans people in
    Mississippi.
  * If [2004 SB2753](https://legiscan.com/MS/bill/SB2753/2024) is signed by
-   the government, trans and intersex people will be required to use
+   the governor, trans and intersex people will be required to use
    bathrooms according to sex assigned at birth within publicly (any
-   level of government) owned facility (updated May 4, 2024).
+   level of government) owned or operated educational facility (updated
+   May 6, 2024). This may apply to university-run hospitals, stadiums,
+   etc.
  * It is likely Black women, lesbian women, muscular women, and tall
    women will face harassment in facilities in Mississippi, even if these women
    are cis (non-trans).  These women should also use extreme caution in
@@ -44,12 +49,6 @@ how this might have an impact on child custody.
 ## Cruise / Air Travel
 
 See the [USA TSA](notes/tsa.md) document.
-
-Note that if HB2753 is signed by the governor (it not yet signed by the
-governor as of May 4, 2024), trans and intersex travelers likely should
-expect to be confronted at cruise and airport facilities if they use a
-bathroom that does not an observer's guess about their sex assigned at
-birth, whether or not the bathroom user is trans or intersex.
 
 ## Jails / Prisons
 
@@ -104,7 +103,7 @@ Intersex people have some limited recognition.
 
  * [MS Dept. of Corrections 20-16 - Transgender Offenders](https://lgbtqbar.org/wp-content/uploads/sites/6/sites/8/2022/12/20-16-1.pdf)
  * [2023 HB 1125 - Youth Trans Medical Care Ban](https://legiscan.com/MS/text/HB1125/id/2715321)
- * [2024 SB2753 - Bathroom Ban, not yet signed by governor (as of May 4, 2024)](https://legiscan.com/MS/bill/SB2753/2024)
+ * [2024 SB2753 - Bathroom Ban, not yet signed by governor (as of May 6, 2024)](https://legiscan.com/MS/bill/SB2753/2024)
 
 ## General Safety
 
