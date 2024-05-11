@@ -21,13 +21,16 @@ medical care.
  * Public accommodations/businesses with single-occupancy bathrooms are
    required to sign these for all gender and allow access to all
    genders.
- * Despite state law, Nassau County (on Long island) has issued an
+ * Despite state law, Nassau County (on Long island) issued an
    [executive order banning
    permits](https://www.nytimes.com/2024/02/22/nyregion/nassau-county-trans-ban.html)
    for any sports organization that allows trans women or girls to play
-   women's/girl's sports. This is likely illegal under state law, but
-   demonstrates a commitment by the Nassau County government to enforce a
-   discriminatory view of gender.
+   women's/girl's sports. A judge on May 10, 2024, [blocked this
+   order](https://www.nyclu.org/uploads/2024/03/Long-Island-Roller-Rebels-v-Blakeman-NYSCEF-44-Decision-and-Order.pdf)
+   citing a lack of authority of the county executive to issue a ban on
+   trans athletes. Thus, Nassau county must continue to follow state
+   non-discrimination law and allow trans-inclusive sports organizations
+   to use county facilities.
 
 ## Drag / Performance / Cross-dressing Laws
 

@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-05-10 \[[US New York(us/ny.md)\] Nassau County trans sports ban
+    blocked by judge.
  *  2024-05-10 \[[UK](uk.md)\] Noted drug importation rules.
  *  2024-05-04 \[[US Mississippi](us/ms.md)\] Clarify bathroom ban would
     only apply in educational spaces.
