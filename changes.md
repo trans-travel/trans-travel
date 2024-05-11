@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-05-10 \[[UK](uk.md)\] Noted drug importation rules.
  *  2024-05-04 \[[US Mississippi](us/ms.md)\] Clarify bathroom ban would
     only apply in educational spaces.
  *  2024-05-04 \[[US Arkansas](us/ar.md)\] Updated state of recognition

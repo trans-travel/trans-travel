@@ -123,6 +123,20 @@ Non-binary gender is not recognized in the UK.
    seeing a shift away from affirming the gender of trans youth. While
    youth care is available, parents should be aware of this and ensure
    any health needs of their children can be met while visiting UK.
+ * Some private internet websites that provide HRT are [blocked in the
+   UK](https://www.404media.co/google-delists-sites-providing-diy-hormone-therapy-at-behest-of-uk-government/).
+   The UK appears to be targeting some internet-providers. As of now,
+   the blocking has only impacted sites that prescribe HRT without
+   prescriptions, but some UK government officials have indicated a
+   desire to prohibit online prescribing in the future (however, it
+   remains legal as of May, 2024).
+ * Travelers should ensure they follow [drug importation rules of the
+   UK](https://www.gov.uk/take-medicine-in-or-out-uk).  Specifically,
+   non-UK residents should bring a letter that includes your name, dates
+   of travel, a list of medications, dosages of all medications, and the
+   signature of the prescriber. Note that you cannot bring more than 3
+   months of medication. Note that rules for UK residents differ and may
+   be more strict.
 
 ## Child Custody / Abuse
 
