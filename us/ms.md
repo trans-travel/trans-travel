@@ -4,8 +4,7 @@ Mississippi has negative laws towards trans people. However, these laws
 are, thus far, fairly restricted and do not apply to most
 trans people traveling to Mississippi in most situations.
 
-Mississippi, if 2004 SB2753 is signed (it is not yet signed, as of May 6, 2024),
-would legally defines sex according to sex assigned at birth and
+Mississippi legally defines sex according to sex assigned at birth and
 restrict bathroom and changing room usage at publicly owned or operated
 educational facilities (this may include university hospitals and athletic
 facilities such as stadiums). Regardless of governor signature, and
@@ -26,12 +25,10 @@ how this might have an impact on child custody.
 
  * Public accommodation access is not protected for trans people in
    Mississippi.
- * If [2004 SB2753](https://legiscan.com/MS/bill/SB2753/2024) is signed by
-   the governor, trans and intersex people will be required to use
-   bathrooms according to sex assigned at birth within publicly (any
-   level of government) owned or operated educational facility (updated
-   May 6, 2024). This may apply to university-run hospitals, stadiums,
-   etc.
+ * Trans and intersex people are required to use bathrooms according to
+   sex assigned at birth within publicly (any level of government) owned
+   or operated educational facility (updated May 13, 2024). This may
+   apply to university-run hospitals, stadiums, etc.
  * It is likely Black women, lesbian women, muscular women, and tall
    women will face harassment in facilities in Mississippi, even if these women
    are cis (non-trans).  These women should also use extreme caution in
@@ -102,8 +99,8 @@ Intersex people have some limited recognition.
 ## Relevant Laws
 
  * [MS Dept. of Corrections 20-16 - Transgender Offenders](https://lgbtqbar.org/wp-content/uploads/sites/6/sites/8/2022/12/20-16-1.pdf)
- * [2023 HB 1125 - Youth Trans Medical Care Ban](https://legiscan.com/MS/text/HB1125/id/2715321)
- * [2024 SB2753 - Bathroom Ban, not yet signed by governor (as of May 6, 2024)](https://legiscan.com/MS/bill/SB2753/2024)
+ * [2023 HB1125 - Youth Trans Medical Care Ban](https://legiscan.com/MS/text/HB1125/id/2715321)
+ * [2024 SB2753 - Bathroom Ban in Educational Facilities)](https://legiscan.com/MS/bill/SB2753/2024)
 
 ## General Safety
 
@@ -125,17 +122,17 @@ owned or controlled by the government, if law enforcement feels you
 state for trans people, even if they feel they can meet the letter of
 the law.
 
-Because of the passage of HB257, and the widespread press coverage, extreme
-caution should be used in all changing facilities and bathrooms for anyone
-that is not unambiguously presenting following stereotypes of their sex
-assigned at birth. This applies not just to trans people, but to anyone
-else who does not follow gender expression stereotypes (such as cis
-women with facial hair or short hair, men with gynecomastia, etc).
-Because of the rhetoric around trans people in the political and media
-space, trans people should use caution, particularly in bathrooms,
-locker rooms, showers, etc.  Random and targeted attacks may occur, and
-trans people who report these attacks can expect to be misgendered by
-officials and public institutions.
+Because of the passage of several laws, and the widespread press
+coverage, extreme caution should be used in all changing facilities and
+bathrooms for anyone that is not unambiguously presenting following
+stereotypes of their sex assigned at birth. This applies not just to
+trans people, but to anyone else who does not follow gender expression
+stereotypes (such as cis women with facial hair or short hair, men with
+gynecomastia, etc).  Because of the rhetoric around trans people in the
+political and media space, trans people should use caution, particularly
+in bathrooms, locker rooms, showers, etc.  Random and targeted attacks
+may occur, and trans people who report these attacks can expect to be
+misgendered by officials and public institutions.
 
 ## Resources
 
