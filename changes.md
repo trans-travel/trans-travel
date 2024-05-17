@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
- 
+
+ *  2024-05-17 \[[US Louisiana](us/la.md)\] Bathroom ban in some
+    buildings if signed by governor.
  *  2024-05-17 \[[US New Hampshire](us/nh.md)\] Genital surgery for
     youth will be banned if the governor signs HB619.
  *  2024-05-13 \[[US Mississippi](us/ms.md)\] Bathroom ban in
