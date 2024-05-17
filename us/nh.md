@@ -3,12 +3,10 @@
 New Hampshire does not have laws that target trans people directly and has
 non-discrimination laws that protect trans people.
 
-New Hampshire does not appear to place child custody at risk.
-
-However, HB619-FN, if passed, would ban surgical transition for youth
-and go beyond most other bans of care by both claiming to ban conversion
-therapy while explictly allowing a specific form of conversion therapy.
-
+New Hampshire, if HB619 is signed by the governor, would criminalize some
+surgical trans care for children, but does not generally criminalize other
+gender-related care, thus it appears that parents visiting with trans
+children will not risk custody.
 
 ## Non-discrimination Law
 
@@ -43,14 +41,15 @@ state IDs, but not birth certificates.
 ## Medical Care
 
  * Trans medical care is legal for adults and children.
- * However, HB619-FN, as of Oct. 31, 2023, is being debated which could
-   include ban on surgical care for youth. This law would also enshrine
-   a fake conversion therapy ban, that explicitly allows "exploratory"
-   therapy, a form of conversion therapy.
+ * However, HB619-FN, if signed by the governor (it is unsigned as of
+   May 17, 2024), would include a ban on genital surgery for youth.
 
 ## Child Custody / Abuse
 
- * Transition care is not specifically defined as child abuse
+ * Transition care is not specifically defined as child abuse.
+   However, HB619-FN, if signed by the governor (it is unsigned as of
+   May 17, 2024), would include a ban on genital surgery for youth. This
+   is unlikely to affect most families with trans children.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
  
@@ -60,7 +59,7 @@ state IDs, but not birth certificates.
 
 ## Relevant Laws
 
- * [HB619-FN Trans Youth Medical Care Ban](https://gencourt.state.nh.us/bill_status/billinfo.aspx?id=71&inflect=2)
+ * [HB619 Trans Youth Medical Care Ban (not yet signed by governor as of May 17, 2024)](https://gencourt.state.nh.us/bill_status/billinfo.aspx?id=71)
 
 ## General Safety
 

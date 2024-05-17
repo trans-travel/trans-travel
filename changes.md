@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
-
+ 
+ *  2024-05-17 \[[US New Hampshire](us/nh.md)\] Genital surgery for
+    youth will be banned if the governor signs HB619.
  *  2024-05-13 \[[US Mississippi](us/ms.md)\] Bathroom ban in
     "educational" facilities.
  *  2024-05-10 \[[US New York](us/ny.md)\] Nassau County trans sports ban
