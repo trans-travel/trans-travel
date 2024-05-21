@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-05-21 \[[US South Carolina](us/sc.md)\] Governor signs trans
+    medical ban.
  *  2024-05-17 \[[US Louisiana](us/la.md)\] Bathroom ban in some
     buildings if signed by governor.
  *  2024-05-17 \[[US New Hampshire](us/nh.md)\] Genital surgery for

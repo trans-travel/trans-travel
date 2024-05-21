@@ -50,15 +50,12 @@ Non-binary people are not recognized.
    Carolina (MUSC) have [cut off care for trans youth without
    notice](https://www.propublica.org/article/musc-medical-university-south-carolina-trans-healthcare-emails).
  * Medical transition (puberty blockers, hormones, surgeries) for people
-   under 18 will be illegal if
-   [H.
-   4642](https://www.scstatehouse.gov/sess125_2023-2024/bills/4624.htm)
-   is signed by the governor (updated May 4, 2024).
+   under 18 is illegal (updated May 21, 2024).
 
 ## Child Custody / Abuse
 
  * Trans medical care is illegal for youth in South Carolina, although
-   penalties will apply to doctors providing the care and not to parents.
+   penalties apply to doctors providing the care and not to parents.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
  * Child welfare agencies are covered by a law that allows them to
@@ -74,8 +71,7 @@ Non-binary people are not recognized.
 
 ## Relevant Laws
 
- * [Trans youth healthcare ban, not yet signed by
-   governor](https://www.scstatehouse.gov/sess125_2023-2024/bills/4624.htm)
+ * [Trans youth healthcare ban](https://www.scstatehouse.gov/sess125_2023-2024/bills/4624.htm)
 
 ## General Safety
 
