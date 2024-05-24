@@ -85,6 +85,7 @@ with sex assigned at birth.
 
  * [2023 SB7 - Library Children's Book Ban](https://legiscan.com/LA/text/SB7/2023)
  * [2023 HB648 - Trans Youth Medical Care Ban](https://legiscan.com/LA/text/HB648/2023)
+ * [2024 HB122 - Don't Say Gay Law (not yet signed by governor as of May 24, 2024)](https://legis.la.gov/legis/BillInfo.aspx?i=245686)
  * [2024 HB608 - Bathroom Ban (not yet signed by governor as of May 17, 2024)](https://www.legis.la.gov/legis/ViewDocument.aspx?d=1364962)
 
 ## General Safety
@@ -93,7 +94,10 @@ New Orleans has a visible LGBT population, but this is not the case in
 other parts of Louisiana, including some nearby cities of New Orleans.
 
 "Sexually explicit" materials in libraries (electronically or in print)
-are restricted. This will likely be used to target LGBT material.
+are restricted. This will likely be used to target LGBT material. Beyond
+that, nearly all discussion of sexual orientation and gender identity
+will be restricted in K12 schools, including in extra curricular events
+if 2024 HB122 is signed by the governor.
 
 Some government officials are explicitly anti-trans. For instance, on 22
 April 2024, the

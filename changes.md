@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-05-24 \[[US Louisiana](us/la.md)\] Don't say gay bill passed,
+    pending Governor's signature.
  *  2024-05-24 \[[US Missouri](us/mo.md)\] Attorney General
     investigating social workers and therapists
  *  2024-05-21 \[[US South Carolina](us/sc.md)\] Governor signs trans
