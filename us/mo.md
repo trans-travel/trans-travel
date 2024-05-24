@@ -97,6 +97,8 @@ Non-binary people are not legally recognized.
    records are.  Planned parenthood [has
    appealed](https://www.stltoday.com/news/local/government-politics/planned-parenthood-appeals-order-forcing-it-to-turn-over-certain-transgender-care-records/article_cc2c9f52-fe53-11ee-a2f1-0f625ca4c442.html)
    this.
+ * The Attorney General is also ["investigating" social workers and
+   therapists](https://missouriindependent.com/2024/05/24/therapists-social-workers-face-scrutiny-in-missouri-ag-investigation-of-transgender-care/) which provide transgender care as of May, 2024.
 
 ## Child Custody / Abuse
 
