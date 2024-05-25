@@ -69,9 +69,10 @@ state IDs, but not birth certificates.
  * Transition care is not defined as child abuse
  * Pennsylvania does not have a sanctuary law for people obtaining
    transition-related medical care.
- * Pittsburgh is a [sanctuary
-   city](https://www.wesa.fm/politics-government/2023-09-12/pittsburgh-protect-gender-affirming-care)
-   for trans healthcare, which somewhat limits cooperation between
+ * [Pittsburgh](https://www.wesa.fm/politics-government/2023-09-12/pittsburgh-protect-gender-affirming-care)
+   and
+   [Philadelphia](https://www.phila.gov/media/20231017142855/Executive-Order-2023-04.pdf)
+   are sanctuary cities for trans healthcare, which somewhat limits cooperation between
    the city in prosecution of those seeking trans healthcare.
 
 ## Relationship Recognition
