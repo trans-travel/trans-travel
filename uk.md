@@ -26,7 +26,11 @@ The UK has non-discrimination law that protects "gender reassignment"
 (defined as proposing to undergo, undergoing or having undergone a
 process to reassign your sex) in the Equality Act.
 
-UK does not have laws against transgender medical care for any age.
+UK bans some trans care, notably most use of puberty blockers for anyone
+under the age of 18 when used for gender transition. This ban also
+applies to out-of-country prescription. It may impact UK citizens
+bringing puberty blockers into the country. Note that this ban does not
+apply in Northern Ireland.
 
 ## Non-discrimination Law
 
@@ -107,7 +111,14 @@ Non-binary gender is not recognized in the UK.
 
 ## Medical Care
 
- * Trans medical care is legal for all ages.
+ * Trans medical care is legal for adults.
+ * A [UK
+   law](https://www.legislation.gov.uk/uksi/2024/727/pdfs/uksi_20240727_en.pdf)
+   bans transition-related puberty blockers in most cases for people under 18.
+   This law applies within the UK, except for Northern Ireland. This may
+   impact UK citizens bringing puberty blockers from overseas, even with
+   a valid overseas prescription. Overseas prescribers will not be able
+   to issue prescriptions to be filled in the UK.
  * Trans patients will be ineligible to be treated on single-sex wards
    that don't match their "biological sex" (AKA sex assigned at birth)
    if [proposed changes to the NHS constitution are
@@ -116,9 +127,10 @@ Non-binary gender is not recognized in the UK.
  * NHS clinics typically refer trans-related medical patients to
    specialty units. These units can have extremely long wait times (many
    years).
- * Puberty blockers and hormone therapy is generally not available to
-   youth (under 18) at NHS-run clinics.
- * Private trans care is available in the UK
+ * Hormone therapy is generally not available to youth (under 18) at NHS-run
+   clinics.
+ * Private trans care is available in the UK, but this will generally
+   exclude puberty blockers.
  * Youth trans care is highly contested in the UK and is an area that is
    seeing a shift away from affirming the gender of trans youth. While
    youth care is available, parents should be aware of this and ensure
@@ -152,6 +164,8 @@ Non-binary gender is not recognized in the UK.
 
 ## Relevant Laws
 
+ * [Puberty Blocker
+   Ban](https://www.legislation.gov.uk/uksi/2024/727/pdfs/uksi_20240727_en.pdf)
  * [Equality Act of
    2010](https://www.legislation.gov.uk/ukpga/2010/15/contents)
  * [Transgender Prison

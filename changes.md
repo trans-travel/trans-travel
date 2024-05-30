@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-05-29 \[[UK](uk.md)\] Puberty blocker ban
  *  2024-05-24 \[[US Louisiana](us/la.md)\] Don't say gay bill passed,
     pending Governor's signature.
  *  2024-05-24 \[[US Missouri](us/mo.md)\] Attorney General
