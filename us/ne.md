@@ -126,7 +126,11 @@ Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to be misgendered by
-officials and public institutions.
+officials and public institutions. As one example, a trans man chose to
+use the women's bathroom in an Omaha bar, and announced that he was
+"biologically female," yet [was attacked by another
+man](https://www.wowt.com/2024/06/08/transgender-man-speaks-alleged-assault-omaha-bar/)
+in April, 2024.
 
 ## Resources
 

@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-06-08 \[[US Nebraska](us/ne.md)\] Noted attack in a bar against
+    a trans man.
  *  2024-06-07 \[[US Tennessee](us/tn.md)\] Tennessee criminalizes
     assisting or providing information regarding transition to youth.
  *  2024-06-07 \[[US Louisiana](us/la.md)\] Bathroom ban signed by
