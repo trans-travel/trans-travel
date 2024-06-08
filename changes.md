@@ -1,5 +1,9 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-06-07 \[[US Tennessee](us/tn.md)\] Tennessee criminalizes
+    assisting or providing information regarding transition to youth.
+ *  2024-06-07 \[[US Louisiana](us/la.md)\] Bathroom ban signed by
+    governor.
  *  2024-05-29 \[[US New Hampshire](us/nh.md)\] Bathroom ban pending
     governor signature
  *  2024-05-29 \[[UK](uk.md)\] Puberty blocker ban

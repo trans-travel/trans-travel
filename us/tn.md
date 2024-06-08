@@ -110,12 +110,11 @@ assigned at birth and/or chromosomes.
    center](https://www.wsmv.com/2023/07/25/patients-sue-vumc-releasing-records-related-ags-transgender-clinic-probe/)
    for disclosing their private information. It is unknown if similar
    records requests and disclosures have been done at other organizations.
- * In addition, a bill pending governor signature (as of April 25, 2024)
-   will criminalize any adults (with exceptions for parents or people
-   parents have given permission to) providing information, aid, or other
-   help to get trans-related medical treatment, regardless of where the
-   treatment is given or whether or not the treatment is legal in the place
-   it is given.  See [SB2782 with
+ * In addition, Tennessee criminalizes any adults (with exceptions for
+   parents or people parents have given permission to) providing information,
+   aid, or other help to get trans-related medical treatment, regardless of
+   where the treatment is given or whether or not the treatment is legal in
+   the place it is given.  See [SB2782 with
    amendments](https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB2782&ga=113)
 
 ## Child Custody / Abuse
@@ -145,8 +144,7 @@ assigned at birth and/or chromosomes.
  * [2023 SB0632 - Defining Sex as Sex Assigned at Birth](https://www.capitol.tn.gov/Bills/107/Bill/SB0632.pdf)
  * [2024 HB878 - Ability for officials to refuse to marry couples](https://www.capitol.tn.gov/Bills/113/Amend/SA0514.pdf)
  * [2024 SB2782 - Ban on providing information or assisting youth access
-   trans medical
-   care (as of April 25, 2024, not yet signed by governor)](https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB2782&ga=113)
+   trans medical care](https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB2782&ga=113)
 
 ## General Safety
 

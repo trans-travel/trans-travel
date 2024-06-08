@@ -5,10 +5,9 @@ travel advisory](https://www.wbrz.com/news/naacp-seeking-travel-advisory-for-lou
 for Louisiana, on the basis of anti-Black and anti-LGBT state bills that
 could place both Black and LGBT people at risk.
 
-Louisiana, if HB608 2024 is passed, would have negative laws towards trans
-people. These laws are, while horrible for residents of Louisiana, do not
-generally apply to most trans people traveling to Louisiana in most
-situations.
+Louisiana has negative laws towards trans people. These laws are, while
+horrible for residents of Louisiana, do not generally apply to most trans
+people traveling to Louisiana in most situations.
 
 Louisiana does ban trans care for children, although the current law does
 not have criminal penalties for parents.  However, it is unknown how this
@@ -25,9 +24,7 @@ might have an impact on child custody.
 
 ## Public Accommodations
 
- * Trans people are not banned from using appropriate bathrooms and locker
-   rooms. However, if HB608 2024 is signed by the governor (it is not
-   currently signed), it would ban access to bathrooms and sleeping
+ * Trans people are banned from access to bathrooms and sleeping
    facilities in some locations (prisons, K12 schools, and domestic
    violence shelters).
  * General public accommodation access is not specifically protected by law
@@ -43,11 +40,9 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women would typically be housed with men. However if HB608 2024
-   is signed by the governor, this would be legally required.
- * Trans men would typically be housed with women. However if HB608 2024
-   is signed by the governor, this would be legally required.
- * Nonbinary people would typically be housed according to sex
+ * Trans women are required to be housed with men.
+ * Trans men are required to be housed with men.
+ * Nonbinary people are required to be housed according to sex
    assigned at birth
  * At least one visitor (not an inmate) was told to [strip and expose her
    genitalia](https://www.nola.com/lawsuit-angola-prison-guards-ordered-transgender-visitor-to-strip/article_6cf44702-2b01-537b-94f4-c3ca7894e332.html)
@@ -56,8 +51,9 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Legal Definition of Sex
 
-Non-binary people are not recognized.  If HB608 2024 is passed,
-Louisiana would establish a legal definition of male and female in line
+Non-binary people are not recognized.
+
+Louisiana has established a legal definition of male and female in line
 with sex assigned at birth.
 
 ## Medical Care
@@ -86,7 +82,7 @@ with sex assigned at birth.
  * [2023 SB7 - Library Children's Book Ban](https://legiscan.com/LA/text/SB7/2023)
  * [2023 HB648 - Trans Youth Medical Care Ban](https://legiscan.com/LA/text/HB648/2023)
  * [2024 HB122 - Don't Say Gay Law (not yet signed by governor as of May 24, 2024)](https://legis.la.gov/legis/BillInfo.aspx?i=245686)
- * [2024 HB608 - Bathroom Ban (not yet signed by governor as of May 17, 2024)](https://www.legis.la.gov/legis/ViewDocument.aspx?d=1364962)
+ * [2024 HB608 - Bathroom Ban](https://www.legis.la.gov/legis/ViewDocument.aspx?d=1364962)
 
 ## General Safety
 
