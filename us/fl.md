@@ -145,41 +145,18 @@ over sex assigned at birth.
 
 ## Medical Care
 
- * Trans medical care is legal for adults, but this is potentially at
-   risk and is subject to significant restriction.
- * Nurse practitioners and telehealth providers are not allowed to
-   provide HRT in Florida. This has resulted in a shortage of providers
-   that can provide HRT to adults.
- * Florida also requires [misleading "HRT consent"
-   forms](https://wusfnews.wusf.usf.edu/health-news-florida/2023-07-24/trans-advocates-new-informed-consent-forms-transphobic-inaccurate)
-   for adult HRT treatment
- * Final rules for adults seeking trans medical care will likely be
-   extremely restrictive, requiring, among other things, annual bone
-   scans and four blood tests per year.
- * Medical transition for people under age 18 is illegal. However,
-   a judge's ruling in Doe v. Ladapo is allowing 3 trans children to
-   continue receiving medical care.  However, this ruling does not apply
-   to other children or to adults, and the case is still pending. That
-   said, GLAD, a legal advocacy group, reports that because much of the
-   law was found unconstitutional, [trans care is legal again in
-   Florida](https://www.glad.org/questions-about-the-legal-status-of-floridas-transgender-healthcare-ban/).
- * The Doe v. Ladapo case, as of July 23, 2023, is now expanded to
-   include litigation on adult care.  However, at this time, health care
-   for adults is still significantly restricted.
+ * Trans medical care is legal for adults, but surgery is still at
+   risk and is subject to significant restriction.  HRT is available.
+ * Surgery for people under age 18 is illegal. However, puberty blockers
+   and HRT are legal.
  * Medical providers can deny most care on the basis of their religious
    or ethical beliefs (emergency care is required to be provided).
 
 ## Child Custody / Abuse
 
- * There is a law against trans medical care for youth in Florida
-   (but see above).
+ * There is a law against trans surgical care for youth in Florida.
  * It is unknown if transition might be used by the state to justify
-   custody removal.  However, Florida's youth care ban also allows the
-   Florida courts to have emergency jurisdiction over a child if "it
-   is necessary in an emergency to protect the child because the child
-   has been subjected to or is threatened with being subjected to
-   sex-reassignment prescriptions or procedures," similar to how the
-   courts have jurisdiction over abuse.
+   custody removal.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
 
@@ -192,8 +169,10 @@ over sex assigned at birth.
  * [2023 H1580 - Health Denial Law](https://www.flsenate.gov/Session/Bill/2023/1580/BillText/er/PDF)
  * [2023 H1069 - Pronouns, Don't Say Gay](https://legiscan.com/FL/text/H1069/id/2798335)
  * [2023 H1521 - Bathroom Bill](https://legiscan.com/FL/text/H1521/id/2764723)
- * [2023 SB254 - Trans Youth Medical Ban](https://www.flsenate.gov/Session/Bill/2023/254/BillText/er/PDF)
- * [2023 SB1438 - Adult Performance Law](https://www.myfloridahouse.gov/Sections/Documents/loaddoc.aspx?FileName=_s1438er.DOCX&DocumentType=Bill&BillNumber=1438&Session=2023)
+ * [2023 SB254 - Trans Youth Medical Ban (largely unconstitutional and unenforceable, see below, as of June 11, 2024)](https://www.flsenate.gov/Session/Bill/2023/254/BillText/er/PDF)
+ * [2023 SB254 - Court decision on puberty blockers and
+   HRT](https://storage.courtlistener.com/recap/gov.uscourts.flnd.460963/gov.uscourts.flnd.460963.223.0.pdf)
+ * [2023 SB1438 - "Adult" Oriented Performance Law - Drag Ban (currently prevented from being enforced by court, as of June 11, 2024)](https://www.flsenate.gov/Committees/BillSummaries/2023/html/2900)
  * [2023 Dept. of Ed Rule on Private College Bathrooms and Locker
    Rooms](https://www.fldoe.org/core/fileparse.php/20680/urlt/8-2.pdf)
 
@@ -207,7 +186,7 @@ for the State of Florida due to anti-LGBT legislation.  The
 (a Latino advocacy organization), the
 [Florida Immigrant Commission](https://floridatraveladvisory.com/), and
 [SPARTA](https://spartapride.org/duty-assignment-warning-issued-for-florida/)
-(a transgneder servicemember advocacy organization)
+(a transgender service member advocacy organization)
 have also done so, for state-sponsored attacks against their
 constituents' human rights.
 
@@ -268,9 +247,9 @@ do not enforce discriminatory state laws.
 
  * [Cis Woman Booked into Miami Men's Jail](https://www.nbcnews.com/news/us-news/woman-booked-miami-men-s-jail-after-wrongly-deemed-transgender-n943626)
  * [Doe v. Ladapo - Lawsuit Challenging Trans Care Ban](https://www.glad.org/cases/doe-v-ladapo/)
- * [Doe v. Ladapo FAQ on Legal Status of Trans Care Ban](https://www.glad.org/questions-about-the-legal-status-of-floridas-transgender-healthcare-ban/)
- * [Florida Ban on Adult Trans Medical Care - Resource](https://floridaban.com/)
+ * [Doe v. Ladapo - Decision](https://www.flsenate.gov/Committees/BillSummaries/2023/html/2900)
  * [Hamburger Mary Lawsuit against Drag Ban GoFundMe](https://www.gofundme.com/f/legal-defense-fund-for-hamburger-mary-orlando)
+ * [ACLU page on Hamburger Mary Lawsuit](https://www.aclu.org/cases/hm-florida-orl-llc-v-griffin)
  * [HRC and Equity Florida Travel Advisory](https://eqfl.org/updated-travel-advisory-HRC)
  * [LULAC Florida Travel Advisory Warning](https://lulac.org/news/pr/LULACS_HISTORIC_WARNING_AGAINST_LATINOS_TRAVELING_TO_FLORIDA_IS_A_REMINDER_OF_ARIZONA_FOLLOWING_SB1070/)
  * [SPARTA Duty Assignment Warning for
