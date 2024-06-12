@@ -50,8 +50,8 @@ Non-binary people are not recognized.
 
 Changing birth certificate gender marker requires surgery. This is
 [being challenged in
-court](https://www.nclrights.org/our-work/cases/d-t-v-christ/) as of
-August 10, 2023.
+court](https://tucson.com/news/state-regional/government-politics/judge-hears-transgender-plaintiffs-case-against-arizona-birth-certificates-law/article_862443da-281e-11ef-9786-a70d95286d2e.html) as of
+June 11, 2024.
 
 Intersex people have some limited recognition.
 
