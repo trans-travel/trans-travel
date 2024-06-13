@@ -33,7 +33,8 @@ See the [USA TSA](notes/tsa.md) document.
 
  * Trans prisoners have typically been housed based on sex assigned at
    birth, rather than gender, denied medical care, and mistreated by
-   guards.
+   guards. Some [are
+   suing the state](https://chicagoreader.com/news-politics/transgender-prison-idoc/).
 
 ## Legal Definition of Sex
 
