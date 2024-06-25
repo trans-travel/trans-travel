@@ -28,9 +28,9 @@ medical care.
    women's/girl's sports. A judge on May 10, 2024, [blocked this
    order](https://www.nyclu.org/uploads/2024/03/Long-Island-Roller-Rebels-v-Blakeman-NYSCEF-44-Decision-and-Order.pdf)
    citing a lack of authority of the county executive to issue a ban on
-   trans athletes. Thus, Nassau county must continue to follow state
-   non-discrimination law and allow trans-inclusive sports organizations
-   to use county facilities.
+   trans athletes. However, Nassau County then approved the [transphobic
+   law](https://www.nassaucountyny.gov/AgendaCenter/ViewFile/Item/3159?fileID=244145)
+   (updated June 24, 2024).
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -90,6 +90,8 @@ some education for medical providers on intersex issues.
 
 ## Relevant Laws
 
+ * [Nassau County Trans Athlete Ban
+   Law](https://www.nassaucountyny.gov/AgendaCenter/ViewFile/Item/3159?fileID=244145)
  * [2023 S2475B - State Sanctuary Law](https://legislation.nysenate.gov/pdf/bills/2023/S2475B)
  * [New York City EO 32 - Sanctuary City Order](https://www.nyc.gov/office-of-the-mayor/news/32-002/executive-order-32)
 
