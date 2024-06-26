@@ -1,8 +1,6 @@
 # United States - Montana
 
-Montana has several negative laws towards trans people, such as a law
-defining male and female in a trans-exclusionary way for nearly all
-state purposes.
+Montana has several negative laws towards trans people.
 
 Montana does not ban trans care for children (due to a court judgment
 that invalidated a healthcare ban).
@@ -46,17 +44,13 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Legal Definition of Sex
 
-Montana has a definition of sex largely in line with sex assigned at birth
-would be included in nearly all Montana law (for example, Montana's
+Montana passed a law that defined sex largely in line with sex assigned
+at birth, which impacted nearly all Montana law (for example, Montana's
 on-the-books-but-not-enforceable-due-to-SCOTUS anti-gay marriage law was
 amended, as well as nearly every other law in Montana that references
-sex).
-
-Note that this also places gender non-conforming cis women at risk of
-invasive questioning and state action.
-
-The state is [being sued by the ACLU](https://www.aclumontana.org/en/cases/dandilion-cloverdale-et-al-vs-austin-knudsen-et-al)
-over this law.
+sex).  However, the law was ruled invalid [due to an ambiguous
+title](https://dailymontanan.com/2024/06/25/montana-law-defining-sex-as-male-or-female-unconstitutional-judge-says/)
+by a state court.  Thus it is not in effect.
 
 Non-binary people are not recognized.
 
@@ -91,7 +85,7 @@ for the ban on changing birth certificates and ID.
  * [2023 HB303 - Health Care Conscious Refusal Law](https://legiscan.com/MT/text/HB303/id/2785644)
  * [2023 SB99 - Youth Trans Medical Care Ban - DECLARED UNCONSTITUTIONAL](https://legiscan.com/MT/text/SB99/id/2786141)
  * [2023 HB359 - Drag Storytime Ban (temporarily blocked by courts from being enforced)](https://legiscan.com/MT/text/HB359/id/2804104)
- * [2023 SB458 - Trans-exclusionary Definition of Sex](https://legiscan.com/MT/text/SB458/id/2796910)
+ * [2023 SB458 - Trans-exclusionary Definition of Sex (Declared invalid by state court)](https://legiscan.com/MT/text/SB458/id/2796910)
  * [2023 SB518 - Mandatory Outing by Schools of Trans Youth](https://legiscan.com/MT/text/SB518/id/2800789)
 
 ## General Safety

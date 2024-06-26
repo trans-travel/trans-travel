@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-06-26 \[[US Montana](us/mt.md)\] Definition of sex law declared
+    invalid.
  *  2024-06-24 \[[US New York](us/ny.md)\] Nassau County passes a
     tranphobic sports ban and legal definition of sex.
  *  2024-06-11 \[[US Florida](us/fl.md)\] Most medical restrictions
