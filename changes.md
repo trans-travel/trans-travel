@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-07-03 \[[UK](uk.md)\] Note about knife crime against trans
+    people
  *  2024-07-03 \[[US Alabama](us/al.md)\] Legal to discriminate against trans
     people in medicine.
  *  2024-07-03 \[[US Florida](us/fl.md)\] Legal to discriminate against trans

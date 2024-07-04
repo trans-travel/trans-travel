@@ -180,6 +180,11 @@ violent attack (typically unarmed or knife attacks) may occur.  Unlike the
 US, gun crime is rare in the UK, which provides some safety compared to the
 US.
 
+Knife crime against trans people sometimes occurs in the UK. For
+instance, three boys [stabbed a trans
+woman](https://news.sky.com/story/three-boys-arrested-in-stockton-after-transgender-woman-attacked-13163073)
+in Cleveland in July, 2024.
+
 There is a high awareness of the existence of trans persons in UK, due
 to extensive (often transphobic) media coverage. This may prime some
 people to engage in transphobia towards trans people. That said,
