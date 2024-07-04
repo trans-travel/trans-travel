@@ -91,6 +91,11 @@ changes to trans people, indicating bias within the Ohio legal system.
    over the care ban.
  * Ohio has a religious exemption law that allows providers to deny some
    medical services.
+ * Federal regulations protecting trans people in were blocked in
+   Tennessee due to the Tennessee v Becerra preliminary injunction on
+   July 3, 2024. Thus trans people do not have many of the federal
+   protections on the basis of sex when obtaining medical care in this
+   state.
 
 ## Child Custody / Abuse
 

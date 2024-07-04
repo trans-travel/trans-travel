@@ -71,6 +71,11 @@ at birth and/or chromosomes.
    including public universities and university-run programs, such as
    medical organizations that are part of public universities.  The public
    university provision takes effect on October 1, 2024.
+ * Federal regulations protecting trans people in were blocked in
+   Tennessee due to the Tennessee v Becerra preliminary injunction on
+   July 3, 2024. Thus trans people do not have many of the federal
+   protections on the basis of sex when obtaining medical care in this
+   state.
 
 ## Child Custody / Abuse
 

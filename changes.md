@@ -1,5 +1,37 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-07-03 \[[US Alabama](us/al.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US Florida](us/fl.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US Georgia](us/ga.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US Indiana](us/in.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US Kansas](us/ks.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US Kentucky](us/ky.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US Louisiana](us/la.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US Mississippi](us/ms.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US Nebraska](us/ne.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US Ohio](us/oh.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US Oklahoma](us/ok.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US South Carolina](us/sc.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US South Dakota](us/sd.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US Tennessee](us/tn.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US Virginia](us/va.md)\] Legal to discriminate against trans
+    people in medicine.
+ *  2024-07-03 \[[US West Virginia](us/wv.md)\] Legal to discriminate against trans
+    people in medicine.
  *  2024-06-26 \[[US Montana](us/mt.md)\] Definition of sex law declared
     invalid.
  *  2024-06-24 \[[US New York](us/ny.md)\] Nassau County passes a

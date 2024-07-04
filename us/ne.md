@@ -89,6 +89,11 @@ Intersex people have some limited recognition.
  * Providers have indicated that the new rules for trans youth
    healthcare [are unclear and may be impossible to
    follow](https://www.aol.com/mess-nebraska-gender-affirming-care-100000314.html)
+ * Federal regulations protecting trans people in were blocked in
+   Tennessee due to the Tennessee v Becerra preliminary injunction on
+   July 3, 2024. Thus trans people do not have many of the federal
+   protections on the basis of sex when obtaining medical care in this
+   state.
 
 ## Child Custody / Abuse
 

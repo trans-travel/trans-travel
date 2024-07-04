@@ -51,6 +51,11 @@ Non-binary people are not recognized.
    notice](https://www.propublica.org/article/musc-medical-university-south-carolina-trans-healthcare-emails).
  * Medical transition (puberty blockers, hormones, surgeries) for people
    under 18 is illegal (updated May 21, 2024).
+ * Federal regulations protecting trans people in were blocked in
+   Tennessee due to the Tennessee v Becerra preliminary injunction on
+   July 3, 2024. Thus trans people do not have many of the federal
+   protections on the basis of sex when obtaining medical care in this
+   state.
 
 ## Child Custody / Abuse
 

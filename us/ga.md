@@ -43,6 +43,11 @@ Non-binary people are not recognized by Georgia.
    blockers are legal, hormone therapy and surgery are illegal.
  * The youth healthcare ban is being [challenged in
    court](https://www.acluga.org/en/press-releases/press-release-georgia-parents-seek-emergency-court-order-blocking-anti-transgender).
+ * Federal regulations protecting trans people in were blocked in
+   Tennessee due to the Tennessee v Becerra preliminary injunction on
+   July 3, 2024. Thus trans people do not have many of the federal
+   protections on the basis of sex when obtaining medical care in this
+   state.
 
 ## Child Custody / Abuse
 

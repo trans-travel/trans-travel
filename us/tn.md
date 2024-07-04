@@ -116,6 +116,11 @@ assigned at birth and/or chromosomes.
    where the treatment is given or whether or not the treatment is legal in
    the place it is given.  See [SB2782 with
    amendments](https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB2782&ga=113)
+ * Federal regulations protecting trans people in were blocked in
+   Tennessee due to the Tennessee v Becerra preliminary injunction on
+   July 3, 2024. Thus trans people do not have many of the federal
+   protections on the basis of sex when obtaining medical care in this
+   state.
 
 ## Child Custody / Abuse
 

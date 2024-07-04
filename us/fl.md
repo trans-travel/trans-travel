@@ -128,6 +128,12 @@ See the [USA TSA](notes/tsa.md) document.
    mistaking her for a trans woman.
  * As public funds cannot be used for transition care, trans prisoners
    will not have access to trans-related medical care.
+ * Federal regulations protecting trans people in were blocked in
+   Tennessee due to the [Florida v. Health and Human
+   Services](https://genderanalysis.net/wp-content/uploads/2024/07/047127228576.pdf)
+   preliminary injunction on July 3, 2024. Thus trans people do not have
+   many of the federal protections on the basis of sex when obtaining
+   medical care in this state.
 
 ## Legal Definition of Sex
 

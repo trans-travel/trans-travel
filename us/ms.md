@@ -82,6 +82,11 @@ Intersex people have some limited recognition.
    Center (UMMC) [cut off transgender care for youth before they were
    required to by
    law](https://mississippitoday.org/2023/04/26/facing-political-pressure-ummc-cut-care-to-trans-kids-before-the-legislature-banned-doing-so-emails-show/).
+ * Federal regulations protecting trans people in were blocked in
+   Tennessee due to the Tennessee v Becerra preliminary injunction on
+   July 3, 2024. Thus trans people do not have many of the federal
+   protections on the basis of sex when obtaining medical care in this
+   state.
 
 ## Child Custody / Abuse
 
