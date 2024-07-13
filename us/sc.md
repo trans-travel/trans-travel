@@ -46,9 +46,6 @@ Non-binary people are not recognized.
 ## Medical Care
 
  * Trans medical care is legal for adults.
- * However some providers, particularly Medical University of South
-   Carolina (MUSC) have [cut off care for trans youth without
-   notice](https://www.propublica.org/article/musc-medical-university-south-carolina-trans-healthcare-emails).
  * Medical transition (puberty blockers, hormones, surgeries) for people
    under 18 is illegal (updated May 21, 2024).
  * Federal regulations protecting trans people in were blocked in
