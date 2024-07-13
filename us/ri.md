@@ -4,8 +4,7 @@ Rhode Island recognizes the gender of trans people. I.E. trans women are
 considered women, trans men are men, and non-binary people, at least in
 some instances are recognized as non-binary.
 
-Rhode Island is not a "sanctuary state", but also does not criminalize
-trans youth medical care.
+Rhode Island is a "sanctuary state", which protects trans care.
 
 ## Non-discrimination Law
 
@@ -46,12 +45,11 @@ may still be in-complete in Rhode Island.
 ## Medical Care
 
  * Trans medical care is legal for all ages.
- * Rhode Island does not have a "sanctuary" law.
+ * Rhode Island  has a sanctuary law.
 
 ## Child Custody / Abuse
 
  * Transition care is not defined as child abuse
- * Rhode Island does not have a sanctuary law for people obtaining
  
 ## Relationship Recognition
 
@@ -60,6 +58,8 @@ may still be in-complete in Rhode Island.
 ## Relevant Laws
 
  * [Dept. of Corrections Policy 9.52 - Transgender Prisoners](https://doc.ri.gov/media/2891/download?language=en)
+ * [2024 H7577 - Sanctuary
+   Law](https://webserver.rilegislature.gov/BillText/BillText24/HouseText24/H7577.pdf)
 
 ## General Safety
 

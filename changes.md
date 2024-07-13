@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-07-12 \[[US Rhode Island](us/ri.md)\] Rhode Island is a
+    sanctuary state for gender affirming care
  *  2024-07-03 \[[UK](uk.md)\] Note about knife crime against trans
     people
  *  2024-07-03 \[[US Alabama](us/al.md)\] Legal to discriminate against trans
