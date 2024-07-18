@@ -54,10 +54,9 @@ to investigate at least one provider of transgender care.
  * Tennessee has a "drag ban" law that prohibits "male or female
    impersonators" who perform on public property, in any location
    where a minor could potentially be present. This includes felony
-   penalties for a second conviction.  However, this law has been struck
-   down by a judge as unconstitutional.  It's unknown if there will be
-   appeals that try to re-instate the law.
- * Despite the ruling on that the drag ban is unconstitutional, Blount
+   penalties for a second conviction.  (Updated July 18, 2024)
+ * Despite a previous ruling on that the drag ban is unconstitutional (since
+   overturned), Blount
    County prosecutor (Ryan Desmond) is [attempting to enforce the
    law](https://www.lawdork.com/p/tennessee-prosecutor-threatens-pride)
    against a pride event.
@@ -144,7 +143,7 @@ assigned at birth and/or chromosomes.
  * [2016 SB1556 - Allowing Counselors to Fire LGBT Clients](https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB1556&GA=109)
  * [2021 HB1233 - Trans Bathroom Ban for Schools](https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1233&ga=112)
  * [2023 HB0001 - Trans Youth Medical Care Ban](https://legiscan.com/TN/text/HB0001/id/2756066)
- * [2023 HB0009 - Drag Ban (Struck down by US federal court on June 2, 2023)](https://legiscan.com/TN/text/HB0009/id/2756096)
+ * [2023 HB0009 - Drag Ban](https://legiscan.com/TN/text/HB0009/id/2756096)
  * [2023 SB0466 - Allowing Misgendering by School Employees](https://legiscan.com/TN/text/SB0466/id/2672103)
  * [2023 SB0632 - Defining Sex as Sex Assigned at Birth](https://www.capitol.tn.gov/Bills/107/Bill/SB0632.pdf)
  * [2024 HB878 - Ability for officials to refuse to marry couples](https://www.capitol.tn.gov/Bills/113/Amend/SA0514.pdf)
@@ -164,7 +163,8 @@ building](https://www.wbir.com/article/news/crime/hate-message-found-at-knox-pri
 Blount County may be particularly risky, as of August 31, 2023, as the
 local prosecutor in the county has shown [willingness to enforce the drag
 ban](https://www.lawdork.com/p/tennessee-prosecutor-threatens-pride)
-against a pride event despite the law being ruled unconstitutional.
+against a pride event despite the law being ruled unconstitutional at
+the time (the law is again in-force as of July 18, 2024).
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
