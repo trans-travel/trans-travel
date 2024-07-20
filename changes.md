@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-07-19 \[[US South Carolina](us/sc.md)\] MUSC has stopped
+    providing adult gender-related care.
  *  2024-07-19 \[[US Florida](us/fl.md)\] Florida has asked for trans
     medicine ban to be re-inestated.
  *  2024-07-19 \[[US New Hampshire](us/nh.md)\] Trans youth medical ban

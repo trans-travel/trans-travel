@@ -48,6 +48,10 @@ Non-binary people are not recognized.
  * Trans medical care is legal for adults.
  * Medical transition (puberty blockers, hormones, surgeries) for people
    under 18 is illegal (updated May 21, 2024).
+ * Some medical providers, notably the MUSC system, have [stopped
+   providing care to
+   adults](https://www.postandcourier.com/health/musc-transgender-ban-hormones-mount-pleasant/article_6f54ffa4-42d7-11ef-8035-afdc74e1b419.html).  (Updated July 19, 2024)
+   as well as children due to the trans youth medical ban.
  * Federal regulations protecting trans people in were blocked in
    Tennessee due to the Tennessee v Becerra preliminary injunction on
    July 3, 2024. Thus trans people do not have many of the federal
