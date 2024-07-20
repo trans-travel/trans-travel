@@ -153,6 +153,9 @@ over sex assigned at birth.
 
  * Trans medical care is legal for adults, but surgery is still at
    risk and is subject to significant restriction.  HRT is available.
+ * The State of Florida continues to officially oppose care, and is
+   seeking to overturn court decisions that allowed the care to continue.
+   Florida has filed an appeal in a significant case on July 19, 2024.
  * Surgery for people under age 18 is illegal. However, puberty blockers
    and HRT are legal.
  * Medical providers can deny most care on the basis of their religious

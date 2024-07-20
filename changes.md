@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-07-19 \[[US Florida](us/fl.md)\] Florida has asked for trans
+    medicine ban to be re-inestated.
  *  2024-07-19 \[[US New Hampshire](us/nh.md)\] Trans youth medical ban
     signed.
  *  2024-07-18 \[[US Tennessee](us/tn.md)\] Drag ban again in-force
