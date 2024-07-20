@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-07-19 \[[US New Hampshire](us/nh.md)\] Trans youth medical ban
+    signed.
  *  2024-07-18 \[[US Tennessee](us/tn.md)\] Drag ban again in-force
  *  2024-07-12 \[[US Rhode Island](us/ri.md)\] Rhode Island is a
     sanctuary state for gender affirming care
