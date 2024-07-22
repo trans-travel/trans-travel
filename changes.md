@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-07-22 \[[US Florida](us/fl.md)\] Attack at Miami airport
  *  2024-07-19 \[[US South Carolina](us/sc.md)\] MUSC has stopped
     providing adult gender-related care.
  *  2024-07-19 \[[US Florida](us/fl.md)\] Florida has asked for trans
