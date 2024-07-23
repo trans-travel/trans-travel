@@ -229,7 +229,7 @@ Recent attacks on trans girls/women have been reported in (note links
 discuss violent crimes against trans people)
 [bathrooms](https://wsvn.com/news/local/miami-dade/man-accused-of-sexually-assaulting-transgender-woman-in-miami-bar/),
 [residential
-areas](https://www.advocate.com/crime/2022/8/10/trans-teen-victim-vicious-anti-lgbtq-assault-second-time), [airports](https://www.miamiherald.com/news/local/crime/article290303974.html),
+areas](https://www.advocate.com/crime/2022/8/10/trans-teen-victim-vicious-anti-lgbtq-assault-second-time), [airports](https://www.miamiherald.com/news/local/crime/article290303974.html) (including misgendering by police of victim),
 as well as by
 [police officers](https://www.huffpost.com/entry/jenny-deleon-florida-hillsborough-county-sheriff-choking_n_634ee621e4b0e376dc114d95).
 In addition, at least one trans person has recently been
