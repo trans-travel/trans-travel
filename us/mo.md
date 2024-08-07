@@ -49,7 +49,9 @@ at birth and/or chromosomes.
 
 Missouri has a difficult process of changing gender on ID and birth
 certificates, reflecting a state belief that sex assigned at birth
-should typically reflect the gender of people.
+should typically reflect the gender of people. For ID, they must
+demonstrate proof of bottom surgery or a court order (updated Aug 7,
+2024).
 
 Non-binary people are not legally recognized.
 

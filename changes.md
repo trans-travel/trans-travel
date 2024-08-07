@@ -1,6 +1,8 @@
 # Change Log for Trans Travel Guide
 
- *  2027-08-07 \[[US Ohio](us/oh.md)\] Ohio ban on youth gender care is
+ *  2024-08-07 \[[US Missouri](us/mo.md)\] Missouri requires bottom
+    surgery or court order to change ID's gender marker.
+ *  2024-08-07 \[[US Ohio](us/oh.md)\] Ohio ban on youth gender care is
     in effect.
  *  2024-07-22 \[[US Florida](us/fl.md)\] Attack at Miami airport
  *  2024-07-19 \[[US South Carolina](us/sc.md)\] MUSC has stopped
