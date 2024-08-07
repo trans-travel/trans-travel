@@ -7,10 +7,7 @@ in a locker room.
 HB68 bans transition care for youth and go beyond most other bans of care
 including placing significant restrictions upon mental health care,
 puberty blockers, hormone therapy, and surgery. It also protects parents
-harming youth through denial of trans-related care.  However, this is
-currently blocked from enforcement due to a [temporary restraining
-order (as of April 16,
-2024)](https://www.acluohio.org/en/press-releases/win-ohio-court-temporarily-blocks-gender-affirming-care-ban-taking-effect-transgender)
+harming youth through denial of trans-related care.
 
 In addition, if HB183 is passed, Ohio would ban access to bathroom
 and locker room facilities at all schools and universities (including
@@ -82,10 +79,7 @@ changes to trans people, indicating bias within the Ohio legal system.
  * Trans medical care is legal for adults.
  * Ohio bans transition care for youth and goes beyond most other bans of
    care including placing significant restrictions upon mental health
-   care, puberty blockers, hormone therapy, and surgery.  However, this
-   is currently blocked from enforcement due to a [temporary restraining
-   order (as of April 16,
-   2024)](https://www.acluohio.org/en/press-releases/win-ohio-court-temporarily-blocks-gender-affirming-care-ban-taking-effect-transgender)
+   care, puberty blockers, hormone therapy, and surgery.
  * The ACLU is [suing
    Ohio](https://www.acluohio.org/en/press-releases/aclu-ohio-preparing-lawsuit-challenging-hb-68)
    over the care ban.
@@ -103,9 +97,7 @@ changes to trans people, indicating bias within the Ohio legal system.
    as some youth gender transition medical care is now illegal in Ohio,
    it is unknown how that may affect custody.
  * HB68 explicitly protects anti-trans parents who are causing harm to
-   trans youth. However, this is currently blocked from enforcement due
-   to a [temporary restraining order (as of April 16,
-   2024)](https://www.acluohio.org/en/press-releases/win-ohio-court-temporarily-blocks-gender-affirming-care-ban-taking-effect-transgender)
+   trans youth.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
  
@@ -115,7 +107,7 @@ changes to trans people, indicating bias within the Ohio legal system.
 
 ## Relevant Laws
 
- * [2023 HB68 - Youth Care Ban (blocked from enforcement as of April 16, 2024)](https://www.legislature.ohio.gov/legislation/135/hb68)
+ * [2023 HB68 - Youth Care Ban](https://www.legislature.ohio.gov/legislation/135/hb68)
  * [2023 HB183 (Not yet passed) - Bathroom Ban in Schools and Universities](https://www.legislature.ohio.gov/legislation/135/hb183)
  * [Attorney General Opinion 2023-006](https://www.ohioattorneygeneral.gov/getattachment/f10767a2-2cf3-4844-b943-90a503dc4c52/2023-006.aspx)
  * [2023 Administrative Rule 3701-83-60 - Ban on Youth Gender Affirming Surgery](https://www.registerofohio.state.oh.us/pdfs/3701/0/83/3701-83-60_PH_EM_NE_RU_20240105_1308.pdf)
