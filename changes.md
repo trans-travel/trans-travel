@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-08-09 \[[US Missouri](us/mo.md)\] Missouri investigating trans
+    woman for using facilities.
  *  2024-08-07 \[[US Missouri](us/mo.md)\] Missouri requires bottom
     surgery or court order to change ID's gender marker.
  *  2024-08-07 \[[US Ohio](us/oh.md)\] Ohio ban on youth gender care is

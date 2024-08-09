@@ -25,6 +25,10 @@ might have an impact on child custody.
    Missouri.
  * Missouri has a religious freedom laws that allow denial of some
    services on the basis of gender identity.
+ * Missouri has initiated a criminal investigation against at least
+   one trans woman [for using a gendered
+   facility](https://fox2now.com/news/missouri/missouri-ag-investigates-ellisville-womens-gym-locker-room-use/)
+   (updated August 9, 2024).
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -54,6 +58,11 @@ demonstrate proof of bottom surgery or a court order (updated Aug 7,
 2024).
 
 Non-binary people are not legally recognized.
+
+Missouri's AG has indicated that he believes that gender is defined as
+sex assigned at birth and has used that to [initiate a criminal
+investigation](https://fox2now.com/news/missouri/missouri-ag-investigates-ellisville-womens-gym-locker-room-use/)
+(updated August 9, 2024).
 
 ## Medical Care
 
@@ -122,6 +131,14 @@ Non-binary people are not legally recognized.
  * [St. Louis Trans-Inclusive Executive Order](https://www.stlouis-mo.gov/government/departments/mayor/documents/executive-orders/upload/Draft-EO-Trans-Rights.pdf)
 
 ## General Safety
+
+Missouri has initiated a criminal investigation against at least
+one trans woman [for using a gendered
+facility](https://fox2now.com/news/missouri/missouri-ag-investigates-ellisville-womens-gym-locker-room-use/)
+(updated August 9, 2024). Thus, using bathroom or locker room
+facilities, regardless of what genitals that the trans person has,
+should be considered a high-risk activity which may result in the full
+power of the State of Missouri against the facility user.
 
 In April 2023, a trans person was [attacked on a city
 bus](https://www.fbi.gov/wanted/seeking-info/hate-crime-1) in St. Louis
