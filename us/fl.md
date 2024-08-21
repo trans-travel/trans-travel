@@ -100,7 +100,7 @@ procedures," similar to how the courts have jurisdiction over abuse.
    licensed for the purpose and only permit adults. This has been
    labeled a drag ban, and depending on how courts interpret various
    phrases may or may not actually be one. However, a court case, as of
-   June 24, 2023, prevents the state from enforcing this law.
+   June 11, 2024, prevents the state from enforcing this law.
  * Some businesses and LGBT organizations have canceled events that
    might involve drag or trans people participating, due to the
    possibility of the "protection of children" law being used against
