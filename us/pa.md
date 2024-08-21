@@ -57,9 +57,10 @@ state IDs, but not birth certificates.
 
  * Trans medical care is legal for all ages.
  * Pennsylvania does not have a "sanctuary" law.
- * [Pittsburgh](https://www.wesa.fm/politics-government/2023-09-12/pittsburgh-protect-gender-affirming-care)
-   and
-   [Philadelphia](https://www.phila.gov/media/20231017142855/Executive-Order-2023-04.pdf)
+ * [Pittsburgh](https://www.wesa.fm/politics-government/2023-09-12/pittsburgh-protect-gender-affirming-care),
+   [Philadelphia](https://www.phila.gov/media/20231017142855/Executive-Order-2023-04.pdf),
+   and [State
+   College](https://content.civicplus.com/api/assets/3683a880-f844-4895-b547-d9c055eb0fe4)
    are sanctuary cities for for trans healthcare, which somewhat
    limits cooperation between the city in prosecution of those
    seeking trans healthcare.
@@ -69,9 +70,10 @@ state IDs, but not birth certificates.
  * Transition care is not defined as child abuse
  * Pennsylvania does not have a sanctuary law for people obtaining
    transition-related medical care.
- * [Pittsburgh](https://www.wesa.fm/politics-government/2023-09-12/pittsburgh-protect-gender-affirming-care)
-   and
-   [Philadelphia](https://www.phila.gov/media/20231017142855/Executive-Order-2023-04.pdf)
+ * [Pittsburgh](https://www.wesa.fm/politics-government/2023-09-12/pittsburgh-protect-gender-affirming-care),
+   [Philadelphia](https://www.phila.gov/media/20231017142855/Executive-Order-2023-04.pdf),
+   and [State
+   College](https://content.civicplus.com/api/assets/3683a880-f844-4895-b547-d9c055eb0fe4)
    are sanctuary cities for trans healthcare, which somewhat limits cooperation between
    the city in prosecution of those seeking trans healthcare.
 
@@ -87,6 +89,7 @@ state IDs, but not birth certificates.
    2)](https://pittsburgh.legistar.com/LegislationDetail.aspx?ID=6326269&GUID=D958D801-6D14-4001-9C61-4ED019A8C380&Options=&Search=&FullText=1)
  * [Philadelphia Executive Order 4-23 (Sanctuary
    Order)](https://www.phila.gov/media/20231017142855/Executive-Order-2023-04.pdf)
+* [State College Resolution No. 1394 (Sanctuary Resolution)](https://content.civicplus.com/api/assets/3683a880-f844-4895-b547-d9c055eb0fe4)
 
 ## General Safety
 
