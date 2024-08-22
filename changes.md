@@ -1,6 +1,9 @@
 # Change Log for Trans Travel Guide
 
- *  2024-08-20 \[[US Pennsylvania](us/pa)\] State College is now a
+ *  2024-08-21 \[[US Arizona](us/az.md)\] Federal court invalidated
+    statute that required sex reassignment surgery to change birth
+    certificate.
+ *  2024-08-20 \[[US Pennsylvania](us/pa.md)\] State College is now a
     sanctuary city for trans healthcare.
  *  2024-08-09 \[[US Missouri](us/mo.md)\] Missouri investigating trans
     woman for using facilities.
