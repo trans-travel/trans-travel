@@ -129,7 +129,7 @@ See the [USA TSA](notes/tsa.md) document.
  * As public funds cannot be used for transition care, trans prisoners
    will not have access to trans-related medical care.
  * Federal regulations protecting trans people in were blocked in
-   Tennessee due to the [Florida v. Health and Human
+   due to the [Florida v. Health and Human
    Services](https://genderanalysis.net/wp-content/uploads/2024/07/047127228576.pdf)
    preliminary injunction on July 3, 2024. Thus trans people do not have
    many of the federal protections on the basis of sex when obtaining
@@ -151,13 +151,17 @@ over sex assigned at birth.
 
 ## Medical Care
 
- * Trans medical care is legal for adults, but surgery is still at
-   risk and is subject to significant restriction.  HRT is available.
- * The State of Florida continues to officially oppose care, and is
-   seeking to overturn court decisions that allowed the care to continue.
-   Florida has filed an appeal in a significant case on July 19, 2024.
- * Surgery for people under age 18 is illegal. However, puberty blockers
-   and HRT are legal.
+ * Trans medical care is legal for adults, but with significant
+   restrictions that are, in-practice, a ban on trans healthcare, and
+   require misleading (and medically inaccurate) "informed consent"
+   forms, restrict what providers can provide the care unnecessarily,
+   and put in place restrictions that will prevent many providers who
+   are otherwise qualified under the law from taking the legal risk of
+   providing care.  Should any care providers continue to provide this
+   care, there will be long waiting lists.  This is updated on August
+   24, 2024.
+ * Trans medical care for youth is illegal (as of August 26, 2024).
+   This includes puberty blockers, hormone therapy, and surgery.
  * Medical providers can deny most care on the basis of their religious
    or ethical beliefs (emergency care is required to be provided).
 
@@ -178,9 +182,12 @@ over sex assigned at birth.
  * [2023 H1580 - Health Denial Law](https://www.flsenate.gov/Session/Bill/2023/1580/BillText/er/PDF)
  * [2023 H1069 - Pronouns, Don't Say Gay](https://legiscan.com/FL/text/H1069/id/2798335)
  * [2023 H1521 - Bathroom Bill](https://legiscan.com/FL/text/H1521/id/2764723)
- * [2023 SB254 - Trans Youth Medical Ban (largely unconstitutional and unenforceable, see below, as of June 11, 2024)](https://www.flsenate.gov/Session/Bill/2023/254/BillText/er/PDF)
+ * [2023 SB254 - Trans Youth Medical Ban (enforceable as of June 11, 2024)](https://www.flsenate.gov/Session/Bill/2023/254/BillText/er/PDF)
  * [2023 SB254 - Court decision on puberty blockers and
-   HRT](https://storage.courtlistener.com/recap/gov.uscourts.flnd.460963/gov.uscourts.flnd.460963.223.0.pdf)
+   HRT that initially made them legal, but has been overturned on appeal as of August 26, 2024](https://storage.courtlistener.com/recap/gov.uscourts.flnd.460963/gov.uscourts.flnd.460963.223.0.pdf)
+   [2024 SB254 - Court decision banning most trans medical care (August
+   26,
+   2024)](https://storage.courtlistener.com/recap/gov.uscourts.ca11.87503/gov.uscourts.ca11.87503.49.0.pdf)
  * [2023 SB1438 - "Adult" Oriented Performance Law - Drag Ban (currently prevented from being enforced by court, as of June 11, 2024)](https://www.flsenate.gov/Committees/BillSummaries/2023/html/2900)
  * [2023 Dept. of Ed Rule on Private College Bathrooms and Locker
    Rooms](https://www.fldoe.org/core/fileparse.php/20680/urlt/8-2.pdf)
