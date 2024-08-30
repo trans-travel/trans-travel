@@ -64,8 +64,7 @@ at birth and/or chromosomes.
    That law is similar to the anti-trans youth healthcare ban, thus people
    should be aware that when visiting Alabama, many actions that don't
    involve Alabama may be considered criminal conspiracy by the head law
-   enforcement officer in the state, should the anti-trans youth healthcare
-   ban be re-instated.
+   enforcement officer in the state.
  * Trans people are required to use bathrooms/showers associated with their
    sex assigned at birth when using some bathrooms/showers in schools,
    including public universities and university-run programs, such as
