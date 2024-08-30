@@ -47,7 +47,10 @@ Non-binary people are not recognized.
 
  * Trans medical care is legal for adults.
  * Medical transition (puberty blockers, hormones, surgeries) for people
-   under 18 is illegal (updated May 21, 2024).
+   under 18 is illegal (updated May 21, 2024).  This is being
+   challenged [by the
+   ACLU](https://www.aclu.org/press-releases/trans-people-families-file-lawsuit-against-south-carolinas-gender-affirming-care-ban)
+   (updated August 29, 2024).
  * Some medical providers, notably the MUSC system, have [stopped
    providing care to
    adults](https://www.postandcourier.com/health/musc-transgender-ban-hormones-mount-pleasant/article_6f54ffa4-42d7-11ef-8035-afdc74e1b419.html).  (Updated July 19, 2024)

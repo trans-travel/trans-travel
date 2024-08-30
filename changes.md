@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-08-29 \[[US South Carolina](us/sc.md)] South Carolina being
+    sued by ACLU over trans youth care ban.
  *  2024-08-26 \[[US Florida](us/fl.md)\] Trans medical care is illegal.
  *  2024-08-21 \[[US Arizona](us/az.md)\] Federal court invalidated
     statute that required sex reassignment surgery to change birth
