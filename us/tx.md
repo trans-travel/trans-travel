@@ -68,6 +68,9 @@ Texas does not recognize non-binary gender.
 Some laws specify male, female, and similar words based on sex assigned
 at birth and/or chromosomes.
 
+It is generally impossible to change your birth certificate or ID in
+Texas (information accurate as of September 4, 2024).
+
 ## Medical Care
 
  * Trans medical care is legal for adults.
