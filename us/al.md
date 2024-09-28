@@ -46,7 +46,8 @@ Non-binary people are not recognized.
 Intersex people have some limited recognition.
 
 Some laws specify male, female, and similar words based on sex assigned
-at birth and/or chromosomes.
+at birth and/or chromosomes.  The limited recognition of trans people in
+the state often requires proof of surgery.
 
 ## Medical Care
 
