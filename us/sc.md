@@ -56,7 +56,7 @@ Non-binary people are not recognized.
    adults](https://www.postandcourier.com/health/musc-transgender-ban-hormones-mount-pleasant/article_6f54ffa4-42d7-11ef-8035-afdc74e1b419.html).  (Updated July 19, 2024)
    as well as children due to the trans youth medical ban.
  * Federal regulations protecting trans people in were blocked in
-   Tennessee due to the Tennessee v Becerra preliminary injunction on
+   South Carolina due to the Tennessee v Becerra preliminary injunction on
    July 3, 2024. Thus trans people do not have many of the federal
    protections on the basis of sex when obtaining medical care in this
    state.

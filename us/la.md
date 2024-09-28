@@ -64,7 +64,7 @@ with sex assigned at birth.
  * The trans youth medical ban is [being challenged in
    court](https://lambdalegal.org/legal_document/soe_la_20240108_petition-for-declaratory-permanent-injunctive-relief/).
  * Federal regulations protecting trans people in were blocked in
-   Tennessee due to the Tennessee v Becerra preliminary injunction on
+   Louisiana due to the Tennessee v Becerra preliminary injunction on
    July 3, 2024. Thus trans people do not have many of the federal
    protections on the basis of sex when obtaining medical care in this
    state.

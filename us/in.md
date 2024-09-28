@@ -76,7 +76,7 @@ Intersex people have some limited recognition.
  * Conversion therapy is not banned and municipalities are banned from
    enacting rules banning conversion therapy.
  * Federal regulations protecting trans people in were blocked in
-   Tennessee due to the Tennessee v Becerra preliminary injunction on
+   Indiana due to the Tennessee v Becerra preliminary injunction on
    July 3, 2024. Thus trans people do not have many of the federal
    protections on the basis of sex when obtaining medical care in this
    state.

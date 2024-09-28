@@ -10,7 +10,7 @@ considered their sex assigned at birth. This likely will apply to bathroom
 and facility access of facilities under state regulation (such as airports,
 rest areas, many parks) and can place trans people at significant risk.
 
-SNebraska bans trans youth medical care with very narrow and limited
+Nebraska bans trans youth medical care with very narrow and limited
 exceptions for continuing care.  It has an unknown impact on child
 custody, although it should be noted that the law applies to medical
 providers and not parents.
@@ -90,7 +90,7 @@ Intersex people have some limited recognition.
    healthcare [are unclear and may be impossible to
    follow](https://www.aol.com/mess-nebraska-gender-affirming-care-100000314.html)
  * Federal regulations protecting trans people in were blocked in
-   Tennessee due to the Tennessee v Becerra preliminary injunction on
+   Nebraska due to the Tennessee v Becerra preliminary injunction on
    July 3, 2024. Thus trans people do not have many of the federal
    protections on the basis of sex when obtaining medical care in this
    state.

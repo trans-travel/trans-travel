@@ -42,7 +42,7 @@ See the [USA TSA](notes/tsa.md) document.
  * The State does provide some trans medical care in prisons, although
    it appears this does not meet the current WPATH standard of care.
  * Federal regulations protecting trans people in were blocked in
-   Tennessee due to the Tennessee v Becerra preliminary injunction on
+   Kentucky due to the Tennessee v Becerra preliminary injunction on
    July 3, 2024. Thus trans people do not have many of the federal
    protections on the basis of sex when obtaining medical care in this
    state.
