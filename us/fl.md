@@ -144,7 +144,7 @@ Some laws specify male, female, and similar words based on sex assigned
 at birth and/or chromosomes.  Florida does not permit trans people to
 have driver's licenses that reflect an accurate gender marker.
 
-Florida will defines sex largely consistent with sex assigned at birth
+Florida law defines sex largely consistent with sex assigned at birth
 for a large number of interactions trans travelers may have. Birth
 certificates, IDs, genital configurations, etc, will not take priority
 over sex assigned at birth.
