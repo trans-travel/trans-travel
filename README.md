@@ -26,7 +26,7 @@ this could be seen as child abuse or cause child custody issues.
 This is also available as a PDF. This may be particularly useful to
 people needing to cite this information or who want to carry a copy with
 them on their mobile device.  You can access the PDF version at
-[https://TravelWhileTrans.com/output/trans-travel.pdf](https://TravelWhileTrans.com/output/trans-travel.pdf]).
+[https://TravelWhileTrans.com/output/trans-travel.pdf](https://TravelWhileTrans.com/output/trans-travel.pdf).
 
 # Disclaimer
 
