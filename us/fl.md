@@ -128,7 +128,7 @@ See the [USA TSA](notes/tsa.md) document.
    mistaking her for a trans woman.
  * As public funds cannot be used for transition care, trans prisoners
    will not have access to trans-related medical care.
- * Federal regulations protecting trans people in were blocked in
+ * Federal regulations protecting trans people in medicine were blocked in Florida
    due to the [Florida v. Health and Human
    Services](https://genderanalysis.net/wp-content/uploads/2024/07/047127228576.pdf)
    preliminary injunction on July 3, 2024. Thus trans people do not have
@@ -144,7 +144,7 @@ Some laws specify male, female, and similar words based on sex assigned
 at birth and/or chromosomes.  Florida does not permit trans people to
 have driver's licenses that reflect an accurate gender marker.
 
-Florida will defines sex largely consistent with sex assigned at birth
+Florida law defines sex largely consistent with sex assigned at birth
 for a large number of interactions trans travelers may have. Birth
 certificates, IDs, genital configurations, etc, will not take priority
 over sex assigned at birth.
