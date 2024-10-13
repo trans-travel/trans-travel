@@ -51,6 +51,11 @@ bringing puberty blockers into the country.
    however that gender neutral facilities are not required to exist.
    However, a trans person can use a toilet that fits their "gender
    reassignment" associated gender.
+ * Despite the law, some organizations have enforced anti-trans bathroom
+   policies against trans women (for example, in October, 2024,
+   [Butlin's dragged 5 trans women and a bystander out of women's
+   toilet's](https://metro.co.uk/2024/10/12/butlins-security-guards-suspended-trans-women-dragged-toilets-21783297/); Similar incidents have
+   occurred in locker rooms).
 
 ## Drag / Performance / Cross-dressing Laws
 

@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-10-12 \\[UK](uk.md)] Note about organizations banning trans
+    women from toilets.
  *  2024-09-27 \[[US Alabama](us/al.md)] Proof of surgery required for
     ID change.
  *  2024-09-04 \[[US Texas](us/tx.md)] ID and birth certificate changes
