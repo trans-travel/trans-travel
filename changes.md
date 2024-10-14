@@ -1,6 +1,8 @@
 # Change Log for Trans Travel Guide
 
- *  2024-10-12 \\[UK](uk.md)] Note about organizations banning trans
+ *  2024-10-14 \[[US Tennessee](us/tn.md)] Fix confusing text regarding
+    TN's law prohibiting aiding minors in accessing care.
+ *  2024-10-12 \[[UK](uk.md)] Note about organizations banning trans
     women from toilets.
  *  2024-09-27 \[[US Alabama](us/al.md)] Proof of surgery required for
     ID change.

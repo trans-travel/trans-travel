@@ -14,8 +14,8 @@ that stay was invalid. However, the plaintiffs in a related case in
 Kentucky have asked that the entire appeals court re-hear the Kentucky
 appeal, which could have impact in Tennessee.
 
-In addition, a bill pending governor signature (as of April 25, 2024)
-will criminalize any adults (with exceptions for parents or people
+In addition, Tennessee
+criminalizes any adults (with exceptions for parents or people
 parents have given permission to) providing information, aid, or other
 help to get trans-related medical treatment, regardless of where the
 treatment is given or whether or not the treatment is legal in the place
