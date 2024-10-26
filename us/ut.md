@@ -96,6 +96,12 @@ avoid this airport for connections.
 
 See the [USA TSA](notes/tsa.md) document.
 
+There are transphobic TSA agents known to work at the Salt Lake City
+airport. While not all TSA agents are transphobic, travelers should be
+prepared for the possibility of TSA agents that refuse to touch trans
+travelers for patdowns (requiring supervisor intervention) due to
+transphobia.
+
 ## Jails / Prisons
 
  * Trans women are required to be housed with men.

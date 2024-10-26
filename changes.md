@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-10-26 \[[US Utah](us/ut.md)] Add info about transphobic TSA
+    agents.
  *  2024-10-14 \[[US Tennessee](us/tn.md)] Fix confusing text regarding
     TN's law prohibiting aiding minors in accessing care.
  *  2024-10-12 \[[UK](uk.md)] Note about organizations banning trans
