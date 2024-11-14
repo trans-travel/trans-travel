@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-11-13 \[[US Ohio](us/oh.md)] Bathroom ban at schools (including
+    universities) awaiting governor signature.
+ *  2024-11-13 \[[US Texas](us/tx.md)] Odessa passes bathroom ban.
  *  2024-10-26 \[[US Utah](us/ut.md)] Add info about transphobic TSA
     agents.
  *  2024-10-23 \[[US Texas](us/tx.md)] Odessa proposes bathroom ban.
