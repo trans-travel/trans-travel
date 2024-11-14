@@ -12,7 +12,7 @@ harming youth through denial of trans-related care.
 In addition, if SB104 is signed by the governor, Ohio would ban access to
 bathroom and locker room facilities at all schools and universities
 (including university facilities such as stadiums) except in accordance
-with sex assigned at birth.
+with sex assigned at birth. This would also apply to private colleges.
 
 Beyond SB104, an opinion from the Ohio Attorney General interprets
 existing law to allow discrimination against trans people in bathrooms
