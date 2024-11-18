@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-11-17 \[[US Wyoming](us/wy.md) Gillette banned trans people
+    from rec center bathrooms.
  *  2024-11-17 \[[Japan](jp.md)] Added Japan
  *  2024-11-17 \[[Bermuda](bm.md)] Added Bermuda
  *  2024-11-13 \[[US Ohio](us/oh.md)] Bathroom ban at schools (including

@@ -18,8 +18,11 @@ parents.
 
 ## Public Accommodations
 
+ * Gillette, WY has banned trans people from using gendered bathrooms
+   that do not align with their sex assigned at birth in the county
+   recreation center.
  * Trans people are not banned from using appropriate bathrooms and locker
-   rooms.
+   rooms in the rest of the state.
  * General public accommodation access is not specifically protected by law
    for trans people in Wyoming as a whole (but is in some municipalities).
 
