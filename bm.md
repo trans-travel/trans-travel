@@ -2,7 +2,7 @@
 
 ## A Note
 
-An American with limited knowledge of UK law and culture
+An American with limited knowledge of BM law and culture
 put this page together. I would be very grateful for those with more
 knowledge to improve this page in any and all ways.  While this is geared
 for people who might travel to Bermuda.  I prefer that it would

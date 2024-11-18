@@ -16,6 +16,7 @@
     - [Canada - Quebec](ca/qc.md)
     - [Canada - Saskatchewan](ca/sk.md)
     - [Canada - Yukon](ca/yk.md)
+  * [Japan](jp.md)
   * [Mexico](mx.md)
   * [New Zealand / Aotearoa](nz.md)
   * [United Kingdom](uk.md)
