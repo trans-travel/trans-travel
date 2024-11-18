@@ -12,6 +12,7 @@ tasks:
       - 'bm.md'
       - 'changes.md'
       - 'contributors.md'
+      - 'jp.md'
       - 'mx.md'
       - 'nz.md'
       - 'notes/airport-bathrooms.md'
@@ -31,6 +32,7 @@ tasks:
       - 'bm.md',
       - 'changes.md',
       - 'contributors.md',
+      - 'jp.md'
       - 'mx.md'
       - 'nz.md'
       - 'notes/airport-bathrooms.md'
