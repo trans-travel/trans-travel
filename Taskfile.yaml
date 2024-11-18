@@ -9,8 +9,9 @@ tasks:
   epub:
     sources: 
       - scripts/t/*.t
-      - 'changes.md',
-      - 'contributors.md',
+      - 'bm.md'
+      - 'changes.md'
+      - 'contributors.md'
       - 'mx.md'
       - 'nz.md'
       - 'notes/airport-bathrooms.md'
@@ -27,6 +28,7 @@ tasks:
 
   pdf:
     sources: 
+      - 'bm.md',
       - 'changes.md',
       - 'contributors.md',
       - 'mx.md'

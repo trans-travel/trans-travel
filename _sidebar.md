@@ -1,6 +1,7 @@
 * [Introduction](README.md)
 * [Contributors](contributors.md)
 * Jurisdictions
+  * [Bermuda](bm.md)
   * Canada
     - [Canada - Alberta](ca/ab.md)
     - [Canada - British Columbia](ca/bc.md)
