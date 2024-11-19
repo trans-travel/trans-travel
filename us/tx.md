@@ -24,9 +24,9 @@ care.
    Texas.
  * Texas has wide-reaching religious freedom laws that allow denial of
    some services on the basis of gender identity.
- * An Odessa, Texas, [ordinance](https://www.odessa-tx.gov/AgendaCenter/ViewFile/Agenda/_10222024-757)
-   bans trans people from using any city-affiliated bathroom or changing
-   room other than one that matches their sex assigned at birth.
+ * An Odessa, Texas, ordinance
+   bans trans people from using any bathroom or changing room in the city
+   other than one that matches their sex assigned at birth.
  * Some cities, such as [El
  Paso](https://www.ktsm.com/news/city-council-oks-2-resolutions-to-promote-transgender-rights/)
    are attempting to preserve trans rights to access city facilities.

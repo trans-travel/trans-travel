@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-11-18 \\[US Texas](us/tx.md) Odessa extends trans bathroom ban
+    to private bathrooms.
  *  2024-11-17 \[[US Wyoming](us/wy.md) Gillette banned trans people
     from rec center bathrooms.
  *  2024-11-17 \[[Japan](jp.md)] Added Japan
