@@ -7,15 +7,28 @@ some instances are recognized as non-binary.
 DC is a "sanctuary city" for adults and kids receiving trans medical
 care.
 
+However, significant parts of the USA federal government are controlled
+by anti-trans politicians, and on November 20, 2024, the head of
+Congress has issued a statement that trans people are to be banned from
+any bathroom not aligned with their sex assigned at birth in the Capitol
+Building complex (Capitol, Library of Congress, and Capitol office
+buildings). It is likely that as a new administration takes over, this
+ban will be extended to other Federal properties in DC.
+
 ## Non-discrimination Law
 
  * Trans people are specifically named in DC non-discrimination laws.
 
 ## Public Accommodations
 
- * Trans people are allowed to use the facilities they are comfortable
-   in, including bathrooms, showers, locker rooms, etc.  Legal
-   documentation of your gender is not required for this protection.
+ * Trans people are required to use bathrooms aligned with their sex
+   assigned at birth in the US Capitol Complex (Capitol building,
+   Library of Congress, congressional office buildings). It is unknown
+   how this is/will-be enforced, or what penalties, if any, exist.
+ * Otherwise, Trans people are allowed to use the facilities they are
+   comfortable in, including bathrooms, showers, locker rooms, etc.
+   Legal documentation of your gender is not required for this
+   protection.
  * Public accommodations/businesses with single-occupancy bathrooms are
    required to sign these for all gender and allow access to all
    genders.
