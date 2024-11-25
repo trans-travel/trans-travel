@@ -1,5 +1,9 @@
 # United States - Montana
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Montana has several negative laws towards trans people.
 
 Montana does not ban trans care for children (due to a court judgment

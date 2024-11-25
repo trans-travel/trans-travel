@@ -1,5 +1,9 @@
 # United States - Wyoming
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Wyoming does have negative laws towards trans people.
 
 Wyoming bans trans youth medical care with the exception of mental

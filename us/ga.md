@@ -1,5 +1,9 @@
 # United States - Georgia
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Georgia negative laws towards trans people. These laws should generally
 not impact adult travelers to Georgia, although Georgia also lacks many
 non-discrimination protections.

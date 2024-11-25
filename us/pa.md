@@ -1,5 +1,9 @@
 # United States - Pennsylvania
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Pennsylvania does not has several negative laws towards trans people.
 
 Pennsylvania is not a "sanctuary state", but also does not criminalize

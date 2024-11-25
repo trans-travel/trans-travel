@@ -1,5 +1,9 @@
 # United States - Virgin Islands
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 The US Virgin Islands do not have negative laws towards trans people.
 
 ## Non-discrimination Law

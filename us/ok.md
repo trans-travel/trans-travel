@@ -1,5 +1,9 @@
 # United States - Oklahoma
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Oklahoma has negative laws towards trans people. Some of these laws may
 place trans visitors at risk.
 

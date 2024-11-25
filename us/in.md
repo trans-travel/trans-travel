@@ -1,5 +1,9 @@
 # United States - Indiana
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Indiana negative laws towards trans people. However, these laws
 are, thus far, fairly restricted and do not apply to most
 trans people in most situations.

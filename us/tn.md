@@ -1,5 +1,9 @@
 # United States - Tennessee
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Tennessee has negative laws and executive orders towards trans people. Some of
 these laws place trans visitors at risk.
 

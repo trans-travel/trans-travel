@@ -1,5 +1,9 @@
 # United States - North Carolina
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 North Carolina does not have laws that target most trans visitors directly.
 
 North Carolina does ban trans care for children, although the current law does

@@ -1,5 +1,9 @@
 # United States - Ohio
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Ohio does not have laws that target most trans visitors directly,
 although a trans woman was charged (and found not guilty) for changing
 in a locker room.

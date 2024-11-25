@@ -1,5 +1,9 @@
 # United States - Puerto Rico
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Puerto Rico has negative laws towards trans people. These laws should generally
 not impact adult travelers to Puerto Rico, although Puerto Rico also lacks many
 non-discrimination protections.

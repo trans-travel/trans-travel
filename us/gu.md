@@ -1,5 +1,9 @@
 # United States - Guam
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Guam is not a "sanctuary territory", but also does not criminalize
 trans youth medical care.
 

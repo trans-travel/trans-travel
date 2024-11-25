@@ -1,5 +1,9 @@
 # United States - Virginia
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Virginia does not have laws that target most trans visitors directly.
 However, the Virginia executive branch has created "model policies" for
 school districts that are discriminatory and thus there is the risk of

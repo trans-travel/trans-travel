@@ -1,5 +1,9 @@
 # United States - South Carolina
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 South Carolina does not have laws that target most trans visitors directly.
 
 South Carolina does not appear to place child custody at risk.

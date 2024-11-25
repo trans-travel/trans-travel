@@ -1,5 +1,9 @@
 # United States - Delaware
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Delaware does not have laws that target trans people directly and has
 non-discrimination laws that protect trans people.  However, Delaware
 generally does not recognize 'X' gender markers.

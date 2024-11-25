@@ -1,5 +1,9 @@
 # United States - South Dakota
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 South Dakota has some negative laws towards trans people. However,
 these laws are, thus far, fairly restricted and do not apply to most
 trans travelers in most situations.

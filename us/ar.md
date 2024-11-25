@@ -1,5 +1,9 @@
 # United States - Arkansas
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Arkansas negative laws towards trans people. Some of these laws may
 place trans people at risk. Trans people should particularly consider
 the bathroom law. While it requires "arousing or gratifying a sexual

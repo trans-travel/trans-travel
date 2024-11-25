@@ -1,5 +1,9 @@
 # United States - New Hampshire
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 New Hampshire does not have laws that target trans people directly and has
 non-discrimination laws that protect trans people.  However, if HB396 is
 signed, this may significantly impact trans travelers by removing

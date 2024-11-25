@@ -1,5 +1,9 @@
 # United States - Washington
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Washington is one of the safer states for trans people in the United
 States. This does not mean to expect full equality in all instances, but
 the letter of the law is generally non-discriminatory. Sex and gender

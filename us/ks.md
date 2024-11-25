@@ -1,5 +1,9 @@
 # United States - Kansas
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Kansas places trans people at risk by not recognizing any gender other
 than sex assigned at birth, regardless of legal documentation changes in
 Kansas or elsewhere.

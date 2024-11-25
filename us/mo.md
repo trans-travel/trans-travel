@@ -1,5 +1,9 @@
 # United States - Missouri
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Missouri negative laws towards trans people. These laws
 are, while horrible for residents of Missouri, do not generally
 apply to most trans people traveling to Missouri in most

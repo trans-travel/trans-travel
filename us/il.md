@@ -1,5 +1,9 @@
 # United States - Illinois
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Illinois recognizes the gender of binary trans people. I.E. trans women
 are considered women, trans men are men. However, while non-binary people
 lack some recognition (for instance, until 2024, will be unable to get

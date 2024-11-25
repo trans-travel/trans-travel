@@ -1,5 +1,9 @@
 # United States - Florida
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 HRC and Equality Florida, LGBT advocacy groups, have issued an advisory travel
 warning for the State of Florida.  In addition, both LULAC and NAACP
 have also issued advisories.  Finally, SPARTA, a transgender military

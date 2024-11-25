@@ -1,5 +1,9 @@
 # United States - Louisiana
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 The NAACP of Louisiana has requested the national organization [issue a
 travel advisory](https://www.wbrz.com/news/naacp-seeking-travel-advisory-for-louisiana-citing-concerning-policies/)
 for Louisiana, on the basis of anti-Black and anti-LGBT state bills that

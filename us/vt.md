@@ -1,5 +1,9 @@
 # United States - Vermont
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Vermont recognizes the gender of trans people. I.E. trans women are
 considered women, trans men are men, and non-binary people, at least in
 some instances are recognized as non-binary. Vermont has some of the

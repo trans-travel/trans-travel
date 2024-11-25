@@ -1,5 +1,9 @@
 # United States - American Samoa
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 American Samoa is not a "sanctuary territory", but also does not criminalize
 trans youth medical care.  It has a rich historical tradition of
 Fa'afafine people, who sometimes are considered a third gender. However,

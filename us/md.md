@@ -1,5 +1,9 @@
 # United States - Maryland
 
+This page contains regional-specific information that is in addition to
+the information at [General United States
+Information](notes/usa-general.md).
+
 Maryland does not have laws that target trans people directly and has
 non-discrimination laws that protect trans people. While Maryland does not
 have a sanctuary law, the state generally is proactive in legally
