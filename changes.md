@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-11-24 \\[US General Information](notes/usa-general.md) Added
+    general USA travel notes.
  *  2024-11-21 \\[US DC](us/dc.md) Capitol Complex bathroom ban.
  *  2024-11-18 \\[US Texas](us/tx.md) Odessa extends trans bathroom ban
     to private bathrooms.

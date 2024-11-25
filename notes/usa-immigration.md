@@ -2,6 +2,11 @@
 
 ## General Information
 
+This page contains information specific to international visitors to the
+United States.  However, additional information that is relevant is
+located in [General United States Information](notes/usa-general.md) and
+in the state/territory specific pages on this site.
+
 Crossing the border with documentation that matches US government
 requirements can be stressful. However, trans people do routinely cross
 the US border and many do not have any difficulty crossing the border

@@ -1,5 +1,21 @@
 # United States - General Information
 
+## Future Outlook
+
+The incoming (2025) national political leadership is known for
+transphobic statements and rhetoric, and have indicated that they will
+implement laws and regulations to make life more difficult for trans
+people, including visitors. Future travel plans should be aware of the
+changing nature of the national conversation. That said, as noted above,
+many of the laws in the USA are local (I.E. most criminal laws are state
+laws, not national laws), and regional information should be reviewed.
+This site has pages for all USA states and territories.
+
+In addition, state governments have been tending towards worsening
+restrictions for trans people. Visitors should be aware that this site
+generally only notes legislation that is close to being imminently
+signed.
+
 ## Air Travel
 
 Transgender people are sometimes the victims of groping in airports or
@@ -85,3 +101,4 @@ situations, avoid escalation of verbal arguments, and avoid political
 Crowds of drunk young men can become violent towards visibly trans
 people. If you will be around groups which may include many drunk young
 men, consider your safety situation.
+
