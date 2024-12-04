@@ -5,9 +5,8 @@ I.E. trans women are considered women, trans men are men, and non-binary
 people are recognized for some purposes. The
 non-discrimination/anti-harassment laws for adults are positive and there is
 some non-discrimination protection for trans people. However, beyond these
-laws, the province has taken negative action against trans youth. As of
-February 5, 2024, planned restrictions for trans youth would be the most
-restrictive of any province in Canada.
+laws, the province has taken negative action against trans youth,
+including Canada's most restrictive ban on youth medical care.
 
 ## Non-discrimination Law
 
@@ -57,7 +56,9 @@ subordinate to parental rights when these rights conflict.
 
 ## Medical Care
 
- * Trans medical care is legal for all ages.
+ * Trans medical care is legal for adults.
+ * Alberta has banned HRT, puberty blockers, and some other care for
+   people under age 16.
  * However, Alberta has indicated that in Fall of 2024,
    [provincial policy would outlaw some trans youth medical
    care](https://www.cbc.ca/news/canada/edmonton/danielle-smith-1.7101595)
@@ -69,10 +70,8 @@ subordinate to parental rights when these rights conflict.
 ## Child Custody / Abuse
 
  * Transition care is not defined as child abuse
- * If Alberta enacts [policy as
-   proposed](https://www.cbc.ca/news/canada/edmonton/danielle-smith-1.7101595),
-   some trans youth medical care would be banned. It is unknown what
-   impact this may have on custody.
+ * Trans youth medical care would be banned for children under 16. It is
+   unknown what impact this may have on custody.
 
 ## Relationship Recognition
 
