@@ -92,6 +92,17 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to sometimes be misgendered
 by officials and public institutions.
 
+Care should also be used when interacting with public officials or
+protesting government action. On December 10, 2024, A cis man was arrested
+and charged with assault after a handshake with a Republican US
+Representative where he asked the representative to support trans children.
+The Republican Representative claims this was an attack, which is
+disputed by witnesses ([See this story in The
+Hill](https://thehill.com/homenews/house/5035804-nancy-mace-handshake-dispute-arrest/)).
+It is likely under full Republican control of all branches of Federal
+government that previously allowed protest and advocacy activities may
+result in criminal charges and/or detention.
+
 However, much of DC is considered reasonably safe.  That said,
 attacks still can and do occur in DC.
 

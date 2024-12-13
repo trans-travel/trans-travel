@@ -90,6 +90,22 @@ officials at USA borders.
 See the [USA International Visitors page](notes/usa-immigration.md) for more
 information, including information about drug importation..
 
+## Advocacy and Protests
+
+Care should also be used when interacting with public officials or
+protesting government action. Government officials in the USA have taken
+action against protesters for previously-legal activities.
+
+For instance, in Washington DC, on December 10, 2024, A cis man was arrested
+and charged with assault after a handshake with a Republican US
+Representative where he asked the representative to support trans children.
+The Republican Representative claims this was an attack, which is
+disputed by witnesses ([See this story in The
+Hill](https://thehill.com/homenews/house/5035804-nancy-mace-handshake-dispute-arrest/)).
+It is likely under full Republican control of all branches of Federal
+government that previously allowed protest and advocacy activities may
+result in criminal charges and/or detention.
+
 ## General Safety
 
 The USA has intense anti-trans rhetoric. While many travelers will not
