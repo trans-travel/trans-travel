@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-12-12 \\[US Florida](us/fl.md)] Added additional information on
+    Florida jails/prisons.
  *  2024-12-04 \\[CA Alberta](ca/ab.md)] Alberta bans trans medical care
     for those under 16.
  *  2024-11-27 \\[US Ohio](us/oh.md) Bathroom ban signed by Ohio

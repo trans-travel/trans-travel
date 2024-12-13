@@ -132,6 +132,9 @@ See the [USA TSA](notes/tsa.md) document.
    mistaking her for a trans woman.
  * As public funds cannot be used for transition care, trans prisoners
    will not have access to trans-related medical care.
+ * Prisoners are subject to humiliating naked exams by people of the
+   wrong gender and sometimes forced detransition (haircuts, prevention
+   of use of gender-appropriate garments, etc.
  * Federal regulations protecting trans people in medicine were blocked in Florida
    due to the [Florida v. Health and Human
    Services](https://genderanalysis.net/wp-content/uploads/2024/07/047127228576.pdf)
