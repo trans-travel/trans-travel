@@ -1,9 +1,5 @@
 # United States - Montana
 
-This page contains regional-specific information that is in addition to
-the information at [General United States
-Information](notes/usa-general.md).
-
 Montana has several negative laws towards trans people.
 
 Montana does not ban trans care for children (due to a court judgment
@@ -68,9 +64,10 @@ for the ban on changing birth certificates and ID.
 
  * Trans medical care is legal for all ages.
  * While a law was passed to ban trans healthcare for youth, that law
-   was [ruled
-   unconstitutional](https://www.erininthemorning.com/p/landmark-ruling-montana-judge-blocks)
-   under the state constitution and is thus unenforceable.
+   is blocked by a preliminary injunction while further court hearings
+   are held. This injunction was supported by findings of the [Montana
+   Supreme
+   Court](https://assets.aclu.org/live/uploads/2024/12/Opinion-Published-6.pdf).
  * Medical providers can deny non-emergency care on the basis of their
    religious beliefs or conscious.
 
@@ -108,4 +105,7 @@ officials and public institutions.
 ## Resources
 
  * [van Garderen v. State of Montana - Youth Trans Care Ban Challenge](https://lambdalegal.org/case/van-garderen-v-state-of-montana/)
+ * [van Garderen v. State of Montana - Supreme Court Upholding
+   Preliminary
+   Injunction](https://assets.aclu.org/live/uploads/2024/12/Opinion-Published-6.pdf)
  * [Drag Ban - Temporary Restraining Order](https://storage.courtlistener.com/recap/gov.uscourts.mtd.73809/gov.uscourts.mtd.73809.13.0.pdf)

@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-12-12 \\[US Montana](us/mt.md)] MT Supreme Court upheld
+    preliminary injunction against the child medical care law.
  *  2024-12-12 \\[US Florida](us/fl.md)] Added additional information on
     Florida jails/prisons.
  *  2024-12-04 \\[CA Alberta](ca/ab.md)] Alberta bans trans medical care
