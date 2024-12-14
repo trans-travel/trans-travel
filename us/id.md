@@ -75,7 +75,7 @@ See the [USA TSA](notes/tsa.md) document.
  * Idaho allows all government employees, including law enforcement,
    jail, and prison employees at all levels of government to refuse to
    recognize names other than legal names.  This also allows those employees
-   to misgender trans employees.  trans people. This will allow those working
+   to misgender trans employees and others.  This will allow those working
    in jails and prisons this right to discrimination.
 
 ## Legal Definition of Sex
