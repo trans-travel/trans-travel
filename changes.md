@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-12-17 \\[UK](uk.md)] Added information from CPS on Deception as
+    to Sex that may impact trans folks.
  *  2024-12-12 \\[US](notes/usa-general.md)] Indicated that protest and
     advocacy activities may carry risks they previously did not.
  *  2024-12-12 \\[US DC](us/dc.md)] Noted that trans person was charged

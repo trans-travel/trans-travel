@@ -165,6 +165,24 @@ Non-binary gender is not recognized in the UK.
 
  * Same-sex marriage (and thus all trans marriage) is recognized
 
+## Sexual Activity
+
+ * "Deception as to sex" is an offense in the UK, and the Crown
+   Prosecution Service has
+   [guidance](https://www.cps.gov.uk/legal-guidance/rape-and-sexual-offences-chapter-6-consent#a11)
+   that makes sexual activity without disclosing birth sex illegal.
+   Sexual activity is broadly defined and may include things not
+   considered sex in other countries. This guidance also applies to people
+   with a Gender Recognition Certificate (GRC): sex without disclosing birth
+   sex, even for a GRC and who has had bottom surgery may be prosecuted.
+ * Trans people engaging in any sort of physical intimacy (including
+   even some forms while clothed) should consider if they may want to
+   ensure they have documentation of disclosing their birth sex, to
+   prevent a possible prosecution by someone who later has regrets or
+   wants revenge.
+ * It is likely this places trans people participating in some forms of
+   the underground sex economy at high risk of prosecution.
+
 ## Relevant Laws
 
  * [Puberty Blocker
@@ -173,6 +191,8 @@ Non-binary gender is not recognized in the UK.
    2010](https://www.legislation.gov.uk/ukpga/2010/15/contents)
  * [Transgender Prison
    Policy](https://www.gov.uk/government/news/new-transgender-prisoner-policy-comes-into-force)
+ * [Crown Prosecution Service guidance on Deception as to
+   Sex](https://www.cps.gov.uk/legal-guidance/rape-and-sexual-offences-chapter-6-consent#a11)
 
 ## General Safety
 
