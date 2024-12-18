@@ -31,6 +31,11 @@ under the age of 18 when used for gender transition. This ban also
 applies to out-of-country prescription. It may impact UK citizens
 bringing puberty blockers into the country.
 
+Of particular note, sexual activity, even consensual sexual activity,
+even including activities such as kissing, may place trans people at risk
+if they cannot prove they disclosed their sex assigned at birth to their
+partner(s).
+
 ## Non-discrimination Law
 
  * The 2010 Equality Act protects "gender reassignment" (including those
@@ -172,9 +177,10 @@ Non-binary gender is not recognized in the UK.
    [guidance](https://www.cps.gov.uk/legal-guidance/rape-and-sexual-offences-chapter-6-consent#a11)
    that makes sexual activity without disclosing birth sex illegal.
    Sexual activity is broadly defined and may include things not
-   considered sex in other countries. This guidance also applies to people
-   with a Gender Recognition Certificate (GRC): sex without disclosing birth
-   sex, even for a GRC and who has had bottom surgery may be prosecuted.
+   considered sex in other countries (such as, possibly, kissing).
+   This guidance also applies to people with a Gender Recognition
+   Certificate (GRC): sex without disclosing birth sex, even for a GRC
+   and who has had bottom surgery may be prosecuted.
  * Trans people engaging in any sort of physical intimacy (including
    even some forms while clothed) should consider if they may want to
    ensure they have documentation of disclosing their birth sex, to
