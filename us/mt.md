@@ -54,11 +54,16 @@ by a state court.  Thus it is not in effect.
 
 Non-binary people are not recognized.
 
-Montana does not generally allow changing of ID or birth certificate.
+A Montana law generally prevents changing of ID or birth certificate.
 They have previously violated court orders on birth certificate changes.
-The state is currently (as of April 18, 2024) [being
+The state is currently (as of December 17, 2024) [being
 sued](https://thehill.com/homenews/lgbtq/4603075-montana-sued-over-refusal-to-amend-transgender-peoples-identity-documents/)
-for the ban on changing birth certificates and ID.
+for the ban on changing birth certificates and ID.  On December 17,
+2024, a state court [issued a preliminary
+injunction](https://assets.aclu.org/live/uploads/2024/12/Order-Motion-for-Preliminary-Injunction.pdf)
+against the state blocking this law. Thus, IDs and birth certificates
+can be changed, at least if Montana follows this court order (they have
+refused to follow similar orders in the past).
 
 ## Medical Care
 

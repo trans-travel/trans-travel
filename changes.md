@@ -1,25 +1,27 @@
 # Change Log for Trans Travel Guide
 
- *  2024-12-17 \\[UK](uk.md)] Added information from CPS on Deception as
+ *  2024-12-17 \[[US_Montana](us/mt.md)] MT district court temporarily
+    blocked a ban on changing birth certificate and ID gender markers.
+ *  2024-12-17 \[[UK](uk.md)] Added information from CPS on Deception as
     to Sex that may impact trans folks.
- *  2024-12-12 \\[US](notes/usa-general.md)] Indicated that protest and
+ *  2024-12-12 \[[US](notes/usa-general.md)] Indicated that protest and
     advocacy activities may carry risks they previously did not.
- *  2024-12-12 \\[US DC](us/dc.md)] Noted that trans person was charged
+ *  2024-12-12 \[[US DC](us/dc.md)] Noted that trans person was charged
     with a crime after a handshake with a US Representative.
- *  2024-12-12 \\[US Montana](us/mt.md)] MT Supreme Court upheld
+ *  2024-12-12 \[[US Montana](us/mt.md)] MT Supreme Court upheld
     preliminary injunction against the child medical care law.
- *  2024-12-12 \\[US Florida](us/fl.md)] Added additional information on
+ *  2024-12-12 \[[US Florida](us/fl.md)] Added additional information on
     Florida jails/prisons.
- *  2024-12-04 \\[CA Alberta](ca/ab.md)] Alberta bans trans medical care
+ *  2024-12-04 \[[CA Alberta](ca/ab.md)] Alberta bans trans medical care
     for those under 16.
- *  2024-11-27 \\[US Ohio](us/oh.md) Bathroom ban signed by Ohio
+ *  2024-11-27 \[[US Ohio](us/oh.md) Bathroom ban signed by Ohio
     governor.
- *  2024-11-24 \\[US General Information](notes/usa-general.md) Added
+ *  2024-11-24 \[[US General Information](notes/usa-general.md) Added
     general USA travel notes.
- *  2024-11-21 \\[US DC](us/dc.md) Capitol Complex bathroom ban.
- *  2024-11-18 \\[US Texas](us/tx.md) Odessa extends trans bathroom ban
+ *  2024-11-21 \[[US DC](us/dc.md) Capitol Complex bathroom ban.
+ *  2024-11-18 \[[US Texas](us/tx.md) Odessa extends trans bathroom ban
     to private bathrooms.
- *  2024-11-17 \[[US Wyoming](us/wy.md) Gillette banned trans people
+ *  2024-11-17 [[[US Wyoming](us/wy.md) Gillette banned trans people
     from rec center bathrooms.
  *  2024-11-17 \[[Japan](jp.md)] Added Japan
  *  2024-11-17 \[[Bermuda](bm.md)] Added Bermuda
