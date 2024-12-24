@@ -96,7 +96,10 @@ Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to sometimes be misgendered
-by officials and public institutions.
+by officials and public institutions. For instance, in December, 2024,
+in Riverside, a cis Black woman was chased out of a bathroom for being
+in the "wrong" bathroom, and a trans woman who was part of a group
+protesting anti-trans hate was physically attacked.
 
 Despite California's reputation as LGBT friendly, different localities
 may have different attitudes towards trans people. For instance, Calexico,

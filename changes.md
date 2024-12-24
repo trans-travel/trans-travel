@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2024-12-24 \[[US California](us/ca.md)] Attack at bathroom in
+    Riverside.
  *  2024-12-17 \[[US_Montana](us/mt.md)] MT district court temporarily
     blocked a ban on changing birth certificate and ID gender markers.
  *  2024-12-17 \[[UK](uk.md)] Added information from CPS on Deception as
