@@ -32,9 +32,9 @@ These attacks may be rising due to increasing anti-trans political
 rhetoric.
 
 Attacks in the past have occurred at stations or on trains in Boston, Denver,
-Minneapolis, New York City, and San Francisco.  These attacks are generally
-unprovoked and can be extremely violent.  In addition, it is unusual for
-bystanders to intervene on behalf of a trans victim.
+Houston, Minneapolis, New York City, and San Francisco.  These attacks are
+generally unprovoked and can be extremely violent.  In addition, it is
+unusual for bystanders to intervene on behalf of a trans victim.
 
 Some safety precautions you may consider:
 
