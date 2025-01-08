@@ -134,13 +134,8 @@ See the [USA TSA](notes/tsa.md) document.
    will not have access to trans-related medical care.
  * Prisoners are subject to humiliating naked exams by people of the
    wrong gender and sometimes forced detransition (haircuts, prevention
-   of use of gender-appropriate garments, etc.
- * Federal regulations protecting trans people in medicine were blocked in Florida
-   due to the [Florida v. Health and Human
-   Services](https://genderanalysis.net/wp-content/uploads/2024/07/047127228576.pdf)
-   preliminary injunction on July 3, 2024. Thus trans people do not have
-   many of the federal protections on the basis of sex when obtaining
-   medical care in this state.
+   of use of gender-appropriate garments, forced conversion therapy,
+   drugging, etc).
 
 ## Legal Definition of Sex
 
@@ -171,6 +166,12 @@ over sex assigned at birth.
    This includes puberty blockers, hormone therapy, and surgery.
  * Medical providers can deny most care on the basis of their religious
    or ethical beliefs (emergency care is required to be provided).
+ * Federal regulations protecting trans people in medicine were blocked in Florida
+   due to the [Florida v. Health and Human
+   Services](https://genderanalysis.net/wp-content/uploads/2024/07/047127228576.pdf)
+   preliminary injunction on July 3, 2024. Thus trans people do not have
+   many of the federal protections on the basis of sex when obtaining
+   medical care in this state.
 
 ## Child Custody / Abuse
 
