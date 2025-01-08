@@ -161,6 +161,11 @@ regardless of offered ID then kicking the woman out. In particular,
 all women's bathroom users, trans or cis, who are sometimes read as men
 (or do not present stereotypically femininely) should use caution.
 
+Attacks against trans people occur in Texas.  For instance, a teen
+riding a city bus on Houston was [robbed and
+attacked](https://www.khou.com/article/news/crime/transgender-teen-stabbed-houston-metro/285-9c3eaa18-4782-4a9e-a04a-4ca7e831afbe)
+in December of 2024.
+
 The current (2024) Attorney General of Texas requests lists of trans
 people from in- and out- of state hospitals, as well as
 [trans-/lgbt-related

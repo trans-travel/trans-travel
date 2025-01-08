@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-01-08 \[[US texas](us/tx.md)] Note attack on teen in Houston
  *  2024-12-24 \[[US California](us/ca.md)] Attack at bathroom in
     Riverside.
  *  2024-12-17 \[[US_Montana](us/mt.md)] MT district court temporarily
