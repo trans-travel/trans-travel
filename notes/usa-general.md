@@ -16,6 +16,21 @@ restrictions for trans people. Visitors should be aware that this site
 generally only notes legislation that is close to being imminently
 signed.
 
+Beyond this, some US corporations (Facebook, Amazon, and others) have
+implemented changes, including ceasing funding for programs supporting
+marginalized people (particularly people who are not white, are
+immigrants, or are LGBT).  In some cases, these rollbacks include, as in
+the case of Facebook, explicitly allowing harassment of LGBT people.
+Conferences and events by large USA companies may be less welcoming than
+in the past, and travelers should validate that policies important to
+them (and may have been present at events in the past) will be present at
+these events (I.E. policies that may have existed in the past but not now
+for some USA corporations include availability of sanitation supplies in
+non-women's bathrooms, non-gendered facilities, and ability to indicate
+pronouns on conference badges and similar).  Note that some cities and
+states in the USA do have positive laws that prevent harassment of LGBT
+people, and some also require presence of non-gendered bathrooms.
+
 ## Air Travel
 
 Transgender people are sometimes the victims of groping in airports or
