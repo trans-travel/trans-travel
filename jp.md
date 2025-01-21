@@ -38,7 +38,7 @@ Tokyo) have passed stronger local legislation.
 
 ## Air Travel
 
- * Travel into/out-of UK will require tickets and documents to
+ * Travel into/out-of Japan will require tickets and documents to
    match, including gender.
  * In some cases, body scanners are used to screen passengers. It is
    unknown if these scanners are problematic for trans people.
@@ -59,7 +59,7 @@ Tokyo) have passed stronger local legislation.
 Binary trans people can change their gender with some significant
 restrictions.
 
-Non-binary gender is not recognized in the UK.
+Non-binary gender is not recognized in the Japan.
 
 ## Medical Care
 
