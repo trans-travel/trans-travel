@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-01-20 \[[US](notes/usa-general.md)] USA anti-trans policies
+    issued.
  *  2025-01-11 \[[US](notes/usa-general.md)] Some US corporations are
     rolling-back inclusion initiatives.
  *  2025-01-08 \[[US texas](us/tx.md)] Note attack on teen in Houston

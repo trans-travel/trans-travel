@@ -2,14 +2,21 @@
 
 ## Future Outlook
 
-The incoming (2025) national political leadership is known for
+The current national political leadership is known for
 transphobic statements and rhetoric, and have indicated that they will
 implement laws and regulations to make life more difficult for trans
-people, including visitors. Future travel plans should be aware of the
-changing nature of the national conversation. That said, as noted above,
-many of the laws in the USA are local (I.E. most criminal laws are state
-laws, not national laws), and regional information should be reviewed.
-This site has pages for all USA states and territories.
+people, including visitors.
+
+An [executive
+order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)
+has been issued that intends to reverse all trans-inclusive USA
+policies.
+
+Future travel plans should be aware of the changing nature of the
+national conversation. That said, as noted above, many of the laws
+in the USA are local (I.E. most criminal laws are state laws, not
+national laws), and regional information should be reviewed.  This
+site has pages for all USA states and territories.
 
 In addition, state governments have been tending towards worsening
 restrictions for trans people. Visitors should be aware that this site
@@ -103,7 +110,7 @@ travelers have reported encountering transphobic border and/or customs
 officials at USA borders.
 
 See the [USA International Visitors page](notes/usa-immigration.md) for more
-information, including information about drug importation..
+information, including information about drug importation.
 
 ## Advocacy and Protests
 

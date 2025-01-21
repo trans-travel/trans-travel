@@ -1,5 +1,15 @@
 # United States - Air Travel and Screening
 
+Due to a January 20, 2025 [executive
+order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/),
+the policies below are likely to change within months of the order.
+These changes may include trans people being screened according to sex
+assigned at birth, including pat-downs by people who share the trans
+person's sex assigned at birth.
+
+The below mostly discusses the policies that exist as of now, prior to
+implementation of the order.
+
 When flying out of USA airports (including after connecting from
 international flights), security screening is required.  This is done by
 the TSA.
@@ -35,6 +45,8 @@ civil action, and you may not be allowed through security.
 In the USA, you should generally not have problems with a gender
 expression that does not match your ID.  Note this does not apply at
 international destinations.
+
+This may change due to the executive order.
 
 ## Pre-Check
 

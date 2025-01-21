@@ -7,6 +7,10 @@ United States.  However, additional information that is relevant is
 located in [General United States Information](notes/usa-general.md) and
 in the state/territory specific pages on this site.
 
+Note that the US has become officially transphobic due to an [executive
+order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)
+issued on January 20, 2025.
+
 Crossing the border with documentation that matches US government
 requirements can be stressful. However, trans people do routinely cross
 the US border and many do not have any difficulty crossing the border
@@ -68,10 +72,15 @@ by for-profit corporations to government-run centers.  Conditions can
 vary widely between these facilities.
 
 While policies exist on transgender immigrants in ICE detention, these
-policies are frequently ignored by staff.
+policies are frequently ignored by staff.  They are also in the process
+of being rescinded, due to the executive order mentioned above. Once the
+executive order is implemented, trans women will always be housed with
+men, trans men will always be housed with women, and non-binary people
+will be housed in accordance with sex assigned at birth. Safety of trans
+immigrants will not be a concern of the USA.
 
-Transgender immigrants may or may not be held in units separate from other
-immigrants.
+However, transgender immigrants may sometimes be held in units separate from
+other immigrants.
 
 Rape is common within ICE detention.
 
