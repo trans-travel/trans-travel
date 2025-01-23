@@ -12,6 +12,8 @@ airports typically will have a non-gendered bathroom (perhaps labeled as
 a family bathroom).
 
 Note that a January 20, 2025 [executive
-order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)
+order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)'s implementation
 will likely restrict bathroom access for trans travelers in the USA,
-due to airports receiving federal funds.
+due to airports receiving federal funds. This order has not yet been
+implemented in this way (and hopefully won't be, but it is a
+possibility).
