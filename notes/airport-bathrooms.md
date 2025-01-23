@@ -13,5 +13,5 @@ a family bathroom).
 
 Note that a January 20, 2025 [executive
 order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)
-will likely restrict bathroom access for trans travellers in the USA,
+will likely restrict bathroom access for trans travelers in the USA,
 due to airports receiving federal funds.
