@@ -205,6 +205,10 @@ interactions with these individuals, despite their intentionally
 provoking language. Police often side with the right wing extremists
 when violence occurs.
 
+In addition, the federal government recently pardoned the January 6,
+2021 insurrectionists. This includes known neo-Nazis, white
+supremacists, and religious extremists.
+
 The USA has recently taken action against long-standing civil rights
 laws in the nation, including revoking a 1965 executive order banning
 some government discrimination (including in areas such as race). The
