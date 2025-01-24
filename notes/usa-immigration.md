@@ -11,17 +11,31 @@ Note that the US has become officially transphobic due to an [executive
 order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)
 issued on January 20, 2025.
 
-Crossing the border with documentation that matches US government
-requirements can be stressful. However, trans people do routinely cross
-the US border and many do not have any difficulty crossing the border
-legally.  However, it is important that your documentation be in order
-and all items you are carrying follow US regulations.
+Travelers may wish to consider whether they should avoid connecting
+("transit") travel in the USA, even if not leaving an airport, as the
+USA performs immigration (passport control) and customs activities for
+anyone who lands in the USA, including people not intending to leave the
+airport. In addition, travel between USA territories (such as Guam) may
+involve passing through immigration and/or customs, even when traveling
+between a territory and a US state.
+
+It is important that your documentation be in order and all items you are
+carrying follow US regulations.
+
+Some organizations (particularly universities) have indicated people on
+student visas arrive prior to Trump's 2024 inauguration because of
+uncertainty around possible immigration law changes. Thus travelers
+should consider rules may change quickly and often. This is particularly
+true if they are from a country spoken against by Trump in the past,
+such as much of Latin America or a predominantly Muslim country.
 
 ## Border Searches
 
 Travelers legally crossing the border into the USA, regardless of citizenship
 and documentation, are subject to search at the border.  This includes
-examining electronic devices such as laptops and cell phones.
+examining electronic devices such as laptops and cell phones. This also
+includes travelers that are simply transiting or connecting in the USA
+and not leaving an airport.
 
 Prosthetics, post-surgical supplies, and LGBT literature are legal to be
 brought into the USA.
@@ -29,6 +43,11 @@ brought into the USA.
 When asked questions by officials, it is generally recommended to answer
 honestly.  Lying to customs or immigration can be used to bar you from
 entering the US.
+
+Should an individual be "discovered" to have genitals not in accordance
+with the USA's definition of sex, in contrast to the gender marker on
+someone's passport, it is unknown if this would result in their
+identification not being seen as matching.
 
 ## Medication and Supplies
 

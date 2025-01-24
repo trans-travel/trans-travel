@@ -1,5 +1,48 @@
 # United States - General Information
 
+## US Passports
+
+As of today, "X" markers are on US passports are still respected by
+officials.  However, no new passports with an "X" marker will be issued.
+Instead, the passport application will be placed on hold.
+
+In addition, no new passports will be issued with a gender marker change
+(all are currently on hold).  It is unknown how previously-changed
+markers will be handled at passport renewal time.
+
+Note that because of these holds, any documents submitted to support
+such applications (such as old passports, birth certificates, etc) will
+be detained by the State Department until the hold is released and,
+presumably, the application denied.
+
+## Other Federal Identification
+
+It is likely that all requests for gender marker change on federal
+documents will be denied. It is unknown if renewals would result in
+reversal of previously-changed markers (except in the case of "X"
+markers, which almost certainly will be reverted). In addition,
+documentation may be held.
+
+## Presenting Identification for Federal Purposes
+
+Travelers should use caution in presenting any documentation with an "X"
+marker to federal officials. While there is no official policy currently
+regarding how a federal official should respond to such documentation,
+some officials may use this as an opportunity to enforce personal
+transphobic beliefs.
+
+Consider that the individual you are presenting your identification to
+may be transphobic. In particular, if you have multiple forms of
+identification available, consider what identification is or isn't
+irreplaceable easily, should it become lost, destroyed, confiscated, or
+held.
+
+## RealID Implications
+
+As of May 7, 2025, air travel will require RealID or other acceptable
+identification. It is unknown if "X" markers will render identification
+non-RealID compliant.
+
 ## Future Outlook
 
 The current national political leadership is known for
@@ -112,6 +155,13 @@ officials at USA borders.
 See the [USA International Visitors page](notes/usa-immigration.md) for more
 information, including information about drug importation.
 
+Note that in the current political environment, transgender folks may
+receive additional scrutiny.  It is also possible that should sensitive
+searches (pat downs, strip searches, etc) be considered necessary by
+agents, that agents may not follow procedures that are in theory still
+in effect (current procedures would respect your gender identity, but,
+again, these may or may not be followed currently).
+
 ## Advocacy and Protests
 
 Care should also be used when interacting with public officials or
@@ -135,6 +185,33 @@ encounter any violence and only encounter friendly people, particularly
 in areas typically frequented by tourism, it is important to observe
 situations, avoid escalation of verbal arguments, and avoid political
 (or human rights) arguments.
+
+Religious extremists operate within the United States. These
+extremists, most commonly identifying with Christianity, feel empowered
+by their God to persecute trans people. They feel that they are
+dishonoring their God and disrespecting Godly truth if they do not
+misgender and discriminate against transgender people. In some cases,
+these people can be violent, particularly at Pride events. It is
+safest to avoid interactions with street preachers and those carrying
+religious symbols (such as large crosses) at Pride event. Some white
+supremacist and neo-Nazi groups also participate in such events. In some
+cases you may see overt Nazi and supremacist symbols. In many cases, Pride
+events on public property have chosen to allow these people access to
+events under threat of free speech lawsuits if they do not.  Note that
+these people often attempt to provoke violence as part of a right wing
+funding campaign (they will sue the attackers, event organizers, and city
+for putting them at risk). Again the safest action is generally to avoid
+interactions with these individuals, despite their intentionally
+provoking language. Police often side with the right wing extremists
+when violence occurs.
+
+The USA has recently taken action against long-standing civil rights
+laws in the nation, including revoking a 1965 executive order banning
+some government discrimination (including in areas such as race). The
+executive branch is also attempting to redefine the 14th Amendment, a US
+constitutional amendment that defines who is and isn't a citizen that
+was enacted to ensure that former slaves became recognized as citizens
+following the US civil war.
 
 Crowds of drunk young men can become violent towards visibly trans
 people. If you will be around groups which may include many drunk young
