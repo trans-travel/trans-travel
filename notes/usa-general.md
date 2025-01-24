@@ -2,9 +2,9 @@
 
 ## US Passports
 
-Currently (Jan 24, 2025), "X" markers are on US passports are still respected by
-officials.  However, no new passports with an "X" marker will be issued.
-Instead, the passport application will be placed on hold.
+Currently (Jan 24, 2025), "X" markers are on US passports are still, in
+theory, valid.  However, no new passports with an "X" marker will be
+issued.  Instead, the passport application will be placed on hold.
 
 In addition, no new passports will be issued with a gender marker change
 (all are currently on hold).  It is unknown how previously-changed
