@@ -55,8 +55,8 @@ order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-f
 has been issued that intends to reverse all trans-inclusive USA
 policies.
 
-Future travel plans should be aware of the changing nature of the
-national conversation. That said, as noted above, many of the laws
+Those with future travel plans should be aware of the changing nature of
+the national conversation. That said, as noted above, many of the laws
 in the USA are local (I.E. most criminal laws are state laws, not
 national laws), and regional information should be reviewed.  This
 site has pages for all USA states and territories.
