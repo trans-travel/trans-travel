@@ -23,7 +23,7 @@ It is important that your documentation be in order and all items you are
 carrying follow US regulations.
 
 Some organizations (particularly universities) have indicated people on
-student visas arrive prior to Trump's 2024 inauguration because of
+student visas arrive prior to Trump's 2025 inauguration because of
 uncertainty around possible immigration law changes. Thus travelers
 should consider rules may change quickly and often. This is particularly
 true if they are from a country spoken against by Trump in the past,

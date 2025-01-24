@@ -2,7 +2,7 @@
 
 ## US Passports
 
-As of today, "X" markers are on US passports are still respected by
+Currently (Jan 24, 2025), "X" markers are on US passports are still respected by
 officials.  However, no new passports with an "X" marker will be issued.
 Instead, the passport application will be placed on hold.
 
