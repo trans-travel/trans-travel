@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-01-29 \[[US](notes/usa-general.md)] Add information on federal
+    government bathroom ban.
  *  2025-01-24 \[[US](notes/usa-general.md)] Updated USA general
     information to reflect transphobic ID policies and religious
     extremism.

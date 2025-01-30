@@ -1,5 +1,42 @@
 # United States - General Information
 
+## Bathrooms and Single-Sex Facilities
+
+Federal facilities that segregate by gender (bathrooms, locker rooms,
+prisons, etc) are in the process of being segregated according to
+sex assigned at birth.  Trans women should expect to be required to use
+men's bathrooms, trans men should expect to be required to use women's
+bathrooms, and non-binary people should be expected to use bathrooms
+according to sex assigned at birth. Intersex do not exist according to
+these policies, so it is unknown how this will apply to them.
+
+This only applies to federal facilities. Most spaces in the USA
+are not federal facilities, but instead subject largely to state and
+local laws.
+
+Examples of spaces that are federally-controlled:
+
+ - Bathrooms/toilets/showers in national parks
+ - Federal prisons
+ - Veterans Administration Hospitals
+ - Immigrations and Customs Facilities
+ - Military buildings
+ - Federal buildings
+ - Post offices
+
+Notably, most airports, train stations, businesses, etc, are NOT
+federally controlled and not subject to these in-process bans.
+
+People who are gender-non-conforming should expect that their gender may
+be questioned and their right to access a space may be questioned.  In
+some cases, this can become violent, and these changes will embolden
+people to attempt to enforce these actions themselves, even on spaces
+where they do not apply.  Thus trans folk and people who do not match
+the ideals of white femininity should in particular consider that
+harassment may occur. Historically, butch lesbians and Black women
+(including straight Black women) have faced disproportionate amounts of
+questioning of their gender, in addition to trans folk.
+
 ## US Passports
 
 Currently (Jan 24, 2025), "X" markers are on US passports are still, in
