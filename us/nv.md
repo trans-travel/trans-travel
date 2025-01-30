@@ -55,7 +55,12 @@ state IDs and birth certificates.
  * A provider associated with UNLV has received a forged letter
    attempting to [disrupt healthcare provided by the
    provider](https://www.newsnationnow.com/us-news/west/fake-anti-trans-letter-provokes-investigation-at-college-campus/),
-   claiming to represent the views of the UNLV system..
+claiming to represent the views of the UNLV system.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 

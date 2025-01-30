@@ -80,6 +80,23 @@ As of May 7, 2025, air travel will require RealID or other acceptable
 identification. It is unknown if "X" markers will render identification
 non-RealID compliant.
 
+## Trans Medical Care
+
+An Executive Order was issued that directs federal agencies to [restrict
+gender affirming care for
+youth](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/).
+This could have wide-ranging implications, including for both adults
+that are 18-years-old (considered children by this order) and for those
+over 19-years-old, as it essentially directs a wide range of regulatory
+agencies to issue restrictions on various medications.
+
+While these restrictions still require rule making and agency directives,
+many hospitals are complying in advance (as of January 30, 2025) with
+this order and canceling all trans youth medical appointments dealing
+with transition, as well as halting prescription of medication.  Thus,
+availability of trans youth medical care should be considered restricted
+within the USA.
+
 ## Future Outlook
 
 The current national political leadership is known for

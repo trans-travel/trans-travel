@@ -94,6 +94,11 @@ Intersex are not recognized.
    challenged]https://www.acluidaho.org/en/news/idaho-families-sue-block-idahos-ban-health-care-trans-youth),
    but is currently in effect.
  * Therapists can use 2024 S1352 to discriminate against trans persons.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 

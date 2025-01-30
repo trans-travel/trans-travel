@@ -74,6 +74,11 @@ Non-binary people are not recognized in Wyoming.
    unknown how this will impact custody in the eyes of Wyoming courts.
  * Wyoming does not have a sanctuary law for people obtaining
    transition-related medical care.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Relationship Recognition
 

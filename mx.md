@@ -57,8 +57,7 @@ change is a work in progress and is at the early stages.
    reputable and operate with high standards within regulations, while
    others are operating outside of the law and may target medical
    tourists, providing unsafe care.
- * Care for transgender youth may not be as easily available as it is in
-   some places in the USA.
+ * Care for transgender youth may be as easily available.
 
 ## Child Custody / Abuse
 

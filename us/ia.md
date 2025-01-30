@@ -52,6 +52,11 @@ Non-binary people are not recognized.
    include puberty blockers, hormones, and surgeries, although parents
    are not criminalized by this ban, with limited exceptions for
    some intersex people.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 

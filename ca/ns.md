@@ -51,8 +51,8 @@ to update their documents.
 ## Medical Care
 
  * Trans medical care is legal for all ages.
- * Medical care may be somewhat more difficult for travelers to access
-   than medical care in some USA states (but likely easier than other
+ * Trans medical care for adults may be somewhat more difficult for travelers
+   to access than medical care in some USA states (but likely easier than other
    USA states), and may move slower than some providers elsewhere in the
    world may.
 

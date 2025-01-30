@@ -84,6 +84,11 @@ North Dakota prohibits trans people changing birth certificates.
    for people traveling with trans children on puberty blockers or HRT.
  * The trans youth medical care ban is [being challenged in
    court](https://apnews.com/article/north-dakota-gender-affirming-care-transgender-7d060639419ec27629003819c226ab04)
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 

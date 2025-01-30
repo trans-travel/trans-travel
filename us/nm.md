@@ -58,6 +58,11 @@ still incomplete in New Mexico.
 
  * Trans medical care is legal for all ages.
  * New Mexico does not have a sanctuary law.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 

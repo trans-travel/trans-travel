@@ -1,5 +1,16 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-01-30 \[[MX](mx.md)] Noted that adult care may be more difficult
+    to access in MX than some states of the USA. Previously this said
+    all care might be more difficult, but with changes in the USA it may
+    be easier than the USA.
+ *  2025-01-30 [CA] (various) Noted that some provinces are harder to
+    get adult care in than some states of the USA. Previously this said
+    all care might be more difficult, but with changes in the USA it may
+    be easier than the USA.
+ *  2025-01-30 \[[US](notes/usa-general.md)] Trans youth (under 19) medical
+    care is becoming unavailable as hospitals comply in advance with
+    executive orders.
  *  2025-01-29 \[[US](notes/usa-general.md)] Add information on federal
     government bathroom ban.
  *  2025-01-24 \[[US](notes/usa-general.md)] Updated USA general

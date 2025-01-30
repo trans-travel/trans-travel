@@ -142,6 +142,11 @@ unknown how law passed in 2024 may impact this.
    resulting in this making it effectively a ban as any Utah provider would be
    willing to take the risk of prescribing HRT or puberty blockers to
    trans youth.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 

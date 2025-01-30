@@ -59,6 +59,11 @@ company the state's current contract is with does not allow it).
    receiving care in Illinois for medical transition.
  * There is a religious exemption law that applies to limited medical
    situations in Illinois.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 

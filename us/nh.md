@@ -61,6 +61,11 @@ apply in some cases.
 
  * Genital surgery for youth is banned as of July 19, 2024.
  * Other trans medical care is legal for adults and children.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 

@@ -57,6 +57,11 @@ may still be in-complete in Vermont.
  * It is illegal in Vermont to threaten someone or block their entrance
    to a health care facility that is providing them with gender
    affirming care.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 

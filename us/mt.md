@@ -75,6 +75,11 @@ refused to follow similar orders in the past).
    Court](https://assets.aclu.org/live/uploads/2024/12/Opinion-Published-6.pdf).
  * Medical providers can deny non-emergency care on the basis of their
    religious beliefs or conscious.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 

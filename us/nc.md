@@ -70,6 +70,11 @@ Non-binary people are not recognized.
    youth.
  * The trans youth medical care ban is being [challenged in
    court](https://lambdalegal.org/newsroom/voe_nc_20231011_transgender-north-carolinians-medical-providers-sue-to-block-medical-care-ban/)
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
    as of October, 2023.
 
 ## Child Custody / Abuse

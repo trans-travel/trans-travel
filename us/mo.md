@@ -114,6 +114,11 @@ investigation](https://fox2now.com/news/missouri/missouri-ag-investigates-ellisv
    this.
  * The Attorney General is also ["investigating" social workers and
    therapists](https://missouriindependent.com/2024/05/24/therapists-social-workers-face-scrutiny-in-missouri-ag-investigation-of-transgender-care/) which provide transgender care as of May, 2024.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 

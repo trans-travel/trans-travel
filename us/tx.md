@@ -101,6 +101,11 @@ Texas (information accurate as of September 4, 2024).
    which limits city cooperation with state officials in enforcing
    gender affirming care restrictions. However, gender affirming care
    for minors remains illegal in all of Texas.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 

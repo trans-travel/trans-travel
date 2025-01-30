@@ -62,8 +62,8 @@ subordinate to parental rights when these rights conflict.
  * However, Alberta has indicated that in Fall of 2024,
    [provincial policy would outlaw some trans youth medical
    care](https://www.cbc.ca/news/canada/edmonton/danielle-smith-1.7101595)
- * Medical care may be somewhat more difficult for travelers to access
-   than medical care in some USA states (but likely easier than other
+ * Trans medical care for adults may be somewhat more difficult for travelers
+   to access than medical care in some USA states (but likely easier than other
    USA states), and may move slower than some providers elsewhere in the
    world may.
 

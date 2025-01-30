@@ -80,6 +80,11 @@ the state often requires proof of surgery.
    July 3, 2024. Thus trans people do not have many of the federal
    protections on the basis of sex when obtaining medical care in this
    state.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 

@@ -66,6 +66,11 @@ Intersex people have some limited recognition.
  * Gender-related surgery on trans children is not legal. An exception
    exists for surgery done on people born with an intersex condition
    and for gender-related revision surgery.
+ * A [federal executive
+   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
+   and hospitals seeking to limit their liability even before
+   implementation of this order may make accessing care difficult or
+   impossible for those under 19-years-old. (updated 30 January 2025).
 
 ## Child Custody / Abuse
 
