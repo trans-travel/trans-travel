@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-01-31 \[[US](us/tsa.md)] Updated travel screening information
+    to reflect transphobic policies likely implemented at TSA
  *  2025-01-30 \[[MX](mx.md)] Noted that adult care may be more difficult
     to access in MX than some states of the USA. Previously this said
     all care might be more difficult, but with changes in the USA it may

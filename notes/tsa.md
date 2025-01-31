@@ -14,15 +14,17 @@ When flying out of USA airports (including after connecting from
 international flights), security screening is required.  This is done by
 the TSA.
 
-TSA recommends that tickets booked for travel out of USA airports be
-booked with a gender marker that matches the gender on the person's ID
-they are using for travel.  However, it is not technically required, and
-not all airlines implement the "X" gender marker yet.  It is unknown if
-or when the TSA may start denying travel for "X" gender marker holders.
+The TSA no longer has information on their website for trans travellers.
+While previous guidance is that the information you gave the airline
+when booking travel does not need to match your identification, it is
+unknown if that is actually true at this point, and it is highly
+recommended you ensure your identification and booking information
+match. If traveling to other countries from the USA, this is also
+recommended as the other nation may validate gender matches between
+ticketing information and identification.
 
-Note if you are traveling internationally, you may be required to travel
-with a ticket booked with the same gender as the passport you will be
-using.
+Note that some airlines do not allow booking travel with an "X" gender
+marker.
 
 TSA utilizes body scanning technology for travelers not selected for
 pre-check (see below).  When using this technology, at most airports,
@@ -34,13 +36,17 @@ TSA (it won't say what is wrong, but will place a colored box on a
 cartoon figure of a passenger indicating what needs to be patted down by
 the TSA).  If they hit a blue button, breasts will likely alert.
 
-Transphobic agents may intentionally push the button most likely to
-cause additional sensitive screening for the transgender individual.
+It is unknown how this will be done today, and trans travellers should
+expect the possibility of TSA agents intentionally pressing a button
+they think will cause the most invasive pat-downs to the passenger.
 
 Pat downs of these sensitive areas may be aggressive and triggering. You
-have the right to ask for a private space and the screener of the
-desired gender, although official policies may not always be followed.
-In addition, these policies may change under the current administration.
+used to have the right to ask for a private space and the screener of the
+desired gender, although these official policies were not always followed.
+However under the current administration, it is unknown if the option to
+ask for a screener of the desired gender is still an option. It should
+be assumed that you may be patted down in the groin and breasts by
+someone of your sex assigned at birth.
 
 Remain polite if being screened improperly, as actions construed by TSA
 and law enforcement to be aggressive towards agents can be prosecuted.
@@ -48,15 +54,27 @@ Note that these agents and law enforcement include some transphobic
 members, so it should be assumed that the most damaging interpretation
 of behavior of the trans person will be the interpretation used. In
 addition, TSA agents have some latitude in denying you the ability to
-fly.
+fly. Prisons and jails in the USA typically jail people according to
+sex assigned at birth, and rape/sexual assault is common in these
+facilities, as is solitary confinement of trans folks. Thus trans
+folks should consider avoiding this possibility if possible by
+remaining polite, even when violated, to TSA agents.
+
+Note that the federal government's policies on sex are solely based on
+sex assigned at birth (and you should assume, regardless of your
+documentation, that this will be determined on the whim of the
+official). In addition, the federal definition of sex executive branch
+agencies are using to operate does not consider your genitals, so
+individuals who have had surgery should still expect to be screened,
+patted down, etc, by individuals of their sex assigned at birth.
 
 ## Gender Mismatch with ID
 
 In the USA airports, you should generally not have problems with a
-gender expression that does not match your ID.  Note this does not
-apply at international destinations.
-
-This may change due to the executive order.
+gender expression that does not match your ID for non-federal purposes
+(basically anything except gaining access to federal facilities,
+such as passport clearance or courts).  Note this does not apply at
+international destinations.
 
 ## Pre-Check
 
@@ -71,6 +89,10 @@ triggering.
 Note that Global Entry cards and other federal identification is subject
 to the notes on the [USA General Information](notes/usa-general.md)
 page. This may mean some travelers with "X" ID may experience problems.
+
+In addition, newly issued pre-check and Global Entry cards will not
+respect gender identity, but will be issued based on sex assigned at
+birth.
 
 Previously gender matches were not used to match a passenger ticket with
 trusted traveler numbers (used to increase likelihood of being selected
