@@ -29,6 +29,13 @@ should consider rules may change quickly and often. This is particularly
 true if they are from a country spoken against by Trump in the past,
 such as much of Latin America or a predominantly Muslim country.
 
+## Visas/ESTA for Trans Travelers
+
+There are unconfirmed reports as of Feb 5, 2025 that the USA may be
+treating transgender visa applications as [potentially
+fraudulent](https://www.reuters.com/world/us/trump-administration-target-transgender-women-sports-white-house-says-2025-02-05/) going forward.  This may result in inability to obtain
+a visa. It is unknown if this would also impact ESTA.
+
 ## Border Searches
 
 Travelers legally crossing the border into the USA, regardless of citizenship

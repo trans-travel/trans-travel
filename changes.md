@@ -1,6 +1,8 @@
 # Change Log for Trans Travel Guide
 
- *  2025-01-31 \[[US](us/tsa.md)] Updated travel screening information
+ *  2025-02-05 \[[US](notes/usa-immigration.md)] Unconfirmed reports of
+    trans visa applications being considered fraud going forward.
+ *  2025-01-31 \[[US](notes/tsa.md)] Updated travel screening information
     to reflect transphobic policies likely implemented at TSA
  *  2025-01-30 \[[MX](mx.md)] Noted that adult care may be more difficult
     to access in MX than some states of the USA. Previously this said
