@@ -18,7 +18,7 @@ It does not have legal gender identity protections.
 
 Bermuda does not appear to have law that makes it illegal for trans people
 to use bathrooms, children to receive gender affirming medical care, or for
-tran speople to dress differently than your sex assigned at birth.
+trans people to dress differently than your sex assigned at birth.
 However, because no positive law exists, discrimination would be legal.
 
 Note that resorts and tourist areas may be more accepting than other

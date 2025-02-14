@@ -118,7 +118,12 @@ investigation](https://fox2now.com/news/missouri/missouri-ag-investigates-ellisv
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
    implementation of this order may make accessing care difficult or
-   impossible for those under 19-years-old. (updated 30 January 2025).
+   impossible for those under 19-years-old. (updated 13 February 2025).
+   However, the government is prevented from implementing this order
+   (thus hospitals are not bound by it) because of a [temporary
+   restraining
+   order](https://assets.aclu.org/live/uploads/2025/02/093114651219.pdf)
+   against the government (13 February 2025).
 
 ## Child Custody / Abuse
 

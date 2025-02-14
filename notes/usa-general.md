@@ -91,11 +91,12 @@ over 19-years-old, as it essentially directs a wide range of regulatory
 agencies to issue restrictions on various medications.
 
 While these restrictions still require rule making and agency directives,
-many hospitals are complying in advance (as of January 30, 2025) with
-this order and canceling all trans youth medical appointments dealing
-with transition, as well as halting prescription of medication.  Thus,
-availability of trans youth medical care should be considered restricted
-within the USA.
+and are currently [stayed by a
+court](https://assets.aclu.org/live/uploads/2025/02/093114651219.pdf) (Feb. 13, 2025),
+many hospitals complied in advance (as of Feb. 13, 2025) with this order
+and canceling all trans youth medical appointments dealing with transition,
+as well as halting prescription of medication.  Thus, availability of trans
+youth medical care should be considered restricted within the USA.
 
 ## Future Outlook
 

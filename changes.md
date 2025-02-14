@@ -1,6 +1,8 @@
 # Change Log for Trans Travel Guide
 
- *  2025-02-13 \[[US_Utah](us/ut.md)] Bathroom ban bill passed, not
+ *  2025-02-13 \[[US](notes/usa-general.md)] Stay in youth healthcare
+    ban.
+ *  2025-02-13 \[[US Utah](us/ut.md)] Bathroom ban bill passed, not
     signed by governor.
  *  2025-02-05 \[[US](notes/usa-immigration.md)] Unconfirmed reports of
     trans visa applications being considered fraud going forward.
