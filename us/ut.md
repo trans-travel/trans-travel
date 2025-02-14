@@ -41,7 +41,10 @@ and may lack some protections.
    accordance with sex assigned at birth unless they update their birth
    certificate's gender marker to a new binary marker AND have had
    unambiguous binary bottom surgery in line with stereotypes for the
-   new gender marker.
+   new gender marker.  A [bill not yet signed by the
+   governor](https://legiscan.com/UT/text/HB0269/id/3119423) would
+   change this to sex-assigned at birth regardless of what a person's
+   current birth certificate says (Feb 13, 2025).
  * Trans people are required to use bathrooms according to sex assigned
    at birth within K12 schools.
  * Trans people who have BOTH updated their birth certificate and had
@@ -51,7 +54,11 @@ and may lack some protections.
    (defined as sex assigned at birth) OR the other binary sex if their
    birth certificate and post-surgical genitals match the other binary
    sex.  That said, indecent exposure law might then apply if genitals
-   that don't match the sign on the door were exposed.
+   that don't match the sign on the door were exposed.  However, if the
+   governor signs the [bill passed by both houses of
+   legislature](https://legiscan.com/UT/text/HB0269/id/3119423), this
+   would no longer be the case and the criteria would be sex assigned at
+   birth only (Feb 13, 2025).
  * Trans people who have had bottom surgery but not changed their birth
    certificate are banned from using either changing room in government
    owned/controlled facilities on the basis of indecent exposure law.
@@ -59,9 +66,9 @@ and may lack some protections.
    people who have genitals that are too male or too female for the
    changing room door in publicly owned/controlled changing rooms may
    not be able to use the appropriate room if their genitals may be exposed.
- * While bathroom usage outside of K12 bathrooms (for bathrooms without
-   shower or changing facilities) is not directly regulated in Utah's
-   law, several laws on indecent exposure and "loitering in a privacy
+ * While bathroom usage outside of educational and state government facilities (for
+   bathrooms without shower or changing facilities) is not directly regulated
+   in Utah's law, several laws on indecent exposure and "loitering in a privacy
    space" could apply to trans people who do not have genitals that
    match the bathroom's designation AND a birth certificate that match
    the bathroom's designation. In addition, if using a bathroom other
@@ -73,7 +80,9 @@ and may lack some protections.
    that has changed both in a binary way should use the bathroom that
    matches their genitals and document. People who do not have genitals
    in accordance with their birth certificate should use extreme
-   caution.
+   caution. This could possibly change, should the governor [sign a
+   bill](https://legiscan.com/UT/text/HB0269/id/3119423) recently passed
+   by the legislature (Feb. 13, 2025).
  * It is likely Black women, lesbian women, muscular women, and tall
    women will face harassment in facilities in Utah, even if these women
    are cis (non-trans).  These women should also use extreme caution in
@@ -170,7 +179,10 @@ unknown how law passed in 2024 may impact this.
 
  * [2023 SB0016 - Trans Youth Healthcare Ban](https://legiscan.com/UT/text/SB0016/id/2668336)
  * [Diné Marriage Act (Applicable in the Navajo Nation)](https://courts.navajo-nsn.gov/Resolutions/29-05%20Marriage%20Act.pdf)
- * [2024 HB257 - Changing Room Ban, Definition of Sex)](https://le.utah.gov/~2024/bills/static/HB0257.html)
+ * [2024 HB257 - Changing Room Ban, Definition of Sex](https://le.utah.gov/~2024/bills/static/HB0257.html)
+ * [2025 HB269 - Bathroom Ban in
+   Government/Education - as of Feb. 13, 2025, not yet signed by
+   governor](https://legiscan.com/UT/text/HB0269/id/3119423)
 
 ## General Safety
 
