@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-02-19 \[[US Montana](us/mt.md)] Added recent court decision on
+    2023 SB458.
  *  2025-02-19 \[[US Kansas](us/ks.md)] Youth trans healthcare ban
  *  2025-02-13 \[[US](notes/usa-general.md)] Stay in youth healthcare
     ban.

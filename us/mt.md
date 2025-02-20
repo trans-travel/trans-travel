@@ -50,7 +50,8 @@ on-the-books-but-not-enforceable-due-to-SCOTUS anti-gay marriage law was
 amended, as well as nearly every other law in Montana that references
 sex).  However, the law was ruled invalid [due to an ambiguous
 title](https://dailymontanan.com/2024/06/25/montana-law-defining-sex-as-male-or-female-unconstitutional-judge-says/)
-by a state court.  Thus it is not in effect.
+by a state court and [district court
+decision](https://www.documentcloud.org/documents/25539329-2025-02-18-order-granting-summary-judgement/).  Thus it is not in effect.
 
 Non-binary people are not recognized.
 
