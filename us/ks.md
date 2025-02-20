@@ -15,13 +15,18 @@ all non-binary people on the basis of their sex assigned at birth. This
 has wide-ranging implications, such as improper incarceration, bathroom
 access, identifications, etc.
 
-Kansas does not appear to place child custody at risk.
+Kansas bans trans youth medical care, up to and including social transition in
+some cases.  It has an unknown impact on child custody, although it should
+be noted that the law applies to medical providers and not parents.
 
 ## Non-discrimination Law
 
  * Kansas non-discrimination law does not include LGBT people
  * The State is required under 2023 SB180 to discriminate against trans
    people.
+ * Kansas bans state agencies assisting with social transition of youth.
+   This may require intentional discrimination by state officials and
+   programs.
 
 ## Public Accommodations
 
@@ -44,6 +49,9 @@ Kansas does not appear to place child custody at risk.
    This has been enforced against non-binary AFAB people in a women's
    shelter who were criticized for wearing boxers and being seen "with a
    bulge" (the person involved did not wear a packer at the shelter).
+ * Kansas bans state agencies assisting with social transition of youth.
+   This may require intentional discrimination by state officials and
+   programs.
 
 It is unknown how this would be enforced, beyond where the state has the
 power to impose gender determination on people. It is likely that, for
@@ -73,20 +81,16 @@ See the [USA TSA](notes/tsa.md) document.
  * The prison system is accused of particularly [egregious discrimination](https://www.kansascity.com/news/state/kansas/article284628270.html)
    against a trans prison worker. This indicates that the state may
    be extremely harsh towards trans inmates.
+ * The ban on state participation in social transition may impact youth
+   in custody of the state. Youth will also likely be denied
+   gender-affirming talk therapy under the gender affirming care ban.
 
 ## Legal Definition of Sex
 
  * It is not possible to change the sex on your birth certificate or
    driver's license in Kansas.
- * sex = "biological sex, either male or female, at birth"
- * female = "individual whose biological reproductive system is developed
-   to produce ova"
- * male = "individual whose biological reproductive system is developed
-   to fertilize the ova of a female"
- * woman = "human females"
- * girl = "human females"
- * man = "human male"
- * boy = "human male"
+ * Kansas has somewhat contradictory definitions of sex, but they are,
+   for people who are not intersex, based on sex assigned at birth.
 
 Non-binary people are not recognized.
 
@@ -110,7 +114,12 @@ action.
 
 ## Medical Care
 
- * Trans medical care is legal for all ages
+ * Trans medical care is legal for adults in Kansas.
+ * Kansas bans all forms of gender affirming medical care, including
+   ethical therapy for trans youth.
+ * Kansas bans state agencies assisting with social transition of youth.
+   This may require intentional discrimination by state officials and
+   programs, for instance disallowing a short haircut for a trans boy.
  * Federal regulations protecting trans people in were blocked in
    Kansas due to the Tennessee v Becerra preliminary injunction on
    July 3, 2024. Thus trans people do not have many of the federal
@@ -129,7 +138,8 @@ action.
 
 ## Child Custody / Abuse
 
- * Transition care is not specifically defined as child abuse
+ * Transition care is not specifically defined as child abuse, but the
+   care ban's impact on custody is unknown.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
  
@@ -139,6 +149,8 @@ action.
 
 ## Relevant Laws
 
+ * [2024 SB63 - Youth Healtcare and Social Transition
+   Ban](https://kslegislature.gov/li/b2025_26/measures/documents/sb63_enrolled.pdf)
  * [2023 SB180 - Trans-exclusionary Definition of Sex](http://kslegislature.org/li/b2023_24/measures/documents/sb180_enrolled.pdf)
  * [2023 Attorney General Opinion on SB180](https://ag.ks.gov/docs/default-source/ag-opinions/ago-2023-2-rep-barth---final.pdf?sfvrsn=f3f6bc1a_4)
 
