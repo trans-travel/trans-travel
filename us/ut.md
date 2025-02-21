@@ -121,6 +121,9 @@ transphobia.
  * Trans men are required to be housed with women.
  * Nonbinary people are required to be housed according to sex
    assigned at birth.
+ * Most trans healthcare (with the possible exception of psychotherapy)
+   for prisoners will be banned under HB252, should it be signed by the
+   Governor (it is not signed as of Feb. 20, 2025).
  * The US Department of Justice [found the state prison system violated
    the
    ADA](https://www.justice.gov/d9/2024-03/letter_of_findings-utah_department_of_corrections.pdf)
@@ -182,6 +185,8 @@ unknown how law passed in 2024 may impact this.
 
 ## Relevant Laws
 
+ * [2025 HB252 - Trans Prisoner Healthcare
+   Ban (not yet signed by Governor, as of Feb. 20, 2025)](https://legiscan.com/UT/text/HB0252/2025)
  * [2023 SB0016 - Trans Youth Healthcare Ban](https://legiscan.com/UT/text/SB0016/id/2668336)
  * [Diné Marriage Act (Applicable in the Navajo Nation)](https://courts.navajo-nsn.gov/Resolutions/29-05%20Marriage%20Act.pdf)
  * [2024 HB257 - Changing Room Ban, Definition of Sex](https://le.utah.gov/~2024/bills/static/HB0257.html)

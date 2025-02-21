@@ -1,5 +1,10 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-02-20 \[[US Utah](us/ut.md)] Trans prisoner healtchare ban
+    pending Governor signature.
+ *  2025-02-20 \[[US Alabama](us/al.md)] Bathroom ban in state
+    facilities and transphobic definition of sex enacted but not yet
+    signed by governor.
  *  2025-02-19 \[[US Montana](us/mt.md)] Added recent court decision on
     2023 SB458.
  *  2025-02-19 \[[US Kansas](us/ks.md)] Youth trans healthcare ban
