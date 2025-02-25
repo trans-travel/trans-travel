@@ -58,10 +58,10 @@ to investigate at least one provider of transgender care.
  * Tennessee has a "drag ban" law that prohibits "male or female
    impersonators" who perform on public property, in any location
    where a minor could potentially be present. This includes felony
-   penalties for a second conviction.  (Updated July 18, 2024)
+   penalties for a second conviction.  (Updated Feb. 25, 2025)
  * Despite a previous ruling on that the drag ban is unconstitutional (since
    overturned), Blount
-   County prosecutor (Ryan Desmond) is [attempting to enforce the
+   County prosecutor (Ryan Desmond) [attempted to enforce the
    law](https://www.lawdork.com/p/tennessee-prosecutor-threatens-pride)
    against a pride event.
 

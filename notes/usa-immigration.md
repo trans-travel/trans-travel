@@ -34,7 +34,7 @@ Wide-ranging guidance from the State Department may ban travelers
 (PERMANENTLY) from entering the USA if they indicate a gender other than
 sex assigned at birth on a visa application.  This may make travel
 impossible for people with updated passports issued outside of the USA.
-It is unknown how this may impact existing visas or ESTAs.
+It is unknown how this may impact existing visas or new or existing ESTAs.
 
 If your passport and visa are not both issued in your sex assigned at
 birth, travel to the USA may be particularly risky right now. The
@@ -44,6 +44,9 @@ permanent bans from entry, people without USA passports likely should
 consider avoiding the USA. You may be detained and/or denied entry. Note
 that detention by CBP will likely be in accordance with your sex
 assigned at birth.
+
+You MAY be able to travel on an updated passport if you do not need a
+visa. But it is currently unknown how this will be implemented.
 
 See [Erin in the Morning's
 report](https://www.erininthemorning.com/p/marco-rubio-may-have-just-banned?utm_source=post-email-title&publication_id=994764&post_id=157905772&utm_campaign=email-post-title&isFreemail=false&r=w1apa&triedRedirect=true&utm_medium=email)
