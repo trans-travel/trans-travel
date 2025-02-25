@@ -11,6 +11,10 @@ Note that the US has become officially transphobic due to an [executive
 order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)
 issued on January 20, 2025.
 
+See the visa/ESTA section below, but travelers where any travel documentation
+they intend to use does not match their sex assigned at birth should
+likely avoid travel to the USA.
+
 Travelers may wish to consider whether they should avoid connecting
 ("transit") travel in the USA, even if not leaving an airport, as the
 USA performs immigration (passport control) and customs activities for
@@ -22,19 +26,27 @@ between a territory and a US state.
 It is important that your documentation be in order and all items you are
 carrying follow US regulations.
 
-Some organizations (particularly universities) have indicated people on
-student visas arrive prior to Trump's 2025 inauguration because of
-uncertainty around possible immigration law changes. Thus travelers
-should consider rules may change quickly and often. This is particularly
-true if they are from a country spoken against by Trump in the past,
-such as much of Latin America or a predominantly Muslim country.
-
 ## Visas/ESTA for Trans Travelers
 
-There are unconfirmed reports as of Feb 5, 2025 that the USA may be
-treating transgender visa applications as [potentially
-fraudulent](https://www.reuters.com/world/us/trump-administration-target-transgender-women-sports-white-house-says-2025-02-05/) going forward.  This may result in inability to obtain
-a visa. It is unknown if this would also impact ESTA.
+(Updated Feb. 25, 2025)
+
+Wide-ranging guidance from the State Department may ban travelers
+(PERMANENTLY) from entering the USA if they indicate a gender other than
+sex assigned at birth on a visa application.  This may make travel
+impossible for people with updated passports issued outside of the USA.
+It is unknown how this may impact existing visas or ESTAs.
+
+If your passport and visa are not both issued in your sex assigned at
+birth, travel to the USA may be particularly risky right now. The
+guidance is likely intended to create confusion and is likely
+intentionally vague to discourage travel. However, due to the risk of
+permanent bans from entry, people without USA passports likely should
+consider avoiding the USA. You may be detained and/or denied entry. Note
+that detention by CBP will likely be in accordance with your sex
+assigned at birth.
+
+See [Erin in the Morning's
+report](https://www.erininthemorning.com/p/marco-rubio-may-have-just-banned?utm_source=post-email-title&publication_id=994764&post_id=157905772&utm_campaign=email-post-title&isFreemail=false&r=w1apa&triedRedirect=true&utm_medium=email)
 
 ## Border Searches
 

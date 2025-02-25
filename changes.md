@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-02-25 \[[US](notes/usa-immigration.md)] State Department
+    guidance bans travel to the USA using documents that don't match sex
+    assigned at birth.
  *  2025-02-20 \[[US Utah](us/ut.md)] Trans prisoner healtchare ban
     pending Governor signature.
  *  2025-02-20 \[[US Alabama](us/al.md)] Bathroom ban in state

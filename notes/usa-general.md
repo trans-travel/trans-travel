@@ -203,14 +203,16 @@ locations.
 
 ## Immigration / Customs Enforcement
 
-There are unconfirmed reports as of Feb 5, 2025 that the USA may be
-treating transgender visa applications as [potentially
-fraudulent](https://www.reuters.com/world/us/trump-administration-target-transgender-women-sports-white-house-says-2025-02-05/) going forward.  This may result in inability to obtain
-a visa. It is unknown if this would also impact ESTA.
+(Updated Feb. 25, 2025)
 
 The United States takes border control extremely seriously. Some
 travelers have reported encountering transphobic border and/or customs
 officials at USA borders.
+
+Travellers using any documentation (passport, ESTA, visas, etc) that do
+not reflect their sex assigned at birth are at particular risk and may
+risk permanent bans on travel to the USA, along with the possibility of
+detention.
 
 See the [USA International Visitors page](notes/usa-immigration.md) for more
 information, including information about drug importation.
