@@ -30,10 +30,14 @@ and similar facilities, particularly if owned by government.
 
 ## Public Accommodations
 
- * Trans people are not banned from using appropriate bathrooms and locker
-   rooms, although at least one trans woman has been charged with
+ * Trans people are not banned from using most appropriate bathrooms and
+   locker rooms, although at least one trans woman has been charged with
    indecent exposure for using a locker room (she was found not-guilty).
- * However, the Attorney General has issued an
+ * Ohio bans access to bathroom and locker room facilities at all
+   schools and universities (including university facilities such as
+   stadiums) except in accordance with sex assigned at birth.  This also
+   applies to private universities.
+ * The Attorney General has issued an
    [opinion](https://www.ohioattorneygeneral.gov/getattachment/f10767a2-2cf3-4844-b943-90a503dc4c52/2023-006.aspx)
    that requiring trans people to use bathrooms in line with sex
    assigned at birth, rather than gender identity, is not a violation of
@@ -42,10 +46,6 @@ and similar facilities, particularly if owned by government.
  * General public accommodation access is not specifically protected by law
    for trans people in Ohio, although some counties and municipalities
    do protect it.
- * Ohio bans access to bathroom and locker room facilities at all
-   schools and universities (including university facilities such as
-   stadiums) except in accordance with sex assigned at birth.  This also
-   applies to private universities.
 
 ## Drag / Performance / Cross-dressing Laws
 
