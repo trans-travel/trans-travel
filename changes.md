@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-02-27 \[[US Iowa](us/ia.md)] Potential removal of
+    discrimination protections and addition of birth certificate ban.
  *  2025-02-25 \[[US](notes/usa-immigration.md)] State Department
     guidance bans travel to the USA using documents that don't match sex
     assigned at birth.
