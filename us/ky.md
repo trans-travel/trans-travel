@@ -8,8 +8,8 @@ Kentucky negative laws towards trans people. However, these laws
 are, thus far, fairly restricted and do not apply to most
 trans people in most situations.
 
-Under a law that is currently (last checked Sept. 15, 2023) in effect (due to
-actions of an appeals court in the Tennessee case) that criminalizes
+Under a law that is currently (last checked Mar. 14, 2025) in effect
+(while waiting for US Supreme Court review) that criminalizes
 hormone therapy, puberty blockers, and surgery,
 Kentucky does criminalize trans care for children which may have an
 unknown impact on child custody. These laws do not directly apply to parents.
@@ -65,8 +65,8 @@ Intersex people have some limited recognition.
  * Trans medical care is legal for adults
  * A law banning puberty blockers, hormone therapy, and surgery for
    people under 18 has passed and became law. It was initially blocked
-   by court, but that block has been invalidated due to a decision by
-   the US appeals court (last checked on September 15, 2023).
+   by court, but that block has been invalidated while an appeal to the US
+   Supreme Court is underway (last checked on Mar 14, 2025).
  * Parents who allow children to receive trans care including puberty
    blockers, hormone therapy, and surgery are not criminalized, as the
    law applies only to medical providers.
@@ -82,6 +82,10 @@ Intersex people have some limited recognition.
    restraining
    order](https://assets.aclu.org/live/uploads/2025/02/093114651219.pdf)
    against the government (13 February 2025).
+ * Currently, conversion therapy for children is banned by executive order (as of
+   Mar. 14, 2025), but if
+   [HB495](https://legiscan.com/KY/bill/HB495/2025) passes, conversion
+   therapy would be allowed for children.
 
 ## Child Custody / Abuse
 
@@ -98,6 +102,8 @@ Intersex people have some limited recognition.
 
 ## Relevant Laws
 
+ * [2025 HB495 - Conversion therapy protection (not yet passed as of
+   Mar. 14, 2025)](https://legiscan.com/KY/bill/HB495/2025)
  * [2023 SB150 - Trans Medical Care Ban, School Bathroom Ban, Don't Say Gay](https://corrections.ky.gov/About/cpp/Documents/14/CPP%2014.8%2005202020.pdf)
  * [Kentucky Dept. of Education Legislative
    Interpretations](https://education.ky.gov/districts/LegislativeGuidance/Documents/2023_Legislative_Guidance-Emergency_Bills.pdf)
