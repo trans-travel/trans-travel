@@ -97,6 +97,10 @@ Intersex are not recognized.
  * If [H0345](https://legiscan.com/ID/bill/H0345/2025) is signed by the
    governor, it would prevent medicaid funds being used for trans
    healthcare (updated Mar. 14, 2025).
+ * If [H0059](https://legiscan.com/ID/drafts/H0059/2025) is signed by
+   the governor, it would allow disclosure of medical information when a
+   violation of healtcare law (including transphobic laws) is
+   suspected (updated Mar. 14, 2025).
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
@@ -123,8 +127,11 @@ Intersex are not recognized.
 
 ## Relevant Laws
 
+ * [2025 H0059 - Allowing disclosure of medical information (not yet
+   signed by governor as of Mar. 14,
+   2025)](https://legiscan.com/ID/drafts/H0059/2025)
  * [2025 H0345 - Medicaid trans healthcare funding
-   ban, not yet signed by governor as of Mar. 14, 2025)](https://legiscan.com/ID/bill/H0345/2025)
+   ban (not yet signed by governor as of Mar. 14, 2025)](https://legiscan.com/ID/bill/H0345/2025)
  * [2024 H0421 - Trans-Exclusionary Definition of Sex)](https://legislature.idaho.gov/sessioninfo/2024/legislation/H0421/)
  * [2024 H0538 - Allow Deadnaming and Misgendering by Government
    officials)](https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2024/legislation/H0538.pdf)

@@ -1,7 +1,9 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-14 \[[US Idaho](us/id.md)] Allowing healthcare providers to
+    disclose medical information law likely to be signed by governor.
  *  2025-03-14 \[[US Idaho](us/id.md)] Medicaid trans healthcare ban
-    likely to pass.
+    likely to be signed by governor.
  *  2025-03-14 \[[US Kentucky](us/ky.md)] Conversion therapy protection
     law likely to pass.
  *  2025-03-14 \[[US Kansas](us/ks.md)] In addition to previous bans on
