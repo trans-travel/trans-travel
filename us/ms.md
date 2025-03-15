@@ -57,6 +57,9 @@ See the [USA TSA](notes/tsa.md) document.
    gender identification as a component in housing decisions, the policy
    lists first and foremost "inmate's physical sexual characteristics"
    as a factor.
+ * If [HB188](https://legiscan.com/MS/drafts/HB188/2025) is signed by
+   the Governor (not signed as of Mar. 14, 2025), trans people would be
+   required to be housed according to their sex assigned at birth.
  * Trans women are typically housed with men
  * Trans men are typically housed with women
  * Nonbinary people are typically be housed according to sex
@@ -124,7 +127,9 @@ Intersex people have some limited recognition.
  * [2023 HB1125 - Youth Trans Medical Care Ban](https://legiscan.com/MS/text/HB1125/id/2715321)
  * [2024 SB2753 - Bathroom Ban in Educational Facilities)](https://legiscan.com/MS/bill/SB2753/2024)
  * [2025 SB2867 - Medicaid Coverage Ban (not yet
-   passed)](https://legiscan.com/MS/bill/SB2867/2025)
+   passed as of Mar. 14, 2025)](https://legiscan.com/MS/bill/SB2867/2025)
+ * [2025 HB188 - Transphobic prison policy (not yet signed by
+   governor as of Mar. 14, 2025)](https://legiscan.com/MS/drafts/HB188/2025)
 
 ## General Safety
 

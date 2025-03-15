@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-14 \[[US Mississippi](us/ms.md)] If HB188 signed by gov,
+    trans people would be required to be housed in jail by sex assigned
+    at birth.
  *  2025-03-14 \[[US Mississippi](us/ms.md)] Ban on medicaid funding for
     trans healthcare likely to pass.
  *  2025-02-27 \[[US Iowa](us/ia.md)] Potential removal of
