@@ -101,6 +101,9 @@ Intersex people have some limited recognition.
    restraining
    order](https://assets.aclu.org/live/uploads/2025/02/093114651219.pdf)
    against the government (13 February 2025).
+ * If [SB 2867](https://legiscan.com/MS/bill/SB2867/2025) is passed (it
+   is not fully passed as of Mar. 14, 2025, but likely will be), all
+   funding of trans healthcare under medicaid will be banned.
 
 ## Child Custody / Abuse
 
@@ -120,6 +123,8 @@ Intersex people have some limited recognition.
  * [MS Dept. of Corrections 20-16 - Transgender Offenders](https://lgbtqbar.org/wp-content/uploads/sites/6/sites/8/2022/12/20-16-1.pdf)
  * [2023 HB1125 - Youth Trans Medical Care Ban](https://legiscan.com/MS/text/HB1125/id/2715321)
  * [2024 SB2753 - Bathroom Ban in Educational Facilities)](https://legiscan.com/MS/bill/SB2753/2024)
+ * [2025 SB2867 - Medicaid Coverage Ban (not yet
+   passed)](https://legiscan.com/MS/bill/SB2867/2025)
 
 ## General Safety
 
