@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-14 \[[US Kansas](us/ks.md)] In addition to previous bans on
+    youth healtchare, state facilities cannot be used to "promote"
+    gender transition for youth.
  *  2025-03-14 \[[US Mississippi](us/ms.md)] If HB188 signed by gov,
     trans people would be required to be housed in jail by sex assigned
     at birth.

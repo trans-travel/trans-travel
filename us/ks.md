@@ -27,6 +27,9 @@ be noted that the law applies to medical providers and not parents.
  * Kansas bans state agencies assisting with social transition of youth.
    This may require intentional discrimination by state officials and
    programs.
+ * The state bans the use of state facilities by people advocating for
+   social transition for trans youth (updated Mar. 14, 2025 based on
+   HB188 2025).
 
 ## Public Accommodations
 
@@ -44,7 +47,7 @@ be noted that the law applies to medical providers and not parents.
  * Some cities have protections against gender-identity discrimination,
    but the state law will override many of these protections.
  * At least one religious-based shelter enforces a rule which bans any
-   trans person [which makes residents
+   trans person [who makes residents
    "uncomfortable"](https://www.cjonline.com/story/news/local/2023/09/14/topeka-homeless-shelter-explains-policy-for-transgender-and-nonbinary-residents/70826076007/).
    This has been enforced against non-binary AFAB people in a women's
    shelter who were criticized for wearing boxers and being seen "with a
@@ -106,7 +109,10 @@ disagrees with this interpretation and has made some indications
 (but not official executive orders) that she will direct agencies to
 continue to not re-issue documents with sex assigned at birth, but a
 state court thus far has agreed with the attorney general, overruling
-the Governor (as of July 10, 2023).
+the Governor. There is currently a court order in place [prohibiting
+gender marker
+changes](https://www.aclukansas.org/en/cases/motion-intervene-kansas-v-harper),
+as of Mar. 14, 2025.
 
 Note that these laws while targeting trans people also place gender
 non-conforming cis women at risk of invasive questioning and state
@@ -149,6 +155,8 @@ action.
 
 ## Relevant Laws
 
+ * [2025 HB188 - Youth Healthcare and Social Transition
+   Ban](https://legiscan.com/MS/drafts/HB188/2025)
  * [2024 SB63 - Youth Healtcare and Social Transition
    Ban](https://kslegislature.gov/li/b2025_26/measures/documents/sb63_enrolled.pdf)
  * [2023 SB180 - Trans-exclusionary Definition of Sex](http://kslegislature.org/li/b2023_24/measures/documents/sb180_enrolled.pdf)
