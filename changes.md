@@ -1,5 +1,9 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-14 \[[US Idaho](us/id.md)] Medicaid trans healthcare ban
+    likely to pass.
+ *  2025-03-14 \[[US Kentucky](us/ky.md)] Conversion therapy protection
+    law likely to pass.
  *  2025-03-14 \[[US Kansas](us/ks.md)] In addition to previous bans on
     youth healtchare, state facilities cannot be used to "promote"
     gender transition for youth.

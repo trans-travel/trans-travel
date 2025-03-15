@@ -26,10 +26,10 @@ impact on child custody.
  * According to law, trans people are required to use bathrooms/showers
    associated with their sex assigned at birth when using some
    bathrooms/showers in schools. However, this is [being
-   challenged](https://idahocapitalsun.com/2023/08/10/u-s-district-court-temporarily-blocks-enforcement-of-idaho-transgender-bathroom-law/) in
+   challenged](https://lambdalegal.org/case/roe-v-critchfield/)
    court and a temporary restraining order against this law, thus
-   bathroom/shower access in schools is temporarily allowed in Idaho, as
-   of August 10, 2023.  Note however that this only blocks this _state_
+   bathroom/shower access in schools is temporarily allowed in
+   Idaho(verified Mar. 14, 2025). Note however that this only blocks this _state_
    law, and does not block any local school policies that are discriminatory,
    as those aren't at issue in the lawsuit.
  * Enforcement of school bathroom regulations is unclear. But see above,
@@ -91,9 +91,12 @@ Intersex are not recognized.
  * Trans medical care is legal for adults.
  * Trans medical care is illegal for anyone under 18 (including puberty
    blockers, hormone therapy, and surgery. This law is [being
-   challenged]https://www.acluidaho.org/en/news/idaho-families-sue-block-idahos-ban-health-care-trans-youth),
+   challenged](https://www.acluidaho.org/en/news/idaho-families-sue-block-idahos-ban-health-care-trans-youth),
    but is currently in effect.
  * Therapists can use 2024 S1352 to discriminate against trans persons.
+ * If [H0345](https://legiscan.com/ID/bill/H0345/2025) is signed by the
+   governor, it would prevent medicaid funds being used for trans
+   healthcare (updated Mar. 14, 2025).
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
@@ -120,14 +123,16 @@ Intersex are not recognized.
 
 ## Relevant Laws
 
- * [2023 H0071 - Trans Youth Medical Ban](https://legiscan.com/ID/text/H0071/id/2761913)
- * [2023 S1016 - Allowing Bathroom Discrimination](https://legiscan.com/ID/text/S1016/id/2744918)
- * [2023 S1100 - School Bathrooms](https://legiscan.com/ID/text/S1100/id/2730977)
+ * [2025 H0345 - Medicaid trans healthcare funding
+   ban, not yet signed by governor as of Mar. 14, 2025)](https://legiscan.com/ID/bill/H0345/2025)
  * [2024 H0421 - Trans-Exclusionary Definition of Sex)](https://legislature.idaho.gov/sessioninfo/2024/legislation/H0421/)
  * [2024 H0538 - Allow Deadnaming and Misgendering by Government
    officials)](https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2024/legislation/H0538.pdf)
  * [2024 S1352 - Allows Licensed Therapists to
    Discriminate](https://legislature.idaho.gov/sessioninfo/2024/legislation/S1352/)
+ * [2023 H0071 - Trans Youth Medical Ban](https://legiscan.com/ID/text/H0071/id/2761913)
+ * [2023 S1016 - Allowing Bathroom Discrimination](https://legiscan.com/ID/text/S1016/id/2744918)
+ * [2023 S1100 - School Bathrooms](https://legiscan.com/ID/text/S1100/id/2730977)
 
 ## General Safety
 
@@ -146,5 +151,5 @@ officials and public institutions.
 ## Resources
 
  * [News story: A far-right plan to riot near an Idaho LGBT event heightens safety concerns at Pride](https://www.npr.org/2022/06/15/1104481518/idaho-pride-lgbtq-patriot-front)
- * [Lawsuit Challening Youth Medical Ban](https://www.acluidaho.org/en/news/idaho-families-sue-block-idahos-ban-health-care-trans-youth)
+ * [Lawsuit Challenging Youth Medical Ban](https://www.acluidaho.org/en/news/idaho-families-sue-block-idahos-ban-health-care-trans-youth)
 
