@@ -8,7 +8,7 @@ Oregon recognizes the gender of trans people. I.E. trans women are
 considered women, trans men are men, and non-binary people are
 recognized as non-binary.
 
-Oregon is not a "sanctuary state", but also does not criminalize
+Oregon is a "sanctuary state", but also does not criminalize
 trans youth medical care.
 
 ## Non-discrimination Law
@@ -60,7 +60,7 @@ Non-binary people are recognized by state government.
 ## Medical Care
 
  * Trans medical care is legal for all ages.
- * Oregon does not have a "sanctuary" law.
+ * Oregon does have a sanctuary law.
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
@@ -75,8 +75,8 @@ Non-binary people are recognized by state government.
 ## Child Custody / Abuse
 
  * Transition care is not defined as child abuse
- * Oregon does not have a sanctuary law for people obtaining
-   transition-related medical care.
+ * Oregon does have a sanctuary law for people obtaining transition-related
+ medical care.
  * OHSU has [received
    threats](https://www.losangelesblade.com/2023/08/10/anti-trans-info-posted-online-generates-bomb-threats-against-ohsu/)
    at one family clinic related to (according
@@ -88,6 +88,8 @@ Non-binary people are recognized by state government.
  * Same-sex marriage (and thus all trans marriage) is recognized
 
 ## Relevant Laws
+
+ * [2023 HB2002 - Sanctuary law](https://legiscan.com/OR/bill/HB2002/2023)
 
 ## General Safety
 

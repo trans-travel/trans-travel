@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-14 \\[US Oregon](us/or.md)] Added sanctuary law passed in
+    2023.
  *  2025-03-14 \[[US Texas](us/tx.md)] AG issues interpretation of law
     to state agencies directing them to reverse gender marker changes.
  *  2025-03-14 \[[US Idaho](us/id.md)] Allowing healthcare providers to
