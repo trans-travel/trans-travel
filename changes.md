@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-14 \[[US Texas](us/tx.md)] AG issues interpretation of law
+    to state agencies directing them to reverse gender marker changes.
  *  2025-03-14 \[[US Idaho](us/id.md)] Allowing healthcare providers to
     disclose medical information law likely to be signed by governor.
  *  2025-03-14 \[[US Idaho](us/id.md)] Medicaid trans healthcare ban

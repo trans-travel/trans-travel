@@ -76,7 +76,12 @@ Some laws specify male, female, and similar words based on sex assigned
 at birth and/or chromosomes.
 
 It is generally impossible to change your birth certificate or ID in
-Texas (information accurate as of September 4, 2024).
+Texas (information accurate as of March 14, 2025).  The Texas Attorney
+General has also indicated he believes any identification documents
+changed in the past should be reverted to sex assigned at birth in an
+[official interpretation of law sent to state
+agencies](https://www.texasattorneygeneral.gov/sites/default/files/opinion-files/opinion/2025/kp-0489.pdf)
+(updated Mar. 14, 2025).
 
 ## Medical Care
 
@@ -88,14 +93,7 @@ Texas (information accurate as of September 4, 2024).
    blocked by a temporary injunction.
  * Texas bans puberty blockers, HRT, and surgery for trans youth with few
    exceptions. This bill's enforcement actions are targeted primarily towards
-   healthcare providers. While this [was challenged in a
-   lawsuit](https://www.aclu.org/press-releases/texas-families-and-medical-providers-sue-texas-to-block-dangerous-transgender-youth-medical-care-ban).
-   While a state district court granted an injunction against the ban,
-   on August 25, 2023, the state immediately appealed this decision to the
-   state supreme court, which [blocks the
-   injunction](https://www.texastribune.org/2023/08/25/texas-transgender-kids-health-care-lawsuit/).
-   Thus, this law is in effect (at least on Sept. 26, 2023), which means
-   that trans youth are unable to access this medical care.
+   healthcare providers. (Updated Mar. 14, 2025)
  * Austin has passed a [sanctuary
    resolution](https://services.austintexas.gov/edims/document.cfm?id=427444)
    which limits city cooperation with state officials in enforcing
@@ -147,6 +145,8 @@ Texas (information accurate as of September 4, 2024).
 
 ## Relevant Laws
 
+ * [2025 Transphobic Attorney General Opinion on Gender Marker
+   Changes](https://www.texasattorneygeneral.gov/sites/default/files/opinion-files/opinion/2025/kp-0489.pdf)
  * [2023 HB2127 - Ban on Local Non-Discrimination Law](https://legiscan.com/TX/text/HB2127/id/2814366)
  * [2023 SB12 - Vague Sexually Oriented Performance Ban (ruled unconstitutional)](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB12)
  * [2023 SB14 - Trans Medical Ban](https://legiscan.com/TX/text/SB14/id/2811355)
