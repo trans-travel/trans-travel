@@ -5,7 +5,10 @@
 This page contains information specific to international visitors to the
 United States.  However, additional information that is relevant is
 located in [General United States Information](notes/usa-general.md) and
-in the state/territory specific pages on this site.
+in the state/territory specific pages on this site.  Some of the
+infromation on the [General US Information](notes/usa-general.md)
+applies to international visitors, including travel warnings by Germany
+and InterPride. (updated Mar. 16, 2025)
 
 Note that the US has become officially transphobic due to an [executive
 order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)

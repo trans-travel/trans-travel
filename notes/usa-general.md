@@ -37,9 +37,43 @@ harassment may occur. Historically, butch lesbians and Black women
 (including straight Black women) have faced disproportionate amounts of
 questioning of their gender, in addition to trans folk.
 
+## Lawlessness
+
+The Trump administration has violated multiple federal court orders. In
+particular, orders banning [deportation war powers under the Alien
+Enemies
+Act](https://www.npr.org/2025/03/16/g-s1-54154/alien-enemies-el-salvador-trump)
+and orders [banning transfer of trans women to men's
+prisons](https://www.theguardian.com/us-news/2025/mar/07/transgender-women-prison-trump).
+
+USA law that protects non-citizens and trans people can and will be
+violated by the current USA administration.  Trans people and
+non-USA citizens should use extreme caution in visiting the USA. In
+March 2025, some permanent residents and visa holders were placed in
+immigration prisons. It should be assumed that the Trump administration
+will house immigration prisoners in line with assumed sex at birth.
+(updated Mar. 16, 2025).
+
+The check on this executive branch lawlessness in the USA is the US
+legislative body.  It is unlikely the USA legislative body will choose
+to impeach Trump for this lawlessness, as Democratic politicians largely
+support "secure borders" and sometimes anti-trans policies. Beyond that,
+the Republican party controls these bodies, and is unlikely to seek
+impeachment of their party leader.
+
+## Travel Warnings
+
+The German Government has issued a [travel
+warning](https://rp-online.de/politik/ausland/auswaertiges-amt-transmenschen-muessen-bei-usa-reise-aufpassen_aid-124615597)
+for trans visitors from Germany. (updated Mar. 16, 2025)
+
+In addition, InterPride has issued a
+[warning](https://www.erininthemorning.com/p/germany-interpride-issue-lgbtq-travel)
+to USA-bound trans travelers. (updated Mar. 16, 2025)
+
 ## US Passports
 
-Currently (Jan 24, 2025), "X" markers are on US passports are still, in
+Currently (Mar. 16, 2025), "X" markers are on US passports are still, in
 theory, valid.  However, no new passports with an "X" marker will be
 issued.  Instead, the passport application will be placed on hold.
 
@@ -93,10 +127,12 @@ agencies to issue restrictions on various medications.
 While these restrictions still require rule making and agency directives,
 and are currently [stayed by a
 court](https://assets.aclu.org/live/uploads/2025/02/093114651219.pdf) (Feb. 13, 2025),
-many hospitals complied in advance (as of Feb. 13, 2025) with this order
-and canceling all trans youth medical appointments dealing with transition,
+many hospitals complied in advance with this order
+and canceled all trans youth medical appointments dealing with transition,
 as well as halting prescription of medication.  Thus, availability of trans
 youth medical care should be considered restricted within the USA.
+However, some of these hospitals have begun providing care since the
+initial order has faced court scrutiny.
 
 ## Future Outlook
 
@@ -239,6 +275,15 @@ Hill](https://thehill.com/homenews/house/5035804-nancy-mace-handshake-dispute-ar
 It is likely under full Republican control of all branches of Federal
 government that previously allowed protest and advocacy activities may
 result in criminal charges and/or detention.
+
+Beyond this, in March, 2025, non-citizens have been arrested by
+immigration authorities for participating in anti-genocide protests,
+which the USA considers antisemitic. Unlike widely recognized antisemitic activity
+(for instance, Nazi salutes), the USA's policy is that protests against
+military action by Israel against Palestinian civilians is antisemitic
+and reason to remove people from the USA, using special powers granted
+to the Secretary of State, who personally has authorized actions under
+Trump's orders. (updated Mar. 16, 2025)
 
 ## General Safety
 

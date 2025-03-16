@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-16 \\[US General](notes/usa-general.md)] Added information
+    about lawlessness of US government and travel warnings.
  *  2025-03-14 \\[US Oregon](us/or.md)] Added sanctuary law passed in
     2023.
  *  2025-03-14 \[[US Texas](us/tx.md)] AG issues interpretation of law
