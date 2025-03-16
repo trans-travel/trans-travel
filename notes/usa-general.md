@@ -283,7 +283,10 @@ which the USA considers antisemitic. Unlike widely recognized antisemitic activi
 military action by Israel against Palestinian civilians is antisemitic
 and reason to remove people from the USA, using special powers granted
 to the Secretary of State, who personally has authorized actions under
-Trump's orders. (updated Mar. 16, 2025)
+Trump's orders. (updated Mar. 16, 2025).
+
+The USA has also announced it plans to use terrorism laws against some
+anti-Tesla protesters.
 
 ## General Safety
 
