@@ -36,32 +36,13 @@ and may lack some protections.
  * Under law (HB257), the government is required to discriminate against
    against trans people, both by defining sex by sex assigned at birth
    and restricting changing room usage by trans people in government
-   owned or controlled facilities.  Trans people would be required to
+   owned or controlled facilities.  Trans people are be required to
    use changing rooms in publicly owned or controlled facilities in
-   accordance with sex assigned at birth unless they update their birth
-   certificate's gender marker to a new binary marker AND have had
-   unambiguous binary bottom surgery in line with stereotypes for the
-   new gender marker.  A [bill not yet signed by the
-   governor](https://legiscan.com/UT/text/HB0269/id/3119423) would
-   change this to sex-assigned at birth regardless of what a person's
-   current birth certificate says (Feb 13, 2025).
+   accordance with sex assigned at birth (updated mMar 17, 2025).
  * Trans people are required to use bathrooms according to sex assigned
    at birth within K12 schools.
- * Trans people who have BOTH updated their birth certificate and had
-   bottom surgery to conform with binary stereotypes may then use either
-   bathroom or changing room in publicly owned facilities.  This is
-   because a person can use a changing room in line with their sex
-   (defined as sex assigned at birth) OR the other binary sex if their
-   birth certificate and post-surgical genitals match the other binary
-   sex.  That said, indecent exposure law might then apply if genitals
-   that don't match the sign on the door were exposed.  However, if the
-   governor signs the [bill passed by both houses of
-   legislature](https://legiscan.com/UT/text/HB0269/id/3119423), this
-   would no longer be the case and the criteria would be sex assigned at
-   birth only (Feb 13, 2025).
- * Trans people who have had bottom surgery but not changed their birth
-   certificate are banned from using either changing room in government
-   owned/controlled facilities on the basis of indecent exposure law.
+ * Trans people must use bathroom and shower facilities conforming to their
+   sex assigned at birth in publicly owned facilities.
  * Intersex people may use the appropriate facility, although intersex
    people who have genitals that are too male or too female for the
    changing room door in publicly owned/controlled changing rooms may
@@ -71,18 +52,7 @@ and may lack some protections.
    in Utah's law, several laws on indecent exposure and "loitering in a privacy
    space" could apply to trans people who do not have genitals that
    match the bathroom's designation AND a birth certificate that match
-   the bathroom's designation. In addition, if using a bathroom other
-   than one that matches the trans person's sex assigned at birth, these
-   laws would likely also apply if the person has not underwent bottom
-   surgery.  That is, a trans person who has not changed their genitals
-   or birth certificate is legally (but probably not physically) safest
-   in a bathroom that matches their sex assigned at birth, while one
-   that has changed both in a binary way should use the bathroom that
-   matches their genitals and document. People who do not have genitals
-   in accordance with their birth certificate should use extreme
-   caution. This could possibly change, should the governor [sign a
-   bill](https://legiscan.com/UT/text/HB0269/id/3119423) recently passed
-   by the legislature (Feb. 13, 2025).
+   the bathroom's designation.
  * It is likely Black women, lesbian women, muscular women, and tall
    women will face harassment in facilities in Utah, even if these women
    are cis (non-trans).  These women should also use extreme caution in
@@ -158,12 +128,12 @@ unknown how law passed in 2024 may impact this.
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
    implementation of this order may make accessing care difficult or
-   impossible for those under 19-years-old. (updated 13 February 2025).
+   impossible for those under 19-years-old.
    However, the government is prevented from implementing this order
    (thus hospitals are not bound by it) because of a [temporary
    restraining
    order](https://assets.aclu.org/live/uploads/2025/02/093114651219.pdf)
-   against the government (13 February 2025).
+   against the government. (Updated Mar. 17, 2025)
 
 ## Child Custody / Abuse
 
@@ -185,14 +155,15 @@ unknown how law passed in 2024 may impact this.
 
 ## Relevant Laws
 
+ * [2025 HB283 - Custody Determinations (not yet signed by the
+   governor, as of Mar. 17, 2025)](https://legiscan.com/UT/text/HB0283/2025)
  * [2025 HB252 - Trans Prisoner Healthcare
    Ban (not yet signed by Governor, as of Feb. 20, 2025)](https://legiscan.com/UT/text/HB0252/2025)
  * [2023 SB0016 - Trans Youth Healthcare Ban](https://legiscan.com/UT/text/SB0016/id/2668336)
  * [Diné Marriage Act (Applicable in the Navajo Nation)](https://courts.navajo-nsn.gov/Resolutions/29-05%20Marriage%20Act.pdf)
  * [2024 HB257 - Changing Room Ban, Definition of Sex](https://le.utah.gov/~2024/bills/static/HB0257.html)
  * [2025 HB269 - Bathroom Ban in
-   Government/Education - as of Feb. 13, 2025, not yet signed by
-   governor](https://legiscan.com/UT/text/HB0269/id/3119423)
+   Government/Education](https://legiscan.com/UT/text/HB0269/id/3119423)
 
 ## General Safety
 
