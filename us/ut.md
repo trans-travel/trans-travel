@@ -171,13 +171,7 @@ Any traveler should use extreme caution if they are not both cis and
 have a very stereotypical gender presentation, if they use
 any changing room in a government owned or controlled facility that is
 open to the public, such as public parks, pools, sports facilities,
-recreation centers, universities, etc.  A person may be arrested for
-suspicion of violating this law and be required to produce either their
-original birth certificate or amended birth certificate plus evidence of
-bottom surgery, for presentation in court at a trial, if arrested.
-While this is not legal advice, simply telling a police officer your sex
-assigned at birth matches the facility or your usage of the exception
-for trans people with updated birth certificate and bottom surgery.
+recreation centers, universities, etc. 
 
 In some cases, this may also apply to bathrooms and in facilities not
 owned or controlled by the government, if law enforcement feels you
