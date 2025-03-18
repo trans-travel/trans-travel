@@ -21,6 +21,10 @@ followed).  It is unknown how this might have an impact on child custody.
 
 ## Public Accommodations
 
+ * In school facilities (including university facilities open to the public,
+   such as university stadiums), domestic violence programs, and
+   jails/prisons, trans people are required to use bathrooms/showers in
+   accordance with their sex assigned at birth. (updated Mar. 17, 2025)
  * Public accommodation access is not protected for trans people in
    West Virginia.
  * West Virginia has wide-reaching religious freedom laws that allow denial of
@@ -39,10 +43,12 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women are typically housed with men
- * Trans men are typically housed with women
- * Nonbinary people are typically be housed according to sex
-   assigned at birth
+ * Trans women are required to be housed with men (updated Mar. 17,
+   2025)
+ * Trans men are typically required to be housed with women (updated
+   Mar. 17, 2025)
+ * Nonbinary people are required to be housed according to sex
+   assigned at birth (updated Mar. 17, 2025).
  * The state has shown recent willingness to prohibit some trans medical
    care for inmates, including defending such choices in court.
 
@@ -91,8 +97,10 @@ Non-binary people are not legally recognized.
 
 ## Relevant Laws
 
- * [2023 HB2007 - Trans Youth Medical Care Ban](https://legiscan.com/WV/text/HB2007/id/2748657)
+ * [2025 HB456 - Bathroom
+   Ban](http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb456%20sub1%20enr.htm&yr=2025&sesstype=RS&i=456)
  * [2024 HB4233 - Ban on Non-Binary Birth Certificates](https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4233%20sub%20enr.htm&yr=2024&sesstype=RS&billtype=B&houseorig=H&i=4233)
+ * [2023 HB2007 - Trans Youth Medical Care Ban](https://legiscan.com/WV/text/HB2007/id/2748657)
 
 ## General Safety
 

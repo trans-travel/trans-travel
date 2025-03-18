@@ -13,6 +13,17 @@ that invalidated a healthcare ban).
 
 ## Public Accommodations
 
+ * If the governor signs HB121 (as is likely), trans people's use of
+   bathrooms and shower facilities will be limited. If it were to be
+   signed:
+   In schools, public buildings used by all levels of the government
+   (such as libraries, airports, city halls, hospitals, rec centers, etc),
+   domestic violence programs, and corrections facilities, trans people
+   are required to use bathrooms/showers in accordance with their sex
+   assigned at birth. Some intersex people are denied both male and female
+   bathrooms and showers according to a strict reading of the bill.
+   This also applies to universities (for instance, stadium bathrooms).
+   (updated Mar. 17, 2025)
  * Montana has wide-reaching religious freedom laws that allow denial of
    many services on the basis of gender identity.
  * School students will not be able to be disciplined for using
@@ -37,10 +48,9 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women would typically be housed with men
- * Trans men would typically be housed with women
- * Nonbinary people would typically be housed according to sex
-   assigned at birth
+ * Trans women are required to be housed with men
+ * Trans men are required to be housed with women
+ * Nonbinary people required to be housed according to sex assigned at birth
 
 ## Legal Definition of Sex
 
@@ -52,6 +62,12 @@ sex).  However, the law was ruled invalid [due to an ambiguous
 title](https://dailymontanan.com/2024/06/25/montana-law-defining-sex-as-male-or-female-unconstitutional-judge-says/)
 by a state court and [district court
 decision](https://www.documentcloud.org/documents/25539329-2025-02-18-order-granting-summary-judgement/).  Thus it is not in effect.
+
+If HB121 is signed by the governor, this law would only recognize male
+and female, according to assignment at birth and chromosomes. It
+defines, in a literal reading, some intersex people as neither male or
+female, while simultaniously refusing to recognize them as neither male
+or female. (updated Mar. 17, 2025)
 
 Non-binary people are not recognized.
 
@@ -99,11 +115,13 @@ refused to follow similar orders in the past).
 
 ## Relevant Laws
 
+ * [2025 HB121 - Bathroom Ban (not yet signed by
+   governor)](https://legiscan.com/MT/text/HB121/2025)
  * [2023 HB303 - Health Care Conscious Refusal Law](https://legiscan.com/MT/text/HB303/id/2785644)
  * [2023 SB99 - Youth Trans Medical Care Ban - DECLARED UNCONSTITUTIONAL](https://legiscan.com/MT/text/SB99/id/2786141)
  * [2023 HB359 - Drag Storytime Ban (temporarily blocked by courts from being enforced)](https://legiscan.com/MT/text/HB359/id/2804104)
  * [2023 SB458 - Trans-exclusionary Definition of Sex (Declared invalid by state court)](https://legiscan.com/MT/text/SB458/id/2796910)
- * [2023 SB518 - Mandatory Outing by Schools of Trans Youth](https://legiscan.com/MT/text/SB518/id/2800789)
+ * [2023 SB518 - Mandatory Outing by Schools of Trans Youth](https://legiscan.com/MT/text/SB518/id/2800789) It defines, in a literal reading, some intersex people as neither male or female, while simultaniously refusing to recognize them as neither male or female. (updated Mar. 17, 2025)
 
 ## General Safety
 

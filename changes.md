@@ -1,8 +1,11 @@
 # Change Log for Trans Travel Guide
 
- *  2025-03-16 \\[US General](notes/usa-general.md)] Added information
+ *  2025-03-17 \[[US West Virginia](us/wv.md)] Bathroom ban.
+ *  2025-03-17 \[[US Montana](us/mt.md)] Bathroom ban likely to be
+    signed by governor.
+ *  2025-03-16 \[[US General](notes/usa-general.md)] Added information
     about lawlessness of US government and travel warnings.
- *  2025-03-14 \\[US Oregon](us/or.md)] Added sanctuary law passed in
+ *  2025-03-14 \[[US Oregon](us/or.md)] Added sanctuary law passed in
     2023.
  *  2025-03-14 \[[US Texas](us/tx.md)] AG issues interpretation of law
     to state agencies directing them to reverse gender marker changes.
