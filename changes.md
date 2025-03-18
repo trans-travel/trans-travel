@@ -20,6 +20,8 @@
     at birth.
  *  2025-03-14 \[[US Mississippi](us/ms.md)] Ban on medicaid funding for
     trans healthcare likely to pass.
+ *  2025-02-28 \[[US Iowa](us/ia.md)] Governor signed discriminatory
+    bill.
  *  2025-02-27 \[[US Iowa](us/ia.md)] Potential removal of
     discrimination protections and addition of birth certificate ban.
  *  2025-02-25 \[[US](notes/usa-immigration.md)] State Department
