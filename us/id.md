@@ -29,7 +29,7 @@ impact on child custody.
    challenged](https://lambdalegal.org/case/roe-v-critchfield/)
    court and a temporary restraining order against this law, thus
    bathroom/shower access in schools is temporarily allowed in
-   Idaho(verified Mar. 14, 2025). Note however that this only blocks this _state_
+   Idaho (verified Mar. 17, 2025). Note however that this only blocks this _state_
    law, and does not block any local school policies that are discriminatory,
    as those aren't at issue in the lawsuit.
  * Enforcement of school bathroom regulations is unclear. But see above,
@@ -89,6 +89,8 @@ Intersex are not recognized.
 ## Medical Care
 
  * Trans medical care is legal for adults.
+ * If H0345 is signed by the governor, it would ban Medicaid and other
+   state funds to be used for adult trans care (updated Mar. 17, 2025).
  * Trans medical care is illegal for anyone under 18 (including puberty
    blockers, hormone therapy, and surgery. This law is [being
    challenged](https://www.acluidaho.org/en/news/idaho-families-sue-block-idahos-ban-health-care-trans-youth),
@@ -96,21 +98,21 @@ Intersex are not recognized.
  * Therapists can use 2024 S1352 to discriminate against trans persons.
  * If [H0345](https://legiscan.com/ID/bill/H0345/2025) is signed by the
    governor, it would prevent medicaid funds being used for trans
-   healthcare (updated Mar. 14, 2025).
+   healthcare (verified Mar. 17, 2025).
  * If [H0059](https://legiscan.com/ID/drafts/H0059/2025) is signed by
    the governor, it would allow disclosure of medical information when a
-   violation of healtcare law (including transphobic laws) is
-   suspected (updated Mar. 14, 2025).
+   violation of healthcare law (including transphobic laws) is
+   suspected (verified Mar. 17, 2025).
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
    implementation of this order may make accessing care difficult or
-   impossible for those under 19-years-old. (updated 13 February 2025).
+   impossible for those under 19-years-old.
    However, the government is prevented from implementing this order
    (thus hospitals are not bound by it) because of a [temporary
    restraining
    order](https://assets.aclu.org/live/uploads/2025/02/093114651219.pdf)
-   against the government (13 February 2025).
+   against the government. (Verified Mar. 17, 2025)
 
 ## Child Custody / Abuse
 
@@ -127,11 +129,13 @@ Intersex are not recognized.
 
 ## Relevant Laws
 
+ * [2025 H0345 - Medicaid ban (not yet signed by governor as of Mar. 17,
+   2025)](https://legiscan.com/ID/text/H0345/2025)
  * [2025 H0059 - Allowing disclosure of medical information (not yet
-   signed by governor as of Mar. 14,
+   signed by governor as of Mar. 17,
    2025)](https://legiscan.com/ID/drafts/H0059/2025)
  * [2025 H0345 - Medicaid trans healthcare funding
-   ban (not yet signed by governor as of Mar. 14, 2025)](https://legiscan.com/ID/bill/H0345/2025)
+   ban (not yet signed by governor as of Mar. 17, 2025)](https://legiscan.com/ID/bill/H0345/2025)
  * [2024 H0421 - Trans-Exclusionary Definition of Sex)](https://legislature.idaho.gov/sessioninfo/2024/legislation/H0421/)
  * [2024 H0538 - Allow Deadnaming and Misgendering by Government
    officials)](https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2024/legislation/H0538.pdf)

@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-17 \[[US Idaho](us/id.md)] Medicaid funding ban.
  *  2025-03-17 \[[US Utah](us/ut.md)] Bathroom ban.
  *  2025-03-17 \[[US West Virginia](us/wv.md)] Bathroom ban.
  *  2025-03-17 \[[US Montana](us/mt.md)] Bathroom ban likely to be
