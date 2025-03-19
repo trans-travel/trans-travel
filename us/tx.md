@@ -156,6 +156,14 @@ agencies](https://www.texasattorneygeneral.gov/sites/default/files/opinion-files
 The state has a law that prevents instruction on sexual orientation
 in schools.
 
+Police in Texas may use excessive force in some cases against trans
+folks. For instance, in March 2025, [police used excessive
+force](https://www.statesman.com/story/news/local/2025/03/18/apd-austin-police-department-trans-woman-video-slammed-to-ground/82518683007/)
+in Austin to arrest a trans woman. Authorities claim that this was
+within the use of force guidelines.  Ausitn police also recently raided an
+LGBT nightclub (and later said they had the wrong address and meant to raid
+a different nightclub).
+
 The State has shown a willingness to investigate parents of transgender
 kids, including subjecting them to different processes than are applied
 for child abuse investigation (such as providing less of a paper trail).
