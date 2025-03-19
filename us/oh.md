@@ -8,10 +8,13 @@ Ohio does not have laws that target most trans visitors directly,
 although a trans woman was charged (and found not guilty) for changing
 in a locker room.
 
-HB68 bans transition care for youth and go beyond most other bans of care
-including placing significant restrictions upon mental health care,
-puberty blockers, hormone therapy, and surgery. It also protects parents
-harming youth through denial of trans-related care.
+HB68, as written, baned transition care for youth and goes beyond most other
+bans of care including placing significant restrictions upon mental health
+care, puberty blockers, hormone therapy, and surgery. It also protects parents
+harming youth through denial of trans-related care. On Mar. 18, 2025, a
+state appeals court blocked the parts of this order relevant to puberty
+blockers and hormone therapy. Other provisions, including mental health
+screening requirements for youth, remain in effect.
 
 In addition, Ohio also bans access to bathroom and locker room facilities
 at all schools and universities (including university facilities such as
@@ -81,12 +84,14 @@ changes to trans people, indicating bias within the Ohio legal system.
 ## Medical Care
 
  * Trans medical care is legal for adults.
- * Ohio bans transition care for youth and goes beyond most other bans of
-   care including placing significant restrictions upon mental health
-   care, puberty blockers, hormone therapy, and surgery.
- * The ACLU is [suing
-   Ohio](https://www.acluohio.org/en/press-releases/aclu-ohio-preparing-lawsuit-challenging-hb-68)
-   over the care ban.
+ * Ohio bans some transition care for youth and places significant
+   stipulations upon mental health care and surgery. However, puberty
+   blockers and HRT is legal, within the other confines of the law, as
+   of an [state appeals court
+   decision](https://www.aclu.org/press-releases/state-district-court-of-appeals-blocks-ohios-ban-on-gender-affirming-care-for-trans-minors-in-an-historic-win-for-families-and-bodily-autonomy)
+   on March 18, 2025. (see also [ACLU
+   Ohio's lawsuit](https://www.acluohio.org/en/press-releases/aclu-ohio-preparing-lawsuit-challenging-hb-68)
+   over the care ban)
  * Ohio has a religious exemption law that allows providers to deny some
    medical services.
  * Federal regulations protecting trans people in were blocked in
@@ -103,13 +108,13 @@ changes to trans people, indicating bias within the Ohio legal system.
    (thus hospitals are not bound by it) because of a [temporary
    restraining
    order](https://assets.aclu.org/live/uploads/2025/02/093114651219.pdf)
-   against the government (13 February 2025).
+   against the government (verified Mar. 18, 2025).
 
 ## Child Custody / Abuse
 
  * Transition care is not specifically defined as child abuse. However,
-   as some youth gender transition medical care is now illegal in Ohio,
-   it is unknown how that may affect custody.
+   as some youth gender transition medical care is illegal in Ohio, it is
+   unknown how that may affect custody.
  * HB68 explicitly protects anti-trans parents who are causing harm to
    trans youth.
  * There is no sanctuary law preventing cooperation with other
@@ -121,7 +126,7 @@ changes to trans people, indicating bias within the Ohio legal system.
 
 ## Relevant Laws
 
- * [2023 HB68 - Youth Care Ban](https://www.legislature.ohio.gov/legislation/135/hb68)
+ * [2023 HB68 - Youth Care Ban (puberty blocker/HRT ban for youth ruled unconstitutional on Mar. 18, 2025)](https://www.legislature.ohio.gov/legislation/135/hb68)
  * [2023 SB104 - Bathroom Ban in Schools and Universities](https://www.legislature.ohio.gov/legislation/135/sb104)
  * [Attorney General Opinion 2023-006](https://www.ohioattorneygeneral.gov/getattachment/f10767a2-2cf3-4844-b943-90a503dc4c52/2023-006.aspx)
  * [2023 Administrative Rule 3701-83-60 - Ban on Youth Gender Affirming Surgery](https://www.registerofohio.state.oh.us/pdfs/3701/0/83/3701-83-60_PH_EM_NE_RU_20240105_1308.pdf)
