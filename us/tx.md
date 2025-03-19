@@ -159,7 +159,7 @@ in schools.
 Police in Texas may use excessive force in some cases against trans
 folks. For instance, in March 2025, [police used excessive
 force](https://www.statesman.com/story/news/local/2025/03/18/apd-austin-police-department-trans-woman-video-slammed-to-ground/82518683007/)
-in Austin to arrest a trans woman. Authorities claim that this was
+in Austin to arrest a trans person. Authorities claim that this was
 within the use of force guidelines.  Ausitn police also recently raided an
 LGBT nightclub (and later said they had the wrong address and meant to raid
 a different nightclub).
