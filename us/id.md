@@ -27,19 +27,14 @@ impact on child custody.
    associated with their sex assigned at birth when using some
    bathrooms/showers in schools. However, this is [being
    challenged](https://lambdalegal.org/case/roe-v-critchfield/)
-   court and a temporary restraining order against this law, thus
-   bathroom/shower access in schools is temporarily allowed in
-   Idaho (verified Mar. 17, 2025). Note however that this only blocks this _state_
-   law, and does not block any local school policies that are discriminatory,
-   as those aren't at issue in the lawsuit.
- * Enforcement of school bathroom regulations is unclear. But see above,
-   as the law is temporarily stayed.
+   in court (updated Mar. 20, 2025).
+ * Enforcement of school bathroom regulations is unclear.
  * Public accommodation access is not protected for trans people in
    Idaho.
  * Idaho has wide-reaching religious freedom laws that allow denial of
    some services on the basis of gender identity.
  * Idaho has a law that prevents all levels of government from enforcing
-   any bathroom non-discrimination laws upon businesses and organizations
+   any bathroom non-discrimination laws on businesses and organizations
    that contract with government. (Example: homeless shelters,
    businesses that contract with the state, private schools that get
    state money, etc).
@@ -143,7 +138,7 @@ Intersex are not recognized.
    Discriminate](https://legislature.idaho.gov/sessioninfo/2024/legislation/S1352/)
  * [2023 H0071 - Trans Youth Medical Ban](https://legiscan.com/ID/text/H0071/id/2761913)
  * [2023 S1016 - Allowing Bathroom Discrimination](https://legiscan.com/ID/text/S1016/id/2744918)
- * [2023 S1100 - School Bathrooms](https://legiscan.com/ID/text/S1100/id/2730977)
+ * [2023 S1100 - School Bathroom Ban](https://legiscan.com/ID/text/S1100/id/2730977)
 
 ## General Safety
 
