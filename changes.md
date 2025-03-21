@@ -21,7 +21,7 @@
  *  2025-03-14 \[[US Kentucky](us/ky.md)] Conversion therapy protection
     law likely to pass.
  *  2025-03-14 \[[US Kansas](us/ks.md)] In addition to previous bans on
-    youth healtchare, state facilities cannot be used to "promote"
+    youth healtcare, state facilities cannot be used to "promote"
     gender transition for youth.
  *  2025-03-14 \[[US Mississippi](us/ms.md)] If HB188 signed by gov,
     trans people would be required to be housed in jail by sex assigned
@@ -35,7 +35,7 @@
  *  2025-02-25 \[[US](notes/usa-immigration.md)] State Department
     guidance bans travel to the USA using documents that don't match sex
     assigned at birth.
- *  2025-02-20 \[[US Utah](us/ut.md)] Trans prisoner healtchare ban
+ *  2025-02-20 \[[US Utah](us/ut.md)] Trans prisoner healtcare ban
     pending Governor signature.
  *  2025-02-20 \[[US Alabama](us/al.md)] Bathroom ban in state
     facilities and transphobic definition of sex enacted but not yet
@@ -76,7 +76,7 @@
     issued.
  *  2025-01-11 \[[US](notes/usa-general.md)] Some US corporations are
     rolling-back inclusion initiatives.
- *  2025-01-08 \[[US texas](us/tx.md)] Note attack on teen in Houston
+ *  2025-01-08 \[[US Texas](us/tx.md)] Note attack on teen in Houston
  *  2024-12-24 \[[US California](us/ca.md)] Attack at bathroom in
     Riverside.
  *  2024-12-17 \[[US_Montana](us/mt.md)] MT district court temporarily
@@ -97,10 +97,10 @@
     governor.
  *  2024-11-24 \[[US General Information](notes/usa-general.md) Added
     general USA travel notes.
- *  2024-11-21 \[[US DC](us/dc.md) Capitol Complex bathroom ban.
- *  2024-11-18 \[[US Texas](us/tx.md) Odessa extends trans bathroom ban
+ *  2024-11-21 \[[US DC](us/dc.md)] Capitol Complex bathroom ban.
+ *  2024-11-18 \[[US Texas](us/tx.md)] Odessa extends trans bathroom ban
     to private bathrooms.
- *  2024-11-17 [[[US Wyoming](us/wy.md) Gillette banned trans people
+ *  2024-11-17 \[[US Wyoming](us/wy.md)] Gillette banned trans people
     from rec center bathrooms.
  *  2024-11-17 \[[Japan](jp.md)] Added Japan
  *  2024-11-17 \[[Bermuda](bm.md)] Added Bermuda
