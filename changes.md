@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-20 \[[US Idaho](us/id.md)] Medicare ban signed by governor.
  *  2025-03-20 \[[US Idaho](us/id.md)] School bathroom ban back in
     effect.
  *  2025-03-18 \[[US Texas](us/tx.md)] Austin Texas police violence

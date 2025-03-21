@@ -84,16 +84,13 @@ Intersex are not recognized.
 ## Medical Care
 
  * Trans medical care is legal for adults.
- * If H0345 is signed by the governor, it would ban Medicaid and other
-   state funds to be used for adult trans care (updated Mar. 17, 2025).
+ * H0345 bans Medicaid and other state funds to be used for adult trans
+   care (updated Mar. 20, 2025).
  * Trans medical care is illegal for anyone under 18 (including puberty
    blockers, hormone therapy, and surgery. This law is [being
    challenged](https://www.acluidaho.org/en/news/idaho-families-sue-block-idahos-ban-health-care-trans-youth),
    but is currently in effect.
  * Therapists can use 2024 S1352 to discriminate against trans persons.
- * If [H0345](https://legiscan.com/ID/bill/H0345/2025) is signed by the
-   governor, it would prevent medicaid funds being used for trans
-   healthcare (verified Mar. 17, 2025).
  * If [H0059](https://legiscan.com/ID/drafts/H0059/2025) is signed by
    the governor, it would allow disclosure of medical information when a
    violation of healthcare law (including transphobic laws) is
@@ -124,8 +121,7 @@ Intersex are not recognized.
 
 ## Relevant Laws
 
- * [2025 H0345 - Medicaid ban (not yet signed by governor as of Mar. 17,
-   2025)](https://legiscan.com/ID/text/H0345/2025)
+ * [2025 H0345 - Medicaid ban](https://legiscan.com/ID/text/H0345/2025)
  * [2025 H0059 - Allowing disclosure of medical information (not yet
    signed by governor as of Mar. 17,
    2025)](https://legiscan.com/ID/drafts/H0059/2025)
