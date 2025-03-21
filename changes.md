@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-20 \[[US Idaho](us/id.md)] Medical disclosure law allows
+    some medical employees to violate medical privacy
  *  2025-03-20 \[[US Idaho](us/id.md)] Medicare ban signed by governor.
  *  2025-03-20 \[[US Idaho](us/id.md)] School bathroom ban back in
     effect.
