@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-26 \[USA] Notes on travel warnings from France, Demnark, and
+    Finland.
+ *  2025-03-26 \[USA] Notes on immigration/detention/protests
  *  2025-03-26 \[[US South Dakota](us/sd.md)] Bathroom ban
  *  2025-03-26 \[[US Ohio](us/oh.md)] Potential ban on anti-racist and
     trans-affirming education in colleges.

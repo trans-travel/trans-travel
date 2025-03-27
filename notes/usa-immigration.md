@@ -7,8 +7,8 @@ United States.  However, additional information that is relevant is
 located in [General United States Information](notes/usa-general.md) and
 in the state/territory specific pages on this site.  Some of the
 infromation on the [General US Information](notes/usa-general.md)
-applies to international visitors, including travel warnings by Germany
-and InterPride. (updated Mar. 16, 2025)
+applies to international visitors, including travel warnings by Germany,
+Finland, Denmark, France, and InterPride. (updated Mar. 16, 2025)
 
 Note that the US has become officially transphobic due to an [executive
 order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)
@@ -56,6 +56,8 @@ report](https://www.erininthemorning.com/p/marco-rubio-may-have-just-banned?utm_
 
 ## Border Searches
 
+(Updated March 26, 2025)
+
 Travelers legally crossing the border into the USA, regardless of citizenship
 and documentation, are subject to search at the border.  This includes
 examining electronic devices such as laptops and cell phones. This also
@@ -73,6 +75,15 @@ Should an individual be "discovered" to have genitals not in accordance
 with the USA's definition of sex, in contrast to the gender marker on
 someone's passport, it is unknown if this would result in their
 identification not being seen as matching.
+
+Note that discovery of social media or documents critical of the USA
+government (including simply criticism of the President) or critical of
+the Israeli government may result in deportation, bans, or detention.
+The USA considers speaking against the Israeli government to be
+terrorism, particularly when done by non-citizens. This applies to
+permanent residents, who should use extreme caution when considering
+leaving the USA for a temporary trip, as they may face difficulties
+returning.
 
 ## Medication and Supplies
 
@@ -131,6 +142,8 @@ Rape is common within ICE detention.
 These facilities provide substandard care for transgender-related
 healthcare and other conditions (such as HIV, cancer, etc).
 
+In some cases, the USA has sent some non-citizens to third-party
+countries to be placed at work camps.
 
 ## Relevant News Stories
 

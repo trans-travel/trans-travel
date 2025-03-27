@@ -71,6 +71,15 @@ In addition, InterPride has issued a
 [warning](https://www.erininthemorning.com/p/germany-interpride-issue-lgbtq-travel)
 to USA-bound trans travelers. (updated Mar. 16, 2025)
 
+France has updated [advise for trans travellers to the
+USA](https://www.lemonde.fr/en/france/article/2025/03/25/france-updates-us-travel-advice-over-gender-at-birth_6739494_7.html?utm_source=substack&utm_medium=email#)
+(updated Mar. 26, 2025).
+
+Both Denmark and Finland has issued a travel
+[warning](https://apnews.com/article/denmark-us-transgender-travel-advisory-c0b533a72f2b22b438e6a4077889fefb?utm_source=substack&utm_medium=email)
+for travel by trans people to the USA (updated Mar. 26, 2025).
+
+
 ## US Passports
 
 Currently (Mar. 16, 2025), "X" markers are on US passports are still, in
@@ -239,7 +248,7 @@ locations.
 
 ## Immigration / Customs Enforcement
 
-(Updated Feb. 25, 2025)
+(Updated March 26, 2025)
 
 The United States takes border control extremely seriously. Some
 travelers have reported encountering transphobic border and/or customs
@@ -260,7 +269,20 @@ agents, that agents may not follow procedures that are in theory still
 in effect (current procedures would respect your gender identity, but,
 again, these may or may not be followed currently).
 
+The USA has also been targeting non-citizens with permanent residence
+("green cards") and in some cases extraditing them to dangerous prisons
+that resemble forced labor camps in third-party countries. In
+particular, permanent residents who have criticized the government, have been
+arrested and/or found guilty of a crime (even minor ones or crimes that
+were dismissed), or have participated in protest activity or producing
+works critical of the Israel government have been deported or detained
+indefinitely. People without USA citizenship who live in the USA should consider
+if they should leave the USA temporarily, as they may face scrutiny and be
+denied entry, deported, or detained when they return the USA.
+
 ## Advocacy and Protests
+
+(Updated March 26, 2025)
 
 Care should also be used when interacting with public officials or
 protesting government action. Government officials in the USA have taken
@@ -279,11 +301,13 @@ result in criminal charges and/or detention.
 Beyond this, in March, 2025, non-citizens have been arrested by
 immigration authorities for participating in anti-genocide protests,
 which the USA considers antisemitic. Unlike widely recognized antisemitic activity
-(for instance, Nazi salutes), the USA's policy is that protests against
-military action by Israel against Palestinian civilians is antisemitic
-and reason to remove people from the USA, using special powers granted
-to the Secretary of State, who personally has authorized actions under
-Trump's orders. (updated Mar. 16, 2025).
+(for instance, Nazi salutes), the USA's policy is that protests or
+academic/journalistic works that are critical of military action by Israel
+against Palestinian civilians is antisemitic and evidence of support for
+terrorism. This is used to detain or remove people from the USA, sometimes
+using special powers granted to the Secretary of State, who personally has
+authorized actions under Trump's orders. Some have been sent to work camps in
+third-party countries.
 
 The USA has also announced it plans to use terrorism laws against some
 anti-Tesla protesters.
