@@ -11,12 +11,11 @@ Tennessee (as of July 1, 2023) bans trans care for children which has
 an unknown impact on child custody, however parents are not penalized
 under this law (it applies to healthcare providers), except possibly if
 one parent provides hormones or puberty blockers without the other
-parent's consent. While a preliminary injunction (as of July 8,
-2023) would have allowed both puberty blockers and hormone therapy for trans youth
+parent's consent. While a preliminary injunction would have allowed both
+puberty blockers and hormone therapy for trans youth
 until the case challenging the ban is heard, the appeals court decided
-that stay was invalid. However, the plaintiffs in a related case in
-Kentucky have asked that the entire appeals court re-hear the Kentucky
-appeal, which could have impact in Tennessee.
+that stay was invalid. However, this is now being heard at the Supreme
+Court (updated Mar. 26, 2025).
 
 In addition, Tennessee
 criminalizes any adults (with exceptions for parents or people
@@ -47,6 +46,10 @@ to investigate at least one provider of transgender care.
    services on the basis of gender identity.
  * Tennessee bans trans people from school bathrooms and locker rooms
    that do not align with sex assigned at birth.
+ * If [HB0064](https://legiscan.com/TN/text/HB0064/2025) passes, Tennessee
+   would also ban trans people from any bathrooms, showers, or residences in
+   educational programs serving minors. Note this ban would not only apply to
+   minors, but anyone involved in these programs.  (updated Mar. 26, 2025)
  * Tennessee previously had a bathroom ban that applied to private
    businesses, that required offensive signage if a business allowed
    trans people to enter the appropriate bathroom. However, that ban was
@@ -92,17 +95,13 @@ assigned at birth and/or chromosomes.
  * Trans medical care is legal for adults.
  * Medical transition for people under age 18 is illegal as of
    July 1, 2023. This includes both care provided from within Tennessee
-   and care provided via telehealth.  While a preliminary injunction (as
-   of July 8, 2023) would have allowed both puberty blockers and hormone
+   and care provided via telehealth.  While a preliminary injunction
+   would have allowed both puberty blockers and hormone
    therapy for trans youth until the case challenging the ban is heard, the
    appeals court decided that [stay was
    invalid](https://storage.courtlistener.com/pdf/2023/07/08/l._w._v._jonathan_skrmetti.pdf).
-   However, the plaintiffs in a related case in Kentucky have asked that the
-   entire appeals court re-hear the Kentucky appeal, which could have impact
-   in Tennessee.
- * There are some very limited exceptions to the care ban for youth
-   continuing the same care who had received that care prior to the
-   ban up until March 31, 2024.
+   However, this matter is currently being heard by the US Supreme Court
+   (updated Mar. 26, 2025).
  * Medical providers (including mental health providers) can deny some
    care on the basis of their religious or ethical beliefs.
  * Some Medical records of patients receiving care at Vanderbilt, including
@@ -153,16 +152,19 @@ assigned at birth and/or chromosomes.
 
 ## Relevant Laws
 
- * [2011 HB600 - Banning Local Trans Non-Discrimination Laws](https://www.capitol.tn.gov/Bills/107/Bill/SB0632.pdf)
- * [2016 SB1556 - Allowing Counselors to Fire LGBT Clients](https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB1556&GA=109)
- * [2021 HB1233 - Trans Bathroom Ban for Schools](https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1233&ga=112)
+ * [2025 HB0064 - Residential educational program segregation (not yet
+   passed as of Mar. 26,
+   2025)](https://legiscan.com/TN/text/HB0064/2025)
+ * [2024 HB0878 - Ability for officials to refuse to marry couples](https://www.capitol.tn.gov/Bills/113/Amend/SA0514.pdf)
+ * [2024 SB2782 - Ban on providing information or assisting youth access
+   trans medical care](https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB2782&ga=113)
  * [2023 HB0001 - Trans Youth Medical Care Ban](https://legiscan.com/TN/text/HB0001/id/2756066)
  * [2023 HB0009 - Drag Ban](https://legiscan.com/TN/text/HB0009/id/2756096)
  * [2023 SB0466 - Allowing Misgendering by School Employees](https://legiscan.com/TN/text/SB0466/id/2672103)
  * [2023 SB0632 - Defining Sex as Sex Assigned at Birth](https://www.capitol.tn.gov/Bills/107/Bill/SB0632.pdf)
- * [2024 HB878 - Ability for officials to refuse to marry couples](https://www.capitol.tn.gov/Bills/113/Amend/SA0514.pdf)
- * [2024 SB2782 - Ban on providing information or assisting youth access
-   trans medical care](https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB2782&ga=113)
+ * [2021 HB1233 - Trans Bathroom Ban for Schools](https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1233&ga=112)
+ * [2016 SB1556 - Allowing Counselors to Fire LGBT Clients](https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB1556&GA=109)
+ * [2011 HB0600 - Banning Local Trans Non-Discrimination Laws](https://www.capitol.tn.gov/Bills/107/Bill/SB0632.pdf)
 
 ## General Safety
 
