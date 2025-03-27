@@ -8,7 +8,7 @@ Ohio does not have laws that target most trans visitors directly,
 although a trans woman was charged (and found not guilty) for changing
 in a locker room.
 
-HB68, as written, baned transition care for youth and goes beyond most other
+HB68, as written, banned transition care for youth and goes beyond most other
 bans of care including placing significant restrictions upon mental health
 care, puberty blockers, hormone therapy, and surgery. It also protects parents
 harming youth through denial of trans-related care. On Mar. 18, 2025, a
@@ -30,6 +30,11 @@ and similar facilities, particularly if owned by government.
  * Ohio non-discrimination law does not include LGBT people specifically
  * Some municipalities have local non-discrimination laws that apply to
    gender identity.
+ * The state is likely to pass [a
+   bill](https://legiscan.com/TN/text/HB0064/2025) that would masquerades as a
+   non-discrimination bill with the intent of discriminating against
+   trans-affirming and anti-racist educational practices in higher
+   education.
 
 ## Public Accommodations
 
@@ -126,6 +131,9 @@ changes to trans people, indicating bias within the Ohio legal system.
 
 ## Relevant Laws
 
+ * [2025 SB1 - Banning anti-racist and trans-inclusive college
+   practices (not yet passed as of Mar. 26,
+   2026)](https://legiscan.com/TN/text/HB0064/2025)
  * [2023 HB68 - Youth Care Ban (puberty blocker/HRT ban for youth ruled unconstitutional on Mar. 18, 2025)](https://www.legislature.ohio.gov/legislation/135/hb68)
  * [2023 SB104 - Bathroom Ban in Schools and Universities](https://www.legislature.ohio.gov/legislation/135/sb104)
  * [Attorney General Opinion 2023-006](https://www.ohioattorneygeneral.gov/getattachment/f10767a2-2cf3-4844-b943-90a503dc4c52/2023-006.aspx)
@@ -141,10 +149,7 @@ particularly in the Columbus area.
 Ohio and Ohio's political subdivisions have shown willingness to
 extensively prosecute and litigate against trans people in court.
 
-Currently pending legislative bills, that may or may not pass, are
-particularly cruel towards the trans people they target (mostly youth,
-but also college and university students and anyone visiting school or
-university facilities).
+Ohio continues to debate and pass cruel anti-trans bills.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,

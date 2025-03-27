@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-26 \[[US Ohio](us/oh.md)] Potential ban on anti-racist and
+    trans-affirming education in colleges.
  *  2025-03-26 \[[US Tennessee](us/tn.md)] Potential residential school
     program segregation law.
  *  2025-03-20 \[[US Idaho](us/id.md)] Medical disclosure law allows
