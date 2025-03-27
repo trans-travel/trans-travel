@@ -22,6 +22,9 @@ applies to healthcare providers).
 
 ## Public Accommodations
 
+ * South Dakota requires all publicly-owned or leased buildings to require
+   trans people to use bathrooms, showers, and sleeping accommodations
+   in those buildings. (updated March 26, 2025)
  * South Dakota has wide-reaching religious freedom laws that allow denial of
    many services on the basis of gender identity.
 
@@ -35,11 +38,11 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women are typically be housed with men (as of January 2023, no
-   trans woman has ever been housed in a state facility for women).
- * Trans men are typically be housed with women.
- * Nonbinary people would typically be housed according to sex
-   assigned at birth.
+ * Trans women are require to be housed with men (updated March 26,
+   2025).
+ * Trans men are required be housed with women (updated March 26, 2025).
+ * Nonbinary people would typically be required to be housed according to sex
+   assigned at birth (updated March 26, 2025).
 
 ## Legal Definition of Sex
 
@@ -90,6 +93,8 @@ circumstances.
 
 ## Relevant Laws
 
+ * [2025 HB1259 - Bathroom
+   Ban](https://legiscan.com/SD/text/HB1259/id/3166382)
  * [2023 HB1080 - Trans Youth Medical Ban](https://legiscan.com/SD/text/HB1080/id/2695160)
 
 ## General Safety
