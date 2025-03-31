@@ -114,6 +114,12 @@ Olympia, and similar town may also be decent refuges. The rural areas
 are less predictable. While the author has taken trips to such areas,
 the protection of the law may not be enough there.
 
+Even in cities considered progressive, like Seattle, attacks can occur.
+In early 2025, a trans person was attacked, with the attackers referencing
+[transphobic political statmeents and executive
+orders during the attack](https://www.thestranger.com/news/2025/03/28/79988053/police-arrest-one-suspect-in-alleged-violent-anti-trans-hate-crime). While Seattle is generally a safe, inclusive city
+US standards, it is a reminder that attacks can occur anywhere.
+
 ## Resources
 
  * [Non-Discrimination Guide to Sexual Orientation and Gender Identification](https://www.hum.wa.gov/sites/default/files/public/publications/Updated%20SO%20GI%20Guide.pdf)

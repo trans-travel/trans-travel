@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-30 \[[US Washington](us/wa.md)] Attack on trans person.
  *  2025-03-27 \[[US Montana](us/mt.md)] Bathroom ban signed by
     governor.
  *  2025-03-26 \[USA] Notes on travel warnings from France, Demnark, and
