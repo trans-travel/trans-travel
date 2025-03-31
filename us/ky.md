@@ -43,8 +43,7 @@ See the [USA TSA](notes/tsa.md) document.
    in State prisons based on "genital status alone," genital status remains a
    consideration, as do many other factors (of which the trans person's
    gender is at best a minor concern).
- * The State does provide some trans medical care in prisons, although
-   it appears this does not meet the current WPATH standard of care.
+ * Trans medical care is banned for prisoners (update March 30, 2025).
  * Federal regulations protecting trans people in were blocked in
    Kentucky due to the Tennessee v Becerra preliminary injunction on
    July 3, 2024. Thus trans people do not have many of the federal
@@ -74,6 +73,8 @@ Intersex people have some limited recognition.
    their religious beliefs.
  * Conversion therapy is allowed for both children and adults (updated
    March 30, 2025).
+ * Trans medical care cannot be funded by the state or any government
+   division such as a public university (updated March 30, 2025).
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
@@ -100,6 +101,8 @@ Intersex people have some limited recognition.
 
 ## Relevant Laws
 
+ * [2025 SB2 - Prohibiting government funds for trans
+   care](https://legiscan.com/KY/bill/HB501/2025)
  * [2025 HB501 - Refinement of ban on HRT under state
    funds (not yet signed by Governor, as of Mar 30, 2025)](https://legiscan.com/KY/bill/HB501/2025)
  * [2025 HB495 - Conversion therapy ``protection''](https://legiscan.com/KY/bill/HB495/2025)
