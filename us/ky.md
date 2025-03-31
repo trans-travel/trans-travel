@@ -72,6 +72,8 @@ Intersex people have some limited recognition.
    law applies only to medical providers.
  * Medical providers may be allowed to deny some care on the basis of
    their religious beliefs.
+ * Conversion therapy is allowed for both children and adults (updated
+   March 30, 2025).
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
@@ -81,11 +83,7 @@ Intersex people have some limited recognition.
    (thus hospitals are not bound by it) because of a [temporary
    restraining
    order](https://assets.aclu.org/live/uploads/2025/02/093114651219.pdf)
-   against the government (13 February 2025).
- * Currently, conversion therapy for children is banned by executive order (as of
-   Mar. 14, 2025), but if
-   [HB495](https://legiscan.com/KY/bill/HB495/2025) passes, conversion
-   therapy would be allowed for children.
+   against the government (verified 30 March 2025).
 
 ## Child Custody / Abuse
 
@@ -102,8 +100,9 @@ Intersex people have some limited recognition.
 
 ## Relevant Laws
 
- * [2025 HB495 - Conversion therapy protection (not yet passed as of
-   Mar. 14, 2025)](https://legiscan.com/KY/bill/HB495/2025)
+ * [2025 HB501 - Refinement of ban on HRT under state
+   funds (not yet signed by Governor, as of Mar 30, 2025)](https://legiscan.com/KY/bill/HB501/2025)
+ * [2025 HB495 - Conversion therapy ``protection''](https://legiscan.com/KY/bill/HB495/2025)
  * [2023 SB150 - Trans Medical Care Ban, School Bathroom Ban, Don't Say Gay](https://corrections.ky.gov/About/cpp/Documents/14/CPP%2014.8%2005202020.pdf)
  * [Kentucky Dept. of Education Legislative
    Interpretations](https://education.ky.gov/districts/LegislativeGuidance/Documents/2023_Legislative_Guidance-Emergency_Bills.pdf)
