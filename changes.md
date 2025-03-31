@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-03-30 \[[US](notes/usa-general.md)] Transgneder Netwerk
+    Nederland has issued a travel warning.
  *  2025-03-30 \[[US Kentucky](us/ky.md)] Public funds cannot be used
     for trans care, including in prisons or educational programs
  *  2025-03-30 \[[US Kentucky](us/ky.md)] Conversion therapy "protected"

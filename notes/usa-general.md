@@ -67,11 +67,15 @@ The German Government has issued a [travel
 warning](https://rp-online.de/politik/ausland/auswaertiges-amt-transmenschen-muessen-bei-usa-reise-aufpassen_aid-124615597)
 for trans visitors from Germany. (updated Mar. 16, 2025)
 
-In addition, InterPride has issued a
+InterPride has issued a
 [warning](https://www.erininthemorning.com/p/germany-interpride-issue-lgbtq-travel)
 to USA-bound trans travelers. (updated Mar. 16, 2025)
 
-France has updated [advise for trans travellers to the
+Transgender Netwerk Nederland has also issued a
+[warning](https://apps.legislature.ky.gov/record/25rs/sb2.html) to trans
+and non-binary travelers.
+
+France has updated [advise for trans travelers to the
 USA](https://www.lemonde.fr/en/france/article/2025/03/25/france-updates-us-travel-advice-over-gender-at-birth_6739494_7.html?utm_source=substack&utm_medium=email#)
 (updated Mar. 26, 2025).
 
@@ -254,7 +258,7 @@ The United States takes border control extremely seriously. Some
 travelers have reported encountering transphobic border and/or customs
 officials at USA borders.
 
-Travellers using any documentation (passport, ESTA, visas, etc) that do
+Travelers using any documentation (passport, ESTA, visas, etc) that do
 not reflect their sex assigned at birth are at particular risk and may
 risk permanent bans on travel to the USA, along with the possibility of
 detention.
