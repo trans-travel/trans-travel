@@ -7,8 +7,10 @@ Information](notes/usa-general.md).
 Idaho has negative laws towards trans people. These laws may, in some
 cases, impact travelers.  In particular, medical professionals,
 government employees, and people working for public colleges and
-universities are allowed to discriminate.  There are also laws that
-can be interpreted to limit bathroom access for trans people.
+universities are allowed to discriminate.  There is also a
+bathroom/sleeping quarter ban in Idaho for educational facilities
+(including university facilities) and some domestic violence shelter.
+(updated April 4, 2025)
 
 Idaho does criminalize trans care for children which may have an
 impact on child custody.
@@ -28,6 +30,12 @@ impact on child custody.
    bathrooms/showers in schools. However, this is [being
    challenged](https://lambdalegal.org/case/roe-v-critchfield/)
    in court (updated Mar. 20, 2025).
+ * Trans people are also required to use bathrooms and sleeping quarters
+   according to their sex assigned at birth in some higher education
+   facilities and domestic violence shelters. Note that the enforcement
+   is left to the state agency, and this is not a crime in itself, but
+   with the definition of male and female in the law, trans people using
+   these bathrooms may be violating other laws (updated Apr. 4, 2025).
  * Enforcement of school bathroom regulations is unclear.
  * Public accommodation access is not protected for trans people in
    Idaho.
@@ -56,10 +64,12 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women are usually housed with men
- * Trans men are usually housed with women
+ * Trans women are required to be housed with men (updated Apr. 4,
+   2025).
+ * Trans men are required to be housed with women (updated Apr. 4,
+   2025).
  * Nonbinary people would typically be housed according to sex
-   assigned at birth
+   assigned at birth.
  * While the state lost a lawsuit and was required to provide gender
    confirmation surgery to a prisoner, it should be expected that
    medical care will be sub-par. The state also aggressively fought to
@@ -120,6 +130,8 @@ Intersex are not recognized.
 
 ## Relevant Laws
 
+ * [2025 H0264 - Bathroom
+   ban](https://legiscan.com/ID/text/H0264/id/3190720)
  * [2025 H0345 - Medicaid ban](https://legiscan.com/ID/text/H0345/2025)
  * [2025 H0059 - Allowing disclosure of medical information](https://legiscan.com/ID/drafts/H0059/2025)
  * [2024 H0421 - Trans-Exclusionary Definition of Sex)](https://legislature.idaho.gov/sessioninfo/2024/legislation/H0421/)

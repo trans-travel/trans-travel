@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-04 \[[US Idaho](us/id.md)] Bathroom ban passed.
  *  2025-03-30 \[[US](notes/usa-general.md)] Transgneder Netwerk
     Nederland has issued a travel warning.
  *  2025-03-30 \[[US Kentucky](us/ky.md)] Public funds cannot be used
