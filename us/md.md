@@ -5,9 +5,8 @@ the information at [General United States
 Information](notes/usa-general.md).
 
 Maryland does not have laws that target trans people directly and has
-non-discrimination laws that protect trans people. While Maryland does not
-have a sanctuary law, the state generally is proactive in legally
-protecting trans people.
+non-discrimination laws that protect trans people.  The state generally is
+proactive in legally protecting trans people.
 
 Maryland is a "sanctuary state" for adults and kids receiving trans medical
 care.
@@ -51,6 +50,9 @@ state IDs, but this recognition is not yet complete.
  * Trans medical care is legal for adults and children.
  * Maryland has a sanctuary law for people obtaining transition-related
    medical care.
+ * A pending bill would [further protect trans care medical
+   records](https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1085?ys=2025RS)
+   if signed by the Governor (updated Apr. 4, 2025).
  * Maryland will not extradite people for violating another state's laws
    against medical transition.
  * A [federal executive
@@ -74,6 +76,7 @@ state IDs, but this recognition is not yet complete.
 
 ## Relevant Laws
 
+ * [2025 HB1045 - Confidentiality of Medical Records (not yet signed by Governor as of Apr. 4, 2025)](https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1085?ys=2025RS)
  * [EO 01.01.2023.08 Maryland Sanctuary Order](https://governor.maryland.gov/Lists/ExecutiveOrders/Attachments/11/EO_01.01.2023.08_accessible.pdf)
 
 ## General Safety
