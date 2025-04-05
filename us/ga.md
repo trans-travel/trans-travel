@@ -14,6 +14,9 @@ and surgery).
 ## Non-discrimination Law
 
  * Georgia non-discrimination law does not include LGBT people
+ * If [SB36](https://legiscan.com/GA/text/SB36/2025) is signed by the
+   Governor, it would significantly limit government powers when
+   discrimination is blamed on religion (updated Apr. 4, 2025).
 
 ## Public Accommodations
 

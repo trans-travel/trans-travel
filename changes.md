@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-04 \[[US Georgia](us/ga.md)] Religious freedom act pending
+    governor's signature.
+ *  2025-04-04 \[[US Florida](us/fl.md)] Bathroom harassment and arrest.
  *  2025-04-04 \[[US Kentucky](us/ky.md)] Noted the medicaid ban passed.
  *  2025-04-04 \[[US Maryland](us/md.md)] Pending bill protecting trans
     care confidentiality.

@@ -65,19 +65,28 @@ procedures," similar to how the courts have jurisdiction over abuse.
    to your presence and you refused to immediately leave. This also
    covers health care facilities, massage parlors, jails, pharmacies,
    schools, universities, etc.
- * The bathroom law will apply to airports and cruise ports, in addition
+ * The bathroom law applies to airports and cruise ports, in addition
    to other government facilities. It also applies to highway rest
    areas, which are state owned.
+ * A trans woman was arrested for [using the women's
+   bathroom](https://www.tallahassee.com/story/news/2025/04/03/trans-woman-arrested-at-florida-capitol-bathroom-wrote-lawmakers/82795389007/)
+   in the Florida state capitol (and sent to men's jail) in March 2025.
  * Florida has wide-reaching religious freedom laws that allow denial of
    some services on the basis of gender identity.
  * Trans women are being challenged for using bathrooms not covered by
    the Florida law, including federal facilities [such as the
    VA](https://www.advocate.com/news/florida-veteran-transgender-bathroom),
-   even before the Florida law goes into effect. The challenges are often
-   other bathroom users objecting to the presence of trans women in the
-   bathroom, after which business/organization staff, security, or police
-   force the trans person to leave. This is regardless of the user's legal
-   identification, length of time on HRT, etc.
+   The challenges are often other bathroom users objecting to the presence
+   of trans women in the bathroom, after which business/organization staff,
+   security, or police force the trans person to leave. This is regardless
+   of the user's legal identification, length of time on HRT, etc.
+ * Cis women who do not appear stereotypically feminine to third parites
+   have been threatened while in women's bathrooms.  For instance, in
+   March 2025, a cis woman employee of Walmart [was
+   threatened](https://www.washingtonpost.com/nation/2025/03/27/walmart-fires-woman-trans-hate-bathroom/)
+   by a man who entered the bathroom and yelled transphobic threats
+   while she was in a stall (she was later fired from that Walmart). She
+   suspects she was harassed because she is tall.
  * Visitors to schools, such as parents and family members, will be
    covered by the educational laws and be required to be misgendered by
    school staff and forced to use improper bathrooms.
@@ -245,7 +254,8 @@ violence. Those arrested included current and former government
 officials.
 
 Because of the rhetoric around trans people in the political and media
-space, trans people should use caution, particularly in bathrooms,
+space, trans people (and cis people who don't conform to all gender
+stereotypes) should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to be misgendered by
 officials and public institutions.
