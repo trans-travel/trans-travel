@@ -46,10 +46,9 @@ to investigate at least one provider of transgender care.
    services on the basis of gender identity.
  * Tennessee bans trans people from school bathrooms and locker rooms
    that do not align with sex assigned at birth.
- * If [HB0064](https://legiscan.com/TN/text/HB0064/2025) passes, Tennessee
-   would also ban trans people from any bathrooms, showers, or residences in
-   educational programs serving minors. Note this ban would not only apply to
-   minors, but anyone involved in these programs.  (updated Mar. 26, 2025)
+ * Tennessee also bans trans people from any bathrooms, showers, or residences
+   in educational programs serving minors. Note this ban applies not only to
+   minors, but anyone involved in these programs.  (updated Apr. 4, 2025)
  * Tennessee previously had a bathroom ban that applied to private
    businesses, that required offensive signage if a business allowed
    trans people to enter the appropriate bathroom. However, that ban was
@@ -152,9 +151,7 @@ assigned at birth and/or chromosomes.
 
 ## Relevant Laws
 
- * [2025 HB0064 - Residential educational program segregation (not yet
-   passed as of Mar. 26,
-   2025)](https://legiscan.com/TN/text/HB0064/2025)
+ * [2025 HB0064 - Residential educational program segregation](https://legiscan.com/TN/text/HB0064/2025)
  * [2024 HB0878 - Ability for officials to refuse to marry couples](https://www.capitol.tn.gov/Bills/113/Amend/SA0514.pdf)
  * [2024 SB2782 - Ban on providing information or assisting youth access
    trans medical care](https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB2782&ga=113)

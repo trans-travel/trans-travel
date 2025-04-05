@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-04 \[[US Tennessee](us/tn.md)] School trans segregation law
+    signed.
  *  2025-04-04 \[[US Georgia](us/ga.md)] Religious freedom act pending
     governor's signature.
  *  2025-04-04 \[[US Florida](us/fl.md)] Bathroom harassment and arrest.
