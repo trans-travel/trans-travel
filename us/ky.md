@@ -105,7 +105,7 @@ Intersex people have some limited recognition.
    care](https://legiscan.com/KY/bill/HB501/2025)
  * [2025 HB501 - Refinement of ban on HRT under state
    funds](https://legiscan.com/KY/bill/HB501/2025)
- * [2025 HB495 - Conversion therapy ``protection''](https://legiscan.com/KY/bill/HB495/2025)
+ * [2025 HB495 - Conversion therapy "protection"](https://legiscan.com/KY/bill/HB495/2025)
  * [2023 SB150 - Trans Medical Care Ban, School Bathroom Ban, Don't Say Gay](https://corrections.ky.gov/About/cpp/Documents/14/CPP%2014.8%2005202020.pdf)
  * [Kentucky Dept. of Education Legislative
    Interpretations](https://education.ky.gov/districts/LegislativeGuidance/Documents/2023_Legislative_Guidance-Emergency_Bills.pdf)
