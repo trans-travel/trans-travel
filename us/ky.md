@@ -74,7 +74,7 @@ Intersex people have some limited recognition.
  * Conversion therapy is allowed for both children and adults (updated
    March 30, 2025).
  * Trans medical care cannot be funded by the state or any government
-   division such as a public university (updated March 30, 2025).
+   division such as a public university or medicaid (updated April 4, 2025).
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
@@ -104,7 +104,7 @@ Intersex people have some limited recognition.
  * [2025 SB2 - Prohibiting government funds for trans
    care](https://legiscan.com/KY/bill/HB501/2025)
  * [2025 HB501 - Refinement of ban on HRT under state
-   funds (not yet signed by Governor, as of Mar 30, 2025)](https://legiscan.com/KY/bill/HB501/2025)
+   funds](https://legiscan.com/KY/bill/HB501/2025)
  * [2025 HB495 - Conversion therapy ``protection''](https://legiscan.com/KY/bill/HB495/2025)
  * [2023 SB150 - Trans Medical Care Ban, School Bathroom Ban, Don't Say Gay](https://corrections.ky.gov/About/cpp/Documents/14/CPP%2014.8%2005202020.pdf)
  * [Kentucky Dept. of Education Legislative

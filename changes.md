@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-04 \[[US Kentucky](us/ky.md)] Noted the medicaid ban passed.
  *  2025-04-04 \[[US Maryland](us/md.md)] Pending bill protecting trans
     care confidentiality.
  *  2025-04-04 \[[US Idaho](us/id.md)] Bathroom ban passed.
