@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-09 \[[US Georgia](us/ga.md)] Transphobia is okay with
+    government if God is blamed for it.
  *  2025-04-09 \[[US Tennessee](us/tn.md)] Law protecting transphobic
     people and providers in health care pending Governor's signature.
  *  2025-04-09 \[[US Colorado](us/co.md)] Death certificate gender law
