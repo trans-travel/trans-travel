@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-09 \[[US Colorado](us/co.md)] Additional healthcare
+    sanctuary protections if signed by Governor.
  *  2025-04-09 \[[US Georgia](us/ga.md)] Sports/partial bathroom ban.
  *  2025-04-09 \[[US Georgia](us/ga.md)] Transphobia is okay with
     government if God is blamed for it.
