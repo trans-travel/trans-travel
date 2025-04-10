@@ -60,6 +60,10 @@ government, such as in the ability to change birth certificates,
 driver licenses, and data gathering. However, non-binary recognition is
 still in-complete in Colorado.
 
+If [HB1109](https://legiscan.com/CO/text/HB1109/2025) is signed by the
+Governor, gender identity will be required to be recognized on death
+certificates. (updated Apr. 9, 2025)
+
 ## Medical Care
 
  * Trans medical care is legal for all ages, and Colorado will not
@@ -109,6 +113,8 @@ etc).
 
 ## Relevant Laws
 
+ * [2025 HB1109](Death Certificate Gender Law (not yet law pending
+   Governor's signature as of Apr. 9, 2025)
  * [Colorado Anti-Discrimination Act (CADA)](https://ccrd.colorado.gov/ccrd-home/regulatory-information)
 
 ## General Safety
