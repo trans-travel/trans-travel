@@ -92,17 +92,24 @@ assigned at birth and/or chromosomes.
 ## Medical Care
 
  * Trans medical care is legal for adults.
- * Medical transition for people under age 18 is illegal as of
-   July 1, 2023. This includes both care provided from within Tennessee
-   and care provided via telehealth.  While a preliminary injunction
-   would have allowed both puberty blockers and hormone
-   therapy for trans youth until the case challenging the ban is heard, the
-   appeals court decided that [stay was
+ * Medical transition for people under age 18 is illegal.  This includes both
+   care provided from within Tennessee and care provided via telehealth.
+   While a preliminary injunction would have allowed both puberty blockers
+   and hormone therapy for trans youth until the case challenging the ban is
+   heard, the appeals court decided that [stay was
    invalid](https://storage.courtlistener.com/pdf/2023/07/08/l._w._v._jonathan_skrmetti.pdf).
    However, this matter is currently being heard by the US Supreme Court
    (updated Mar. 26, 2025).
  * Medical providers (including mental health providers) can deny some
    care on the basis of their religious or ethical beliefs.
+ * Nearly anyone working in healthcare (not just people with medical
+   qualifications) could disclose confidential information as a
+   "whistleblower" on trans healthcare, speak against trans people, and 
+   would prevent employers and professional bodies from sanctioning on
+   the basis of transphobia or failure to follow trans-inclusive best
+   practices, if the Governor signs
+   [SB955](https://legiscan.com/TN/text/SB0955/2025). (Updated Apr. 9,
+   2025)
  * Some Medical records of patients receiving care at Vanderbilt, including
    private and extremely sensitive information, have been
    [given to the state Attorney General](https://www.tennessean.com/story/news/health/2023/06/20/vanderbilt-university-m-turns-over-transgender-patient-medical-records-to-tennessee-attorney-general/70338356007/)
@@ -151,6 +158,9 @@ assigned at birth and/or chromosomes.
 
 ## Relevant Laws
 
+ * [2025 SB955 - Special rights for transphobic healthcare providers (not yet
+   law, pending Governor's signature as of Apr. 9,
+   2025)](https://legiscan.com/TN/text/SB0955/2025)
  * [2025 HB0064 - Residential educational program segregation](https://legiscan.com/TN/text/HB0064/2025)
  * [2024 HB0878 - Ability for officials to refuse to marry couples](https://www.capitol.tn.gov/Bills/113/Amend/SA0514.pdf)
  * [2024 SB2782 - Ban on providing information or assisting youth access
