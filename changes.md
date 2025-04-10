@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-09 \[[US Georgia](us/ga.md)] Sports/partial bathroom ban.
  *  2025-04-09 \[[US Georgia](us/ga.md)] Transphobia is okay with
     government if God is blamed for it.
  *  2025-04-09 \[[US Tennessee](us/tn.md)] Law protecting transphobic

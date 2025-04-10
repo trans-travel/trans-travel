@@ -20,6 +20,9 @@ and surgery).
 ## Public Accommodations
 
  * Public accommodation access is not protected for trans people in Georgia.
+ * Schools (including universities) and government divisions must ban trans
+   people from bathrooms when connected to sports competitions. This may apply
+   to spectators. (Updated Apr. 9, 2025)
  * Trans people are not banned from using appropriate bathrooms and locker
    rooms.
 
@@ -80,6 +83,7 @@ Non-binary people are not recognized by Georgia.
 
 ## Relevant Laws
 
+ * [2025 SB1 - Sports/Bathroom Ban](https://legiscan.com/GA/text/SB1/2025)
  * [2025 SB36 - Protections if Transphobia Blamed on God](https://legiscan.com/GA/text/SB36/2025)
  * [2023 SB140 - Trans Youth Medical Ban](https://legiscan.com/GA/text/SB140/id/2754936)
 
