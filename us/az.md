@@ -27,6 +27,10 @@ nations.
 
  * Trans people are not banned from using appropriate bathrooms and locker
    rooms.
+ * However, if [HB2062](https://legiscan.com/AZ/text/HB2062/2025) is
+   signed by the governor, it would pave the way for government agencies
+   to establish bathroom regulations at all levels of government and at
+   schools (including universities). (updated Apr. 9, 2025)
  * General public accommodation access is not specifically protected by law
    for trans people in Arizona.
 
@@ -45,6 +49,10 @@ See the [USA TSA](notes/tsa.md) document.
  * Trans men would typically be housed with women
  * Nonbinary people would typically be housed according to sex
    assigned at birth
+ * However, if [HB2062](https://legiscan.com/AZ/text/HB2062/2025) is
+   signed by the governor, it would pave the way for government agencies
+   to prohibit any possibility of trans people being placed in
+   facilities aligned with their gender.  (updated Apr. 9, 2025)
 
 ## Legal Definition of Sex
 
@@ -56,6 +64,10 @@ By statute, changing birth certificate gender marker requires surgery.
 This was invalidated [by a
 court](https://www.courtlistener.com/docket/18606032/279/roe-v-herrington/),
 however (as of Aug. 20, 2024).
+
+If [HB2062](https://legiscan.com/AZ/text/HB2062/2025) is signed by the
+governor, it would likely result in birth certificate changes being
+denied. (updated Apr. 9, 2025)
 
 Intersex people have some limited recognition.
 
@@ -103,6 +115,8 @@ Intersex people have some limited recognition.
 
 ## Relevant Laws
 
+ * [2025 HB2062 Bathroom Ban (not yet signed by Gov. as of Apr. 9,
+   2025)](https://legiscan.com/AZ/text/HB2062/2025)
  * [2022 SB1138 Gender Surgery for Youth](https://legiscan.com/AZ/text/SB1138/id/2562394)
  * [Diné Marriage Act (Applicable in the Navajo Nation)](https://courts.navajo-nsn.gov/Resolutions/29-05%20Marriage%20Act.pdf)
 
