@@ -59,6 +59,9 @@ See the [USA TSA](notes/tsa.md) document.
 Non-binary people are not recognized by the state, due to March 12, 2024
 [rules issued by the
 Governor](https://arktimes.com/arkansas-blog/2024/03/12/sanders-targets-trans-community-again-with-strict-new-gender-rules-for-state-issued-ids).
+This will be extended to state IDs if [AR
+HB1796](https://legiscan.com/AR/text/HB1796/2025) is passed (not yet
+signed by governor as of Apr. 11, 2025).
 
 Intersex people are not generally recognized by the state.
 
@@ -102,15 +105,17 @@ at birth and/or chromosomes.
 
 ## Relevant Laws
 
- * [2015 SB202 - Ban on local non-discrimination ordinances](https://www.arkleg.state.ar.us/Acts/Document?type=pdf&act=137&ddBienniumSession=2015%2F2015R)
- * [2021 HB1570 - Ban on medical transition for youth - Ruled unconstitutional
-   and unenforcable](https://legiscan.com/AR/text/HB1570/id/2362964)
+ * [2025 HB1796 - ID gender marker ban (not yet signed by Governor as of
+   Apr. 11, 2025)](https://legiscan.com/AR/text/HB1796/2025)
  * [2023 HB1156 - School Bathrooms](https://legiscan.com/AR/text/HB1156/id/2756961)
  * [2023 HB1468 - Deadnaming Students in K12 and Higher Ed](https://legiscan.com/AR/text/HB1468/id/2781770)
  * [2023 HB1615 - Discrimination attributed to religion allowed](https://legiscan.com/AR/text/HB1615/id/2781807)
  * [2023 SB199 - Restrictions on medical transition for youth](https://legiscan.com/AR/text/SB199/id/2745027)
  * [2023 SB270 - Sex crime of using "wrong" bathroom for sexual gratification](https://legiscan.com/AR/text/SB270/id/2781418)
  * [2023 SB294 - Don't say "gay"](https://legiscan.com/AR/text/SB294/id/2736770)
+ * [2021 HB1570 - Ban on medical transition for youth - Ruled unconstitutional
+ * [2015 SB202 - Ban on local non-discrimination ordinances](https://www.arkleg.state.ar.us/Acts/Document?type=pdf&act=137&ddBienniumSession=2015%2F2015R)
+   and unenforcable](https://legiscan.com/AR/text/HB1570/id/2362964)
 
 ## General Safety
 

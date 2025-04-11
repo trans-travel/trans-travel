@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-11 \[[US Arkansas](us/ar.md)] Driver's licenses will have
+    additional gender marker restrictions if signed by Governor.
  *  2025-04-09 \[[US Colorado](us/co.md)] Additional healthcare
     sanctuary protections if signed by Governor.
  *  2025-04-09 \[[US Georgia](us/ga.md)] Sports/partial bathroom ban.
