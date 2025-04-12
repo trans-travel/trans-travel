@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-12 \[[US Georgia](us/ga.md)] Prisoner healthcare ban.
  *  2025-04-12 \[[US Montana](us/mt.md)] Legal misgendering and
     deadnaming bill pending before Governor.
  *  2025-04-11 \[[US Arkansas](us/ar.md)] Driver's licenses will have

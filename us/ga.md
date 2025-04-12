@@ -40,6 +40,10 @@ See the [USA TSA](notes/tsa.md) document.
  * Trans men would typically be housed with women
  * Nonbinary people would typically be housed according to sex
    assigned at birth
+ * Prisons and local jails would be prohibited from prohibited from
+   providing gender affirming medical care to prisoners under
+   [SB185](https://legiscan.com/GA/text/SB185/id/3201621) if it is
+   signed by the Governor. (updated Apr. 12, 2025)
 
 ## Legal Definition of Sex
 
@@ -83,6 +87,8 @@ Non-binary people are not recognized by Georgia.
 
 ## Relevant Laws
 
+ * [2025 SB185 - Prisoner Healtchare Ban (not yet signed by Governor as
+   of Apr. 12, 2025)](https://legiscan.com/GA/text/SB185/id/3201621)
  * [2025 SB1 - Sports/Bathroom Ban](https://legiscan.com/GA/text/SB1/2025)
  * [2025 SB36 - Protections if Transphobia Blamed on God](https://legiscan.com/GA/text/SB36/2025)
  * [2023 SB140 - Trans Youth Medical Ban](https://legiscan.com/GA/text/SB140/id/2754936)
