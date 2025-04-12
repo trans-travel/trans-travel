@@ -139,6 +139,19 @@ Non-binary gender is not recognized in the UK.
    clinics.
  * Private trans care is available in the UK, but this will generally
    exclude puberty blockers.
+ * [NHS England
+   guidance](https://www.wearequeeraf.com/nhs-england-tells-gps-to-refuse-blood-tests-to-some-trans-children-and-refer-parents-to-safeguarding/)
+   may result in GPs refusing agreements with private providers to monitor
+   blood work for children receiving gender affirming care from other
+   providers, including those outside of England or the UK. Additionally,
+   guidance is to, in some cases, refer some children suspected of using
+   puberty blockers or hormones to safeguarding (essentially to investigate
+   possibility of abuse). It is unknown how this might apply to visitors
+   seeking medical care in the UK. This guidance also indicates that there will
+   be guidance in the future (sometime between now and the end of 2026)
+   relating to trans adults who are using "unregulated" medical services such
+   as overseas providers, but this guidance does not exist today and adult care
+   is, in theory, unaffected by this current guidance.
  * Youth trans care is highly contested in the UK and is an area that is
    seeing a shift away from affirming the gender of trans youth. While
    youth care is available, parents should be aware of this and ensure

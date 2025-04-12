@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-12 \[[UK](uk.md)] Guidance by NHS England to avoid shared
+    care agreements for trans youth care, with future impacts to adults.
  *  2025-04-12 \[[US Montana](us/mt.md)] Trans-exclusionary definition
     of sex, not yet signed by Governor.
  *  2025-04-12 \[[US Georgia](us/ga.md)] Prisoner healthcare ban, not
