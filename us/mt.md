@@ -26,7 +26,12 @@ that invalidated a healthcare ban).
    many services on the basis of gender identity.
  * School students will not be able to be disciplined for using
    pronouns associated a trans person's sex assigned at birth or their
-   legal name..
+   legal name.
+ * If [HB400](https://legiscan.com/MT/text/HB400/id/3126736) is signed
+   by the Governor, public school employees (including at universities) would
+   be legally protected if they intentionally deadname (those who haven't
+   changed their legal name) or misgender others. This could impact trans
+   visitors at sporting events and conferences. (updated Apr. 12, 2025).
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -112,6 +117,9 @@ refused to follow similar orders in the past).
 
 ## Relevant Laws
 
+ * [2025 HB400 - Legal misgendering and deadnaming (not yet signed by
+   Governor as of Apr. 12,
+   2025)](https://legiscan.com/MT/text/HB400/id/3126736)
  * [2025 HB121 - Bathroom Ban)](https://legiscan.com/MT/text/HB121/2025)
  * [2025 HB300 - Education Bathroom
    Ban)](https://legiscan.com/MT/text/HB300/id/3183811)
