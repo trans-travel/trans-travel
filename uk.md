@@ -15,52 +15,83 @@ relevant is made below.  In addition, the Crown Dependencies and British
 Overseas Territories will be discussed in other pages -- this page
 covers England, Wales, Scotland, and Northern Ireland only.
 
+## Summary
+
+Trans people should use care traveling to the UK due to a [UK Supreme
+Court decision](https://supremecourt.uk/cases/uksc-2024-0042). This
+decision defines sex as sex assigned at birth, and generally allows
+discrimination against trans people in single-sex spaces (bathrooms,
+prisons, searches by law enforcement/airport security, lesbian
+gatherings, spas, locker rooms, etc). In some cases, trans people are
+advised by the decision to use neither male or female facilities if they
+do not conform to their sex assigned at birth. In addition, vigilante
+enforcement beyond the law is possible, and thus not only trans people,
+but cis people who do not unambiguously conform to gender stereotypes,
+should use caution. Note that the decision does not recognize surgery as
+a valid reason to use the appropriate facilities. (updated Apr. 17, 2025)
+
 People visiting the UK with trans youth (under 18) likely should be
 cautious with mention of medical transition to medical authorities, as
 some have indicated some types of care provided by some providers may be
 reportable to child protection agencies.
 
-## Summary
-
 The UK has non-discrimination law that protects "gender reassignment"
 (defined as proposing to undergo, undergoing or having undergone a
-process to reassign your sex) in the Equality Act.
+process to reassign your gender) in the Equality Act. So there are still
+some protections against anti-trans discrimination, but not when it
+comes to bathrooms, locker rooms, police/security searches, lesbian
+gatherings, etc.  (updated Apr. 17, 2025).
 
 UK bans some trans care, notably most use of puberty blockers for anyone
 under the age of 18 when used for gender transition. This ban also
 applies to out-of-country prescription. It may impact UK citizens
 bringing puberty blockers into the country.
 
-Of particular note, sexual activity, even consensual sexual activity,
-even including activities such as kissing, may place trans people at risk
-if they cannot prove they disclosed their sex assigned at birth to their
-partner(s).
+Of note, sexual activity, even consensual sexual activity, even including
+activities such as kissing, may place trans people at risk if they cannot
+prove they disclosed their sex assigned at birth to their partner(s).
 
 ## Non-discrimination Law
 
  * The 2010 Equality Act protects "gender reassignment" (including those
    who propose, are in the process of undergoing, or have undergone
-   "gender reassignemnt).  Medical procedures are not necessary for a
-   person to be covered under this provision.
+   "gender reassignment").  Medical procedures are not necessary for a
+   person to be covered under this provision. Note that due to the [UK
+   Supreme Court
+   decision](https://supremecourt.uk/cases/uksc-2024-0042), this does
+   change the legal sex a person is recognized for single-sex spaces.
+   (updated Apr. 17, 2025)
  * The law assumes a binary "gender reassignment", and does not
    reference non-binary people.
  * While harassment and discrimination against trans people are
-   generally prohibited under the law, limited exceptions exist for
-   some transphobic speech in limited situations and restricting
-   some single-sex activities and spaces in trans-exclusionary ways. There
-   is a significant burden placed upon people doing these activities however.
+   generally prohibited under the law, exceptions exist for some transphobic
+   speech in some situations and restricting nearly all single-sex activities
+   and spaces in trans-exclusionary ways. (updated Apr. 17, 2025)
+ * Vigilante enforcement of the Supreme Court decision can be expected.
+   This may impact cis women in particular, if their gender expression
+   does not conform to expected female stereotypes.
 
 ## Public Accommodations
 
- * Trans people can use appropriate toilet and locker rooms. Note
-   however that gender neutral facilities are not required to exist.
-   However, a trans person can use a toilet that fits their "gender
-   reassignment" associated gender.
- * Despite the law, some organizations have enforced anti-trans bathroom
+ * Trans people cannot use appropriate toilet and locker rooms. In some cases,
+   the [UK Supreme Court](https://supremecourt.uk/cases/uksc-2024-0042)
+   has indicated that trans people should use a gender neutral bathroom
+   if they do not conform to gender stereotypes of their sex assigned at
+   birth. However that gender neutral facilities are not required to exist.
+   (updated Apr. 17, 2025)
+ * Even before the law change, some organizations have enforced anti-trans bathroom
    policies against trans women (for example, in October, 2024,
    [Butlin's dragged 5 trans women and a bystander out of women's
    toilet's](https://metro.co.uk/2024/10/12/butlins-security-guards-suspended-trans-women-dragged-toilets-21783297/); Similar incidents have
-   occurred in locker rooms).
+   occurred in locker rooms). (updated Apr. 17, 2025)
+ * Beyond bathrooms, gendered spaces, particularly for women, may be
+   extremely transphobic and likely will prohibit trans people. For instance,
+   women's political events or a lesbian gathering. (updated Apr. 17,
+   2025)
+ * Vigilante enforcement of the Supreme Court decision can be expected.
+   This may impact cis women in particular, if their gender expression
+   does not conform to expected female stereotypes. (updated Apr. 17,
+   2025)
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -76,33 +107,29 @@ partner(s).
    require the security staff to hit either a pink or blue button
    depending on their estimate of the traveler's body (hitting the wrong
    one can trigger an alarm in a sensitive area of the body). Travelers
-   with prosthetics may trigger the alarm, as may be trans people that
+   with prosthetic may trigger the alarm, as may be trans people that
    are read as a gender that doesn't match stereotypes about their body
    parts.
- * While some trans travellers have reported that pat downs, when needed
+ * While some trans travelers have reported that pat downs, when needed
    to resolve metal detector or scanner alarms, have been conducted by
-   security staff that does not match their identified gender. However,
-   it is often possible to request someone of your identified gender
-   conduct the screening.
+   security staff that does not match their identified gender. It is
+   likely this will be the norm since the Supreme Court
+   [decision](https://supremecourt.uk/cases/uksc-2024-0042). (updated
+   Apr. 17, 2025)
 
 ## Other International Travel
 
  * Train travel internationally may follow many of the rules indicated
    above for air travel.
+ * Transit police indicated they will treat trans people according to
+   their sex assigned at birth. (updated Apr. 17, 2025)
 
 ## Jails / Prisons
 
- * Trans women who have a penis are almost always required to be housed in
-   men's prisons.
- * Trans women, regardless of genital status, who have been convicted of
-   a sexual offense are almost always required to be housed in men's prisons.
- * Trans women, regardless of genital status, who have been convicted of
-   a violent offense are almost always required to be housed in men's prisons.
- * For trans prisoners not covered by the above requirements to be
-   housed in men's prisons, the prison system may or may not respect the
-   prisoner's own safety concerns when making housing decisions.
- * Trans women who are not allowed to be housed in a women's prison may
-   be housed in a "specialist unit."
+ * Due to the Supreme Court [decision](https://supremecourt.uk/cases/uksc-2024-0042),
+   it is expected that all trans people will be housed according to sex
+   assigned at birth, a reversal from previous policy. (updated Apr. 17,
+   2025)
  * The prison service does not recognize non-binary identity.
  * Trans prisoners have reported misgendering and lack of appropriate
    hygiene items when housed according to assignment at birth.
@@ -110,8 +137,12 @@ partner(s).
 ## Legal Definition of Sex
 
 Binary trans people can change their gender identification on passports and
-driver's licenses after meeting certain requirements. Additional
-requirements are required to have your identified gender listed on
+driver's licenses after meeting certain requirements. It is unknown how
+the Supreme Court
+[decision](https://supremecourt.uk/cases/uksc-2024-0042) will impact
+this. (updated Apr. 17, 2025)
+
+Additional requirements are required to have your identified gender listed on
 birth, death, or marriage documents. Note that UK does not recognize
 updated gender markers from most places which allow "self-ID" for the
 purposes of birth, death, or marriage documents.
@@ -130,8 +161,10 @@ Non-binary gender is not recognized in the UK.
  * Trans patients will be ineligible to be treated on single-sex wards
    that don't match their "biological sex" (AKA sex assigned at birth)
    if [proposed changes to the NHS constitution are
-   approved](https://www.bbc.com/news/health-68923861) (updated May 4,
-   2024).
+   approved](https://www.bbc.com/news/health-68923861). This is likely
+   to take effect now after a Supreme Court
+   [decision](https://supremecourt.uk/cases/uksc-2024-0042). (updated
+   Apr. 17, 2025)
  * NHS clinics typically refer trans-related medical patients to
    specialty units. These units can have extremely long wait times (many
    years).
@@ -204,6 +237,8 @@ Non-binary gender is not recognized in the UK.
 
 ## Relevant Laws
 
+ * [Supreme Court decision preventing recognition of trans peoples'
+   sex](https://supremecourt.uk/cases/uksc-2024-0042)
  * [Puberty Blocker
    Ban](https://www.legislation.gov.uk/uksi/2024/727/pdfs/uksi_20240727_en.pdf)
  * [Equality Act of
@@ -216,11 +251,10 @@ Non-binary gender is not recognized in the UK.
 ## General Safety
 
 UK, like many countries, is diverse and different areas may be more or
-less accepting of gender variation. However, trans people are legally
-protected and generally safe. However, in some cases harassment or even
+less accepting of gender variation.  In some cases harassment or even
 violent attack (typically unarmed or knife attacks) may occur.  Unlike the
 US, gun crime is rare in the UK, which provides some safety compared to the
-US.
+US. (updated Apr. 17, 2025)
 
 Knife crime against trans people sometimes occurs in the UK. For
 instance, three boys [stabbed a trans
@@ -229,11 +263,10 @@ in Cleveland in July, 2024.
 
 There is a high awareness of the existence of trans persons in UK, due
 to extensive (often transphobic) media coverage. This may prime some
-people to engage in transphobia towards trans people. That said,
-violence or harassment on the basis of legally protected characteristics
-("gender reassignment") is against the law in the UK.  While transphobic
-beliefs are not particularly widespread, some of the views are very
-loudly expressed, through well-funded transphobic media organizations.
+people to engage in transphobia towards trans people and those perceived
+as trans (such as cis people who have non-stereotypical gender
+expressions).  Some people express transphobic views very loudly, through
+well-funded transphobic media organizations.
 
 ## Resources
 
