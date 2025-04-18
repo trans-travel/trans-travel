@@ -1,7 +1,9 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-17 \[[US Arkansas](us/ar.md)] Bathroom ban for government
+    spaces pending Governor signature.
  *  2025-04-17 \[[US West Virginia](us/wv.md)] Youth medical transition
-    ban pending governor signature
+    ban pending Governor signature.
  *  2025-04-17 \[[US Indiana](us/in.md)] Add information about
     transphobic "whistleblower" law pending governor signature.
  *  2025-04-17 \[[UK](uk.md)] Trans people recognition removed by UK
