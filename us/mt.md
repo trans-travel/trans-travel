@@ -93,6 +93,10 @@ refused to follow similar orders in the past).
    are held. This injunction was supported by findings of the [Montana
    Supreme
    Court](https://assets.aclu.org/live/uploads/2024/12/Opinion-Published-6.pdf).
+ * Montana is attempting to ban youth medical care by a "liability" law that
+   would make it too expensive to practice trans medicine. This would
+   take effect if [SB218](https://legiscan.com/AR/text/SB486/2025) was
+   signed by the Governor.
  * Medical providers can deny non-emergency care on the basis of their
    religious beliefs or conscious.
  * A [federal executive
@@ -118,6 +122,9 @@ refused to follow similar orders in the past).
 
 ## Relevant Laws
 
+ * [2025 SB218 - Youth trans medicine ban attempt through liability
+   changes (not yet signed by Governor, updated Apr. 17,
+   2025)](https://legiscan.com/AR/text/SB486/2025)
  * [2025 SB437 - Trans-exclusionary Definition of Sex (not yet signed by
    Governor)](https://legiscan.com/MT/text/SB437/2025)
  * [2025 HB400 - Legal misgendering and deadnaming (not yet signed by

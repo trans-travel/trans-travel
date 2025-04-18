@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-17 \[[US Montana](us/mt.md)] State attempting to side-step
+    restraining order allowing youth medical care. Not yet signed by
+    Governor.
  *  2025-04-17 \[[US Arkansas](us/ar.md)] Bathroom ban for government
     spaces pending Governor signature.
  *  2025-04-17 \[[US West Virginia](us/wv.md)] Youth medical transition
