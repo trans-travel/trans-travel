@@ -87,7 +87,8 @@ at birth and/or chromosomes.
    some restrictions on the care. Note however, a previous ban was
    declared unconstitutional and likely this 2023 law will be too.
  * Medical providers can deny some care on the basis of their religious
-   beliefs.
+   beliefs.  [SB444](https://legiscan.com/AR/text/SB444/2025), if signed
+   by the Governor, would expand this further (updated Apr. 17, 2025).
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
@@ -115,7 +116,10 @@ at birth and/or chromosomes.
 
 ## Relevant Laws
 
- * [2025 HB1796 - Bathroom Ban for government
+ * [2025 SB444 - Medical right to discriminate (not yet signed by
+   Governor as of Apr. 17,
+   2025)](https://legiscan.com/AR/text/SB444/2025)
+ * [2025 SB486 - Bathroom Ban for government
    spaces (not yet signed by Governor as of Apr. 17, 2025)](https://legiscan.com/AR/text/SB486/2025)
  * [2025 HB1796 - ID gender marker ban (not yet signed by Governor as of
    Apr. 11, 2025)](https://legiscan.com/AR/text/HB1796/2025)

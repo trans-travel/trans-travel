@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-17 \[[US Arkansas](us/ar.md)] Medical provider right to
+    discriminate pending Governor signature.
  *  2025-04-17 \[[US Montana](us/mt.md)] State attempting to side-step
     restraining order allowing youth medical care. Not yet signed by
     Governor.
