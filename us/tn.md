@@ -54,6 +54,11 @@ to investigate at least one provider of transgender care.
    trans people to enter the appropriate bathroom. However, that ban was
    found to violate the US Constitution's 1st Amendment and was struck
    down by a federal court.
+ * If [SB468](https://legiscan.com/TN/text/SB0468/2025) is passed (not
+   passed as of Apr. 17, 2025), it would require trans people to use
+   facilities in accordance with sex assigned at birth in domestic
+   violence shelters. It would also allow private entities to ban trans
+   people from bathrooms, showers, locker rooms, and sports.
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -76,6 +81,9 @@ See the [USA TSA](notes/tsa.md) document.
  * Trans women are generally housed with men.
  * Trans men are generally housed with women.
  * Nonbinary people are housed according to sex assigned at birth.
+ * If [SB468](https://legiscan.com/TN/text/SB0468/2025) is passed, trans
+   people would be required to be housed according to sex assigned at
+   birth. (updated Apr. 17, 2025)
 
 ## Legal Definition of Sex
 
@@ -158,6 +166,8 @@ assigned at birth and/or chromosomes.
 
 ## Relevant Laws
 
+ * [2025 SB468 - Bathroom ban (not yet law, pending Governor's signature
+   as of Apr. 17, 2025)](https://legiscan.com/TN/text/SB0468/2025)
  * [2025 SB955 - Special rights for transphobic healthcare providers (not yet
    law, pending Governor's signature as of Apr. 9,
    2025)](https://legiscan.com/TN/text/SB0955/2025)

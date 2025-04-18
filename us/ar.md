@@ -87,6 +87,9 @@ at birth and/or chromosomes.
  * Medical providers can deny some care on the basis of their religious
    beliefs.  [SB444](https://legiscan.com/AR/text/SB444/2025), if signed
    by the Governor, would expand this further (updated Apr. 17, 2025).
+ * If [HB1916](https://legiscan.com/AR/text/HB1916/2025) is signed by
+   the governor, it would ban mental health providers from writing
+   puberty blocker and hormone therapy letters for youth.
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
@@ -114,6 +117,9 @@ at birth and/or chromosomes.
 
 ## Relevant Laws
 
+ * [2025 HB1916 - Preventing mental health referral to youth transition
+   care (not yet signed by Governor as of Apr. 17,
+   2025)](https://legiscan.com/AR/text/HB1916/2025)
  * [2025 SB444 - Medical right to discriminate (not yet signed by
    Governor as of Apr. 17,
    2025)](https://legiscan.com/AR/text/SB444/2025)
@@ -129,7 +135,7 @@ at birth and/or chromosomes.
  * [2023 SB294 - Don't say "gay"](https://legiscan.com/AR/text/SB294/id/2736770)
  * [2021 HB1570 - Ban on medical transition for youth - Ruled unconstitutional
  * [2015 SB202 - Ban on local non-discrimination ordinances](https://www.arkleg.state.ar.us/Acts/Document?type=pdf&act=137&ddBienniumSession=2015%2F2015R)
-   and unenforcable](https://legiscan.com/AR/text/HB1570/id/2362964)
+   and unenforceable](https://legiscan.com/AR/text/HB1570/id/2362964)
 
 ## General Safety
 
