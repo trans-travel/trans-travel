@@ -66,7 +66,7 @@ title](https://dailymontanan.com/2024/06/25/montana-law-defining-sex-as-male-or-
 by a state court and [district court
 decision](https://www.documentcloud.org/documents/25539329-2025-02-18-order-granting-summary-judgement/).  Thus it is not in effect.
 
-2025 MT437 (not yet signed by Governor as of Apr. 12, 2025) and 2025 HB121 only
+2025 SB437 (not yet signed by Governor as of Apr. 12, 2025) and 2025 HB121 only
 recognize male and female, according to assignment at birth and chromosomes.
 They define, in a literal reading, some intersex people as neither male or
 female, while simultaneously refusing to recognize them as neither male or
