@@ -65,6 +65,10 @@ Intersex people have some limited recognition.
 ## Medical Care
 
  * Trans medical care is legal for adults
+ * If [SB955](https://legiscan.com/TN/text/SB0955/2025) is signed by the
+   Governor, employees of medical organizations can disclose private
+   information under the guise of a discriminator whistleblower law.
+   (updated Apr. 17, 2025)
  * A law banning puberty blockers, hormone therapy, and surgery for
    people under 18 has passed and became law.
  * Parents who allow children to receive trans care including puberty
@@ -112,6 +116,8 @@ Intersex people have some limited recognition.
 
 ## Relevant Laws
 
+ * [2025 IN SB955 - Permission to Medically
+   Discriminate (not yet signed by governor as of Apr. 17, 2025)](https://legiscan.com/TN/text/SB0955/2025)
  * [2023 IN HB1569 - Prisoner Medical Care Ban](https://legiscan.com/IN/text/HB1569/id/2766909)
  * [2023 IN HB1608 - Don't Say Gay](https://legiscan.com/IN/text/HB1608/id/2790220)
  * [2023 IN SB350 - Prevent Cities from Banning Conversion Therapy](https://iga.in.gov/legislative/2023/bills/senate/350#document-d6ae1d25)

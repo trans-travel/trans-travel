@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-17 \[[US Indiana](us/in.md)] Add information about
+    transphobic "whistleblower" law pending governor signature.
  *  2025-04-17 \[[UK](uk.md)] Trans people recognition removed by UK
     Supreme Court.
  *  2025-04-12 \[[UK](uk.md)] Guidance by NHS England to avoid shared
