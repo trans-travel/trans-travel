@@ -65,6 +65,11 @@ See the [USA TSA](notes/tsa.md) document.
 
  * Trans medical care is legal for adults and children.
  * Some surgeries are available for trans youth.
+ * If [HB1971](https://legiscan.com/AR/text/HB1916/2025) is signed by
+   the Governor, Washington insurance plans would be required to cover
+   12-month prescriptions of certain hormones (those not covered by
+   controlled substance laws, so testosterone would not be covered).
+   (updated Apr. 17, 2025)
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
@@ -96,6 +101,11 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Relevant Laws
 
+ * [2025 HB1971 (Allow 12 month prescription of some HRT, not yet signed
+   by Governor as of Apr. 17,
+   2025)](https://legiscan.com/AR/text/HB1916/2025)
+ * [2025 SB5632 (Enhance sanctuary law, not yet signed by Governor as of Apr.
+   17, 2025)](https://legiscan.com/AR/text/HB1916/2025)
  * [Non-Discrimination Law](https://app.leg.wa.gov/rcw/default.aspx?cite=49.60.040)
  * [Marriage Law](https://app.leg.wa.gov/rcw/default.aspx?cite=26.04.010)
 
@@ -116,7 +126,7 @@ the protection of the law may not be enough there.
 
 Even in cities considered progressive, like Seattle, attacks can occur.
 In early 2025, a trans person was attacked, with the attackers referencing
-[transphobic political statmeents and executive
+[transphobic political statements and executive
 orders during the attack](https://www.thestranger.com/news/2025/03/28/79988053/police-arrest-one-suspect-in-alleged-violent-anti-trans-hate-crime). While Seattle is generally a safe, inclusive city
 US standards, it is a reminder that attacks can occur anywhere.
 
