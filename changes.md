@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-17 \[[US West Virginia](us/wv.md)] Youth medical transition
+    ban pending governor signature
  *  2025-04-17 \[[US Indiana](us/in.md)] Add information about
     transphobic "whistleblower" law pending governor signature.
  *  2025-04-17 \[[UK](uk.md)] Trans people recognition removed by UK
@@ -34,7 +36,7 @@
  *  2025-04-04 \[[US Maryland](us/md.md)] Pending bill protecting trans
     care confidentiality.
  *  2025-04-04 \[[US Idaho](us/id.md)] Bathroom ban passed.
- *  2025-03-30 \[[US](notes/usa-general.md)] Transgneder Netwerk
+ *  2025-03-30 \[[US](notes/usa-general.md)] Transgender Netwerk
     Nederland has issued a travel warning.
  *  2025-03-30 \[[US Kentucky](us/ky.md)] Public funds cannot be used
     for trans care, including in prisons or educational programs
@@ -648,14 +650,14 @@
  *  2023-08-10 \[[US Florida](us/fl.md)\] Added note about highway rest
     areas being covered by Florida's bathroom law.
  *  2023-08-09 \[[US Wyoming](us/wy.md)\] Note about safety concerns for
-    a trans woman competing in a recreational athletic compitition, and
+    a trans woman competing in a recreational athletic competition, and
     also added note that all trans prisoners are currently housed
     according to sex assigned at birth.
  *  2023-08-08 \[[US Florida](us/fl.md)\] Updated Florida page to note
-    that teachers and visotors to schools will be required to be
+    that teachers and visitors to schools will be required to be
     misgendered and required to use improper bathrooms.
  *  2023-08-04 \[[US Kentucky](us/ky.md)\] and \[[US
-    Tennesseee](us/tn.md)\] Plantiffs in the Kentucky case trying to
+    Tennessee](us/tn.md)\] Plaintiffs in the Kentucky case trying to
     overturn the Kentucky ban on youth healthcare have asked the entire
     appeals court to re-hear the appeal. This could also impact the
     similar decision in Tennessee.

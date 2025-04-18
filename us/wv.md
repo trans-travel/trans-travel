@@ -66,6 +66,9 @@ Non-binary people are not legally recognized.
    under 18 is illegal, unless the person has "severe" gender dysphoria,
    which requires a specific process to document the dysphoria and
    contains other limitations on the care available.
+ * If [SB299](https://legiscan.com/WV/text/SB299/2025) is signed by the
+   govenor, all medical transition for people under 18 years old woudl
+   be illegal. (Updated Apr. 17, 2025)
  * Federal regulations protecting trans people in were blocked in
    West Virginia due to the Tennessee v Becerra preliminary injunction on
    July 3, 2024. Thus trans people do not have many of the federal
@@ -97,6 +100,7 @@ Non-binary people are not legally recognized.
 
 ## Relevant Laws
 
+ * [2025 SB299 - Youth medical transition ban (not yet signed by Governor; updated Apr. 17, 2025)](https://legiscan.com/WV/text/SB299/2025)
  * [2025 HB456 - Bathroom
    Ban](http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb456%20sub1%20enr.htm&yr=2025&sesstype=RS&i=456)
  * [2024 HB4233 - Ban on Non-Binary Birth Certificates](https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4233%20sub%20enr.htm&yr=2024&sesstype=RS&billtype=B&houseorig=H&i=4233)
