@@ -82,10 +82,8 @@ at birth and/or chromosomes.
 
  * Trans medical care is legal for adults
  * A 2023 law restricts medical transition for people under 18 has passed
-   and became law. This goes into effect during summer of 2023. This
-   bill requires providers to spread misinformation and places
-   some restrictions on the care. Note however, a previous ban was
-   declared unconstitutional and likely this 2023 law will be too.
+   and became law. This bill requires providers to spread misinformation and
+   places some restrictions on the care.
  * Medical providers can deny some care on the basis of their religious
    beliefs.  [SB444](https://legiscan.com/AR/text/SB444/2025), if signed
    by the Governor, would expand this further (updated Apr. 17, 2025).
