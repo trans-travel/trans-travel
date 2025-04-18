@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-17 \[[US Arizona](us/az.md)] Bathroom ban vetoed.
+ *  2025-04-17 \[[US Arizona](us/az.md)] Restrictions on birth
+    certificate changes pending Governor signature.
  *  2025-04-17 \[[US Arkansas](us/ar.md)] Medical provider right to
     discriminate pending Governor signature.
  *  2025-04-17 \[[US Montana](us/mt.md)] State attempting to side-step
