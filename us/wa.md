@@ -67,8 +67,8 @@ See the [USA TSA](notes/tsa.md) document.
  * Some surgeries are available for trans youth.
  * If [HB1971](https://legiscan.com/AR/text/HB1916/2025) is signed by
    the Governor, Washington insurance plans would be required to cover
-   12-month prescriptions of certain hormones (those not covered by
-   controlled substance laws, so testosterone would not be covered).
+   12-month prescriptions of certain hormones (6-months for
+   testosterone).
    (updated Apr. 17, 2025)
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
@@ -101,7 +101,7 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Relevant Laws
 
- * [2025 HB1971 (Allow 12 month prescription of some HRT, not yet signed
+ * [2025 HB1971 (Allow 12 or 6 month prescription of HRT, not yet signed
    by Governor as of Apr. 17,
    2025)](https://legiscan.com/AR/text/HB1916/2025)
  * [2025 SB5632 (Enhance sanctuary law, not yet signed by Governor as of Apr.

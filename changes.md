@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-04-20 \\[US Washington](us/wa.md)] Note HB1971 would provide
+    for 6 month supplies of testosterone.
  *  2025-04-18 \[[US Colorado](us/co.md)] Death certificate gender law
     signed by governor.
  *  2025-04-17 \[[US Washington](us/wa.md)] 12 month fills of some
