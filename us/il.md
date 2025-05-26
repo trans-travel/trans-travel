@@ -100,6 +100,12 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to sometimes be misgendered
 by officials and public institutions.
 
+Physical attacks on gender non-conforming people have happened in public
+places. For instance, a cis lesbian with short hair was attacked in May,
+2025, likely because transphobic teenage boys believed her to be a trans woman, after
+she used [a McDonald's bathroom in
+Carpentersville](https://www.cbsnews.com/amp/chicago/news/kane-county-prosecutors-hate-crime-investigation-mcdonalds-attack-carpentersville/).
+
 ## Resources
 
  * [ACLU Obtains Injunction against IL Dept. of Corrections](https://www.prisonlegalnews.org/news/2022/feb/1/transgender-women-illinois-doc-secure-injunction-special-monitor/)
