@@ -78,6 +78,12 @@ Non-binary people are not legally recognized.
 
 Intersex people have some limited recognition.
 
+A 16-year-old was denied a name change by Mississippi Supreme Court
+because the name change was due to gender transition, and the teen must
+now [wait until he is
+21](https://www.advocate.com/law/mississippi-transgender-teen-name-change)
+to request the name change (updated: April 18, 2025).
+
 ## Medical Care
 
  * Trans medical care is legal for adults

@@ -80,6 +80,10 @@ See the [USA TSA](notes/tsa.md) document.
    restraining
    order](https://assets.aclu.org/live/uploads/2025/02/093114651219.pdf)
    against the government (verified Mar. 14, 2025).
+ * Seattle Children's Hospital has [stopped providing some gender
+   affirming
+   care](https://www.thestranger.com/news/2025/04/17/80016692/seattle-childrens-has-again-stopped-providing-gender-affirming-surgery-for-trans-people-under-19)
+   as of April, 2025.
 
 ## Child Custody / Abuse
 

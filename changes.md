@@ -1,5 +1,9 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-05-26 \\[US Mississippi](us/ms.md)] Mississippi name change
+    denial.
+ *  2025-05-26 \\[US Washington](us/wa.md)] Seattle Children's stopped
+    providing some care.
  *  2025-05-26 \\[US Illinois](us/il.md)] Cis lesbian attacked for using
     McDonald's bathroom.
  *  2025-05-26 \\[US Florida](us/fl.md)] State pressuring businesses
