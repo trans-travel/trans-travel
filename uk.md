@@ -17,6 +17,9 @@ covers England, Wales, Scotland, and Northern Ireland only.
 
 ## Summary
 
+The situation for trans people is rapidly deteriorating in UK. Ensure
+you have the latest information before traveling to the UK.
+
 Trans people should use care traveling to the UK due to a [UK Supreme
 Court decision](https://supremecourt.uk/cases/uksc-2024-0042). This
 decision defines sex as sex assigned at birth, and generally allows
@@ -133,6 +136,11 @@ prove they disclosed their sex assigned at birth to their partner(s).
  * The prison service does not recognize non-binary identity.
  * Trans prisoners have reported misgendering and lack of appropriate
    hygiene items when housed according to assignment at birth.
+ * The Police Chief Council, citing the Supreme Court decision, says
+   trans people should be searched by [officers with the same sex assigned
+   at
+   birth](https://news.npcc.police.uk/releases/new-police-search-guidance-following-supreme-court-decision)
+   (updated May 26, 2025).
 
 ## Legal Definition of Sex
 
