@@ -1,22 +1,23 @@
 # Change Log for Trans Travel Guide
 
- *  2025-05-26 \\[UK](uk.md)] Added UK Police Chief Council guidance on
+ *  2025-05-26 \[[US Georgia](us/ga.md)] Prison healtchare ban signed.
+ *  2025-05-26 \[[UK](uk.md)] Added UK Police Chief Council guidance on
     searches.
- *  2025-05-26 \\[US Massachusetts](us/ma.md)] Cis woman kicked out of a
+ *  2025-05-26 \[[US Massachusetts](us/ma.md)] Cis woman kicked out of a
     bathroom.
- *  2025-05-26 \\[US Montana](us/mt.md)] Bathroom ban blocked by state
+ *  2025-05-26 \[[US Montana](us/mt.md)] Bathroom ban blocked by state
     court.
- *  2025-05-26 \\[US Mississippi](us/ms.md)] Mississippi name change
+ *  2025-05-26 \[[US Mississippi](us/ms.md)] Mississippi name change
     denial.
- *  2025-05-26 \\[US Washington](us/wa.md)] Seattle Children's stopped
+ *  2025-05-26 \[[US Washington](us/wa.md)] Seattle Children's stopped
     providing some care.
- *  2025-05-26 \\[US Illinois](us/il.md)] Cis lesbian attacked for using
+ *  2025-05-26 \[[US Illinois](us/il.md)] Cis lesbian attacked for using
     McDonald's bathroom.
- *  2025-05-26 \\[US Florida](us/fl.md)] State pressuring businesses
+ *  2025-05-26 \[[US Florida](us/fl.md)] State pressuring businesses
     into discrimination.
- *  2025-05-26 \\[US Florida](us/fl.md)] Private businesses enforcing
+ *  2025-05-26 \[[US Florida](us/fl.md)] Private businesses enforcing
     gender stereotypes on bathrooms.
- *  2025-04-20 \\[US Washington](us/wa.md)] Note HB1971 would provide
+ *  2025-04-20 \[[US Washington](us/wa.md)] Note HB1971 would provide
     for 6 month supplies of testosterone.
  *  2025-04-18 \[[US Colorado](us/co.md)] Death certificate gender law
     signed by governor.
