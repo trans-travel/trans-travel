@@ -14,14 +14,21 @@ that invalidated a healthcare ban).
 ## Public Accommodations
 
  * Trans people's use of bathrooms and shower facilities is limited:
-   In schools, public buildings used by all levels of the government
+   In schools, including universities, trans people are banned from
+   using appropriate bathrooms.
+   Some intersex people are denied both male
+   and female bathrooms and showers according to a strict reading of the bill.
+   This also applies to universities (for instance, stadium bathrooms).
+   (updated May 26, 2025).
+ * Under a [blocked
+   law](https://www.aclumontana.org/sites/default/files/field_documents/25-opinion_and_order_granting_plaintiffs_motion_for_preliminary_injunction.pdf),
+   trans people would have been banned from bathrooms
+   in public buildings used by all levels of the government
    (such as libraries, airports, city halls, hospitals, rec centers, etc),
    domestic violence programs, and corrections facilities, the operating
    agency must require trans people to use bathrooms/showers in accordance
-   with their sex assigned at birth. Some intersex people are denied both male
-   and female bathrooms and showers according to a strict reading of the bill.
-   This also applies to universities (for instance, stadium bathrooms).
-   (updated Mar. 27, 2025)
+   with their sex assigned at birth.  This law is currently blocked by
+   courts. (updated May 26, 2025)
  * Montana has wide-reaching religious freedom laws that allow denial of
    many services on the basis of gender identity.
  * School students will not be able to be disciplined for using
@@ -130,7 +137,7 @@ refused to follow similar orders in the past).
  * [2025 HB400 - Legal misgendering and deadnaming (not yet signed by
    Governor as of Apr. 12,
    2025)](https://legiscan.com/MT/text/HB400/id/3126736)
- * [2025 HB121 - Bathroom Ban)](https://legiscan.com/MT/text/HB121/2025)
+ * [2025 HB121 - Bathroom Ban, blocked by court as of May 16, 2025)](https://legiscan.com/MT/text/HB121/2025)
  * [2025 HB300 - Education Bathroom
    Ban)](https://legiscan.com/MT/text/HB300/id/3183811)
  * [2023 HB303 - Health Care Conscious Refusal Law](https://legiscan.com/MT/text/HB303/id/2785644)
@@ -159,3 +166,5 @@ officials and public institutions.
    Preliminary
    Injunction](https://assets.aclu.org/live/uploads/2024/12/Opinion-Published-6.pdf)
  * [Drag Ban - Temporary Restraining Order](https://storage.courtlistener.com/recap/gov.uscourts.mtd.73809/gov.uscourts.mtd.73809.13.0.pdf)
+ * [Bathroom Ban - Preliminary
+   Injunction](https://www.aclumontana.org/sites/default/files/field_documents/25-opinion_and_order_granting_plaintiffs_motion_for_preliminary_injunction.pdf)

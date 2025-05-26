@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-05-26 \\[US Montana](us/mt.md)] Bathroom ban blocked by state
+    court.
  *  2025-05-26 \\[US Mississippi](us/ms.md)] Mississippi name change
     denial.
  *  2025-05-26 \\[US Washington](us/wa.md)] Seattle Children's stopped
