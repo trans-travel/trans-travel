@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-05-26 \\[US Washington](us/wa.md)] Healthcare protections
+    strengthened.
  *  2025-05-26 \[[US West Virginia](us/wv.md)] Youth healthcare ban
     signed.
  *  2025-05-26 \[[US Georgia](us/ga.md)] Prison healthcare ban signed.
