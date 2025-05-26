@@ -1,6 +1,8 @@
 # Change Log for Trans Travel Guide
 
- *  2025-05-26 \[[US Georgia](us/ga.md)] Prison healtchare ban signed.
+ *  2025-05-26 \[[US West Virginia](us/wv.md)] Youth healthcare ban
+    signed.
+ *  2025-05-26 \[[US Georgia](us/ga.md)] Prison healthcare ban signed.
  *  2025-05-26 \[[UK](uk.md)] Added UK Police Chief Council guidance on
     searches.
  *  2025-05-26 \[[US Massachusetts](us/ma.md)] Cis woman kicked out of a
