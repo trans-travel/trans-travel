@@ -97,6 +97,11 @@ locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to sometimes be misgendered
 by officials and public institutions.
 
+In Boston, a hotel [kicked a cis woman out of a
+bathroom](https://www.boston.com/news/local-news/2025/05/05/boston-hotel-forcibly-kicked-woman-out-of-womens-bathroom-visitor-says/)
+after mistaking her for a trans woman (updated May 26, 2025). Similar actions are a risk
+anywhere within the USA, and travelers should be prepared.
+
 In Salam, on Sep. 12 or 13, 2023, a welcoming church and nearby rainbow
 crosswalk was [vandalized with anti-LGBT
 messages](https://www.salemnews.com/news/anti-lgbtq-hate-crime-targets-tabernacle-church-crosswalks/article_20603260-5246-11ee-961c-938a6325d7c1.html).

@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-05-26 \\[US Massachusetts](us/ma.md)] Cis woman kicked out of a
+    bathroom.
  *  2025-05-26 \\[US Montana](us/mt.md)] Bathroom ban blocked by state
     court.
  *  2025-05-26 \\[US Mississippi](us/ms.md)] Mississippi name change
