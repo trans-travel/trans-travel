@@ -245,6 +245,12 @@ children may be at risk of state action and/or hostile interactions with
 others who believe that your presence may be a prelude to child abuse.
 The "groomer" insult towards trans people originated in Florida.
 
+Florida is attempting to intimidate businesses into denying trans people
+access to facilities. For instance, a Life Time Fitness in Palm Beach
+County has [banned trans people from appropriate locker
+rooms](https://www.advocate.com/news/florida-ag-threatens-gym-transgender) due to
+pressure by Florida's attorney general.
+
 Florida has taken moves to [arrest peaceful
 protesters](https://www.orlandosentinel.com/2023/06/16/fdle-cracks-down-on-transgender-rights-protesters-2-months-after-panty-toss/)
 months after protests against government officials. These protesters
