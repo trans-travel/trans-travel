@@ -264,7 +264,10 @@ space, trans people (and cis people who don't conform to all gender
 stereotypes) should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to be misgendered by
-officials and public institutions.
+officials and public institutions.  Some cis women have been kicked out
+of private business bathrooms for [not fitting gender
+stereotypes](https://www.outsports.com/2025/5/21/24112102/madison-packer-womens-hockey-florida-bathroom-bill-trans-athletes/)
+and being mistaken for trans women (updated May 26, 2025).
 
 Recent attacks on trans girls/women have been reported in (note links
 discuss violent crimes against trans people)
