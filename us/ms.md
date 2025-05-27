@@ -130,7 +130,7 @@ to request the name change (updated: April 18, 2025).
 
  * [MS Dept. of Corrections 20-16 - Transgender Offenders](https://lgbtqbar.org/wp-content/uploads/sites/6/sites/8/2022/12/20-16-1.pdf)
  * [2023 HB1125 - Youth Trans Medical Care Ban](https://legiscan.com/MS/text/HB1125/id/2715321)
- * [2024 SB2753 - Bathroom Ban in Educational Facilities)](https://legiscan.com/MS/bill/SB2753/2024)
+ * [2024 SB2753 - Bathroom Ban in Educational Facilities](https://legiscan.com/MS/bill/SB2753/2024)
  * [2025 SB2867 - Medicaid Coverage Ban (not yet
    passed as of Mar. 14, 2025)](https://legiscan.com/MS/bill/SB2867/2025)
  * [2025 HB188 - Transphobic prison policy](https://legiscan.com/MS/drafts/HB188/2025)
