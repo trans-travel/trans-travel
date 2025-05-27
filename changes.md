@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-05-26 \[[US Indiana](us/in.md)] Permission to discriminate and
+    break confidentiality for medical providers.
  *  2025-05-26 \[[US Louisiana](us/la.md)] Don't say gay law passed
  *  2025-05-26 \[[US Maryland](us/md.md)] Additional protections for
     trans medical care.
