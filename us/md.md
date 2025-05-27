@@ -50,9 +50,9 @@ state IDs, but this recognition is not yet complete.
  * Trans medical care is legal for adults and children.
  * Maryland has a sanctuary law for people obtaining transition-related
    medical care.
- * A pending bill would [further protect trans care medical
+ * HB1085 [further protects trans care medical
    records](https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1085?ys=2025RS)
-   if signed by the Governor (updated Apr. 4, 2025).
+   (updated May 26, 2025).
  * Maryland will not extradite people for violating another state's laws
    against medical transition.
  * A [federal executive
@@ -76,7 +76,7 @@ state IDs, but this recognition is not yet complete.
 
 ## Relevant Laws
 
- * [2025 HB1045 - Confidentiality of Medical Records (not yet signed by Governor as of Apr. 4, 2025)](https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1085?ys=2025RS)
+ * [2025 HB1045 - Confidentiality of Medical Records](https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1085?ys=2025RS)
  * [EO 01.01.2023.08 Maryland Sanctuary Order](https://governor.maryland.gov/Lists/ExecutiveOrders/Attachments/11/EO_01.01.2023.08_accessible.pdf)
 
 ## General Safety
