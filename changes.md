@@ -1,6 +1,8 @@
 # Change Log for Trans Travel Guide
 
- *  2025-05-26 \\[US Washington](us/wa.md)] Healthcare protections
+ *  2025-05-26 \[[US Utah](us/ut.md)] Transphobic laws signed by
+    governor.
+ *  2025-05-26 \[[US Washington](us/wa.md)] Healthcare protections
     strengthened.
  *  2025-05-26 \[[US West Virginia](us/wv.md)] Youth healthcare ban
     signed.
