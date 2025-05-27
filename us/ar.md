@@ -68,9 +68,9 @@ See the [USA TSA](notes/tsa.md) document.
 Non-binary people are not recognized by the state, due to March 12, 2024
 [rules issued by the
 Governor](https://arktimes.com/arkansas-blog/2024/03/12/sanders-targets-trans-community-again-with-strict-new-gender-rules-for-state-issued-ids).
-This will be extended to state IDs if [AR
-HB1796](https://legiscan.com/AR/text/HB1796/2025) is passed (not yet
-signed by governor as of Apr. 11, 2025).
+This includes state IDs under [AR
+HB1796](https://legiscan.com/AR/text/HB1796/2025) (updated May 26,
+2025).
 
 Intersex people are not generally recognized by the state.
 
@@ -124,8 +124,7 @@ at birth and/or chromosomes.
    2025)](https://legiscan.com/AR/text/SB444/2025)
  * [2025 SB486 - Bathroom Ban for government
    spaces](https://legiscan.com/AR/text/SB486/2025)
- * [2025 HB1796 - ID gender marker ban (not yet signed by Governor as of
-   Apr. 11, 2025)](https://legiscan.com/AR/text/HB1796/2025)
+ * [2025 HB1796 - ID gender marker ban](https://legiscan.com/AR/text/HB1796/2025)
  * [2023 HB1156 - School Bathrooms](https://legiscan.com/AR/text/HB1156/id/2756961)
  * [2023 HB1468 - Deadnaming Students in K12 and Higher Ed](https://legiscan.com/AR/text/HB1468/id/2781770)
  * [2023 HB1615 - Discrimination attributed to religion allowed](https://legiscan.com/AR/text/HB1615/id/2781807)
