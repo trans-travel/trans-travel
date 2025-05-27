@@ -25,8 +25,7 @@ impact on child custody.
    including public universities and university-run programs, such as
    medical organizations that are part of public universities. They are
    also may be required to use facilities associated with sex assigned
-   at birth in state government facilities, should the governor sign
-   SB79 (Gov has not as of Feb. 20, 2025).
+   at birth in state government facilities.
  * Public accommodation access is not protected for trans people in Alabama.
  * Alabama has wide-reaching religious freedom laws that allow denial of
    some services on the basis of gender identity.
@@ -41,13 +40,11 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women would typically be housed with men.
- * Trans men would typically be housed with women
- * Nonbinary people would typically be housed according to sex
-   assigned at birth
- * If SB79 is signed by the governor (it is not signed as of Feb 20,
-   2025), it would likely require housing according to sex assigned at
-   birth.
+ * Trans women are housed with men.
+ * Trans men are housed with women
+ * Nonbinary people are housed according to sex assigned at birth
+ * Trans people are required to be housed according to sex assigned at
+   birth. (Updated May 26, 2025)
 
 ## Legal Definition of Sex
 
@@ -59,9 +56,8 @@ Some laws specify male, female, and similar words based on sex assigned
 at birth and/or chromosomes.  The limited recognition of trans people in
 the state often requires proof of surgery.
 
-If SB79 is signed by the governor (it is not signed as of Feb 20,
-2025), it would have wide-ranging transphobic impact on the definitions of
-sex in the state of Alabama.
+SB79 has wide-ranging transphobic impacts on the definitions of sex in the
+state of Alabama.
 
 ## Medical Care
 
@@ -119,9 +115,7 @@ sex in the state of Alabama.
 
 ## Relevant Laws
 
- * [2025 SB79 Bathroom Ban and Definition of Sex (not yet signed by
-   governor as of Feb. 20,
-   2025)](https://legiscan.com/AL/text/SB79/2025)
+ * [2025 SB79 Bathroom Ban and Definition of Sex](https://legiscan.com/AL/text/SB79/2025)
  * [2024 SB129 Public University Medical
    Ban](https://www.legislature.state.al.us/pdf/SearchableInstruments/2024RS/SB129-enr.pdf)
  * [2022 SB184 Trans Youth Medical Care](https://legiscan.com/AL/text/SB184/id/2566425)

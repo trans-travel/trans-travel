@@ -1,11 +1,12 @@
 # Change Log for Trans Travel Guide
 
- *  2025-05-26 \[[US Arizona](us/az.md) Mental health providers
+ *  2025-05-26 \[[US Alabama](us/al.md)] Bathroom ban
+ *  2025-05-26 \[[US Arkansas](us/ar.md)] Mental health providers
     prohibited from referring youth for puberty blockers, HRT, or other
     procedures.
- *  2025-05-26 \[[US Arizona](us/az.md) Medical right to discriminate
- *  2025-05-26 \[[US Arizona](us/az.md) Gender marker change ban.
- *  2025-05-26 \[[US Arizona](us/az.md) Bathroom ban.
+ *  2025-05-26 \[[US Arkansas](us/ar.md)] Medical right to discriminate
+ *  2025-05-26 \[[US Arkansas](us/ar.md)] Gender marker change ban.
+ *  2025-05-26 \[[US Arkansas](us/ar.md)] Bathroom ban.
  *  2025-05-26 \[[US Colorado](us/co.md)] Additional non-discrimination
     protections and ability to change marriage license gender/name.
  *  2025-05-26 \[[US Colorado](us/co.md)] Protection and expansion of
