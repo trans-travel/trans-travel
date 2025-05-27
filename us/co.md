@@ -84,6 +84,10 @@ Apr. 18, 2025)
    medical care in Colorado
  * Colorado will not extradite people for violating another state's laws
    against medical transition
+ * Colorado does not track testosterone under the prescription drug
+   monitoring program.
+ * Colorado requires private insurers and medicaid to cover almost all
+   transition-related procedures.
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
@@ -117,7 +121,9 @@ etc).
 
  * [2025 SB129 - Health care
    protections](https://legiscan.com/CO/text/SB129/2025)
- * [2025 HB1109 - Death Certificate Gender Law](https://legiscan.com/CO/text/HB1109/2025)
+ * [2025 HB1109 - Death certificate gender law](https://legiscan.com/CO/text/HB1109/2025)
+ * [2025 HB1309 - Protecting trans healthcare
+   law](https://leg.colorado.gov/bills/hb25-1309)
  * [Colorado Anti-Discrimination Act (CADA)](https://ccrd.colorado.gov/ccrd-home/regulatory-information)
 
 ## General Safety
