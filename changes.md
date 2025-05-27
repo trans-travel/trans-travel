@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-05-26 \[[US Tennessee](us/tn.md)] Special rights for
+    transphobic medical personnel signed by governor.
  *  2025-05-26 \[[US Utah](us/ut.md)] Transphobic laws signed by
     governor.
  *  2025-05-26 \[[US Washington](us/wa.md)] Healthcare protections

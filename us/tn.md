@@ -115,8 +115,8 @@ assigned at birth and/or chromosomes.
    "whistleblower" on trans healthcare, speak against trans people, and 
    would prevent employers and professional bodies from sanctioning on
    the basis of transphobia or failure to follow trans-inclusive best
-   practices, if the Governor signs
-   [SB955](https://legiscan.com/TN/text/SB0955/2025). (Updated Apr. 9,
+   practices due to
+   [SB955](https://legiscan.com/TN/text/SB0955/2025). (Updated May 26,
    2025)
  * Some Medical records of patients receiving care at Vanderbilt, including
    private and extremely sensitive information, have been
@@ -168,9 +168,7 @@ assigned at birth and/or chromosomes.
 
  * [2025 SB468 - Bathroom ban (not yet law, pending Governor's signature
    as of Apr. 17, 2025)](https://legiscan.com/TN/text/SB0468/2025)
- * [2025 SB955 - Special rights for transphobic healthcare providers (not yet
-   law, pending Governor's signature as of Apr. 9,
-   2025)](https://legiscan.com/TN/text/SB0955/2025)
+ * [2025 SB955 - Special rights for transphobic healthcare providers](https://legiscan.com/TN/text/SB0955/2025)
  * [2025 HB0064 - Residential educational program segregation](https://legiscan.com/TN/text/HB0064/2025)
  * [2024 HB0878 - Ability for officials to refuse to marry couples](https://www.capitol.tn.gov/Bills/113/Amend/SA0514.pdf)
  * [2024 SB2782 - Ban on providing information or assisting youth access
