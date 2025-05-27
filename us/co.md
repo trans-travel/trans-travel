@@ -68,9 +68,9 @@ Apr. 18, 2025)
  * Trans medical care is legal for all ages, and Colorado will not
    cooperate with other states who seek information about patients
    receiving care in Colorado for medical transition.
- * If [SB129](https://legiscan.com/CO/text/SB129/2025) is signed by the
-   Governor, it would prohibit enhance medical records protections for
-   trans people. (updated Apr. 18, 2025).
+ * Under [SB129](https://legiscan.com/CO/text/SB129/2025),
+   enhance medical records have additional protections for
+   trans people. (updated May 26, 2025).
  * Some providers (notably Children's Hospital) have cut back on
    transition care, including [cutting back on care for people over
    age 18](https://www.denverpost.com/2023/07/18/childrens-hospital-colorado-transgender-surgery/?share=se0slhdorisewirvhdgy).
@@ -116,7 +116,7 @@ etc).
 ## Relevant Laws
 
  * [2025 SB129 - Health care
-   protections (pending governor signature as of Apr. 18, 2025)](https://legiscan.com/CO/text/SB129/2025)
+   protections](https://legiscan.com/CO/text/SB129/2025)
  * [2025 HB1109 - Death Certificate Gender Law](https://legiscan.com/CO/text/HB1109/2025)
  * [Colorado Anti-Discrimination Act (CADA)](https://ccrd.colorado.gov/ccrd-home/regulatory-information)
 
