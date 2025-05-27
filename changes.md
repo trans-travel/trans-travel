@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-05-26 \[[UK](uk.md)] Added UK Police Chief Council guidance on
+    searches.
  *  2025-05-26 \[[US Alabama](us/al.md)] Bathroom ban
  *  2025-05-26 \[[US Arkansas](us/ar.md)] Mental health providers
     prohibited from referring youth for puberty blockers, HRT, or other
@@ -7,50 +9,50 @@
  *  2025-05-26 \[[US Arkansas](us/ar.md)] Medical right to discriminate
  *  2025-05-26 \[[US Arkansas](us/ar.md)] Gender marker change ban.
  *  2025-05-26 \[[US Arkansas](us/ar.md)] Bathroom ban.
+ *  2025-05-26 \[[US Arizona](us/az.md)] Birth certificate change ban
+    vetoed.
  *  2025-05-26 \[[US Colorado](us/co.md)] Additional non-discrimination
     protections and ability to change marriage license gender/name.
  *  2025-05-26 \[[US Colorado](us/co.md)] Protection and expansion of
     transgender healthcare.
  *  2025-05-26 \[[US Colorado](us/co.md)] Trans medical records
     protection law.
+ *  2025-05-26 \[[US Florida](us/fl.md)] State pressuring businesses
+    into discrimination.
+ *  2025-05-26 \[[US Florida](us/fl.md)] Private businesses enforcing
+    gender stereotypes on bathrooms.
+ *  2025-05-26 \[[US Georgia](us/ga.md)] Prison healthcare ban signed.
+ *  2025-05-26 \[[US Illinois](us/il.md)] Cis lesbian attacked for using
+    McDonald's bathroom.
  *  2025-05-26 \[[US Indiana](us/in.md)] Permission to discriminate and
     break confidentiality for medical providers.
  *  2025-05-26 \[[US Louisiana](us/la.md)] Don't say gay law passed
  *  2025-05-26 \[[US Maryland](us/md.md)] Additional protections for
     trans medical care.
+ *  2025-05-26 \[[US Massachusetts](us/ma.md)] Cis woman kicked out of a
+    bathroom.
  *  2025-05-26 \[[US Mississippi](us/ms.md)] Prisoner housing
     discrimination passed.
+ *  2025-05-26 \[[US Mississippi](us/ms.md)] Mississippi name change
+    denial law.
+ *  2025-05-26 \[[US Montana](us/mt.md)] Bathroom ban blocked by state
+    court.
  *  2025-05-26 \[[US Montana](us/mt.md)] Trans youth medical ban attempt
     now law.
  *  2025-05-26 \[[US Montana](us/mt.md)] Protections for transphobes now
     in education now law.
  *  2025-05-26 \[[US New Hampshire](us/nh.md)] Note that 2024 bathroom
-    bill vetoed by Governor was not overriden.
+    bill vetoed by Governor was not overridden.
  *  2025-05-26 \[[US Tennessee](us/tn.md)] Special rights for
     transphobic medical personnel signed by governor.
  *  2025-05-26 \[[US Utah](us/ut.md)] Transphobic laws signed by
     governor.
  *  2025-05-26 \[[US Washington](us/wa.md)] Healthcare protections
     strengthened.
- *  2025-05-26 \[[US West Virginia](us/wv.md)] Youth healthcare ban
-    signed.
- *  2025-05-26 \[[US Georgia](us/ga.md)] Prison healthcare ban signed.
- *  2025-05-26 \[[UK](uk.md)] Added UK Police Chief Council guidance on
-    searches.
- *  2025-05-26 \[[US Massachusetts](us/ma.md)] Cis woman kicked out of a
-    bathroom.
- *  2025-05-26 \[[US Montana](us/mt.md)] Bathroom ban blocked by state
-    court.
- *  2025-05-26 \[[US Mississippi](us/ms.md)] Mississippi name change
-    denial.
  *  2025-05-26 \[[US Washington](us/wa.md)] Seattle Children's stopped
     providing some care.
- *  2025-05-26 \[[US Illinois](us/il.md)] Cis lesbian attacked for using
-    McDonald's bathroom.
- *  2025-05-26 \[[US Florida](us/fl.md)] State pressuring businesses
-    into discrimination.
- *  2025-05-26 \[[US Florida](us/fl.md)] Private businesses enforcing
-    gender stereotypes on bathrooms.
+ *  2025-05-26 \[[US West Virginia](us/wv.md)] Youth healthcare ban
+    signed.
  *  2025-04-20 \[[US Washington](us/wa.md)] Note HB1971 would provide
     for 6 month supplies of testosterone.
  *  2025-04-18 \[[US Colorado](us/co.md)] Death certificate gender law
