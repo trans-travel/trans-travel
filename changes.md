@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-05-26 \[[US Arkansas](us/ar.md)] Bathroom ban
  *  2025-05-26 \[[US Arizona](us/az.md)] Birth certificate change ban
     vetoed by governor.
  *  2025-05-26 \[[US Colorado](us/co.md)] Additional non-discrimination

@@ -8,9 +8,9 @@ Arkansas negative laws towards trans people. Some of these laws may
 place trans people at risk. Trans people should particularly consider
 the bathroom law. While it requires "arousing or gratifying a sexual
 desire," how that will be enforced is a gray area. In addition, a
-pending [bill](https://legiscan.com/AR/text/SB486/2025) would apply
-bathroom law regulations to any government-controlled space, but is not
-yet signed by the Governor (updated Apr. 17, 2025)..
+an [Arkansas law](https://legiscan.com/AR/text/SB486/2025) applies
+bathroom law regulations to all government-controlled spaces (updated
+May 26, 2025).
 
 The 2021 law Arkansas passed that banned youth trans healthcare has been
 [found unconstitutional](https://wp.api.aclu.org/wp-content/uploads/2023/06/win-in-arkansas.pdf).
@@ -33,10 +33,9 @@ It is unknown how this might have an impact on child custody.
    associated with your sex assigned at birth if a minor is present and
    you are "arousing or gratifying a sexual desire". It is unknown how
    this law will be utilized.
- * [SB486](https://legiscan.com/AR/text/SB486/2025), if signed by the
-   Governor, would ban trans people from bathrooms, changing areas,
-   sleeping quarters, etc, in shelters and government-controlled
-   facilities. (updated Apr. 17, 2025)
+ * [SB486](https://legiscan.com/AR/text/SB486/2025) bans trans people from
+   bathrooms, changing areas, sleeping quarters, etc, in shelters and
+   government-controlled facilities. (updated May 26, 2025)
  * Public accommodation access is not protected for trans people in
    Arkansas.
  * Arkansas has wide-reaching religious freedom laws that allow denial of
@@ -56,13 +55,13 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women would typically be housed with men
- * Trans men would typically be housed with women
- * Non-binary people would typically be housed according to sex
+ * Trans women are housed with men
+ * Trans men are housed with women
+ * Non-binary people would typically are housed according to sex
    assigned at birth
- * If [SB486](https://legiscan.com/AR/text/SB486/2025) is signed by the
-   Governor, housing would only be according to sex assigned at birth.
-   (updated Apr. 17, 2025)
+ * [SB486](https://legiscan.com/AR/text/SB486/2025) requires
+   housing to be only according to sex assigned at birth.
+   (updated May 26, 2025)
 
 ## Legal Definition of Sex
 
@@ -124,7 +123,7 @@ at birth and/or chromosomes.
    Governor as of Apr. 17,
    2025)](https://legiscan.com/AR/text/SB444/2025)
  * [2025 SB486 - Bathroom Ban for government
-   spaces (not yet signed by Governor as of Apr. 17, 2025)](https://legiscan.com/AR/text/SB486/2025)
+   spaces](https://legiscan.com/AR/text/SB486/2025)
  * [2025 HB1796 - ID gender marker ban (not yet signed by Governor as of
    Apr. 11, 2025)](https://legiscan.com/AR/text/HB1796/2025)
  * [2023 HB1156 - School Bathrooms](https://legiscan.com/AR/text/HB1156/id/2756961)
