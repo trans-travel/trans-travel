@@ -61,7 +61,9 @@ driver licenses, and data gathering. However, non-binary recognition is
 still in-complete in Colorado.
 
 Gender identity is required to be recognized on death certificates. (updated
-Apr. 18, 2025)
+Apr. 18, 2025)  Colorado marriage and civil union documents may also be
+updated to reflect current name and gender of a person who transtioned.
+(updated May 26, 2025)
 
 ## Medical Care
 
@@ -122,6 +124,8 @@ etc).
  * [2025 SB129 - Health care
    protections](https://legiscan.com/CO/text/SB129/2025)
  * [2025 HB1109 - Death certificate gender law](https://legiscan.com/CO/text/HB1109/2025)
+ * [2025 HB1312 - Trans anti-discrimination
+   law](https://leg.colorado.gov/sites/default/files/2025a_1312_signed.pdf)
  * [2025 HB1309 - Protecting trans healthcare
    law](https://leg.colorado.gov/bills/hb25-1309)
  * [Colorado Anti-Discrimination Act (CADA)](https://ccrd.colorado.gov/ccrd-home/regulatory-information)

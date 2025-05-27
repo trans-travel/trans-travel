@@ -1,6 +1,8 @@
 # Change Log for Trans Travel Guide
 
- *  2025-05-26 \[[US Colroado](us/co.md)] Protection and expansion of
+ *  2025-05-26 \[[US Colorado](us/co.md)] Additional non-discrimination
+    protections and ability to change marriage license gender/name.
+ *  2025-05-26 \[[US Colorado](us/co.md)] Protection and expansion of
     transgender healthcare.
  *  2025-05-26 \[[US Colorado](us/co.md)] Trans medical records
     protection law.
