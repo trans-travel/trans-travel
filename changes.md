@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-05-26 \[[US Mississippi](us/ms.md)] Prisoner housing
+    discrimination passed.
  *  2025-05-26 \[[US Montana](us/mt.md)] Trans youth medical ban attempt
     now law.
  *  2025-05-26 \[[US Montana](us/mt.md)] Protections for transphobes now
