@@ -1,5 +1,9 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-05-26 \[[US Montana](us/mt.md)] Trans youth medical ban attempt
+    now law.
+ *  2025-05-26 \[[US Montana](us/mt.md)] Protections for transphobes now
+    in education now law.
  *  2025-05-26 \[[US New Hampshire](us/nh.md)] Note that 2024 bathroom
     bill vetoed by Governor was not overriden.
  *  2025-05-26 \[[US Tennessee](us/tn.md)] Special rights for

@@ -34,11 +34,11 @@ that invalidated a healthcare ban).
  * School students will not be able to be disciplined for using
    pronouns associated a trans person's sex assigned at birth or their
    legal name.
- * If [HB400](https://legiscan.com/MT/text/HB400/id/3126736) is signed
-   by the Governor, public school employees (including at universities) would
+ * Due to [HB400](https://legiscan.com/MT/text/HB400/id/3126736),
+   public school employees (including at universities) are
    be legally protected if they intentionally deadname (those who haven't
    changed their legal name) or misgender others. This could impact trans
-   visitors at sporting events and conferences. (updated Apr. 12, 2025).
+   visitors at sporting events and conferences. (updated May 26, 2025).
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -101,9 +101,9 @@ refused to follow similar orders in the past).
    Supreme
    Court](https://assets.aclu.org/live/uploads/2024/12/Opinion-Published-6.pdf).
  * Montana is attempting to ban youth medical care by a "liability" law that
-   would make it too expensive to practice trans medicine. This would
-   take effect if [SB218](https://legiscan.com/AR/text/SB486/2025) was
-   signed by the Governor.
+   attempts to make it too expensive to practice trans medicine, via
+   [SB218](https://legiscan.com/AR/text/SB486/2025) (updated May 26,
+   2025).
  * Medical providers can deny non-emergency care on the basis of their
    religious beliefs or conscious.
  * A [federal executive
@@ -130,13 +130,10 @@ refused to follow similar orders in the past).
 ## Relevant Laws
 
  * [2025 SB218 - Youth trans medicine ban attempt through liability
-   changes (not yet signed by Governor, updated Apr. 17,
-   2025)](https://legiscan.com/AR/text/SB486/2025)
+   changes](https://legiscan.com/MT/bill/SB218/2025)
  * [2025 SB437 - Trans-exclusionary Definition of Sex (not yet signed by
    Governor)](https://legiscan.com/MT/text/SB437/2025)
- * [2025 HB400 - Legal misgendering and deadnaming (not yet signed by
-   Governor as of Apr. 12,
-   2025)](https://legiscan.com/MT/text/HB400/id/3126736)
+ * [2025 HB400 - Legal misgendering and deadnaming](https://legiscan.com/MT/text/HB400/id/3126736)
  * [2025 HB121 - Bathroom Ban, blocked by court as of May 16, 2025)](https://legiscan.com/MT/text/HB121/2025)
  * [2025 HB300 - Education Bathroom
    Ban)](https://legiscan.com/MT/text/HB300/id/3183811)
