@@ -1,5 +1,9 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-05-26 \[[US Arizona](us/az.md) Mental health providers
+    prohibited from referring youth for puberty blockers, HRT, or other
+    procedures.
+ *  2025-05-26 \[[US Arizona](us/az.md) Medical right to discriminate
  *  2025-05-26 \[[US Arizona](us/az.md) Gender marker change ban.
  *  2025-05-26 \[[US Arizona](us/az.md) Bathroom ban.
  *  2025-05-26 \[[US Colorado](us/co.md)] Additional non-discrimination

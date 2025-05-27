@@ -84,10 +84,9 @@ at birth and/or chromosomes.
    and became law. This bill requires providers to spread misinformation and
    places some restrictions on the care.
  * Medical providers can deny some care on the basis of their religious
-   beliefs.  [SB444](https://legiscan.com/AR/text/SB444/2025), if signed
-   by the Governor, would expand this further (updated Apr. 17, 2025).
- * If [HB1916](https://legiscan.com/AR/text/HB1916/2025) is signed by
-   the governor, it would ban mental health providers from writing
+   beliefs. (Updated May 26, 2025)
+ * Under [HB1916](https://legiscan.com/AR/text/HB1916/2025),
+   mental health providers are banned from writing
    puberty blocker and hormone therapy letters for youth.
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
@@ -117,11 +116,8 @@ at birth and/or chromosomes.
 ## Relevant Laws
 
  * [2025 HB1916 - Preventing mental health referral to youth transition
-   care (not yet signed by Governor as of Apr. 17,
-   2025)](https://legiscan.com/AR/text/HB1916/2025)
- * [2025 SB444 - Medical right to discriminate (not yet signed by
-   Governor as of Apr. 17,
-   2025)](https://legiscan.com/AR/text/SB444/2025)
+   care](https://legiscan.com/AR/text/HB1916/2025)
+ * [2025 SB444 - Medical right to discriminate](https://legiscan.com/AR/text/SB444/2025)
  * [2025 SB486 - Bathroom Ban for government
    spaces](https://legiscan.com/AR/text/SB486/2025)
  * [2025 HB1796 - ID gender marker ban](https://legiscan.com/AR/text/HB1796/2025)
@@ -152,4 +148,4 @@ officials and public institutions.
 
 ## Resources
 
- * [Brandt et al v. Rutledge et al - Challenge to 2021 youth trans healthecare ban](https://www.aclu.org/cases/brandt-et-al-v-rutledge-et-al)
+ * [Brandt et al v. Rutledge et al - Challenge to 2021 youth trans healthcare ban](https://www.aclu.org/cases/brandt-et-al-v-rutledge-et-al)
