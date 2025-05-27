@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-05-26 \[[US Arizona](us/az.md)] Birth certificate change ban
+    vetoed by governor.
  *  2025-05-26 \[[US Colorado](us/co.md)] Additional non-discrimination
     protections and ability to change marriage license gender/name.
  *  2025-05-26 \[[US Colorado](us/co.md)] Protection and expansion of

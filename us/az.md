@@ -55,10 +55,7 @@ Non-binary people are not recognized.
 By statute, changing birth certificate gender marker requires surgery.
 This was invalidated [by a
 court](https://www.courtlistener.com/docket/18606032/279/roe-v-herrington/),
-however (as of Aug. 20, 2024).  Another attempt at requring this is
-being attempted to be passed, as
-[HB2438](https://legiscan.com/AZ/text/HB2438/id/3060341) (updated Apr.
-17, 2025).
+however (as of Aug. 20, 2024).
 
 Intersex people have some limited recognition.
 
@@ -106,8 +103,8 @@ Intersex people have some limited recognition.
 
 ## Relevant Laws
 
- * [2025 HB2438 Birth certificate change restrictions (not yet signed by
-   Governor, updated Apr. 17,
+ * [2025 HB2438 Birth certificate change restrictions (VETOED by Gov.,
+   not in effect; Updated May 26,
    2025)](https://legiscan.com/AZ/text/HB2438/id/3060341)
  * [2025 HB2062 Bathroom Ban (VETOED by Gov., not in effect; Updated
    Apr. 17, 2025)](https://legiscan.com/AZ/text/HB2062/2025)
