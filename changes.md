@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-06-26 \[[US California](us/ca.md)] Added note about hospitals
+    discontinuing care.
  *  2025-05-26 \[[UK](uk.md)] Added UK Police Chief Council guidance on
     searches.
  *  2025-05-26 \[[US Alabama](us/al.md)] Bathroom ban
