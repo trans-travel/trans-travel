@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-07-20 \[[US District of Columbia](us/dc.md)] Children's
+    National has discontinued most trans healthcare.
  *  2025-07-20 \[[US District of Columbia](us/dc.md)] Possible
     anti-trans hate crime near Lincoln Monument.
  *  2025-07-20 \[[US District of Columbia](us/dc.md)] Trans girl

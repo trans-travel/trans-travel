@@ -65,6 +65,9 @@ may still be incomplete in DC.
  * Trans medical care is legal for all ages.
  * DC will not cooperate with other jurisdictions who seek information
    about patients receiving care in DC for medical transition.
+ * Children's National is discontinuing [trans youth
+   healthcare](https://www.childrensnational.org/get-care/departments/gender-development-program)
+   other than therapy and social support (updated July 20, 2025).
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
    and hospitals seeking to limit their liability even before
