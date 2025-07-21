@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-07-20 \[[US Illinois](us/il.md)] UChicago stopped providing
+    gender affirming care.
  *  2025-07-20 \[[US Puerto Rico](us/pr.md)] Added under 25-year-old
     healthcare ban.
  *  2025-06-26 \[[US General](us/usa-general.md)] Added Dept. of State

@@ -69,6 +69,9 @@ company the state's current contract is with does not allow it).
    restraining
    order](https://assets.aclu.org/live/uploads/2025/02/093114651219.pdf)
    against the government (13 February 2025).
+ * Some providers, such as UChicago Medicine have [stopped providing
+   care for
+   minors](https://chicago.suntimes.com/health/2025/07/18/uchicago-discontinues-gender-affirming-care-for-minors) (updated July 20, 2025).
 
 ## Child Custody / Abuse
 
