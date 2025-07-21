@@ -50,6 +50,8 @@ See the [USA TSA](notes/tsa.md) document.
  * Jails and prisons consider the gender identity of prisoners when making
    housing decisions.  However, this does not guarantee a proper
    placement, particularly if the prisoner is housed out-of-district.
+ * In July 2025, a trans girl housed with cis boys was [seriously injured
+   in an attack](https://www.nbcnews.com/nbc-out/out-news/trans-girl-housed-male-unit-jaw-broken-dc-juvenile-detention-center-rcna218960).
 
 ## Legal Definition of Sex
 
@@ -100,7 +102,10 @@ Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
 locker rooms, showers, etc.  Random and targeted attacks may occur, and
 trans people who report these attacks can expect to sometimes be misgendered
-by officials and public institutions.
+by officials and public institutions. For instance, [police are
+investigating](https://www.washingtonblade.com/2025/07/16/cayla-calhoun-beaten-lincoln-memorial/)
+a possible anti-trans hate crime attack that occurred near the Lincoln Monument
+(updated July 20, 2025).
 
 Care should also be used when interacting with public officials or
 protesting government action. On December 10, 2024, A cis man was arrested
