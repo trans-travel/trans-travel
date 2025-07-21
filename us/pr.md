@@ -5,7 +5,7 @@ the information at [General United States
 Information](notes/usa-general.md).
 
 Puerto Rico has negative laws towards trans people. These laws should generally
-not impact adult travelers to Puerto Rico, although Puerto Rico also lacks many
+not impact travelers over age 25 to Puerto Rico, although Puerto Rico also lacks many
 non-discrimination protections.
 
 ## Non-discrimination Law
@@ -41,23 +41,15 @@ Non-binary people are not recognized by Puerto Rico.
 
 ## Medical Care
 
- * Trans medical care is legal for all ages.
+ * Trans medical care is legal for those over age 25.
  * A [federal executive
-   order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
-   and hospitals seeking to limit their liability even before
-   implementation of this order may make accessing care difficult or
-   impossible for those under 19-years-old. (updated 13 February 2025).
-   However, the government is prevented from implementing this order
-   (thus hospitals are not bound by it) because of a [temporary
-   restraining
-   order](https://assets.aclu.org/live/uploads/2025/02/093114651219.pdf)
-   against the government (13 February 2025).
+ * Providing trans medical care to those under age 25 [is
+   illegal](https://www.erininthemorning.com/p/puerto-rico-enacts-most-extreme-care).
 
 ## Child Custody / Abuse
 
- * Transition care is not defined as child abuse
- * Puerto Rico does not have a sanctuary law for people obtaining
-   transition-related medical care.
+ * Transition care is not defined as child abuse, but is illegal and it
+   is unknown if it may impact child custody.
  
 ## Relationship Recognition
 
