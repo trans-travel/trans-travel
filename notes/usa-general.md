@@ -86,18 +86,16 @@ for travel by trans people to the USA (updated Mar. 26, 2025).
 
 ## US Passports
 
-Currently (Mar. 16, 2025), "X" markers are on US passports are still, in
+Currently (June 26, 2025), "X" markers are on US passports are still, in
 theory, valid.  However, no new passports with an "X" marker will be
-issued.  Instead, the passport application will be placed on hold.
+issued.  This is in spite a court order requiring the Dept. of State to
+issue passports with an "X" marker.
 
 In addition, no new passports will be issued with a gender marker change
 (all are currently on hold).  It is unknown how previously-changed
-markers will be handled at passport renewal time.
-
-Note that because of these holds, any documents submitted to support
-such applications (such as old passports, birth certificates, etc) will
-be detained by the State Department until the hold is released and,
-presumably, the application denied.
+markers will be handled at passport renewal time. This is in spite of a
+court order requiring the Dept. of State to issue these passports
+(update June 26, 2025).
 
 ## Other Federal Identification
 
@@ -106,6 +104,8 @@ documents will be denied. It is unknown if renewals would result in
 reversal of previously-changed markers (except in the case of "X"
 markers, which almost certainly will be reverted). In addition,
 documentation may be held.
+
+It is likely this applies to Global Entry and TSA Precheck.
 
 ## Presenting Identification for Federal Purposes
 
