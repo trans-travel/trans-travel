@@ -7,9 +7,7 @@ Information](notes/usa-general.md).
 New Hampshire does not have laws that target trans people directly and has
 non-discrimination laws that protect trans people.
 
-New Hampshire criminalizes some surgical trans care for children, but does
-not generally criminalize other gender-related care, thus it appears that
-parents visiting with trans children will not risk custody.
+New Hampshire criminalizes and/or bans trans medical care for children.
 
 ## Non-discrimination Law
 
@@ -43,7 +41,7 @@ state IDs, but not birth certificates.
 
 ## Medical Care
 
- * Genital surgery for youth is banned as of July 19, 2024.
+ * Trans youth medical care is banned (updated: Aug. 3, 2025).
  * Other trans medical care is legal for adults and children.
  * A [federal executive
    order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/)
@@ -59,8 +57,8 @@ state IDs, but not birth certificates.
 ## Child Custody / Abuse
 
  * Transition care is not specifically defined as child abuse.
-   However, genital surgery is banned for youth. This is unlikely to affect
-   most families with trans children.
+   However, trans medical is banned for youth. It is unknown how this
+   may impact child custody.
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
  
@@ -70,6 +68,8 @@ state IDs, but not birth certificates.
 
 ## Relevant Laws
 
+ * [HB377 Trans Youth Medical Care Ban (signed by governor as of Aug. 1,
+   2025)(https://gc.nh.gov/bill_status/pdf.aspx?id=16601&q=billVersion)
  * [HB619 Trans Youth Medical Care Ban (signed by governor as of July 19, 2024)](https://gencourt.state.nh.us/bill_status/billinfo.aspx?id=71)
 
 ## General Safety

@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-08-01 \[[US New Hampshire](us/nh.md)] Ban on trans youth
+    medical care.
  *  2025-07-20 \[[US District of Columbia](us/dc.md)] Children's
     National has discontinued most trans healthcare.
  *  2025-07-20 \[[US District of Columbia](us/dc.md)] Possible
