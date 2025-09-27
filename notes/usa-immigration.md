@@ -117,9 +117,13 @@ equipment such as needles.
 
 ## Immigration Detention
 
-Immigration detention facilities in the United States do not always
-respect human rights.  Persons without documentation that is acceptable
-to US Immigration may find themselves in ICE custody.
+Immigration detention facilities in the United States do not respect
+human rights.  Persons without documentation that is acceptable
+to US Immigration may find themselves in ICE custody. This can even
+include documentation that was previously acceptable to USA authorities.
+Trans people have been specifically [targeted for forced labor and sexual
+assault](https://rfkhumanrights.org/wp-content/uploads/2025/09/Final-Basile-CRCL-Complaint-_Redacted.pdf)
+in ICE facilities. (updated September 27, 2025)
 
 Immigration authorities in the United States utilize many types of
 facilities for detention of immigrants. These range from outdoor holding
