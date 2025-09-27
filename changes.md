@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-09-26 \[[US Texas](us/tx.md)] Bathroom ban.
  *  2025-08-01 \[[US New Hampshire](us/nh.md)] Ban on trans youth
     medical care.
  *  2025-07-20 \[[US District of Columbia](us/dc.md)] Children's

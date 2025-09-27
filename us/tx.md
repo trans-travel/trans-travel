@@ -24,6 +24,13 @@ care.
 
 ## Public Accommodations
 
+ * Trans people's use of bathrooms and shower facilities is limited:
+   In government buildings, including public educational institutions,
+   local and state government buildings, airports, and other
+   government-run facilities, trans people are banned from bathrooms and
+   sleeping accommodations except unisex single-occupancy facilities
+   or in accordance with their sex assigned at birth.
+   (updated September 26, 2025).
  * Public accommodation access is not protected for trans people in
    Texas.
  * Texas has wide-reaching religious freedom laws that allow denial of
@@ -63,17 +70,16 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Jails / Prisons
 
- * Trans women are typically housed with men.
- * Trans men are typically housed with women.
- * Nonbinary people are typically housed according to sex assigned at birth.
- * Texas considers "genital status" a key factor in housing decisions.
+ * Trans women must be housed with men.
+ * Trans men must be housed with women.
+ * Nonbinary people are housed according to sex assigned at birth.
 
 ## Legal Definition of Sex
 
 Texas does not recognize non-binary gender.
 
 Some laws specify male, female, and similar words based on sex assigned
-at birth and/or chromosomes.
+at birth and/or chromosomes and/or presumed gonads at birth.
 
 It is generally impossible to change your birth certificate or ID in
 Texas (information accurate as of March 14, 2025).  The Texas Attorney
@@ -145,6 +151,8 @@ agencies](https://www.texasattorneygeneral.gov/sites/default/files/opinion-files
 
 ## Relevant Laws
 
+ * [2025 SB8 - Bathroom
+   Ban](https://capitol.texas.gov/tlodocs/892/billtext/pdf/SB00008F.pdf#navpanes=0)
  * [2025 Transphobic Attorney General Opinion on Gender Marker
    Changes](https://www.texasattorneygeneral.gov/sites/default/files/opinion-files/opinion/2025/kp-0489.pdf)
  * [2023 HB2127 - Ban on Local Non-Discrimination Law](https://legiscan.com/TX/text/HB2127/id/2814366)
