@@ -7,9 +7,9 @@ United States.  However, additional information that is relevant is
 located in [General United States Information](notes/usa-general.md) and
 in the state/territory specific pages on this site.  Some of the
 infromation on the [General US Information](notes/usa-general.md)
-applies to international visitors, including travel warnings by Germany,
-Finland, Denmark, France, Transgender Netwerk Nederland,and InterPride.
-(updated Mar. 30, 2025)
+applies to international visitors, including travel warnings by Canada,
+Germany, Finland, Denmark, France, Transgender Netwerk Nederland,and
+InterPride.  (updated Oct. 4, 2025)
 
 Note that the US has become officially transphobic due to an [executive
 order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)
@@ -160,3 +160,5 @@ countries to be placed at work camps.
    center](https://www.washingtonblade.com/2024/04/13/five-transgender-nonbinary-ice-detainees-allege-mistreatment-at-colo-detention-center/)
  * [Rape and COVID within US immigration
    detention](https://www.theguardian.com/us-news/2020/nov/17/trans-women-us-immigration-custody-abuse-covid-19-ice)
+ * [News article on Canada's
+   Warning](https://www.cbc.ca/news/politics/canada-united-states-travel-warning-1.7648381)

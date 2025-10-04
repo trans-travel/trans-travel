@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-10-02 \[[US](notes/us-immigration.md)] Canada warning about
+    travel to USA.
  *  2025-09-27 \[[US](notes/us-immigration.md)] Forced labor and sexual
     assault of trans people in an ICE facility.
  *  2025-09-26 \[[US Texas](us/tx.md)] Bathroom ban.
