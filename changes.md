@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-10-16 \[[US Virgin Islands](us/vi.md)] Virgin Islands has
+    non-discrimination protections and allows legal gender changes in
+    some circumstances.
  *  2025-10-02 \[[US](notes/us-immigration.md)] Canada warning about
     travel to USA.
  *  2025-09-27 \[[US](notes/us-immigration.md)] Forced labor and sexual

@@ -8,13 +8,13 @@ The US Virgin Islands do not have negative laws towards trans people.
 
 ## Non-discrimination Law
 
- * US Virgin Islands public non-discrimination law does not include LGBT
-   people.
+ * USVI bill 34-0271 passed in 2022 and provides non-discrimination
+   protections to LGBT people.
 
 ## Public Accommodations
 
- * Public accommodation access is not protected for trans people in
-   the US Virgin Islands.
+ * Public accommodation access is protected for trans people in the US
+   Virgin Islands.
  * Trans people are not banned from using appropriate bathrooms and locker
    rooms.
 
@@ -37,8 +37,11 @@ See the [USA TSA](notes/tsa.md) document.
 
 Non-binary people are not recognized by US Virgin Islands.
 
-While there is some legal provision for legal gender change, this may
-not occur in practice.
+There is provision for [legal gender
+change](https://transitics.substack.com/p/the-us-virgin-islands-finally-legalises),
+although there is a requirement for medical attestation. This is
+implemented via executive order, after a bill doing the same failed to
+pass.
 
 ## Medical Care
 
@@ -67,8 +70,6 @@ not occur in practice.
 ## Relevant Laws
 
 ## General Safety
-
-The US Virgin Islands has few protections for trans people.
 
 Because of the rhetoric around trans people in the political and media
 space, trans people should use caution, particularly in bathrooms,
