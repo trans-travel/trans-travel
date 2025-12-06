@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-12-06 \[[US Georgia](us/ga.md)] Georgia prisoner healthcare ban
+    ruled unconstitutional.
  *  2025-10-16 \[[US Virgin Islands](us/vi.md)] Virgin Islands has
     non-discrimination protections and allows legal gender changes in
     some circumstances.
