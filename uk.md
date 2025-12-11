@@ -103,7 +103,9 @@ prove they disclosed their sex assigned at birth to their partner(s).
 ## Air Travel
 
  * Travel into/out-of UK will require tickets and documents to
-   match, including gender.
+   match, including gender.  Note that this is a paper match, I.E. your
+   passport you are using and your airline ticket reservation should
+   match.
  * In some cases, body scanners are used to screen passengers in the UK,
    These scanners do not display private parts (just a stylized outline of a
    body with areas of concern highlighted by squares), but it does
