@@ -73,7 +73,9 @@ updated to reflect current name and gender of a person who transtioned.
  * Under [SB129](https://legiscan.com/CO/text/SB129/2025),
    enhance medical records have additional protections for
    trans people. (updated May 26, 2025).
- * Some providers (notably Children's Hospital) have cut back on
+ * Both Children's Hospital of Colorado and Denver Health have stopped
+   providing any medical care for trans youth.
+ * Some providers previously (notably Children's Hospital) cut back on
    transition care, including [cutting back on care for people over
    age 18](https://www.denverpost.com/2023/07/18/childrens-hospital-colorado-transgender-surgery/?share=se0slhdorisewirvhdgy).
    While the stated reason is to ensure they have capacity for children

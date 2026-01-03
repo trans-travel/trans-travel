@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2025-01-03 \[[US Colorado](us/co.md)] Two major health systems have
+    stopped providing gender affirming care to youth.
  *  2025-12-10 \[[UK](uk.md)] Clarified gender match travel
     requirements.
  *  2025-12-06 \[[US Georgia](us/ga.md)] Georgia prisoner healthcare ban
