@@ -48,15 +48,9 @@ See the [USA TSA](notes/tsa.md) document.
 Some laws specify male, female, and similar words based on sex assigned
 at birth and/or chromosomes.
 
-State identification can be changed. Some identification may require a
-court order, however, and some courts have proven resistant to changing
-identification. In addition, for birth certificates, different appeals
-courts have reached [different
-decisions for children](https://www.nwitimes.com/news/local/crime-and-courts/judicial-uncertainty-continues-over-birth-certificate-changes-for-transgender-hoosiers/article_e2032d1e-ef6d-11ed-8865-7bb25f459685.html)
-on changing the gender marker on birth certificates. However, the
-Indiana Legal Service's LGBT Project can [provide
-assistance](https://www.indianalegalservices.org/namegendermarkerfaq)
-for this or other name-change issues.
+State identification [cannot be
+changed](https://www.in.gov/bmv/licenses-permits-ids/learners-permits-and-drivers-licenses-overview/drivers-license/amending-your-drivers-license-or-identification-card/),
+even with a court order.
 
 Non-binary people are not recognized.
 
