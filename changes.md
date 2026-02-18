@@ -1,8 +1,10 @@
 # Change Log for Trans Travel Guide
 
- *  2025-02-12 \[[US Indiana](us/in.md)] State ID can no longer be
+ *  2026-02-17 \[[US Kansas](us/ks.md)] Bathroom and ID restrictions
+    further written into law.
+ *  2026-02-12 \[[US Indiana](us/in.md)] State ID can no longer be
     changed.
- *  2025-01-03 \[[US Colorado](us/co.md)] Two major health systems have
+ *  2026-01-03 \[[US Colorado](us/co.md)] Two major health systems have
     stopped providing gender affirming care to youth.
  *  2025-12-10 \[[UK](uk.md)] Clarified gender match travel
     requirements.

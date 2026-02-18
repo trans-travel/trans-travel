@@ -101,18 +101,9 @@ Intersex people who are "born with a medically verifiable diagnosis of
 'disorder/differences in sex development'" should be considered disabled
 and provided accommodations under the Americans with Disabilities Act.
 
-The Attorney General has issued an opinion requiring state agencies to
-re-issue driver's licenses and birth certificates where they have been
-changed because a person is transgender. The re-issued licenses and
-certificates would indicate the sex assigned at birth. The Governor
-disagrees with this interpretation and has made some indications
-(but not official executive orders) that she will direct agencies to
-continue to not re-issue documents with sex assigned at birth, but a
-state court thus far has agreed with the attorney general, overruling
-the Governor. There is currently a court order in place [prohibiting
-gender marker
-changes](https://www.aclukansas.org/en/cases/motion-intervene-kansas-v-harper),
-as of Mar. 14, 2025.
+Trans people are banned from obtaining birth certificates, ID, or driver
+licenses reflecting lived gender, per
+[SB244](https://www.kslegislature.gov/li/b2025_26/measures/sb244/).
 
 Note that these laws while targeting trans people also place gender
 non-conforming cis women at risk of invasive questioning and state
@@ -155,6 +146,8 @@ action.
 
 ## Relevant Laws
 
+ * [2026 SB244 - Bathroom and Document
+   Ban](https://www.kslegislature.gov/li/b2025_26/measures/sb244/)
  * [2025 HB188 - Youth Healthcare and Social Transition
    Ban](https://legiscan.com/MS/drafts/HB188/2025)
  * [2024 SB63 - Youth Healtcare and Social Transition
