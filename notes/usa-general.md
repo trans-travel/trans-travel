@@ -19,7 +19,7 @@ Examples of spaces that are federally-controlled:
  - Bathrooms/toilets/showers in national parks
  - Federal prisons
  - Veterans Administration Hospitals
- - Immigrations and Customs Facilities
+ - Immigration and Customs Facilities
  - Military buildings
  - Federal buildings
  - Post offices
@@ -358,4 +358,9 @@ following the US civil war.
 Crowds of drunk young men can become violent towards visibly trans
 people. If you will be around groups which may include many drunk young
 men, consider your safety situation.
+
+## Policies
+
+ * [Federal Prison
+   Policy](https://s3.documentcloud.org/documents/27307934/bop-526001-management-of-inmates-with-gender-dysphoria.pdf) (updated 19 Feb 2026)
 

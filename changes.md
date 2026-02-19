@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2026-02-19 \[[US General](notes/usa-general.md)] Linked to BOP trans
+    policy.
  *  2026-02-17 \[[US Kansas](us/ks.md)] Bathroom and ID restrictions
     further written into law.
  *  2026-02-12 \[[US Indiana](us/in.md)] State ID can no longer be
