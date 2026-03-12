@@ -12,13 +12,15 @@ visiting with trans children will not risk custody.
 
 [SF418](https://www.legis.iowa.gov/docs/publications/LGE/91/SF418.pdf)
 legalizes discrimination against transgender people and may result in the
-state government implementing anti-trans discrimination (updated Feb. 28, 2025).
+state government implementing anti-trans discrimination.
 
 ## Non-discrimination Law
 
  * [SF418](https://www.legis.iowa.gov/docs/publications/LGE/91/SF418.pdf)
    legalizes and establishes discrimination on the basis of trans identity
    (updated Feb. 28, 2025).
+ * Local governments are banned from protecting trans people under the
+   law.
 
 ## Public Accommodations
 
@@ -103,6 +105,9 @@ discriminate against trans people in essentially every area of life (updated Feb
 
 The state has a law that prevents instruction on sexual orientation or
 gender identity through grade six in schools.
+
+The state has a law that bans local governments from having
+non-discrimination law.
 
 Essex, a small town near Shanandooah, has [banned an LGBT
 organization](https://www.kmaland.com/news/aclu-demands-shenandoah-prides-inclusion-in-essex-parade/article_8c16ccb0-4a64-11ee-85be-9b933dd52bdd.html)
