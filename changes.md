@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2026-03-24 \[[US South Dakota](us/sd.md)] Transphobic definition of
+    sex law.
  *  2026-03-11 \[[US Iowa](us/ia.md)] Local government
     non-discrimination ordinances banned.
  *  2026-02-19 \[[US General](notes/usa-general.md)] Linked to BOP trans

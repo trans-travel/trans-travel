@@ -49,10 +49,12 @@ See the [USA TSA](notes/tsa.md) document.
 Non-binary people are not recognized.
 
 Some laws specify male, female, and similar words based on sex assigned
-at birth, gametes, and/or chromosomes.
+at birth, gametes, and/or chromosomes. For instance,
+[HB11840(https://legiscan.com/SD/text/HB1184/id/3389758/South_Dakota-2026-HB1184-Enrolled.pdf)
+creates a transphobic legal definition of sex in all law.
 
-South Dakota allows gender marker changes on IDs only in limited
-circumstances.
+South Dakota does not gender marker changes on IDs or birth
+certificates.
 
 ## Medical Care
 
@@ -93,6 +95,7 @@ circumstances.
 
 ## Relevant Laws
 
+ * [2026 HB1184 - Legal definition of sex](https://legiscan.com/SD/text/HB1184/id/3389758/South_Dakota-2026-HB1184-Enrolled.pdf)
  * [2025 HB1259 - Bathroom
    Ban](https://legiscan.com/SD/text/HB1259/id/3166382)
  * [2023 HB1080 - Trans Youth Medical Ban](https://legiscan.com/SD/text/HB1080/id/2695160)
