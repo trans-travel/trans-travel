@@ -4,6 +4,17 @@ This page contains regional-specific information that is in addition to
 the information at [General United States
 Information](notes/usa-general.md).
 
+Idaho is close to enacting the most draconian "[bathroom
+bill](https://legislature.idaho.gov/sessioninfo/2026/legislation/H0752/)" in the
+United States, which would include penalties up to life in prison for
+repeat "offenders" (including people who have been found guilty of
+similar "crimes" in other states. This would apply to government
+facilities and also to private businesses, impacting nearly every trans
+person, as well as those cis people who don't follow gender stereotypes,
+while while not direct targets of the law, may find themselves dealing
+with vigilante bathroom police.  It is not yet, as of March 27, 2026,
+signed by the governor.
+
 Idaho has negative laws towards trans people. These laws may, in some
 cases, impact travelers.  In particular, medical professionals,
 government employees, and people working for public colleges and
@@ -25,11 +36,19 @@ impact on child custody.
 
 ## Public Accommodations
 
+ * Idaho is close to enacting the most draconian "[bathroom
+   bill](https://legislature.idaho.gov/sessioninfo/2026/legislation/H0752/)" in the
+   United States, which would include penalties up to life in prison for
+   repeat "offenders" (including people who have been found guilty of
+   similar "crimes" in other states. This would apply to government
+   facilities and also to private businesses, impacting nearly every trans
+   person, as well as those cis people who don't follow gender stereotypes,
+   while while not direct targets of the law, may find themselves dealing
+   with vigilante bathroom police.  It is not yet, as of March 27, 2026,
+   signed by the governor.
  * According to law, trans people are required to use bathrooms/showers
    associated with their sex assigned at birth when using some
-   bathrooms/showers in schools. However, this is [being
-   challenged](https://lambdalegal.org/case/roe-v-critchfield/)
-   in court (updated Mar. 20, 2025).
+   bathrooms/showers in schools. (updated March 27, 2026)
  * Trans people are also required to use bathrooms and sleeping quarters
    according to their sex assigned at birth in some higher education
    facilities and domestic violence shelters. Note that the enforcement
@@ -130,6 +149,8 @@ Intersex are not recognized.
 
 ## Relevant Laws
 
+ * [2026 HB752 - Bathroom ban (not yet signed by
+   Governor)](https://legislature.idaho.gov/sessioninfo/2026/legislation/H0752/)
  * [2025 H0264 - Bathroom
    ban](https://legiscan.com/ID/text/H0264/id/3190720)
  * [2025 H0345 - Medicaid ban](https://legiscan.com/ID/text/H0345/2025)
@@ -144,6 +165,9 @@ Intersex are not recognized.
  * [2023 S1100 - School Bathroom Ban](https://legiscan.com/ID/text/S1100/id/2730977)
 
 ## General Safety
+
+Bathroom usage may soon (as of Mar 27, 2026) become illegal for many
+trans people in Idaho. This law would carry felony penalties.
 
 Idaho has few protections for trans people, and trans children may be
 at particular risk if using puberty blockers or hormone replacement therapy.
