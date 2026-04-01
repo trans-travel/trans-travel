@@ -12,8 +12,7 @@ similar "crimes" in other states. This would apply to government
 facilities and also to private businesses, impacting nearly every trans
 person, as well as those cis people who don't follow gender stereotypes,
 while while not direct targets of the law, may find themselves dealing
-with vigilante bathroom police.  It is not yet, as of March 27, 2026,
-signed by the governor.
+with vigilante bathroom police. (updated March 31, 2026).
 
 Idaho has negative laws towards trans people. These laws may, in some
 cases, impact travelers.  In particular, medical professionals,
@@ -44,8 +43,7 @@ impact on child custody.
    facilities and also to private businesses, impacting nearly every trans
    person, as well as those cis people who don't follow gender stereotypes,
    while while not direct targets of the law, may find themselves dealing
-   with vigilante bathroom police.  It is not yet, as of March 27, 2026,
-   signed by the governor.
+   with vigilante bathroom police. (Updated March 31, 2026)
  * According to law, trans people are required to use bathrooms/showers
    associated with their sex assigned at birth when using some
    bathrooms/showers in schools. (updated March 27, 2026)
@@ -149,7 +147,7 @@ Intersex are not recognized.
 
 ## Relevant Laws
 
- * [2026 HB752 - Bathroom ban (not yet signed by
+ * [2026 HB752 - Bathroom ban
    Governor)](https://legislature.idaho.gov/sessioninfo/2026/legislation/H0752/)
  * [2025 H0264 - Bathroom
    ban](https://legiscan.com/ID/text/H0264/id/3190720)

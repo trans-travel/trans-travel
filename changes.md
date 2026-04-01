@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2026-03-31 \[[US Idaho](us/id.md)] Bathroom ban signed by governor.
  *  2026-03-27 \[[US Idaho](us/id.md)] Bathroom ban (not yet signed by
     Governor) passed.
  *  2026-03-24 \[[US South Dakota](us/sd.md)] Transphobic definition of
