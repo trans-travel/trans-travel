@@ -102,12 +102,7 @@ assigned at birth and/or chromosomes.
  * Trans medical care is legal for adults.
  * Medical transition for people under age 18 is illegal.  This includes both
    care provided from within Tennessee and care provided via telehealth.
-   While a preliminary injunction would have allowed both puberty blockers
-   and hormone therapy for trans youth until the case challenging the ban is
-   heard, the appeals court decided that [stay was
-   invalid](https://storage.courtlistener.com/pdf/2023/07/08/l._w._v._jonathan_skrmetti.pdf).
-   However, this matter is currently being heard by the US Supreme Court
-   (updated Mar. 26, 2025).
+   (updated May. 3, 2026).
  * Medical providers (including mental health providers) can deny some
    care on the basis of their religious or ethical beliefs.
  * Nearly anyone working in healthcare (not just people with medical

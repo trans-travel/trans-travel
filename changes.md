@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2026-05-03 \[{US Tennessee](us/tn.md)] Youth healthcare ban in
+    effect.
  *  2026-03-31 \[[US Idaho](us/id.md)] Bathroom ban signed by governor.
  *  2026-03-27 \[[US Idaho](us/id.md)] Bathroom ban (not yet signed by
     Governor) passed.
