@@ -112,8 +112,11 @@ action.
 ## Medical Care
 
  * Trans medical care is legal for adults in Kansas.
- * Kansas bans all forms of gender affirming medical care, including
-   ethical therapy for trans youth.
+ * Kansas has laws that ban all forms of gender affirming medical care,
+   including ethical therapy for trans youth.  However, these bans are
+   currently [blocked by a
+   court](https://assets.aclu.org/live/uploads/2026/05/SB63PI.pdf)
+   (updated May 16, 2026).
  * Kansas bans state agencies assisting with social transition of youth.
    This may require intentional discrimination by state officials and
    programs, for instance disallowing a short haircut for a trans boy.
@@ -135,8 +138,8 @@ action.
 
 ## Child Custody / Abuse
 
- * Transition care is not specifically defined as child abuse, but the
-   care ban's impact on custody is unknown.
+ * Transition care is not specifically defined as child abuse. (updated
+   May 16, 2026).
  * There is no sanctuary law preventing cooperation with other
    jurisdictions
  
@@ -150,8 +153,10 @@ action.
    Ban](https://www.kslegislature.gov/li/b2025_26/measures/sb244/)
  * [2025 HB188 - Youth Healthcare and Social Transition
    Ban](https://legiscan.com/MS/drafts/HB188/2025)
- * [2024 SB63 - Youth Healtcare and Social Transition
+ * [2024 SB63 - Youth Healthcare and Social Transition
    Ban](https://kslegislature.gov/li/b2025_26/measures/documents/sb63_enrolled.pdf)
+   This is [blocked by a
+   court](https://assets.aclu.org/live/uploads/2026/05/SB63PI.pdf) (updated May 16, 2026)
  * [2023 SB180 - Trans-exclusionary Definition of Sex](http://kslegislature.org/li/b2023_24/measures/documents/sb180_enrolled.pdf)
  * [2023 Attorney General Opinion on SB180](https://ag.ks.gov/docs/default-source/ag-opinions/ago-2023-2-rep-barth---final.pdf?sfvrsn=f3f6bc1a_4)
 
