@@ -22,7 +22,7 @@ South Carolina does not appear to place child custody at risk.
  * Trans people are banned from using appropriate bathrooms and locker rooms
    in public schools (including universities, which also applies to
    sporting events and other activities), see
-   [SB4756](https://legiscan.com/SC/text/H4756/2025) (updated May 16,
+   [H4756](https://legiscan.com/SC/text/H4756/2025) (updated May 16,
    2026).
  * General public accommodation access is not specifically protected by law
    for trans people in South Carolina.
