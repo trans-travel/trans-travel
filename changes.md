@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2026-05-16 \[[US South Carolina](us/sc.md)] School and university
+    bathroom ban (applies to the public at school events).
  *  2026-05-16 \[[US Kansas](us/ks.md)] Court blocks Kansas youth
     healthcare ban.
  *  2026-05-16 \[[US Oklahoma](us/ok.md)] Oklahoma public fund and

@@ -19,8 +19,11 @@ South Carolina does not appear to place child custody at risk.
 
 ## Public Accommodations
 
- * Trans people are not banned from using appropriate bathrooms and locker
-   rooms.
+ * Trans people are banned from using appropriate bathrooms and locker rooms
+   in public schools (including universities, which also applies to
+   sporting events and other activities), see
+   [SB4756](https://legiscan.com/SC/text/H4756/2025) (updated May 16,
+   2026).
  * General public accommodation access is not specifically protected by law
    for trans people in South Carolina.
 
@@ -45,7 +48,8 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Legal Definition of Sex
 
-Non-binary people are not recognized.
+Non-binary people are not recognized.  Some laws use transphobic
+definitions of sex.
 
 ## Medical Care
 
@@ -94,7 +98,9 @@ Non-binary people are not recognized.
 
 ## Relevant Laws
 
- * [Trans youth healthcare ban](https://www.scstatehouse.gov/sess125_2023-2024/bills/4624.htm)
+ * [2025 H4756 - School/University bathroom
+   ban](https://legiscan.com/SC/text/H4756/2025) (Updated May 16, 2026).
+ * [2024 S4756 - Trans youth healthcare ban](https://www.scstatehouse.gov/sess125_2023-2024/bills/4624.htm)
 
 ## General Safety
 
