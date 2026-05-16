@@ -1,6 +1,8 @@
 # Change Log for Trans Travel Guide
 
- *  2026-05-03 \[{US Tennessee](us/tn.md)] Youth healthcare ban in
+ *  2026-05-16 \[[US Oklahoma](us/ok.md)] Oklahoma public fund and
+    facility healthcare ban.
+ *  2026-05-03 \[[US Tennessee](us/tn.md)] Youth healthcare ban in
     effect.
  *  2026-03-31 \[[US Idaho](us/id.md)] Bathroom ban signed by governor.
  *  2026-03-27 \[[US Idaho](us/id.md)] Bathroom ban (not yet signed by
@@ -162,9 +164,9 @@
  *  2025-03-30 \[[US Washington](us/wa.md)] Attack on trans person.
  *  2025-03-27 \[[US Montana](us/mt.md)] Bathroom ban signed by
     governor.
- *  2025-03-26 \[USA] Notes on travel warnings from France, Demnark, and
+ *  2025-03-26 \[[USA](notes/usa-general.md)] Notes on travel warnings from France, Denmark, and
     Finland.
- *  2025-03-26 \[USA] Notes on immigration/detention/protests
+ *  2025-03-26 \[[USA](notes/usa-general.md)] Notes on immigration/detention/protests
  *  2025-03-26 \[[US South Dakota](us/sd.md)] Bathroom ban
  *  2025-03-26 \[[US Ohio](us/oh.md)] Potential ban on anti-racist and
     trans-affirming education in colleges.
@@ -196,7 +198,7 @@
  *  2025-03-14 \[[US Kentucky](us/ky.md)] Conversion therapy protection
     law likely to pass.
  *  2025-03-14 \[[US Kansas](us/ks.md)] In addition to previous bans on
-    youth healtcare, state facilities cannot be used to "promote"
+    youth healthcare, state facilities cannot be used to "promote"
     gender transition for youth.
  *  2025-03-14 \[[US Mississippi](us/ms.md)] If HB188 signed by gov,
     trans people would be required to be housed in jail by sex assigned
@@ -210,7 +212,7 @@
  *  2025-02-25 \[[US](notes/usa-immigration.md)] State Department
     guidance bans travel to the USA using documents that don't match sex
     assigned at birth.
- *  2025-02-20 \[[US Utah](us/ut.md)] Trans prisoner healtcare ban
+ *  2025-02-20 \[[US Utah](us/ut.md)] Trans prisoner healthcare ban
     pending Governor signature.
  *  2025-02-20 \[[US Alabama](us/al.md)] Bathroom ban in state
     facilities and transphobic definition of sex enacted but not yet
@@ -225,7 +227,7 @@
  *  2025-02-05 \[[US](notes/usa-immigration.md)] Unconfirmed reports of
     trans visa applications being considered fraud going forward.
  *  2025-01-31 \[[US](notes/tsa.md)] Updated travel screening information
-    to reflect transphobic policies likely implemented at TSA
+    to reflect transphobic policies likely implemented at TSA.
  *  2025-01-30 \[[MX](mx.md)] Noted that adult care may be more difficult
     to access in MX than some states of the USA. Previously this said
     all care might be more difficult, but with changes in the USA it may
@@ -268,9 +270,9 @@
     Florida jails/prisons.
  *  2024-12-04 \[[CA Alberta](ca/ab.md)] Alberta bans trans medical care
     for those under 16.
- *  2024-11-27 \[[US Ohio](us/oh.md) Bathroom ban signed by Ohio
+ *  2024-11-27 \[[US Ohio](us/oh.md)] Bathroom ban signed by Ohio
     governor.
- *  2024-11-24 \[[US General Information](notes/usa-general.md) Added
+ *  2024-11-24 \[[US General Information](notes/usa-general.md)] Added
     general USA travel notes.
  *  2024-11-21 \[[US DC](us/dc.md)] Capitol Complex bathroom ban.
  *  2024-11-18 \[[US Texas](us/tx.md)] Odessa extends trans bathroom ban
@@ -311,7 +313,7 @@
  *  2024-07-19 \[[US South Carolina](us/sc.md)\] MUSC has stopped
     providing adult gender-related care.
  *  2024-07-19 \[[US Florida](us/fl.md)\] Florida has asked for trans
-    medicine ban to be re-inestated.
+    medicine ban to be re-instated.
  *  2024-07-19 \[[US New Hampshire](us/nh.md)\] Trans youth medical ban
     signed.
  *  2024-07-18 \[[US Tennessee](us/tn.md)\] Drag ban again in-force
@@ -354,7 +356,7 @@
  *  2024-06-26 \[[US Montana](us/mt.md)\] Definition of sex law declared
     invalid.
  *  2024-06-24 \[[US New York](us/ny.md)\] Nassau County passes a
-    tranphobic sports ban and legal definition of sex.
+    transphobic sports ban and legal definition of sex.
  *  2024-06-11 \[[US Florida](us/fl.md)\] Most medical restrictions
     ruled unconstitutional.
  *  2024-06-08 \[[US Nebraska](us/ne.md)\] Noted attack in a bar against
@@ -398,7 +400,7 @@
  *  2024-05-04 \[[US Utah](us/ut.md)\] State sets up snitch site for
     bathroom violations.
  *  2024-04-30 \[[US Arkansas](us/ar.md)\] Transgender resource center
-    vandelized.
+    vandalized.
  *  2024-04-26 \[[US Idaho](us/id.md)\] HB421 passed.
  *  2024-04-25 \[[US Florida](us/fl.md)\] State directs schools to
     ignore some Title IX regulations.
@@ -411,7 +413,7 @@
  *  2024-04-25 \[[US Tennessee](us/tn.md)\] Lawsuit against ID change
     bans.
  *  2024-04-25 \[[US California](us/ca.md)\] Trans women attacked in
-    Sacremento.
+    Sacramento.
  *  2024-04-25 \[[US Maine](us/me.md)\] Sanctuary law signed.
  *  2024-04-25 \[[US Texas](us/tx.md)\] Governor states trans teachers
     should dress as their birth gender.
@@ -435,7 +437,7 @@
  *  2024-04-18 \[[UK](uk.md)\] Added note that NHS generally does not
     provide puberty blockers or HRT to youth.
  *  2024-04-17 \[[US Virginia](us/va.md)\] Norfolk transgender center
-    vandelized.
+    vandalized.
  *  2024-04-16 \[[US Ohio](us/oh.md)\] Court temporary blocked HB68.
  *  2024-04-15 \[[US International Visitors](notes/usa-immigration.md)\]
     Information for international visitors to the USA
@@ -451,7 +453,7 @@
     injunction allowing her to identify herself properly to students.
  *  2024-04-03 \[[US Idaho](us/id.md)\] Therapist discrimination,
     misgendering / deadnaming permission for government employees, and
-    new trans-exclusionary legal definiton of sex.
+    new trans-exclusionary legal definition of sex.
  *  2024-03-31 \[[Canada Northwest Territories](ca/nt.md)\] Added
     Northwest Territories.
  *  2024-03-31 \[[Canada Nunavut](ca/nu.md)\] Added Nunavut.
@@ -466,7 +468,7 @@
  *  2024-03-12 \[[CA Prince Edward Island](ca/pe.md)\] Prince Edward
     Island added to guide.
  *  2024-03-12 \[[US Nebraska](us/ne.md)\] Permanent regulations
-    enacated but not published.
+    enacted but not published.
  *  2024-03-12 \[[US Utah](us/ut.md)\] DoJ finds prison system violated
     the ADA.
  *  2024-03-12 \[[US West Virginia](us/wv.md)\] Ban on non-binary birth
@@ -543,7 +545,7 @@
     park discriminating against a trans woman who successfully reached a
     settlement along with HUD against the RV park in 2022.
  *  2023-12-19 \[[US Montana](us/mt.md)\] ACLU suing Montana over their
-    transphoibc definition of sex.
+    transphobic definition of sex.
  *  2023-12-18 \[[CA Ontario](ca/on.md)\] A court ruling implies that
     some common anti-LGBT slurs linking trans people to pedophiles are
     not exempt from defamation lawsuits.
@@ -560,7 +562,7 @@
  *  2023-12-12 \[[US Missouri](us/mo.md)\] Information about a possibly
     anti-trans attack in St. Louis.
  *  2023-12-06 \[[US Missouri](us/mo.md)\] Bills targeting continuing
-    care (grandfathering) of trans youth have been prefiled.
+    care (grandfathering) of trans youth have been pre-filed.
  *  2023-12-06 \[[US Missouri](us/mo.md)\] Washington University is
     arguing in court that they should not have to turn over patient
     records to the Attorney General.
@@ -579,13 +581,13 @@
  *  2023-11-21 \[[US North Carolina](us/nc.md)\] North Carolina loses
     lawsuit by trans prisoner for transfer to women's prison.
  *  2023-11-13 \[[US Tennessee](us/tn.md)\] Knoxville Pride Center
-    targetted by hate group.
+    targeted by hate group.
  *  2023-11-09 \[[US Florida](us/fl.md)\] Fernandina Beach considers
     Transgender Day of Remembrance to be "political."
  *  2023-11-07 \[[US North Dakota](us/nd.md)\] Trans youth medical ban
     is being challenged.
  *  2023-11-03 \[[US New Hampshire](us/nh.md)\] Littleton, NH may take
-    anti-art actions due to the presence of inclusino themes or LGBT
+    anti-art actions due to the presence of inclusion themes or LGBT
     characters.
  *  2023-11-03 \[[US Wisconsin](us/wi.md)\] Proposed bill to house trans
     prisoners according to sex assigned at birth.
@@ -619,7 +621,7 @@
  *  2023-10-11 \[[US Texas](us/tx.md)\] Note drag bans are allowed but
     prosecutions not allowed.
  *  2023-10-11 \[[US North Carolina](us/nc.md)\] Trans youth healthcare
-    ban is being challegned.
+    ban is being challenged.
  *  2023-10-11 \[[US Washington](us/wa.md)\] Settlement to provide
     better treatment of trans prisoners.
  *  2023-10-11 \[[US Maine](us/me.md)\] Noted former Oakland city
@@ -663,7 +665,7 @@
  *  2023-09-21 \[[Aotearoa / New Zealand](nz.md)\] Indicate usage of
     gender-specific screening technology at airports.
  *  2023-09-16 \[[CA Ontario](ca/on.md)\] Added Ontario.
- *  2023-09-15 \[[US Kansas](us/ks.md)\] Library bans neurodiveristy
+ *  2023-09-15 \[[US Kansas](us/ks.md)\] Library bans neurodiversity
     pride symbol.
  *  2023-09-14 \[[US Kansas](us/ks.md)\] Religious homeless shelter
     banning trans people who make others "uncomfortable."
@@ -705,7 +707,7 @@
     certificate changes; updated to note driver's license changes not
     allowed either.
  *  2023-08-31 \[[US Tennessee](us/tn.md)\] Blount County has indicated
-    a wilingness to enforce the drag ban, despite it being ruled
+    a willingness to enforce the drag ban, despite it being ruled
     unconstitutional.
  *  2023-08-31 \[[US Alabama](us/al.md)\] Indicate willingness by AG to
     prosecute "criminal conspiracy" in abortion cases and how that might
@@ -724,7 +726,7 @@
  *  2023-08-28 \[[US Alabama](us/al.md)\] Clarify current legal status
     of trans youth care ban.
  *  2023-08-27 \[[US Colorado](us/co.md)\] Note about armed hate groups
-    operating within Colorado to imtimidate LGBT people.
+    operating within Colorado to intimidate LGBT people.
  *  2023-08-24 \[[US Texas](us/tx.md)\] Decision on trans youth
     healthcare ban and appeal of that decision.
  *  2023-08-24 \[[US Arizona](us/az.md)\] Discussion of bias that may

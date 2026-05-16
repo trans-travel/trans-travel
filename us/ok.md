@@ -31,6 +31,9 @@ visitors).
  * State officials have directed schools to [ignore Title IX
    regulations](https://www.losangelesblade.com/2024/04/25/four-states-to-ignore-new-title-ix-rules-protecting-trans-students/)
    (as of April 25, 2024) regarding non-discrimination against trans people.
+ * Medical transition is banned in publicly owned/leased buildings.
+   See [SB904](https://legiscan.com/OK/text/SB904/2026) (updated May 16,
+   2026).
  * Norman, OK has a non-discrimination law locally.
 
 ## Public Accommodations
@@ -42,6 +45,9 @@ visitors).
    cis women at risk of invasive questioning and state action.
  * Public accommodation access is not protected for trans people in
    Oklahoma.
+ * Medical transition is banned in publicly owned/leased buildings.
+   See [SB904](https://legiscan.com/OK/text/SB904/2026) (updated May 16,
+   2026).
  * Oklahoma has religious freedom laws that allow denial of some services
    on the basis of gender identity.
 
@@ -59,6 +65,9 @@ See the [USA TSA](notes/tsa.md) document.
  * Trans men will be housed with women due to executive order.
  * Nonbinary people will typically be housed according to sex
    assigned at birth due to executive order.
+ * Medical transition is banned in public facilities, such as prisons.
+   See [SB904](https://legiscan.com/OK/text/SB904/2026) (updated May 16,
+   2026).
  * Medical care (HRT) has been discontinued for at least one prisoner
    due to prison staff believing she was "faking" being transgender.
  * Medical care other than HRT is not generally provided (by policy).
@@ -131,6 +140,10 @@ at birth and/or chromosomes.
 
 ## Relevant Laws
 
+ * [2026 SB904 - Gender care ban in public facilities or with public
+   funds](https://legiscan.com/OK/text/SB904/2026).
+   See [SB904](https://legiscan.com/OK/text/SB904/2026) (updated May 16,
+   2026).
  * [2023 EO 2023-20 - Executive Order Definition of Sex/Gender](https://www.iwv.org/wp-content/uploads/2023/08/OK-gov-stitt-executive-order-womens-bill-of-rights.pdf)
  * [2023 SB613 - Trans Youth Healthcare Ban](https://legiscan.com/OK/text/SB613/id/2795559)
  * [2023 SB615 - Trans School Bathroom Ban](https://legiscan.com/OK/text/SB615/id/2586890)
