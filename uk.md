@@ -21,8 +21,10 @@ The situation for trans people is rapidly deteriorating in UK. Ensure
 you have the latest information before traveling to the UK.
 
 Trans people should use care traveling to the UK due to a [UK Supreme
-Court decision](https://supremecourt.uk/cases/uksc-2024-0042). This
-decision defines sex as sex assigned at birth, and generally allows
+Court decision](https://supremecourt.uk/cases/uksc-2024-0042) and
+[draft EHCR
+guidance](https://www.equalityhumanrights.com/our-work/uk-supreme-court-ruling-meaning-sex-equality-act-our-work).
+These define sex as sex assigned at birth, and generally allows
 discrimination against trans people in single-sex spaces (bathrooms,
 prisons, searches by law enforcement/airport security, lesbian
 gatherings, spas, locker rooms, etc). In some cases, trans people are
@@ -31,7 +33,7 @@ do not conform to their sex assigned at birth. In addition, vigilante
 enforcement beyond the law is possible, and thus not only trans people,
 but cis people who do not unambiguously conform to gender stereotypes,
 should use caution. Note that the decision does not recognize surgery as
-a valid reason to use the appropriate facilities. (updated Apr. 17, 2025)
+a valid reason to use the appropriate facilities. (updated July. 23, 2026)
 
 People visiting the UK with trans youth (under 18) likely should be
 cautious with mention of medical transition to medical authorities, as
@@ -43,12 +45,12 @@ The UK has non-discrimination law that protects "gender reassignment"
 process to reassign your gender) in the Equality Act. So there are still
 some protections against anti-trans discrimination, but not when it
 comes to bathrooms, locker rooms, police/security searches, lesbian
-gatherings, etc.  (updated Apr. 17, 2025).
+gatherings, sports, etc.  (updated July 23, 2026)
 
-UK bans some trans care, notably most use of puberty blockers for anyone
-under the age of 18 when used for gender transition. This ban also
+UK bans some trans care, notably most use of puberty blockers or HRT
+for anyone under the age of 18 when used for gender transition. This ban also
 applies to out-of-country prescription. It may impact UK citizens
-bringing puberty blockers into the country.
+bringing puberty blockers into the country. (update July 23, 2026)
 
 Of note, sexual activity, even consensual sexual activity, even including
 activities such as kissing, may place trans people at risk if they cannot
@@ -64,6 +66,10 @@ prove they disclosed their sex assigned at birth to their partner(s).
    decision](https://supremecourt.uk/cases/uksc-2024-0042), this does
    change the legal sex a person is recognized for single-sex spaces.
    (updated Apr. 17, 2025)
+ * [Draft EHCR
+   guidance](https://www.equalityhumanrights.com/our-work/uk-supreme-court-ruling-meaning-sex-equality-act-our-work)
+   implementing the Equality Act would allow discrimination against
+   trans people in a wide variety of circumstances.
  * The law assumes a binary "gender reassignment", and does not
    reference non-binary people.
  * While harassment and discrimination against trans people are
@@ -73,6 +79,16 @@ prove they disclosed their sex assigned at birth to their partner(s).
  * Vigilante enforcement of the Supreme Court decision can be expected.
    This may impact cis women in particular, if their gender expression
    does not conform to expected female stereotypes.
+ * TERF beliefs are legally protected and it is illegal to say things
+   like "JK Rowling is killing kids with her transphobic beliefs towards
+   children." Saying similar things in the UK, if libel charges are
+   brought, could subject the person to penalties. However, many TERF
+   beliefs, such as referring to trans people as their sex assigned at
+   birth or promoting transphobia have been legally protected. (Updated
+   July 23, 2026)
+ * Cis women's transphobic "right" to not share bathrooms and lockerrooms seems
+   to be legally protected and organizations that fail to respect this
+   "right" are sometimes penalized (July 23, 2026).
 
 ## Public Accommodations
 
@@ -82,6 +98,9 @@ prove they disclosed their sex assigned at birth to their partner(s).
    if they do not conform to gender stereotypes of their sex assigned at
    birth. However that gender neutral facilities are not required to exist.
    (updated Apr. 17, 2025)
+ * This is mirrored in the [Draft EHCR
+   guidance](https://www.equalityhumanrights.com/our-work/uk-supreme-court-ruling-meaning-sex-equality-act-our-work)
+   (updated July 23, 2026)
  * Even before the law change, some organizations have enforced anti-trans bathroom
    policies against trans women (for example, in October, 2024,
    [Butlin's dragged 5 trans women and a bystander out of women's
@@ -89,12 +108,12 @@ prove they disclosed their sex assigned at birth to their partner(s).
    occurred in locker rooms). (updated Apr. 17, 2025)
  * Beyond bathrooms, gendered spaces, particularly for women, may be
    extremely transphobic and likely will prohibit trans people. For instance,
-   women's political events or a lesbian gathering. (updated Apr. 17,
-   2025)
- * Vigilante enforcement of the Supreme Court decision can be expected.
+   sports, women's political events or a lesbian gathering. (updated
+   July 23, 2026)
+ * Vigilante enforcement of the Supreme Court decision is occurring.
    This may impact cis women in particular, if their gender expression
-   does not conform to expected female stereotypes. (updated Apr. 17,
-   2025)
+   does not conform to expected female stereotypes. (updated July 23,
+   2026)
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -119,8 +138,9 @@ prove they disclosed their sex assigned at birth to their partner(s).
    to resolve metal detector or scanner alarms, have been conducted by
    security staff that does not match their identified gender. It is
    likely this will be the norm since the Supreme Court
-   [decision](https://supremecourt.uk/cases/uksc-2024-0042). (updated
-   Apr. 17, 2025)
+   [decision](https://supremecourt.uk/cases/uksc-2024-0042) and the [Draft EHCR
+   guidance](https://www.equalityhumanrights.com/our-work/uk-supreme-court-ruling-meaning-sex-equality-act-our-work)
+   (updated July 23, 2026).
 
 ## Other International Travel
 
@@ -135,6 +155,10 @@ prove they disclosed their sex assigned at birth to their partner(s).
    it is expected that all trans people will be housed according to sex
    assigned at birth, a reversal from previous policy. (updated Apr. 17,
    2025)
+ * The [Draft EHCR
+   guidance](https://www.equalityhumanrights.com/our-work/uk-supreme-court-ruling-meaning-sex-equality-act-our-work)
+   would generally house trans people according to a transphobic
+   definition of sex (updated July 23, 2026).
  * The prison service does not recognize non-binary identity.
  * Trans prisoners have reported misgendering and lack of appropriate
    hygiene items when housed according to assignment at birth.
@@ -151,6 +175,9 @@ driver's licenses after meeting certain requirements. It is unknown how
 the Supreme Court
 [decision](https://supremecourt.uk/cases/uksc-2024-0042) will impact
 this. (updated Apr. 17, 2025)
+
+These changes have limited effect and provide generally superficial
+recognition only.
 
 Additional requirements are required to have your identified gender listed on
 birth, death, or marriage documents. Note that UK does not recognize
@@ -178,10 +205,10 @@ Non-binary gender is not recognized in the UK.
  * NHS clinics typically refer trans-related medical patients to
    specialty units. These units can have extremely long wait times (many
    years).
- * Hormone therapy is generally not available to youth (under 18) at NHS-run
-   clinics.
+ * Hormone therapy is not available to youth (under 18). (updated July
+   23, 2026)
  * Private trans care is available in the UK, but this will generally
-   exclude puberty blockers.
+   exclude youth care.
  * [NHS England
    guidance](https://www.wearequeeraf.com/nhs-england-tells-gps-to-refuse-blood-tests-to-some-trans-children-and-refer-parents-to-safeguarding/)
    may result in GPs refusing agreements with private providers to monitor
@@ -206,7 +233,7 @@ Non-binary gender is not recognized in the UK.
    prescriptions, but some UK government officials have indicated a
    desire to prohibit online prescribing in the future (however, it
    remains legal as of May, 2024).
- * Travelers should ensure they follow [drug importation rules of the
+ * Travelers should be aware of[drug importation rules of the
    UK](https://www.gov.uk/take-medicine-in-or-out-uk).  Specifically,
    non-UK residents should bring a letter that includes your name, dates
    of travel, a list of medications, dosages of all medications, and the
@@ -216,7 +243,7 @@ Non-binary gender is not recognized in the UK.
 
 ## Child Custody / Abuse
 
- * UK health providers may[report use of hormones or puberty blockers by
+ * UK health providers may [report use of hormones or puberty blockers by
    minors](https://www.wearequeeraf.com/nhs-england-to-tell-transgender-children-to-medically-detransition-or-face-safeguarding-referrals/)
    to child protection agencies when these are prescribed from
    "overseas" or "unregulated" providers.
@@ -247,6 +274,8 @@ Non-binary gender is not recognized in the UK.
 
 ## Relevant Laws
 
+ * [Draft EHCR guidance (updated July 23,
+ 2026)](https://www.equalityhumanrights.com/our-work/uk-supreme-court-ruling-meaning-sex-equality-act-our-work).
  * [Supreme Court decision preventing recognition of trans peoples'
    sex](https://supremecourt.uk/cases/uksc-2024-0042)
  * [Puberty Blocker

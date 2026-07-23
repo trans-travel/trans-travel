@@ -20,6 +20,9 @@ of Hawaii and ask tourists without connections to indigenous Hawaii
 to plan vacations to places other than Hawaii, because of the harm that
 will be done by this continuing form of colonization.
 
+Hawaii is a "sanctuary state" for adults and kids receiving trans medical
+care (updated July 23, 2026).
+
 ## Non-discrimination Law
 
  * Trans people are specifically named in Hawaii non-discrimination laws.
