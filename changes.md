@@ -1,5 +1,8 @@
 # Change Log for Trans Travel Guide
 
+ *  2026-07-23 \[[US Missouri](us/mo.md)] Prison medical care ban.
+ *  2026-05-31 \[[US Tennessee](us/tn.md)] Another TN bathroom law.
+ *  2026-05-31 \[[US Hawaii](us/hi.md)] Sanctuary law.
  *  2026-05-22 \[[US Idaho](us/id.md)] Bathroom law text updates.
  *  2026-05-16 \[[US South Carolina](us/sc.md)] School and university
     bathroom ban (applies to the public at school events).

@@ -72,14 +72,18 @@ birth certificates.
 ## Child Custody / Abuse
 
  * Transition care is not defined as child abuse
- * Hawaii does not have a "sanctuary law" protecting people receiving
-   care in Hawaii.
+ * Hawaii has a ["sanctuary
+   law"](https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1875&year=2026)
+   protecting trans medical care.
 
 ## Relationship Recognition
 
  * Same-sex marriage (and thus all trans marriage) is recognized
 
 ## Relevant Laws
+
+ * [2026 HB1875 - Sanctuary
+   law](https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1875&year=2026)
 
 ## General Safety
 

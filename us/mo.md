@@ -49,6 +49,9 @@ See the [USA TSA](notes/tsa.md) document.
  * Nonbinary people would typically be housed according to sex
    assigned at birth.
  * Transgender-related surgery in jails/prisons is banned.
+ * Trans medical care is banned in MO prisons (see
+   [HB2009](https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2009H.06T.pdf),
+   updated July 23, 2026).
 
 ## Legal Definition of Sex
 
