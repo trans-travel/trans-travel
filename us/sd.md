@@ -48,7 +48,11 @@ See the [USA TSA](notes/tsa.md) document.
 
 Non-binary people are not recognized.
 
-Some laws specify male, female, and similar words based on sex assigned
+[HB1184](https://mylrc.sdlegislature.gov/api/Documents/306551.pdf)
+imposes a transphobic definition of sex throughout SD's legal system
+(Updated July 23, 2026).
+
+Previously, some laws specify male, female, and similar words based on sex assigned
 at birth, gametes, and/or chromosomes. For instance,
 [HB11840(https://legiscan.com/SD/text/HB1184/id/3389758/South_Dakota-2026-HB1184-Enrolled.pdf)
 creates a transphobic legal definition of sex in all law.
