@@ -55,6 +55,10 @@ See the [USA TSA](notes/tsa.md) document.
 
 ## Legal Definition of Sex
 
+Trans people cannot get an affirming driver license under
+[SB2322](https://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2322SG.htm)
+(updated July 23, 2026).
+
 Some laws specify male, female, and similar words based on sex assigned
 at birth and/or chromosomes.
 
@@ -144,6 +148,7 @@ investigation](https://fox2now.com/news/missouri/missouri-ag-investigates-ellisv
 ## Relevant Laws
 
  * [2026 HB2009 - Prison medical ban (updated July 23, 2026)](https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2009H.06T.pdf),
+ * [2026 SB2322 - Gender marker change ban (updated July 23, 2026)](https://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2322SG.htm)
  * [2023 SB49 - Trans Medical Ban](https://legiscan.com/MO/text/SB49/id/2755107)
  * [Kansas City Safe Haven for Transgender Residents](https://www.kcmo.gov/Home/Components/News/News/2040/1746)
  * [St. Louis Trans-Inclusive Executive Order](https://www.stlouis-mo.gov/government/departments/mayor/documents/executive-orders/upload/Draft-EO-Trans-Rights.pdf)

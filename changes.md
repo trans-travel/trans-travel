@@ -1,5 +1,6 @@
 # Change Log for Trans Travel Guide
 
+ *  2026-07-23 \[[US Missouri](us/mo.md)] Added DL change ban
  *  2026-07-23 \[[UK](uk.md)] Add UK transphobic EHRC guidance
  *  2026-07-23 \[[US New Hampshire](us/nh.md)] Law allowing
     discrimination in public accommodations.
