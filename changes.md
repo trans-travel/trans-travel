@@ -1,5 +1,7 @@
 # Change Log for Trans Travel Guide
 
+ *  2026-07-23 \[[US New Hampshire](us/nh.md)] Law allowing
+    discrimination in public accommodations.
  *  2026-07-23 \[[US Missouri](us/mo.md)] Prison medical care ban.
  *  2026-05-31 \[[US Tennessee](us/tn.md)] Another TN bathroom law.
  *  2026-05-31 \[[US Hawaii](us/hi.md)] Sanctuary law.

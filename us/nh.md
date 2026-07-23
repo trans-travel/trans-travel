@@ -18,6 +18,9 @@ New Hampshire criminalizes and/or bans trans medical care for children.
  * Trans people are allowed to use the facilities they are comfortable
    in, including bathrooms, showers, locker rooms, etc.  Legal
    documentation of your gender is not required for this protection.
+ * [2026 HB1442](https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?id=1937&txtFormat=html&sy=2026)
+   allows discrimination in bathrooms, changing facilities, sports,
+   prisons, and some hospitals (updated July 23, 2026).
 
 ## Drag / Performance / Cross-dressing Laws
 
@@ -39,6 +42,9 @@ See the [USA TSA](notes/tsa.md) document.
 Non-binary people are recognized for some purposes in New Hampshire, such as
 state IDs, but not birth certificates.
 
+However, [2026 HB1442](https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?id=1937&txtFormat=html&sy=2026)
+defines biological sex in a transphobic way (updated July 23, 2026).
+
 ## Medical Care
 
  * Trans youth medical care is banned (updated: Aug. 3, 2025).
@@ -53,6 +59,9 @@ state IDs, but not birth certificates.
    restraining
    order](https://assets.aclu.org/live/uploads/2025/02/093114651219.pdf)
    against the government (13 February 2025).
+ * [2026 HB1442](https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?id=1937&txtFormat=html&sy=2026)
+   allows general discrimination in some hospitals and can be used to ban
+   bathroom access (updated July 26, 2026).
 
 ## Child Custody / Abuse
 
@@ -68,9 +77,11 @@ state IDs, but not birth certificates.
 
 ## Relevant Laws
 
- * [HB377 Trans Youth Medical Care Ban (signed by governor as of Aug. 1,
-   2025)(https://gc.nh.gov/bill_status/pdf.aspx?id=16601&q=billVersion)
- * [HB619 Trans Youth Medical Care Ban (signed by governor as of July 19, 2024)](https://gencourt.state.nh.us/bill_status/billinfo.aspx?id=71)
+ * [2026 HB1442 - Legalization of anti-trans discrimination (updated July 23,
+   2026)](https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?id=1937&txtFormat=html&sy=2026)
+ * [2025 HB377 - Trans Youth Medical Care Ban (signed by governor as of Aug. 1,
+   2025)](https://gc.nh.gov/bill_status/pdf.aspx?id=16601&q=billVersion)
+ * [2024 HB619 - Trans Youth Medical Care Ban (signed by governor as of July 19, 2024)](https://gencourt.state.nh.us/bill_status/billinfo.aspx?id=71)
 
 ## General Safety
 
